@@ -6,6 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
+  "files": [
+    "uniswap-default.tokenlist.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Uniswap/default-token-list.git"
