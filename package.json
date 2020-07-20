@@ -1,0 +1,31 @@
+{
+  "name": "@uniswap/default-token-list",
+  "version": "1.0.0",
+  "description": "The Uniswap default token list",
+  "main": "uniswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uniswap/default-token-list.git"
+  },
+  "keywords": [
+    "uniswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Moody Salem",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Uniswap/default-token-list/issues"
+  },
+  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "devDependencies": {
+    "@uniswap/token-lists": "^1.0.0-beta.5",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
