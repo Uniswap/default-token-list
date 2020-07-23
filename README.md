@@ -7,4 +7,11 @@ This NPM module and GitHub repo contains the default token list used in the Unis
 
 ## Adding a token
 
-TODO
+To request that we add a token to the list, 
+[file an issue](https://github.com/Uniswap/uniswap-interface/issues/new?labels=token+request&template=token-request.md).
+
+### Disclaimer
+
+Note filing an issue does not guarantee addition to this default token list.
+We do not review token addition requests in any particular order, and we do not
+guarantee that we will review your request to add the token to the default list.
