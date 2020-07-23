@@ -5,7 +5,7 @@
   "main": "uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "prepare": "npm test"
+    "prepublishOnly": "npm test"
   },
   "files": [
     "uniswap-default.tokenlist.json"
