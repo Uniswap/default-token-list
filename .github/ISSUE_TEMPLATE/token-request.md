@@ -1,7 +1,7 @@
 ---
 name: Token Request
 about: Request a token addition
-title: ''
+title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
 labels: token request
 assignees: ''
 ---
