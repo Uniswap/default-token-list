@@ -376,7 +376,7 @@
     },
     {
       "name": "HUSD",
-      "address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+      "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
       "symbol": "HUSD",
       "decimals": 8,
       "chainId": 1,
