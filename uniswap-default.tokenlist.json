@@ -151,6 +151,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
     },
     {
+      "name": "Bridge Protocol",
+      "address": "0xb736bA66aAd83ADb2322D1f199Bfa32B3962f13C",
+      "symbol": "BRDG",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xb736bA66aAd83ADb2322D1f199Bfa32B3962f13C/logo.png"
+    },
+    {
       "name": "PieDAO BTC++",
       "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
       "symbol": "BTC++",
