@@ -1055,7 +1055,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
     },
     {
-      "name": "Block-Chain.com Token",
+      "name": "Block-Chain.com Token ",
       "address": "0x2ecB13A8c458c379c4d9a7259e202De03c8F3D19",
       "symbol": "BC",
       "decimals": 18,
