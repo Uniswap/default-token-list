@@ -5,7 +5,7 @@ on:
 
 jobs:
   bump_version:
-    name: Bump Version
+    name: Bump version
     runs-on: ubuntu-latest
     outputs:
       new_tag: ${{ steps.github_tag_action.outputs.new_tag }}
@@ -14,12 +14,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
 
-      - name: Bump version and push tag
+      - name: Compute new version
         id: github_tag_action
         uses: mathieudutour/github-tag-action@v4.5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           release_branches: .*
+          dry_run: true
 
   deploy:
     name: Deploy
@@ -38,10 +39,18 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Publish to NPM
-        run: npm publish
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Bump package version
+        run: npm version ${{ needs.bump_version.outputs.new_tag }}
+
+      - name: Push changes
+        uses: ad-m/github-push-action@40bf560936a8022e68a3c00e7d2abefaf01305a6
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+#      - name: Publish to NPM
+#        run: npm publish
+#        env:
+#          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Pin to IPFS
         id: upload
