@@ -2,13 +2,14 @@
   "name": "@uniswap/default-token-list",
   "version": "1.1.0",
   "description": "◦ The Uniswap default token list",
-  "main": "uniswap-default.tokenlist.json",
+  "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "prepublishOnly": "npm test"
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "uniswap-default.tokenlist.json"
+    "build/uniswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
@@ -30,6 +31,7 @@
     "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
-    "mocha": "^8.0.1"
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
   }
 }
