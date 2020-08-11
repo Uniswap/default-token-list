@@ -1,9 +1,5 @@
 name: Deploy
 on:
-  # every morning
-  schedule:
-    - cron:  '0 12 * * 1-4'
-
   # manual trigger
   workflow_dispatch:
 
