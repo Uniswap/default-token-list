@@ -76,3 +76,14 @@ jobs:
 #        uses: textileio/cloudflare-update-dnslink@0fe7b7a1ffc865db3a4da9773f0f987447ad5848
 #        with:
 #          cid: ${{ steps.upload.outputs.hash }}
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1.1.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ needs.bump_version.outputs.new_tag }}
+          release_name: ${{ needs.bump_version.outputs.new_tag }}
+          body: |
+            ${{ needs.bump_version.outputs.changelog }}
