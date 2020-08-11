@@ -1,7 +1,7 @@
 const packageJson = require('../package.json');
 const schema = require('@uniswap/token-lists/src/tokenlist.schema.json');
 const { expect } = require('chai');
-
+const { getAddress } = require('@ethersproject/address');
 const Ajv = require('ajv');
 const buildList = require('../src/buildList');
 
@@ -22,6 +22,12 @@ describe('buildList', () => {
       expect(typeof map[ `${token.chainId}-${token.address}` ])
         .to.equal('undefined');
       map[ key ] = true;
+    }
+  });
+
+  it('all addresses are valid and checksummed', () => {
+    for (let token of defaultTokenList.tokens) {
+      expect(getAddress(token.address)).to.eq(token.address);
     }
   });
 
