@@ -39,6 +39,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Configure git credentials
+        uses: oleksiyrudenko/gha-git-credentials@8ce07064859c8aac245a9d0d87d373c7ca6fe573
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Bump package version
         run: npm version ${{ needs.bump_version.outputs.new_tag }}
 
