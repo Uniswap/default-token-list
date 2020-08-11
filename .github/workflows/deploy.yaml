@@ -53,9 +53,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to NPM
-        run: npm publish
-        env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
 
 # blocked by https://github.com/anantaramdas/ipfs-pinata-deploy-action/issues/3
 #      - name: Pin to IPFS
