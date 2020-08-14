@@ -15,15 +15,25 @@ describe('buildList', () => {
     expect(validator(defaultTokenList)).to.equal(true);
   });
 
-  it('contains no duplicates', () => {
+  it('contains no duplicate addresses', () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.address}`;
-      expect(typeof map[ `${token.chainId}-${token.address}` ])
+      expect(typeof map[ key ])
         .to.equal('undefined');
       map[ key ] = true;
     }
   });
+
+  it('contains no duplicate symbols', () => {
+    const map = {};
+    for (let token of defaultTokenList.tokens) {
+      const key = `${token.chainId}-${token.symbol.toLowerCase()}`;
+      expect(typeof map[ key ])
+        .to.equal('undefined');
+      map[ key ] = true;
+    }
+  })
 
   it('all addresses are valid and checksummed', () => {
     for (let token of defaultTokenList.tokens) {

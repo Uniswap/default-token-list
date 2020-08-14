@@ -1,5 +1,9 @@
 const { version } = require('../package.json');
-const tokens = require('./tokens.json');
+const mainnet = require('./tokens/mainnet.json');
+const ropsten = require('./tokens/ropsten.json');
+const rinkeby = require('./tokens/rinkeby.json');
+const goerli = require('./tokens/goerli.json');
+const kovan = require('./tokens/kovan.json');
 
 module.exports = function buildList() {
   const parsed = version.split('.');
@@ -17,6 +21,19 @@ module.exports = function buildList() {
       'uniswap',
       'default'
     ],
-    tokens
+    tokens: [
+      ...mainnet,
+      ...ropsten,
+      ...goerli,
+      ...kovan,
+      ...rinkeby
+    ]
+      // sort them by symbol for easy readability
+      .sort((t1, t2) => {
+        if (t1.chainId === t2.chainId) {
+          return t1.symbol < t2.symbol ? -1 : 1;
+        }
+        return t1.chainId < t2.chainId ? -1 : 1;
+      })
   };
 };
