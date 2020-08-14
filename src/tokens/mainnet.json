@@ -128,7 +128,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F9254C83EB525f9FCf346490bbb3ed28a81C667/logo.png"
   },
   {
-    "name": "Compound Dai",
+    "name": "Compound Dai v1.0 SAI",
     "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
     "symbol": "cSAI",
     "decimals": 8,
