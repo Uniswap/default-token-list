@@ -39,6 +39,9 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Tests pass
+        run: npm test
+
       - name: Configure git credentials
         uses: oleksiyrudenko/gha-git-credentials@8ce07064859c8aac245a9d0d87d373c7ca6fe573
         with:
