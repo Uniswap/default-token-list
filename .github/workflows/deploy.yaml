@@ -64,7 +64,7 @@ jobs:
         id: upload
         uses: Uniswap/ipfs-pinata-deploy-action@1a34c69f2e0cbc05d3d799cfc801e6851f684791
         with:
-          pin-name: Uniswap Token List test deploy
+          pin-name: Uniswap Default Token List ${{ needs.bump_version.outputs.new_tag }}
           path: 'build/uniswap-default.tokenlist.json'
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
