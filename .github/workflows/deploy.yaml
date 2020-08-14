@@ -60,25 +60,24 @@ jobs:
         with:
           token: ${{ secrets.NPM_TOKEN }}
 
-# blocked by https://github.com/anantaramdas/ipfs-pinata-deploy-action/issues/3
-#      - name: Pin to IPFS
-#        id: upload
-#        uses: anantaramdas/ipfs-pinata-deploy-action@39bbda1ce1fe24c69c6f57861b8038278d53688d
-#        with:
-#          pin-name: Uniswap Token List ${{ needs.bump_version.outputs.new_tag }}
-#          path: './build/uniswap-default.tokenlist.json'
-#          pinata-api-key: ${{ secrets.PINATA_API_KEY }}
-#          pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
+      - name: Pin to IPFS
+        id: upload
+        uses: Uniswap/ipfs-pinata-deploy-action@1a34c69f2e0cbc05d3d799cfc801e6851f684791
+        with:
+          pin-name: Uniswap Token List test deploy
+          path: 'build/uniswap-default.tokenlist.json'
+          pinata-api-key: ${{ secrets.PINATA_API_KEY }}
+          pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
 
-#      - name: Update DNS with new IPFS hash
-#        env:
-#          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-#          RECORD_DOMAIN: 'uniswap.org'
-#          RECORD_NAME: '_dnslink.tokens'
-#          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-#        uses: textileio/cloudflare-update-dnslink@0fe7b7a1ffc865db3a4da9773f0f987447ad5848
-#        with:
-#          cid: ${{ steps.upload.outputs.hash }}
+      - name: Update DNS with new IPFS hash
+        env:
+          CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
+          RECORD_DOMAIN: 'uniswap.org'
+          RECORD_NAME: '_dnslink.tokens'
+          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+        uses: textileio/cloudflare-update-dnslink@0fe7b7a1ffc865db3a4da9773f0f987447ad5848
+        with:
+          cid: ${{ steps.upload.outputs.hash }}
 
       - name: Create GitHub Release
         id: create_release
