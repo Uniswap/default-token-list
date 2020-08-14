@@ -1,0 +1,32 @@
+name: Test Deploy Script
+on:
+  # manual trigger
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Test Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+
+      - name: Install dependencies
+        run: npm install
+      - name: Build
+        run: npm run build
+
+      # blocked by https://github.com/anantaramdas/ipfs-pinata-deploy-action/issues/3
+      - name: Pin to IPFS
+        id: upload
+        uses: Uniswap/ipfs-pinata-deploy-action@1a34c69f2e0cbc05d3d799cfc801e6851f684791
+        with:
+          pin-name: Uniswap Token List test deploy
+          path: 'build/uniswap-default.tokenlist.json'
+          pinata-api-key: ${{ secrets.PINATA_API_KEY }}
+          pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
