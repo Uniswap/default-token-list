@@ -990,5 +990,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+  },
+    {
+    "name": "Jupiter",
+    "address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
+    "symbol": "JUP",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sigwo/assets/373589eb0def5a1f7ad90fc2b12999ee6dd79653/blockchains/ethereum/assets/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8/logo.png"
   }
 ]
