@@ -72,6 +72,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
   },
   {
+    "name": "Based",
+    "address": "0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5",
+    "symbol": "BASED",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x68A118Ef45063051Eac49c7e647CE5Ace48a68a5/logo.png"
+  },
+  {
     "name": "Basic Attention Token",
     "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
     "symbol": "BAT",
