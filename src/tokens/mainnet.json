@@ -520,12 +520,12 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png"
   },
   {
-    "name": "OceanToken",
-    "address": "0x985dd3D42De1e256d09e1c10F112bCCB8015AD41",
+    "name": "Ocean Token",
+    "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
     "symbol": "OCEAN",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x985dd3D42De1e256d09e1c10F112bCCB8015AD41/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e/logo.png"
   },
   {
     "name": "Orchid",
