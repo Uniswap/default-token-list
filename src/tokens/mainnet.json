@@ -990,5 +990,21 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+  },
+  {
+    "name": "XAMP TODO",
+    "address": "0xf911a7ec46a2c6fa49193212fe4a2a9b95851c27",
+    "symbol": "XAMP",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xf911a7ec46a2c6fa49193212fe4a2a9B95851c27/logo.png"
+  },
+  {
+    "name": "Tokens of Babel",
+    "address": "0x7777770f8a6632ff043c8833310e245eba9209e6",
+    "symbol": "TOB",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7777770f8A6632ff043c8833310e245EBa9209E6/logo.png"
   }
 ]
