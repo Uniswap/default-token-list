@@ -520,6 +520,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png"
   },
   {
+    "name": "Nordic Energy Token",
+    "address": "0x4d0a4c762bd7f742096daaf5911dcf9c94b9ea95",
+    "symbol": "NET",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4d0a4c762bd7f742096daaf5911dcf9c94b9ea95/logo.png"
+  },
+  {
     "name": "Ocean Token",
     "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
     "symbol": "OCEAN",
