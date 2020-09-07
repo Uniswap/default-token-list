@@ -993,7 +993,7 @@
   },
   {
     "name": "hybrix hydra",
-    "address": "0x9b53e429b0badd98ef7f01f03702986c516a5715",
+    "address": "0x9b53E429B0baDd98ef7F01F03702986c516a5715",
     "symbol": "HY",
     "decimals": 18,
     "chainId": 1,
