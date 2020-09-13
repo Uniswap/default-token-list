@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
   },
   {
     "name": "BTCB Token",
@@ -13,7 +13,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/btcb_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
   },
   {
     "name": "Ethereum Token",
@@ -21,7 +21,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
   },
   {
     "name": "Tether USD",
@@ -29,7 +29,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/tether_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x55d398326f99059fF775485246999027B3197955.png"
   },
   {
     "name": "XRP Token",
@@ -37,7 +37,7 @@
     "symbol": "XRP",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/xrp_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
   },
   {
     "name": "ChainLink Token",
@@ -45,7 +45,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/chainlink_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png"
   },
   {
     "name": "Bitcoin Cash Token",
@@ -53,7 +53,7 @@
     "symbol": "BCH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
   },
   {
     "name": "Polkadot Token",
@@ -61,7 +61,7 @@
     "symbol": "DOT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
   },
   {
     "name": "Litecoin Token",
@@ -69,7 +69,7 @@
     "symbol": "LTC",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
   },
   {
     "name": "EOS Token",
@@ -77,7 +77,7 @@
     "symbol": "EOS",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/eos_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
   },
   {
     "name": "Cardano Token",
@@ -85,7 +85,7 @@
     "symbol": "ADA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/cardano_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
   },
   {
     "name": "Tezos Token",
@@ -93,7 +93,7 @@
     "symbol": "XTZ",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/tezos_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x16939ef78684453bfDFb47825F8a5F714f12623a.png"
   },
   {
     "name": "Ontology Token",
@@ -101,7 +101,7 @@
     "symbol": "ONT",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/ontology_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xFd7B3A77848f1C2D67E05E54d78d174a0C850335.png"
   },
   {
     "name": "Dai Token",
@@ -109,7 +109,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/dai_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
   },
   {
     "name": "Band Protocol Token",
@@ -117,7 +117,7 @@
     "symbol": "BAND",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/bandtoken_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18.png"
   },
   {
     "name": "BUSD Token",
@@ -125,7 +125,7 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
   },
   {
     "name": "Prometeus",
@@ -133,7 +133,7 @@
     "symbol": "PROM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/prometeus_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5.png"
   },
   {
     "name": "CanYaCoin",
@@ -141,7 +141,7 @@
     "symbol": "CAN",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/canya_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x007EA5C0Ea75a8DF45D288a4debdD5bb633F9e56.png"
   },
   {
     "name": "SPARTAN PROTOCOL TOKEN",
@@ -149,7 +149,7 @@
     "symbol": "SPARTA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/spartan_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C.png"
   },
   {
     "name": "Milk Protocol",
@@ -157,6 +157,6 @@
     "symbol": "MILK",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/milk_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF.png"
   }
 ]

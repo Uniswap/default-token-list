@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
   },
   {
     "name": "BTCB Token",
@@ -13,7 +13,7 @@
     "symbol": "BTCB",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://bscscan.com/token/images/btcb_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8.png"
   },
   {
     "name": "Ethereum Token",
@@ -21,7 +21,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378.png"
   },
   {
     "name": "Tether USD",
@@ -29,7 +29,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://bscscan.com/token/images/tether_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png"
   },
   {
     "name": "EOS Token",
@@ -37,7 +37,7 @@
     "symbol": "EOS",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://bscscan.com/token/images/eos_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x6B043332090a6BE81De1503949Cfc8bac2cA1c33.png"
   },
   {
     "name": "Dai Token",
@@ -45,7 +45,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://bscscan.com/token/images/dai_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867.png"
   },
   {
     "name": "BUSD Token",
@@ -53,6 +53,6 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 97,
-    "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    "logoURI": "https://tokens.bscswap.com/images/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
   }
 ]

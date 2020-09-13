@@ -1,11 +1,11 @@
 {
   "name": "@bscswap/default-token-list",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "description": "◦ The BSCswap default token list",
   "main": "build/tokens.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/tokens.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/tokens.json && copyfiles -a images/* build/ && copyfiles -f public/* build",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
@@ -33,6 +33,7 @@
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "copyfiles": "^2.3.0"
   }
 }
