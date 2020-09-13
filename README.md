@@ -1,6 +1,6 @@
 # @bscswap/default-token-list
 
-[![Tests](https://github.com/bscswap/token-lists/workflows/Tests/badge.svg)](https://github.com/bscswap/default-token-list/actions?query=workflow%3ATests)
+[![Tests](https://github.com/bscswap/default-token-list/workflows/Tests/badge.svg)](https://github.com/bscswap/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@bscswap/default-token-list)](https://unpkg.com/@bscswap/default-token-list@latest/)
 
 This NPM module and GitHub repo contains the default token list used in the BSCswap interface.
