@@ -158,5 +158,37 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x8E9f5173e16Ff93F81579d73A7f9723324d6B6aF.png"
+  },
+  {
+    "name": "Burger Swap",
+    "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+    "symbol": "BURGER",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
+  },
+  {
+    "name": "PeachToken",
+    "address": "0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C",
+    "symbol": "PEACH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C.png"
+  },
+  {
+    "name": "TunaToken",
+    "address": "0x40929FB2008c830731A3d972950bC13f70161c75",
+    "symbol": "TUNA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x40929FB2008c830731A3d972950bC13f70161c75.png"
+  },
+  {
+    "name": "Coco Token",
+    "address": "0xEe32Ef531e4E5449dA39cEF5D04Df1010ff8f60C",
+    "symbol": "COCO",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xEe32Ef531e4E5449dA39cEF5D04Df1010ff8f60C.png"
   }
 ]
