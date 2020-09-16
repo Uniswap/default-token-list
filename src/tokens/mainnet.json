@@ -238,5 +238,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x4fd3beb5644dC5A4ad2BD5AC9032F946486de79d.png"
+  },
+  {
+    "name": "Bantiample",
+    "address": "0x2441FAE7A7901e608e4cF66E2edb43Fb43e01F1b",
+    "symbol": "BAMP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x2441FAE7A7901e608e4cF66E2edb43Fb43e01F1b.png"
   }
 ]
