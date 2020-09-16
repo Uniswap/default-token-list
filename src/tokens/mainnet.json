@@ -222,5 +222,21 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+  },
+  {
+    "name": "BMEME",
+    "address": "0xc8a8c4a6daa71B9DeAa41a88BBC4a643D5A3e9cE",
+    "symbol": "BMEME",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xc8a8c4a6daa71B9DeAa41a88BBC4a643D5A3e9cE.png"
+  },
+  {
+    "name": "BebeToken",
+    "address": "0x4fd3beb5644dC5A4ad2BD5AC9032F946486de79d",
+    "symbol": "BEBE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x4fd3beb5644dC5A4ad2BD5AC9032F946486de79d.png"
   }
 ]
