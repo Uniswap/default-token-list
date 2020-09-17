@@ -832,6 +832,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a/logo.png"
   },
   {
+    "name": "Telcoin",
+    "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+    "symbol": "TEL",
+    "decimals": 2,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x467Bccd9d29f223BcE8043b84E8C8B282827790F/logo.png"
+  },
+  {
     "name": "Tellor Tributes",
     "address": "0x0Ba45A8b5d5575935B8158a88C631E9F9C95a2e5",
     "symbol": "TRB",
