@@ -246,5 +246,13 @@
     "decimals": 9,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x2441FAE7A7901e608e4cF66E2edb43Fb43e01F1b.png"
+  },
+  {
+    "name": "VTBC",
+    "address": "0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
+    "symbol": "VTBC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F.png"
   }
 ]
