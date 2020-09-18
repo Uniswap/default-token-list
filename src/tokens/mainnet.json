@@ -254,5 +254,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F.png"
+  },
+  {
+    "name": "BFis.Finance",
+    "address": "0xAFa4f3D72f0803B50C99663B3E90806d9D290770",
+    "symbol": "BFI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xAFa4f3D72f0803B50C99663B3E90806d9D290770.png"
   }
 ]
