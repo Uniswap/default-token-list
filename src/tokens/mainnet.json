@@ -224,22 +224,6 @@
     "logoURI": "https://tokens.bscswap.com/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
   },
   {
-    "name": "BMEME",
-    "address": "0xc8a8c4a6daa71B9DeAa41a88BBC4a643D5A3e9cE",
-    "symbol": "BMEME",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0xc8a8c4a6daa71B9DeAa41a88BBC4a643D5A3e9cE.png"
-  },
-  {
-    "name": "BebeToken",
-    "address": "0x4fd3beb5644dC5A4ad2BD5AC9032F946486de79d",
-    "symbol": "BEBE",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x4fd3beb5644dC5A4ad2BD5AC9032F946486de79d.png"
-  },
-  {
     "name": "Bantiample",
     "address": "0x2441FAE7A7901e608e4cF66E2edb43Fb43e01F1b",
     "symbol": "BAMP",
@@ -262,5 +246,53 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xAFa4f3D72f0803B50C99663B3E90806d9D290770.png"
+  },
+  {
+    "name": "Cream",
+    "address": "0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888",
+    "symbol": "CREAM",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xd4CB328A82bDf5f03eB737f37Fa6B370aef3e888.png"
+  },
+  {
+    "name": "Cream BNB",
+    "address": "0x1Ffe17B99b439bE0aFC831239dDECda2A790fF3A",
+    "symbol": "crBNB",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x1Ffe17B99b439bE0aFC831239dDECda2A790fF3A.png"
+  },
+  {
+    "name": "Cream Binance USD",
+    "address": "0x2Bc4eb013DDee29D37920938B96d353171289B7C",
+    "symbol": "crBUSD",
+    "decimals": 8,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x2Bc4eb013DDee29D37920938B96d353171289B7C.png"
+  },
+  {
+    "name": "The Force Token",
+    "address": "0x658A109C5900BC6d2357c87549B651670E5b0539",
+    "symbol": "FOR",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x658A109C5900BC6d2357c87549B651670E5b0539.png"
+  },
+  {
+    "name": "Anyswap-BEP20",
+    "address": "0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa",
+    "symbol": "ANY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xF68C9Df95a18B2A5a5fa1124d79EEEffBaD0B6Fa.png"
+  },
+  {
+    "name": "Uniswap-BEP20",
+    "address": "0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F",
+    "symbol": "anyUNI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F.png"
   }
 ]
