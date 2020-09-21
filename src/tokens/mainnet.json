@@ -294,5 +294,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x99C5A2Fcc97b59FE6D0B56e21e72B002F644123F.png"
+  },
+  {
+    "name": "BillionHappiness",
+    "address": "0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d",
+    "symbol": "BHC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d.png"
   }
 ]
