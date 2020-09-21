@@ -224,14 +224,6 @@
     "logoURI": "https://tokens.bscswap.com/images/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
   },
   {
-    "name": "Bantiample",
-    "address": "0x2441FAE7A7901e608e4cF66E2edb43Fb43e01F1b",
-    "symbol": "BAMP",
-    "decimals": 9,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x2441FAE7A7901e608e4cF66E2edb43Fb43e01F1b.png"
-  },
-  {
     "name": "VTBC",
     "address": "0x2Ecb95eB932DfBBb71545f4D23CA303700aC855F",
     "symbol": "VTBC",
@@ -302,5 +294,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d.png"
+  },
+  {
+    "name": "beefy.finance",
+    "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
   }
 ]
