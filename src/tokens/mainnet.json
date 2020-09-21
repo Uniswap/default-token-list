@@ -993,7 +993,7 @@
   },
   {
     "name": "Change Utility Token",
-    "address": "0x7d4b8cce0591c9044a22ee543533b72e976e36c3",
+    "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
     "symbol": "CAG",
     "decimals": 18,
     "chainId": 1,
