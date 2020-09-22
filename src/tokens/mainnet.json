@@ -318,5 +318,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x9B44Df3318972bE845d83f961735609137C4C23c.png"
+  },
+  {
+    "name": "Pancake",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "symbol": "CAKE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
   }
 ]
