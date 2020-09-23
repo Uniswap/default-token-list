@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
-  }
+  },
+  {
+    "name": "TICOEX TOKEN",
+    "address": "0x36B60a425b82483004487aBc7aDcb0002918FC56",
+    "symbol": "TICO",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://user-images.githubusercontent.com/25718541/93687549-3ceaee80-fadc-11ea-9b0b-45a0f7fd2f2c.png"
+  },
 ]
