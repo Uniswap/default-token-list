@@ -334,5 +334,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x7687cCf12c424A4dd3eebde09809e3e38c883FAF.png"
+  },
+  {
+    "name": "BNB48 Club Token",
+    "address": "0xe6DF05CE8C8301223373CF5B969AFCb1498c5528",
+    "symbol": "KOGE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xe6DF05CE8C8301223373CF5B969AFCb1498c5528.png"
   }
 ]
