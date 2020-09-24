@@ -326,5 +326,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+  },
+  {
+    "name": "Jeo Exchange",
+    "address": "0x7687cCf12c424A4dd3eebde09809e3e38c883FAF",
+    "symbol": "JEO",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x7687cCf12c424A4dd3eebde09809e3e38c883FAF.png"
   }
 ]
