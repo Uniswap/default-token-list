@@ -998,5 +998,14 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+    {
+    "name": "KUSH.FINANCE",
+    "address": "0x3f09400313e83d53366147e3ea0e4e2279d80850",
+    "symbol": "kSEED",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3f09400313e83d53366147e3ea0e4e2279d80850/logo.png"
   }
+  
 ]
