@@ -406,5 +406,13 @@
     "decimals": 6,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xdF1F0026374d4BCc490BE5E316963Cf6Df2FfF19.png"
+  },
+  {
+    "name": "Pumpkin Finance",
+    "address": "0x505B3EFf56467c6892AF2Ab885781a876254d14A",
+    "symbol": "PUMK",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x505B3EFf56467c6892AF2Ab885781a876254d14A.png"
   }
 ]
