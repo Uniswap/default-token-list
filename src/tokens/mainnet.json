@@ -354,7 +354,7 @@
   {
     "name": "Ankr",
     "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
-    "symbol": "Ankr",
+    "symbol": "ANKR",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png"
@@ -414,5 +414,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x505B3EFf56467c6892AF2Ab885781a876254d14A.png"
+  },
+  {
+    "name": "Venus",
+    "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
+    "symbol": "XVS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
   }
 ]
