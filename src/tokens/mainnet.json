@@ -422,5 +422,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
+  },
+  {
+    "name": "Thugs.Finance",
+    "address": "0xE10e9822A5de22F8761919310DDA35CD997d63c0",
+    "symbol": "THUGS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
   }
 ]
