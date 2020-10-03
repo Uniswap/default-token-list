@@ -430,5 +430,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
+  },
+  {
+    "name": "Mango NFT",
+    "address": "0x4cdd6316eF53Fa5d90351655B35Ebba0D10B65a7",
+    "symbol": "MANGO",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x4cdd6316eF53Fa5d90351655B35Ebba0D10B65a7.png"
   }
 ]
