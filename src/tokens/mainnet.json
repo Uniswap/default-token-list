@@ -446,5 +446,29 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
+  },
+  {
+    "name": "FUNDS Token",
+    "address": "0xAb66473323db4EE3c6b2b0Fa5E9F5c46a6AcB2cC",
+    "symbol": "FUNDS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xAb66473323db4EE3c6b2b0Fa5E9F5c46a6AcB2cC.png"
+  },
+  {
+    "name": "SAFU Token",
+    "address": "0x654456F62510EaBf663515f5b7df93b096BB7042",
+    "symbol": "SAFU",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x654456F62510EaBf663515f5b7df93b096BB7042.png"
+  },
+  {
+    "name": "CZToken",
+    "address": "0xd7Dce5AC94535a85CF6a5054D4A014306f200256",
+    "symbol": "CZ",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xd7Dce5AC94535a85CF6a5054D4A014306f200256.png"
   }
 ]
