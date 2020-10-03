@@ -438,5 +438,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x4cdd6316eF53Fa5d90351655B35Ebba0D10B65a7.png"
+  },
+  {
+    "name": "Trust Wallet",
+    "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
+    "symbol": "TWT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
   }
 ]
