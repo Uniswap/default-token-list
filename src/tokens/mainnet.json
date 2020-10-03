@@ -465,10 +465,10 @@
   },
   {
     "name": "CZToken",
-    "address": "0xd7Dce5AC94535a85CF6a5054D4A014306f200256",
+    "address": "0x93Cf3C9A9dc285AF82db4c3a02f09765C22420dB",
     "symbol": "CZ",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0xd7Dce5AC94535a85CF6a5054D4A014306f200256.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x93Cf3C9A9dc285AF82db4c3a02f09765C22420dB.png"
   }
 ]
