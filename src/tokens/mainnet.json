@@ -432,43 +432,11 @@
     "logoURI": "https://tokens.bscswap.com/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
   },
   {
-    "name": "Mango NFT",
-    "address": "0x4cdd6316eF53Fa5d90351655B35Ebba0D10B65a7",
-    "symbol": "MANGO",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x4cdd6316eF53Fa5d90351655B35Ebba0D10B65a7.png"
-  },
-  {
     "name": "Trust Wallet",
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "symbol": "TWT",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
-  },
-  {
-    "name": "FUNDS Token",
-    "address": "0xAb66473323db4EE3c6b2b0Fa5E9F5c46a6AcB2cC",
-    "symbol": "FUNDS",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0xAb66473323db4EE3c6b2b0Fa5E9F5c46a6AcB2cC.png"
-  },
-  {
-    "name": "SAFU Token",
-    "address": "0x654456F62510EaBf663515f5b7df93b096BB7042",
-    "symbol": "SAFU",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x654456F62510EaBf663515f5b7df93b096BB7042.png"
-  },
-  {
-    "name": "CZToken",
-    "address": "0x93Cf3C9A9dc285AF82db4c3a02f09765C22420dB",
-    "symbol": "CZ",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x93Cf3C9A9dc285AF82db4c3a02f09765C22420dB.png"
   }
 ]
