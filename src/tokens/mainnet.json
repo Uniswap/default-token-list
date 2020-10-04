@@ -438,5 +438,21 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png"
+  },
+  {
+    "name": "Love",
+    "address": "0x33a80dcB2fEaeb37373c4FBDa26Cd8A31c079128",
+    "symbol": "LOVE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x33a80dcB2fEaeb37373c4FBDa26Cd8A31c079128.png"
+  },
+  {
+    "name": "Degenerates",
+    "address": "0xb37B51C5C4C934468B49b55FeC15e76c9b538fF3",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xb37B51C5C4C934468B49b55FeC15e76c9b538fF3.png"
   }
 ]
