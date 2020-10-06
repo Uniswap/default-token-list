@@ -1,6 +1,6 @@
 {
   "name": "@bscswap/default-token-list",
-  "version": "1.9.16",
+  "version": "1.9.17",
   "description": "◦ The BSCswap default token list",
   "main": "build/tokens.json",
   "scripts": {

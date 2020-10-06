@@ -454,5 +454,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xb37B51C5C4C934468B49b55FeC15e76c9b538fF3.png"
+  },
+  {
+    "name": "Mother Earth",
+    "address": "0x3BEE8422f2e6F99C43351ebe53B0b7A6c3079255",
+    "symbol": "EARTH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x3BEE8422f2e6F99C43351ebe53B0b7A6c3079255.png"
   }
 ]
