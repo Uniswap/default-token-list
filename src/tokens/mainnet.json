@@ -920,6 +920,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9A48BD0EC040ea4f1D3147C025cd4076A2e71e3e/logo.png"
   },
   {
+    "name": "Vether",
+    "address": "0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279",
+    "symbol": "VETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Ba6dDd7b89ed838FEd25d208D4f644106E34279/logo.png"
+  },
+  {
     "name": "Veritaseum",
     "address": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374",
     "symbol": "VERI",
