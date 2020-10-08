@@ -462,5 +462,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x3BEE8422f2e6F99C43351ebe53B0b7A6c3079255.png"
+  },
+  {
+    "name": "Crescent Moon",
+    "address": "0x9e90aF2Ea159190c84012b09067689ba8ac0d9B3",
+    "symbol": "MOON",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x9e90aF2Ea159190c84012b09067689ba8ac0d9B3.png"
   }
 ]
