@@ -470,5 +470,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x9e90aF2Ea159190c84012b09067689ba8ac0d9B3.png"
+  },
+  {
+    "name": "Moon Rabbit",
+    "address": "0x8C4fC5416160Bf4A1be2128aaD8a709f15B50B1B",
+    "symbol": "RABBIT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x8C4fC5416160Bf4A1be2128aaD8a709f15B50B1B.png"
   }
 ]
