@@ -200,6 +200,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Cf0Ee63788A0849fE5297F3407f701E122cC023/logo.png"
   },
   {
+    "name": "dHEDGE DAO Token",
+    "address": "0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84",
+    "symbol": "DHT",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xca1207647Ff814039530D7d35df0e1Dd2e91Fa84/logo.png"
+  },
+  {
     "name": "DigixDAO",
     "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
     "symbol": "DGD",
