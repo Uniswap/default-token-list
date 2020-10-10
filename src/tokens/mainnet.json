@@ -478,5 +478,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x8C4fC5416160Bf4A1be2128aaD8a709f15B50B1B.png"
+  },
+  {
+    "name": "BSCswap",
+    "address": "0xacc234978A5eb941665fD051Ca48765610D82584",
+    "symbol": "BSWAP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xacc234978A5eb941665fD051Ca48765610D82584.png"
   }
 ]
