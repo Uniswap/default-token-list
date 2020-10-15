@@ -486,5 +486,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xacc234978A5eb941665fD051Ca48765610D82584.png"
+  },
+  {
+    "name": "LOA DeFi",
+    "address": "0x7661C7714A2AE18Bd224d2bFa7619d6aB7b8f640",
+    "symbol": "LFI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x7661C7714A2AE18Bd224d2bFa7619d6aB7b8f640.png"
   }
 ]
