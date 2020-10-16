@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },   
+  {     
+	"name": "Dracula Token",     
+	"address": "0xb78b3320493a4efaa1028130c5ba26f0b6085ef8",     
+	"symbol": "DRC",     
+	"decimals": 18,     
+	"chainId": 1,     
+	"logoURI": "ipfs://QmYQYhD9b88AEm1cqBgiGBWwyeqdcxv9FaKjE8v96J6w9h"   
   }
 ]
