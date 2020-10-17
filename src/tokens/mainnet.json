@@ -494,5 +494,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x7661C7714A2AE18Bd224d2bFa7619d6aB7b8f640.png"
+  },
+  {
+    "name": "DrugsToken",
+    "address": "0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7",
+    "symbol": "DRUGS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7.png"
   }
 ]
