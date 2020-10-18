@@ -502,5 +502,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7.png"
+  },
+  {
+    "name": "Club Hoes",
+    "address": "0x8191113581cBfa3fcdC6B0d2e6F84753D4850080",
+    "symbol": "HOES",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x8191113581cBfa3fcdC6B0d2e6F84753D4850080.png"
   }
 ]
