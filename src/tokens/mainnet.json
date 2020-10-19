@@ -424,14 +424,6 @@
     "logoURI": "https://tokens.bscswap.com/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
   },
   {
-    "name": "Thugs.Finance",
-    "address": "0xE10e9822A5de22F8761919310DDA35CD997d63c0",
-    "symbol": "THUGS",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
-  },
-  {
     "name": "Trust Wallet",
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "symbol": "TWT",
@@ -494,21 +486,5 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x7661C7714A2AE18Bd224d2bFa7619d6aB7b8f640.png"
-  },
-  {
-    "name": "DrugsToken",
-    "address": "0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7",
-    "symbol": "DRUGS",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7.png"
-  },
-  {
-    "name": "Club Hoes",
-    "address": "0x8191113581cBfa3fcdC6B0d2e6F84753D4850080",
-    "symbol": "HOES",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x8191113581cBfa3fcdC6B0d2e6F84753D4850080.png"
   }
 ]
