@@ -296,14 +296,6 @@
     "logoURI": "https://tokens.bscswap.com/images/0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d.png"
   },
   {
-    "name": "beefy.finance",
-    "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
-    "symbol": "BIFI",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
-  },
-  {
     "name": "JustLiquidity",
     "address": "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
     "symbol": "JULb",
