@@ -478,5 +478,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x7661C7714A2AE18Bd224d2bFa7619d6aB7b8f640.png"
+  },
+  {
+    "name": "BAI Stablecoin",
+    "address": "0xaA8012a0Ea627767545a8E435C2A2BD51f60173D",
+    "symbol": "BAI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xaA8012a0Ea627767545a8E435C2A2BD51f60173D.png"
   }
 ]
