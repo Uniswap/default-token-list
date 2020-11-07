@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "Experty Wisdom Token",
+    "address": "0xDecade1c6Bf2cD9fb89aFad73e4a519C867adcF5",
+    "symbol": "WIS",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "ipfs://QmT6xKbTiyN2hZhySisV9qACVHmoJMYrEqHBJEgv4SgCUC"
   }
 ]
