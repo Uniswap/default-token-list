@@ -576,12 +576,12 @@
     "logoURI": "https://tokens.bscswap.com/images/0x10747e2045a0ef884a0586AC81558F43285ea3c7.png"
   },
   {
-    "name": "Jointer",
-    "address": "0x5f2Caa99Fc378248Ac02CbbAaC27e3Fa155Ed2C4",
-    "symbol": "JNTR",
+    "name": "JNTR/b",
+    "address": "0x3c037C4c2296f280bB318D725D0b454B76c199b9",
+    "symbol": "JNTR/b",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x5f2Caa99Fc378248Ac02CbbAaC27e3Fa155Ed2C4.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x3c037C4c2296f280bB318D725D0b454B76c199b9.png"
   },
   {
     "name": "HARD",
