@@ -296,6 +296,14 @@
     "logoURI": "https://tokens.bscswap.com/images/0xA6381C6Fd8f40A44721eF4f61eDc1a8CCCa7BF3d.png"
   },
   {
+    "name": "beefy.finance",
+    "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xCa3F508B8e4Dd382eE878A314789373D80A5190A.png"
+  },
+  {
     "name": "JustLiquidity",
     "address": "0x32dFFc3fE8E3EF3571bF8a72c0d0015C5373f41D",
     "symbol": "JULb",
@@ -416,6 +424,14 @@
     "logoURI": "https://tokens.bscswap.com/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
   },
   {
+    "name": "Thugs.Finance",
+    "address": "0xE10e9822A5de22F8761919310DDA35CD997d63c0",
+    "symbol": "THUGS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xE10e9822A5de22F8761919310DDA35CD997d63c0.png"
+  },
+  {
     "name": "Trust Wallet",
     "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
     "symbol": "TWT",
@@ -486,5 +502,77 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xaA8012a0Ea627767545a8E435C2A2BD51f60173D.png"
+  },
+  {
+    "name": "DrugsToken",
+    "address": "0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7",
+    "symbol": "DRUGS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xfD26889cd6454D8751562f1c0FcF88b18B46F7B7.png"
+  },
+  {
+    "name": "Lord of War",
+    "address": "0x179983892eC36287f1F342443B671Ba549762241",
+    "symbol": "GUNS",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x179983892eC36287f1F342443B671Ba549762241.png"
+  },
+  {
+    "name": "Nyanswop Token",
+    "address": "0xbFa0841F7a90c4CE6643f651756EE340991F99D5",
+    "symbol": "NYA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xbFa0841F7a90c4CE6643f651756EE340991F99D5.png"
+  },
+  {
+    "name": "ColaToken",
+    "address": "0x740426e58a10aC3b6724f753C8468288248137F9",
+    "symbol": "COLA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x740426e58a10aC3b6724f753C8468288248137F9.png"
+  },
+  {
+    "name": "LegendXtoken",
+    "address": "0x0D31a88a914518a489FB59Cca05902234A230C66",
+    "symbol": "LGX",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x0D31a88a914518a489FB59Cca05902234A230C66.png"
+  },
+  {
+    "name": "BSC FARM",
+    "address": "0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88",
+    "symbol": "BSC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88.png"
+  },
+  {
+    "name": "Seven Up Token",
+    "address": "0x29f350B3822F51dc29619C583AdBC9628646E315",
+    "symbol": "7UP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x29f350B3822F51dc29619C583AdBC9628646E315.png"
+  },
+  {
+    "name": "DuckToken",
+    "address": "0xA478d908F149561e9eAfBC3FA070781Ed350FeB9",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xA478d908F149561e9eAfBC3FA070781Ed350FeB9.png"
+  },
+  {
+    "name": "Bestswap Token",
+    "address": "0x10747e2045a0ef884a0586AC81558F43285ea3c7",
+    "symbol": "BEST",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x10747e2045a0ef884a0586AC81558F43285ea3c7.png"
   }
 ]
