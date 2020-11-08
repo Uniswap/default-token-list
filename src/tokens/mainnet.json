@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "cVault.finance",
+    "address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
+    "symbol": "CORE",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7/logo.png"
   }
 ]
