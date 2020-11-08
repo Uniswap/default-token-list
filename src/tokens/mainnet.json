@@ -574,5 +574,45 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0x10747e2045a0ef884a0586AC81558F43285ea3c7.png"
+  },
+  {
+    "name": "Jointer",
+    "address": "0x5f2Caa99Fc378248Ac02CbbAaC27e3Fa155Ed2C4",
+    "symbol": "JNTR",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x5f2Caa99Fc378248Ac02CbbAaC27e3Fa155Ed2C4.png"
+  },
+  {
+    "name": "HARD",
+    "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
+    "symbol": "HARD",
+    "decimals": 6,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4.png"
+  },
+  {
+    "name": "VIDT Datalink",
+    "address": "0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110",
+    "symbol": "VIDT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x3f515f0a8e93F2E2f891ceeB3Db4e62e202d7110.png"
+  },
+  {
+    "name": "ROOBEE",
+    "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
+    "symbol": "bROOBEE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe.png"
+  },
+  {
+    "name": "CertiK Token",
+    "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
+    "symbol": "CTK",
+    "decimals": 6,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
   }
 ]
