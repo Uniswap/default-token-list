@@ -245,7 +245,7 @@
     "symbol": "ORME",
     "decimals": 8,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc96df921009b790dffca412375251ed1a2b75c60/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc96DF921009B790dfFcA412375251ed1A2b75c60/logo.png"
   },
   {
     "name": "ORMEUS CASH",
@@ -253,7 +253,7 @@
     "symbol": "OMC",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6bd97a26232ba02172ff86b055d5d7be789335b/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6bD97a26232bA02172Ff86b055d5D7bE789335B/logo.png"
   },
   {
     "name": "EURBASE Stablecoin",
