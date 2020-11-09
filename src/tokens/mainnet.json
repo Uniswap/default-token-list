@@ -232,6 +232,30 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9/logo.png"
   },
   {
+    "name": "ECO Token",
+    "address": "0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E",
+    "symbol": "ECO",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x191557728e4d8CAa4Ac94f86af842148c0FA8F7E/logo.png"
+  },
+  {
+    "name": "ORMEUS COIN",
+    "address": "0xc96df921009b790dffca412375251ed1a2b75c60",
+    "symbol": "ORME",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc96df921009b790dffca412375251ed1a2b75c60/logo.png"
+  },
+  {
+    "name": "ORMEUS CASH",
+    "address": "0xd6bd97a26232ba02172ff86b055d5d7be789335b",
+    "symbol": "OMC",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd6bd97a26232ba02172ff86b055d5d7be789335b/logo.png"
+  },
+  {
     "name": "EURBASE Stablecoin",
     "address": "0x86FADb80d8D2cff3C3680819E4da99C10232Ba0F",
     "symbol": "EBASE",
