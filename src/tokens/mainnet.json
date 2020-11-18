@@ -576,6 +576,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6758B7d441a9739b98552B373703d8d3d14f9e62/logo.png"
   },
   {
+    "name": "Public Goods Funding",
+    "address": "0x0c334506E0bcb7C17b583CB7c0ec2F5857BF9e6F",
+    "symbol": "PUGB",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://200fu2sbg82u2eknd7e4p4ln9mpbm7ondl3lpdqdke8vjokqnrlj5c0.siasky.net/pubg-icon.png"
+  },
+  {
     "name": "QChi",
     "address": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e",
     "symbol": "QCH",
