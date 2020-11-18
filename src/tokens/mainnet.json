@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  { 
+    "name": "AdEx Network",
+    "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+    "symbol": "ADX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png"
   }
 ]
