@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "Hoard Token",
+    "address": "0xC617D51E3a1f621dA8aE67b2f652d6aC02Eb8D95",
+    "symbol": "HRD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "ipfs://QmcoaS2N3rGbHX3JYtNLtqWypQuPUzpwwxqvD6FGuTkiQC"
   }
 ]
