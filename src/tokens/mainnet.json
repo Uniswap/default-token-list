@@ -999,4 +999,13 @@
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   }
+  ,
+  {
+    "name": "Golem",
+    "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+    "symbol": "GLM",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://user-images.githubusercontent.com/35585644/99983868-b5a44a80-2dac-11eb-8749-edc382437b56.png"
+  }
 ]
