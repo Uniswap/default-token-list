@@ -521,8 +521,16 @@
   },
   {
     "name": "Ocean Token",
-    "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+    "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
     "symbol": "OCEAN",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png"
+  },
+  {
+    "name": "Ocean Token (deprecated)",
+    "address": "0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e",
+    "symbol": "OCEAN (deprecated)",
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7AFeBBB46fDb47ed17b22ed075Cde2447694fB9e/logo.png"
