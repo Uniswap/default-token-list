@@ -998,5 +998,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "CRUST",
+    "address": "0x32a7C02e79c4ea1008dD6564b35F131428673c41",
+    "symbol": "CRU",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x32a7C02e79c4ea1008dD6564b35F131428673c41/logo.png"
   }
 ]
