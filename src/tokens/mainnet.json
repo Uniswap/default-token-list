@@ -1005,6 +1005,6 @@
     "symbol": "CRU",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "ipfs://QmQG3G1pyXyh1w5Z9NDtC7zZMd2fsBged1WgPzvwuhCJHA"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x32a7C02e79c4ea1008dD6564b35F131428673c41/logo.png"
   }
 ]
