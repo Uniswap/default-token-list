@@ -72,14 +72,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png"
   },
   {
-    "name": "0x Protocol Token",
-    "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-    "symbol": "ZRX",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
-  },
-  {
     "name": "Kyber Network Crystal",
     "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
     "symbol": "KNC",
@@ -97,7 +89,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
     "name": "Band Protocol",
     "symbol": "BAND",
     "decimals": 18,
@@ -129,7 +121,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
     "name": "yearn finance",
     "symbol": "YFI",
     "decimals": 18,
@@ -161,7 +153,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc",
+    "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
     "name": "NuCypher",
     "symbol": "NU",
     "decimals": 18,
@@ -169,7 +161,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
@@ -177,7 +169,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
     "name": "The Graph",
     "symbol": "GRT",
     "decimals": 18,
@@ -201,7 +193,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
     "name": "Decentraland",
     "symbol": "MANA",
     "decimals": 18,
@@ -217,7 +209,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x41e5560054824ea6b0732e656e3ad64e20e94e45",
+    "address": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45",
     "name": "Civic",
     "symbol": "CVC",
     "decimals": 8,
@@ -225,7 +217,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x0abdace70d3790235af448c88547603b945604ea",
+    "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
     "name": "district0x",
     "symbol": "DNT",
     "decimals": 18,
@@ -241,7 +233,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
     "name": "Amp",
     "symbol": "AMP",
     "decimals": 18,
@@ -264,16 +256,8 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
   },
   {
-    "name": "Curve DAO Token",
-    "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-    "symbol": "CRV",
-    "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
     "name": "Keep Network",
     "symbol": "KEEP",
     "decimals": 18,
@@ -281,7 +265,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x8daebade922df735c38c80c7ebd708af50815faa",
+    "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
     "name": "tBTC",
     "symbol": "TBTC",
     "decimals": 18,
@@ -289,7 +273,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
     "name": "Melon",
     "symbol": "MLN",
     "decimals": 18,
