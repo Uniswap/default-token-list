@@ -168,6 +168,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215/logo.png"
   },
   {
+    "name": "Change",
+    "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+    "symbol": "CAG",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d4b8Cce0591C9044a22ee543533b72E976E36C3/logo.png"
+  },
+  {
     "name": "Compound",
     "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
     "symbol": "COMP",
