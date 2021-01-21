@@ -4,29 +4,9 @@ on:
   workflow_dispatch:
 
 jobs:
-  bump_version:
-    name: Bump version
-    runs-on: ubuntu-latest
-    outputs:
-      new_tag: ${{ steps.github_tag_action.outputs.new_tag }}
-      changelog: ${{ steps.github_tag_action.outputs.changelog }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-
-      - name: Compute new version
-        id: github_tag_action
-        uses: mathieudutour/github-tag-action@v4.5
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          release_branches: .*
-          dry_run: true
-
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
-    needs: bump_version
-    if: ${{ needs.bump_version.outputs.new_tag != null }}
     steps:
       - name: Checkout
         uses: actions/checkout@v1
@@ -41,19 +21,6 @@ jobs:
 
       - name: Tests pass
         run: npm test
-
-      - name: Configure git credentials
-        uses: oleksiyrudenko/gha-git-credentials@8ce07064859c8aac245a9d0d87d373c7ca6fe573
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Bump package version
-        run: npm version ${{ needs.bump_version.outputs.new_tag }}
-
-      - name: Push changes
-        uses: ad-m/github-push-action@40bf560936a8022e68a3c00e7d2abefaf01305a6
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
@@ -79,13 +46,3 @@ jobs:
         with:
           cid: ${{ steps.upload.outputs.hash }}
 
-      - name: Create GitHub Release
-        id: create_release
-        uses: actions/create-release@v1.1.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ needs.bump_version.outputs.new_tag }}
-          release_name: ${{ needs.bump_version.outputs.new_tag }}
-          body: |
-            ${{ needs.bump_version.outputs.changelog }}
