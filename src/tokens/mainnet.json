@@ -302,5 +302,13 @@
     "symbol": "MLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
+  },
+  {
+    "name": "Change",
+    "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+    "symbol": "CAG",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d4b8Cce0591C9044a22ee543533b72E976E36C3/logo.png"
   }
 ]
