@@ -8,190 +8,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
-    "name": "0xBitcoin Token",
-    "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
-    "symbol": "0xBTC",
-    "decimals": 8,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
-  },
-  {
-    "name": "Aave Interest bearing DAI",
-    "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
-    "symbol": "aDAI",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d/logo.png"
-  },
-  {
-    "name": "Amon",
-    "address": "0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c",
-    "symbol": "AMN",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c/logo.png"
-  },
-  {
-    "name": "Ampleforth",
-    "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
-    "symbol": "AMPL",
-    "decimals": 9,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD46bA6D942050d489DBd938a2C909A5d5039A161/logo.png"
-  },
-  {
-    "name": "Aragon Network Juror",
-    "address": "0xcD62b1C403fa761BAadFC74C525ce2B51780b184",
-    "symbol": "ANJ",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xcD62b1C403fa761BAadFC74C525ce2B51780b184/logo.png"
-  },
-  {
-    "name": "Aragon Network Token",
-    "address": "0x960b236A07cf122663c4303350609A66A7B288C0",
-    "symbol": "ANT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x960b236A07cf122663c4303350609A66A7B288C0/logo.png"
-  },
-  {
-    "name": "AirSwap Token",
-    "address": "0x27054b13b1B798B345b591a4d22e6562d47eA75a",
-    "symbol": "AST",
-    "decimals": 4,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27054b13b1B798B345b591a4d22e6562d47eA75a/logo.png"
-  },
-  {
-    "name": "BandToken",
-    "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
-    "symbol": "BAND",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
-  },
-  {
-    "name": "Basic Attention Token",
-    "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
-    "symbol": "BAT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
-  },
-  {
-    "name": "Balancer",
-    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
-    "symbol": "BAL",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
-  },
-  {
-    "name": "Bloom Token",
-    "address": "0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e",
-    "symbol": "BLT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x107c4504cd79C5d2696Ea0030a8dD4e92601B82e/logo.png"
-  },
-  {
-    "name": "Bancor Network Token",
-    "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
-    "symbol": "BNT",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
-  },
-  {
-    "name": "PieDAO BTC++",
-    "address": "0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd",
-    "symbol": "BTC++",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0327112423F3A68efdF1fcF402F6c5CB9f7C33fd/logo.png"
-  },
-  {
-    "name": "bZx Protocol Token",
-    "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
-    "symbol": "BZRX",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x56d811088235F11C8920698a204A5010a788f4b3/logo.png"
-  },
-  {
-    "name": "CelerToken",
-    "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
-    "symbol": "CELR",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F9254C83EB525f9FCf346490bbb3ed28a81C667/logo.png"
-  },
-  {
-    "name": "Compound Dai v1.0 SAI",
-    "address": "0xF5DCe57282A584D2746FaF1593d3121Fcac444dC",
-    "symbol": "cSAI",
-    "decimals": 8,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF5DCe57282A584D2746FaF1593d3121Fcac444dC/logo.png"
-  },
-  {
-    "name": "Compound Dai",
-    "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-    "symbol": "cDAI",
-    "decimals": 8,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643/logo.png"
-  },
-  {
-    "name": "Compound USD Coin",
-    "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-    "symbol": "cUSDC",
-    "decimals": 8,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x39AA39c021dfbaE8faC545936693aC917d5E7563/logo.png"
-  },
-  {
-    "name": "Celsius",
-    "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
-    "symbol": "CEL",
-    "decimals": 4,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d/logo.png"
-  },
-  {
-    "name": "Chai",
-    "address": "0x06AF07097C9Eeb7fD685c692751D5C66dB49c215",
-    "symbol": "CHAI",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x06AF07097C9Eeb7fD685c692751D5C66dB49c215/logo.png"
-  },
-  {
-    "name": "Change",
-    "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
-    "symbol": "CAG",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d4b8Cce0591C9044a22ee543533b72E976E36C3/logo.png"
-  },
-  {
-    "name": "Compound",
-    "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
-    "symbol": "COMP",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
-  },
-  {
-    "name": "Dai Stablecoin v1.0 SAI",
-    "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
-    "symbol": "SAI",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359/logo.png"
-  },
-  {
     "name": "Dai Stablecoin",
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "symbol": "DAI",
@@ -486,5 +302,13 @@
     "symbol": "MLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
+  },
+  {
+    "name": "Change",
+    "address": "0x7d4b8Cce0591C9044a22ee543533b72E976E36C3",
+    "symbol": "CAG",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7d4b8Cce0591C9044a22ee543533b72E976E36C3/logo.png"
   }
 ]
