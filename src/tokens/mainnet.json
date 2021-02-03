@@ -1,5 +1,13 @@
 [
   {
+    "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+    "chainId": 1,
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "symbol": "WETH",
