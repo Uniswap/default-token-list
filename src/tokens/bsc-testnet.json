@@ -1,0 +1,33 @@
+[
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "/images/coins/BUSD.png"
+  },
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "name": "LP3 Token",
+    "symbol": "LP3",
+    "address": "0xe70b7523f4bffa1f2e88d2ba709afd026030f412",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "/images/coins/ETH.png"
+  },
+  {
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "address": "0x615446C0Fd5eA8A5FD7fb763f3FC2C58774474F3",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "/images/coins/BTC.png"
+  }
+]
