@@ -37,7 +37,7 @@ module.exports = function buildList() {
       ...maticTestnet,
       ...xdai, 
       ...bsc, 
-      ...bsct
+      ...bscTestnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
