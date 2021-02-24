@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Wrapped Matic",
+    "address": "0x0000000000000000000000000000000000001010",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
+  }
+]
