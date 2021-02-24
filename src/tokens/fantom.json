@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped Fantom",
+    "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "symbol": "WFTM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
+  },
+  {
+    "name": "Fantom USD",
+    "address": "0xad84341756bf337f5a0164515b1f6f993d194e1f",
+    "symbol": "FUSD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+  }
+]
