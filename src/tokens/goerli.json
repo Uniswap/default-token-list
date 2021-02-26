@@ -14,5 +14,12 @@
     "decimals": 18,
     "chainId": 5,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "SushiToken",
+    "address": "0x5457Cc9B34eA486eB8d3286329F3536f71fa8A8B",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 5
   }
 ]

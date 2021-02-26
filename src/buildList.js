@@ -1,4 +1,5 @@
 const { version } = require("../package.json");
+
 const mainnet = require("./tokens/mainnet.json");
 const ropsten = require("./tokens/ropsten.json");
 const rinkeby = require("./tokens/rinkeby.json");
@@ -26,7 +27,7 @@ module.exports = function buildList() {
     logoURI: "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
     keywords: ["sushiswap", "default"],
     tokens: [
-      ...mainnet, 
+      ...mainnet,
       ...ropsten, 
       ...goerli, 
       ...kovan, 
