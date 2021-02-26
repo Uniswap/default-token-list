@@ -5,7 +5,7 @@
     "symbol": "WFTM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
+    "logoURI": "https://ftmscan.com/token/images/wFtm_32.png"
   },
   {
     "name": "Staked FTM",
@@ -29,7 +29,7 @@
     "symbol": "fUSD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+    "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
   },
   {
     "name": "fSilver",
