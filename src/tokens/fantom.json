@@ -56,14 +56,6 @@
     "logoURI": "https://repository.fantom.network/logos/krw.svg"
   },
   {
-    "name": "fKRW",
-    "address": "0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23",
-    "symbol": "fKRW",
-    "decimals": 18,
-    "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/krw.svg"
-  },
-  {
     "name": "fJPY",
     "address": "0x3B74389bc23057325BaB96523DBec8c445F55799",
     "symbol": "fJPY",
