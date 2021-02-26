@@ -8,11 +8,147 @@
     "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
   },
   {
+    "name": "Staked FTM",
+    "address": "0x69c744D3444202d35a2783929a0F930f2FBB05ad",
+    "symbol": "sFTM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/sftm.svg"
+  },
+  {
+    "name": "fWTI Oil",
+    "address": "0xe297e06761a5489380538A0308B6F9b4A53Bea45",
+    "symbol": "fWTIOIL",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/wti.svg"
+  },
+  {
     "name": "Fantom USD",
     "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
-    "symbol": "FUSD",
+    "symbol": "fUSD",
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+  },
+  {
+    "name": "fSilver",
+    "address": "0xf15e88EEf35BF4709A4C3E99c00358F9247D4531",
+    "symbol": "fSILVER",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/silver.svg"
+  },
+  {
+    "name": "fLINK",
+    "address": "0xA649A19423052dC6b320360B3C760884E095AC57",
+    "symbol": "fLINK",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/link.svg"
+  },
+  {
+    "name": "fKRW",
+    "address": "0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23",
+    "symbol": "fKRW",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/krw.svg"
+  },
+  {
+    "name": "fKRW",
+    "address": "0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23",
+    "symbol": "fKRW",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/krw.svg"
+  },
+  {
+    "name": "fJPY",
+    "address": "0x3B74389bc23057325BaB96523DBec8c445F55799",
+    "symbol": "fJPY",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/jpy.svg"
+  },
+  {
+    "name": "fGold",
+    "address": "0x2202C52C9076A49400aaccf159e1956269eaa673",
+    "symbol": "fGOLD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/gold.svg"
+  },
+  {
+    "name": "fGBP",
+    "address": "0xcDE58e4B6c7b78B04da664Edb0a9752CC5FEDBd5",
+    "symbol": "fGBP",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/gbp.svg"
+  },
+  {
+    "name": "fEUR",
+    "address": "0xe105621721D1293c27be7718e041a4Ce0EbB227E",
+    "symbol": "fEUR",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/euro.svg"
+  },
+  {
+    "name": "fETH",
+    "address": "0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD",
+    "symbol": "fETH",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/eth.svg"
+  },
+  {
+    "name": "fCNY",
+    "address": "0x24d39324CF3697Fd9Fd78714E8cdeB5Df66E3DCd",
+    "symbol": "fCNY",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/cny.svg"
+  },
+  {
+    "name": "fCHF",
+    "address": "0x81740D647493a61329E1c574A11ee7577659fb14",
+    "symbol": "fCHF",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/chf.svg"
+  },
+  {
+    "name": "fBTC",
+    "address": "0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E",
+    "symbol": "fBTC",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/bitcoin.svg"
+  },
+  {
+    "name": "fBNB",
+    "address": "0x27f26F00e1605903645BbaBC0a73E35027Dccd45",
+    "symbol": "fBNB",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/bnb.svg"
+  },
+  {
+    "name": "fBAND",
+    "address": "0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32",
+    "symbol": "fBAND",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://repository.fantom.network/logos/band.svg"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   }
 ]
