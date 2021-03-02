@@ -136,11 +136,123 @@
     "logoURI": "https://repository.fantom.network/logos/band.svg"
   },
   {
+    "name": "ChainLink",
+    "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/chainlink_32.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+  },
+  {
+    "name": "Bitcoin",
+    "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+    "symbol": "BTC",
+    "decimals": 8,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/wBTC_32.png"
+  },
+  {
+    "name": "Aave",
+    "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/aave_32.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
+  },
+  {
+    "name": "Sushi",
+    "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/sushiswap_32.png"
+  },
+  {
+    "name": "yearn.finance",
+    "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+    "symbol": "YFI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/YFI_32.png"
+  },
+  {
+    "name": "Curve DAO",
+    "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/CurveFi_32.png"
+  },
+  {
+    "name": "Band",
+    "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
+    "symbol": "BAND",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/bandprotocol_32.png"
+  },
+  {
+    "name": "Spice",
+    "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11",
+    "symbol": "SFI",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/saffron_32.png"
+  },
+  {
+    "name": "Hegic",
+    "address": "0x44B26E839eB3572c5E959F994804A5De66600349",
+    "symbol": "HEGIC",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/hegic_32.png"
+  },
+  {
+    "name": "Frax",
+    "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/fraxfinance_32.png"
+  },
+  {
+    "name": "Cover",
+    "address": "0xB01E8419d842beebf1b70A7b5f7142abbaf7159D",
+    "symbol": "COVER",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/cover_32.png"
+  },
+  {
+    "name": "Keep3r",
+    "address": "0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212",
+    "symbol": "KP3R",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/kp3r_32.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
   }
 ]
