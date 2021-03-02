@@ -254,5 +254,29 @@
     "decimals": 18,
     "chainId": 250,
     "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
+  },
+  {
+    "name": "Cream",
+    "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+    "symbol": "CREAM",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/CreamFinance_32.png"
+  },
+  {
+    "name": "Synth sUSD",
+    "address": "0x0E1694483eBB3b74d3054E383840C6cf011e518e",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/sUSD_32.png"
+  },
+  {
+    "name": "Synthetix Network",
+    "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+    "symbol": "SNX",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://ftmscan.com/token/images/Synthetix_SNX_32.png"
   }
 ]
