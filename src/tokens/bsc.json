@@ -212,21 +212,24 @@
     "symbol": "DICE",
     "address": "0x748AD98b14C814B28812eB42ad219C8672909879",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "JNTR/b",
     "symbol": "JNTR/b",
     "address": "0x3c037C4c2296f280bB318D725D0b454B76c199b9",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "SPARTAN PROTOCOL TOKEN",
     "symbol": "SPART",
     "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Trust Wallet",
@@ -249,7 +252,8 @@
     "symbol": "Beer",
     "address": "0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "AlphaToken",
@@ -264,7 +268,8 @@
     "symbol": "BIFI",
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "yearn.finance",
@@ -287,7 +292,8 @@
     "symbol": "FRIES",
     "address": "0x393B312C01048b3ed2720bF1B090084C09e408A1",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "StableXSwap",
@@ -295,42 +301,47 @@
     "address": "0x0Da6Ed8B13214Ff28e9Ca979Dd37439e8a88F6c4",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "/images/coins/STAX.png"
+    "logoURI": "https://bscscan.com/token/images/stablexswap_32.png"
   },
   {
     "name": "Filecoin",
     "symbol": "FIL",
     "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "KAVA",
     "symbol": "KAVA",
     "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
     "chainId": 56,
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "USDX",
     "symbol": "USDX",
     "address": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
     "chainId": 56,
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Injective Protocol",
     "symbol": "INJ",
     "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Swipe",
     "symbol": "SXP",
     "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Binance-Peg USD Coin",
@@ -345,224 +356,256 @@
     "symbol": "CTK",
     "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
     "chainId": 56,
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "NAR Token",
     "symbol": "NAR",
     "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Nyanswop Token",
     "symbol": "NYA",
     "address": "0xbFa0841F7a90c4CE6643f651756EE340991F99D5",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "DANGO",
     "symbol": "DANGO",
     "address": "0x0957C57C9EB7744850dCC95db5A06eD4a246236E",
     "chainId": 56,
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "HARD",
     "symbol": "HARD",
     "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
     "chainId": 56,
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "ROOBEE",
     "symbol": "bROOBEE",
     "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Unifi Token",
     "symbol": "UNFI",
     "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "BLINk",
     "symbol": "BLK",
     "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
     "chainId": 56,
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "QUSD Stablecoin",
     "symbol": "QUSD",
     "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Qian Governance Token",
     "symbol": "KUN",
     "address": "0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "VAI Stablecoin",
     "symbol": "VAI",
     "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Juventus",
     "symbol": "JUV",
     "address": "0xC40C9A843E1c6D01b7578284a9028854f6683b1B",
     "chainId": 56,
-    "decimals": 2
+    "decimals": 2,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Paris Saint-Germain",
     "symbol": "PSG",
     "address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
     "chainId": 56,
-    "decimals": 2
+    "decimals": 2,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Ditto",
     "symbol": "DITTO",
     "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
     "chainId": 56,
-    "decimals": 9
+    "decimals": 9,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Math",
     "symbol": "MATH",
     "address": "0xF218184Af829Cf2b0019F8E6F0b2423498a36983",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Fuel",
     "symbol": "FUEL",
     "address": "0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Nuls",
     "symbol": "NULS",
     "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
     "chainId": 56,
-    "decimals": 8
+    "decimals": 8,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "NerveNetwork",
     "symbol": "NVT",
     "address": "0xf0E406c49C63AbF358030A299C0E00118C4C6BA5",
     "chainId": 56,
-    "decimals": 8
+    "decimals": 8,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Reef",
     "symbol": "REEF",
     "address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "OG",
     "symbol": "OG",
     "address": "0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c",
     "chainId": 56,
-    "decimals": 2
+    "decimals": 2,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Atletico de Madrid",
     "symbol": "ATM",
     "address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
     "chainId": 56,
-    "decimals": 2
+    "decimals": 2,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "AS Roma",
     "symbol": "ASR",
     "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
     "chainId": 56,
-    "decimals": 2
+    "decimals": 2,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "AllianceBlock",
     "symbol": "bALBT",
     "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Tenet",
     "symbol": "TEN",
     "address": "0xdFF8cb622790b7F92686c722b02CaB55592f152C",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Helmet.insure",
     "symbol": "Helmet",
     "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "BSCEX",
     "symbol": "BSCX",
     "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Standard BTC Hashrate Token",
     "symbol": "BTCST",
     "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Frontier Token",
     "symbol": "FRONT",
     "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Soteria",
     "symbol": "wSOTE",
     "address": "0x541E619858737031A1244A5d0Cd47E5ef480342c",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Mirror TSLA Token",
     "symbol": "mTSLA",
     "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Mirror AMZN Token",
     "symbol": "mAMZN",
     "address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Mirror NFLX Token",
     "symbol": "mNFLX",
     "address": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
     "chainId": 56,
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "https://bscscan.com/images/main/empty-token.png"
   },
   {
     "name": "Mirror GOOGL Token",
