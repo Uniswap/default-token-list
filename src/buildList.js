@@ -12,6 +12,7 @@ const maticTestnet = require("./tokens/matic-testnet.json");
 const xdai = require("./tokens/xdai.json");
 const bsc = require("./tokens/bsc.json");
 const bscTestnet = require("./tokens/bsc-testnet.json");
+const moonbase = require("./tokens/moonbase.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -38,7 +39,8 @@ module.exports = function buildList() {
       ...maticTestnet,
       ...xdai, 
       ...bsc, 
-      ...bscTestnet
+      ...bscTestnet,
+      ...moonbase,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
