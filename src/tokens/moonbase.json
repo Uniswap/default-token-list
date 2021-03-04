@@ -1,11 +1,11 @@
 [
   {
-    "name": "Wrapped Ether",
+    "name": "Wrapped Glimmer",
     "address": "0xe73763DB808ecCDC0E36bC8E32510ED126910394",
-    "symbol": "WETH",
+    "symbol": "WGLMR",
     "decimals": 18,
     "chainId": 1287,
-    "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1547036627"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
   },
   {
     "name": "Custom ERC20 Token",
