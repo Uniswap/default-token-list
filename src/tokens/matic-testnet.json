@@ -1,10 +1,34 @@
 [
   {
+    "name": "Dai Stablecoin",
+    "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 80001,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Ether",
+    "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 80001,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x3813e82e6f7098b9583FC0F33a962D02018B6803",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 80001,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
     "name": "Wrapped Matic",
-    "address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+    "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 80001,
-    "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
   }
 ]
