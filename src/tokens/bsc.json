@@ -213,7 +213,7 @@
     "address": "0x748AD98b14C814B28812eB42ad219C8672909879",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12233/small/dice2.png?1598344967"
   },
   {
     "name": "JNTR/b",
@@ -221,15 +221,15 @@
     "address": "0x3c037C4c2296f280bB318D725D0b454B76c199b9",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12830/small/jntr_logo.jpg?1602837322"
   },
   {
     "name": "SPARTAN PROTOCOL TOKEN",
-    "symbol": "SPART",
+    "symbol": "SPARTA",
     "address": "0xE4Ae305ebE1AbE663f261Bc00534067C80ad677C",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12638/small/1*OWy3ohA24pht-tFypfs-Tg.png?1601364302"
   },
   {
     "name": "Trust Wallet",
@@ -248,14 +248,6 @@
     "logoURI": "https://bscscan.com/token/images/venus_32.png"
   },
   {
-    "name": "Beer Garden",
-    "symbol": "Beer",
-    "address": "0xbB8DB5e17BBe9c90Da8E3445E335b82d7cc53575",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
-  },
-  {
     "name": "AlphaToken",
     "symbol": "ALPHA",
     "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
@@ -269,7 +261,7 @@
     "address": "0xCa3F508B8e4Dd382eE878A314789373D80A5190A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182"
   },
   {
     "name": "yearn.finance",
@@ -293,7 +285,7 @@
     "address": "0x393B312C01048b3ed2720bF1B090084C09e408A1",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12741/small/fries_logo.png?1602147631"
   },
   {
     "name": "StableXSwap",
@@ -309,7 +301,7 @@
     "address": "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933"
   },
   {
     "name": "KAVA",
@@ -317,7 +309,7 @@
     "address": "0x5F88AB06e8dfe89DF127B2430Bba4Af600866035",
     "chainId": 56,
     "decimals": 6,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/9761/small/Kava-icon.png?1585636197"
   },
   {
     "name": "USDX",
@@ -325,7 +317,7 @@
     "address": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
     "chainId": 56,
     "decimals": 6,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13056/small/USDX_coin.png?1604734048"
   },
   {
     "name": "Injective Protocol",
@@ -333,7 +325,7 @@
     "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12882/small/Injective_Icon.png?1613669548"
   },
   {
     "name": "Swipe",
@@ -341,7 +333,7 @@
     "address": "0x47BEAd2563dCBf3bF2c9407fEa4dC236fAbA485A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/9368/small/swipe.png?1566792311"
   },
   {
     "name": "Binance-Peg USD Coin",
@@ -357,7 +349,7 @@
     "address": "0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929",
     "chainId": 56,
     "decimals": 6,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12944/small/CertiK_Foundation_icon_96_96_-_round.png?1603772980"
   },
   {
     "name": "NAR Token",
@@ -365,7 +357,7 @@
     "address": "0xA1303E6199b319a891b79685F0537D289af1FC83",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13367/small/2XylnQL.png?1607923179"
   },
   {
     "name": "Nyanswop Token",
@@ -373,15 +365,7 @@
     "address": "0xbFa0841F7a90c4CE6643f651756EE340991F99D5",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
-  },
-  {
-    "name": "DANGO",
-    "symbol": "DANGO",
-    "address": "0x0957C57C9EB7744850dCC95db5A06eD4a246236E",
-    "chainId": 56,
-    "decimals": 6,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13025/small/512x512_App_Icon.png?1604456222"
   },
   {
     "name": "HARD",
@@ -389,7 +373,7 @@
     "address": "0xf79037F6f6bE66832DE4E7516be52826BC3cBcc4",
     "chainId": 56,
     "decimals": 6,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13008/small/HARD_coin_256.png?1604733983"
   },
   {
     "name": "ROOBEE",
@@ -397,7 +381,7 @@
     "address": "0xE64F5Cb844946C1F102Bd25bBD87a5aB4aE89Fbe",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/8791/small/Group_11.png?1580344629"
   },
   {
     "name": "Unifi Token",
@@ -405,7 +389,7 @@
     "address": "0x728C5baC3C3e370E372Fc4671f9ef6916b814d8B",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13152/small/logo-2.png?1605748967"
   },
   {
     "name": "BLINk",
@@ -413,7 +397,7 @@
     "address": "0x63870A18B6e42b01Ef1Ad8A2302ef50B7132054F",
     "chainId": 56,
     "decimals": 6,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://bscscan.com/token/images/blink_32.png"
   },
   {
     "name": "QUSD Stablecoin",
@@ -421,7 +405,7 @@
     "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://bscscan.com/token/images/qianfinance_32.png"
   },
   {
     "name": "Qian Governance Token",
@@ -429,7 +413,7 @@
     "address": "0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13177/small/kun_logo.png?1605923919"
   },
   {
     "name": "VAI Stablecoin",
@@ -437,7 +421,7 @@
     "address": "0x4BD17003473389A42DAF6a0a729f6Fdb328BbBd7",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13861/small/VAI_logo.png?1612413571"
   },
   {
     "name": "Juventus",
@@ -445,7 +429,7 @@
     "address": "0xC40C9A843E1c6D01b7578284a9028854f6683b1B",
     "chainId": 56,
     "decimals": 2,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/10060/small/Juve-10.png?1604737154"
   },
   {
     "name": "Paris Saint-Germain",
@@ -453,7 +437,7 @@
     "address": "0xBc5609612b7C44BEf426De600B5fd1379DB2EcF1",
     "chainId": 56,
     "decimals": 2,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/11620/small/psg.png?1592023100"
   },
   {
     "name": "Ditto",
@@ -461,7 +445,7 @@
     "address": "0x233d91A0713155003fc4DcE0AFa871b508B3B715",
     "chainId": 56,
     "decimals": 9,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13463/small/ditto.png?1608766914"
   },
   {
     "name": "Math",
@@ -469,7 +453,7 @@
     "address": "0xF218184Af829Cf2b0019F8E6F0b2423498a36983",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/11335/small/2020-05-19-token-200.png?1589940590"
   },
   {
     "name": "Fuel",
@@ -477,7 +461,7 @@
     "address": "0x2090c8295769791ab7A3CF1CC6e0AA19F35e441A",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13305/small/bW_WB5Rz_400x400.jpg?1607325041"
   },
   {
     "name": "Nuls",
@@ -485,7 +469,7 @@
     "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
     "chainId": 56,
     "decimals": 8,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/1053/small/Nuls.png?1556868153"
   },
   {
     "name": "NerveNetwork",
@@ -493,7 +477,7 @@
     "address": "0xf0E406c49C63AbF358030A299C0E00118C4C6BA5",
     "chainId": 56,
     "decimals": 8,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544"
   },
   {
     "name": "Reef",
@@ -501,7 +485,7 @@
     "address": "0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13504/small/Group_10572.png?1610534130"
   },
   {
     "name": "OG",
@@ -509,7 +493,7 @@
     "address": "0xf05E45aD22150677a017Fbd94b84fBB63dc9b44c",
     "chainId": 56,
     "decimals": 2,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://bscscan.com/token/images/ogfan_32.png"
   },
   {
     "name": "Atletico de Madrid",
@@ -517,7 +501,7 @@
     "address": "0x25E9d05365c867E59C1904E7463Af9F312296f9E",
     "chainId": 56,
     "decimals": 2,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/11689/small/Atletico-10.png?1604941960"
   },
   {
     "name": "AS Roma",
@@ -525,7 +509,7 @@
     "address": "0x80D5f92C2c8C682070C95495313dDB680B267320",
     "chainId": 56,
     "decimals": 2,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/11688/small/Roma-10.png?1604941843"
   },
   {
     "name": "AllianceBlock",
@@ -533,7 +517,7 @@
     "address": "0x72fAa679E1008Ad8382959FF48E392042A8b06f7",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12392/small/alliance_block_logo.jpg?1599546617g"
   },
   {
     "name": "Tenet",
@@ -541,7 +525,7 @@
     "address": "0xdFF8cb622790b7F92686c722b02CaB55592f152C",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13545/small/iMqC3F_p_400x400.png?1609711856"
   },
   {
     "name": "Helmet.insure",
@@ -549,7 +533,7 @@
     "address": "0x948d2a81086A075b3130BAc19e4c6DEe1D2E3fE8",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13680/small/ZMdK-1J4_400x400.png?1610834469"
   },
   {
     "name": "BSCEX",
@@ -557,7 +541,7 @@
     "address": "0x5Ac52EE5b2a633895292Ff6d8A89bB9190451587",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://bscscan.com/token/images/bscex_32.png"
   },
   {
     "name": "Standard BTC Hashrate Token",
@@ -565,7 +549,7 @@
     "address": "0x78650B139471520656b9E7aA7A5e9276814a38e9",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13636/small/btcst-coin.png?1610501705"
   },
   {
     "name": "Frontier Token",
@@ -573,7 +557,7 @@
     "address": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/12479/small/frontier_logo.png?1600145472"
   },
   {
     "name": "Soteria",
@@ -581,7 +565,7 @@
     "address": "0x541E619858737031A1244A5d0Cd47E5ef480342c",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/13840/small/V9gQH1KZ_400x400.jpg?1612251776"
   },
   {
     "name": "Mirror TSLA Token",
@@ -589,7 +573,7 @@
     "address": "0xF215A127A196e3988C09d052e16BcFD365Cd7AA3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://bscscan.com/token/images/mirror-tsla_32.png"
   },
   {
     "name": "Mirror AMZN Token",
@@ -597,7 +581,7 @@
     "address": "0x3947B992DC0147D2D89dF0392213781b04B25075",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://bscscan.com/token/images/mirror-amzn_32.png"
   },
   {
     "name": "Mirror NFLX Token",
@@ -605,7 +589,7 @@
     "address": "0xa04F060077D90Fe2647B61e4dA4aD1F97d6649dc",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    "logoURI": "https://bscscan.com/token/images/mirror-nflx_32.png"
   },
   {
     "name": "Mirror GOOGL Token",
@@ -613,7 +597,7 @@
     "address": "0x62D71B23bF15218C7d2D7E48DBbD9e9c650B173f",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://bscscan.com/token/images/terra-ust_32.png"
+    "logoURI": "https://bscscan.com/token/images/mirror-google_32.png"
   },
   {
     "name": "UST Token",
