@@ -1232,155 +1232,155 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2B89bF8ba858cd2FCee1faDa378D5cd6936968Be/logo.png"
   },
   {
-      "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
-      "chainId": 1,
-      "name": "Neutrino USD",
-      "symbol": "USDN",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0/logo.png"
-    },
-    {
-      "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
-      "chainId": 1,
-      "name": "Raydium",
-      "symbol": "RAY",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5245C0249e5EEB2A0838266800471Fd32Adb1089/logo.png"
-    },
-    {
-      "address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
-      "chainId": 1,
-      "name": "USDP Stablecoin",
-      "symbol": "USDP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1456688345527bE1f37E9e627DA0837D6f08C925/logo.png"
-    },
-    {
-      "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
-      "chainId": 1,
-      "name": "COL",
-      "symbol": "COL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo.png"
-    },
-    {
-      "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
-      "chainId": 1,
-      "name": "DAO Maker",
-      "symbol": "DAO",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad/logo.png"
-    },
-    {
-      "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
-      "chainId": 1,
-      "name": "Neutrino System Base Token",
-      "symbol": "NSBT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9D79d5B61De59D882ce90125b18F74af650acB93/logo.png"
-    },
-    {
-      "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
-      "chainId": 1,
-      "name": "The Graph",
-      "symbol": "GRT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
-    },
-    {
-      "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
-      "chainId": 1,
-      "name": "Offshift",
-      "symbol": "XFT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be/logo.png"
-    },
-    {
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "chainId": 1,
-      "name": "0x",
-      "symbol": "ZRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
-    },
-    {
-      "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
-      "chainId": 1,
-      "name": "Float Bank",
-      "symbol": "BANK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x24A6A37576377F63f194Caa5F518a60f45b42921/logo.png"
-    },
-    {
-      "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
-      "chainId": 1,
-      "name": "Linear Token",
-      "symbol": "LINA",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3E9BC21C9b189C09dF3eF1B824798658d5011937/logo.png"
-    },
-    {
-      "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
-      "chainId": 1,
-      "name": "Perpetual Protocol",
-      "symbol": "PERP",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
-    },
-    {
-      "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
-      "chainId": 1,
-      "name": "Unit Protocol",
-      "symbol": "DUCK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5/logo.png"
-    },
-    {
-      "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
-      "chainId": 1,
-      "name": "DEXTF",
-      "symbol": "DEXTF",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0/logo.png"
-    },
-    {
-      "address": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
-      "chainId": 1,
-      "name": "DFX",
-      "symbol": "DFX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x888888435FDe8e7d4c54cAb67f206e4199454c60/logo.png"
-    },
-    {
-      "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
-      "chainId": 1,
-      "name": "Alchemix",
-      "symbol": "ALCX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF/logo.png"
-    },
-    {
-      "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
-      "chainId": 1,
-      "name": "PoolTogether",
-      "symbol": "POOL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e/logo.png"
-    },
-    {
-      "address": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
-      "chainId": 1,
-      "name": "RULER",
-      "symbol": "RULER",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8/logo.png"
-    },
-    {
-      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
-      "chainId": 1,
-      "name": "Polygon",
-      "symbol": "MATIC",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
-    }
+    "address": "0x674C6Ad92Fd080e4004b2312b45f796a192D27a0",
+    "chainId": 1,
+    "name": "Neutrino USD",
+    "symbol": "USDN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x674C6Ad92Fd080e4004b2312b45f796a192D27a0/logo.png"
+  },
+  {
+    "address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
+    "chainId": 1,
+    "name": "Raydium",
+    "symbol": "RAY",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5245C0249e5EEB2A0838266800471Fd32Adb1089/logo.png"
+  },
+  {
+    "address": "0x1456688345527bE1f37E9e627DA0837D6f08C925",
+    "chainId": 1,
+    "name": "USDP Stablecoin",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1456688345527bE1f37E9e627DA0837D6f08C925/logo.png"
+  },
+  {
+    "address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
+    "chainId": 1,
+    "name": "COL",
+    "symbol": "COL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC76FB75950536d98FA62ea968E1D6B45ffea2A55/logo.png"
+  },
+  {
+    "address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
+    "chainId": 1,
+    "name": "DAO Maker",
+    "symbol": "DAO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f51bb10119727a7e5eA3538074fb341F56B09Ad/logo.png"
+  },
+  {
+    "address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
+    "chainId": 1,
+    "name": "Neutrino System Base Token",
+    "symbol": "NSBT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9D79d5B61De59D882ce90125b18F74af650acB93/logo.png"
+  },
+  {
+    "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+    "chainId": 1,
+    "name": "The Graph",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+  },
+  {
+    "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
+    "chainId": 1,
+    "name": "Offshift",
+    "symbol": "XFT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xABe580E7ee158dA464b51ee1a83Ac0289622e6be/logo.png"
+  },
+  {
+    "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+    "chainId": 1,
+    "name": "0x",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+  },
+  {
+    "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
+    "chainId": 1,
+    "name": "Float Bank",
+    "symbol": "BANK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x24A6A37576377F63f194Caa5F518a60f45b42921/logo.png"
+  },
+  {
+    "address": "0x3E9BC21C9b189C09dF3eF1B824798658d5011937",
+    "chainId": 1,
+    "name": "Linear Token",
+    "symbol": "LINA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3E9BC21C9b189C09dF3eF1B824798658d5011937/logo.png"
+  },
+  {
+    "address": "0xbC396689893D065F41bc2C6EcbeE5e0085233447",
+    "chainId": 1,
+    "name": "Perpetual Protocol",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbC396689893D065F41bc2C6EcbeE5e0085233447/logo.png"
+  },
+  {
+    "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
+    "chainId": 1,
+    "name": "Unit Protocol",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5/logo.png"
+  },
+  {
+    "address": "0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0",
+    "chainId": 1,
+    "name": "DEXTF",
+    "symbol": "DEXTF",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5F64Ab1544D28732F0A24F4713c2C8ec0dA089f0/logo.png"
+  },
+  {
+    "address": "0x888888435FDe8e7d4c54cAb67f206e4199454c60",
+    "chainId": 1,
+    "name": "DFX",
+    "symbol": "DFX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x888888435FDe8e7d4c54cAb67f206e4199454c60/logo.png"
+  },
+  {
+    "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+    "chainId": 1,
+    "name": "Alchemix",
+    "symbol": "ALCX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF/logo.png"
+  },
+  {
+    "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+    "chainId": 1,
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e/logo.png"
+  },
+  {
+    "address": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
+    "chainId": 1,
+    "name": "RULER",
+    "symbol": "RULER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8/logo.png"
+  },
+  {
+    "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "chainId": 1,
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
+  }
 ]
