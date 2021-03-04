@@ -1374,5 +1374,13 @@
       "symbol": "RULER",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8/logo.png"
+    },
+    {
+      "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+      "chainId": 1,
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
     }
 ]
