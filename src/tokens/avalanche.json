@@ -19,8 +19,8 @@
     "chainId": 43114,
     "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
     "decimals": 18,
-    "name": "Ether",
-    "symbol": "ETH",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
     "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
   },
   {
