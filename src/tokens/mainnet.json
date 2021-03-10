@@ -1027,7 +1027,7 @@
     "address": "0x0fe629d1E84E171f8fF0C1Ded2Cc2221Caa48a3f",
     "chainId": 1,
     "name": "NFTX Hashmasks Index",
-    "symbol": "MASK",
+    "symbol": "MASK/Hashmasks",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0fe629d1E84E171f8fF0C1Ded2Cc2221Caa48a3f/logo.png"
   },
@@ -1115,7 +1115,7 @@
     "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
     "chainId": 1,
     "name": "stakedETH",
-    "symbol": "stETH",
+    "symbol": "stETH/StakeHound",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D/logo.png"
   },
@@ -1382,5 +1382,69 @@
     "symbol": "MATIC",
     "decimals": 18,
     "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=010"
+  },
+  {
+    "address": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
+    "chainId": 1,
+    "name": "Badger Sett Badger",
+    "symbol": "bBADGER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28/logo.png"
+  },
+  {
+    "address": "0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a",
+    "chainId": 1,
+    "name": "Badger Sett Digg",
+    "symbol": "bDIGG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a/logo.png"
+  },
+  {
+    "address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
+    "chainId": 1,
+    "name": "SportX",
+    "symbol": "SX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x99fE3B1391503A1bC1788051347A1324bff41452/logo.png"
+  },
+  {
+    "address": "0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B",
+    "chainId": 1,
+    "name": "Yearn Lazy Ape Index",
+    "symbol": "YLA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B/logo.png"
+  },
+  {
+    "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+    "chainId": 1,
+    "name": "Mask Network",
+    "symbol": "MASK/MaskNetwork",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png"
+  },
+  {
+    "address": "0x297D33e17e61C2Ddd812389C2105193f8348188a",
+    "chainId": 1,
+    "name": "Strudel Finance",
+    "symbol": "TRDL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x297D33e17e61C2Ddd812389C2105193f8348188a/logo.png"
+  },
+  {
+    "address": "0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C",
+    "chainId": 1,
+    "name": "oneVBTC",
+    "symbol": "oneVBTC",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C/logo.png"
+  },
+  {
+    "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+    "chainId": 1,
+    "name": "RLC",
+    "symbol": "RLC",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png"
   }
 ]
