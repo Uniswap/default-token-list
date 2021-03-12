@@ -302,5 +302,13 @@
     "symbol": "MLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
+  },
+  {
+    "name": "LVX",
+    "address": "0x261638EC8ee8100484130EBD2fEBfDAdC0D8742a",
+    "symbol": "LVX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/5269/thumb/New_Level01_Logo_200px.png?1600751532"
   }
 ]
