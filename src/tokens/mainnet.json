@@ -310,5 +310,13 @@
     "symbol": "ALCX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14113/small/Alchemix.png?1614409874"
+  },
+  {
+    "chainId": 1,
+    "address": "0x25a3DcABbf0070cb8E5BaAa62D576cF6643afb5b",
+    "name": "Almace Shards",
+    "symbol": "ALMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11808/small/Almace.png?1594453410"
   }
 ]
