@@ -1470,5 +1470,21 @@
     "symbol": "MUST",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f/logo.png"
+  },
+  {
+    "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+    "chainId": 1,
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png"
+  },
+  {
+    "address": "0xb58DFBB72e648a0b035B8C85B3628123CC9bb881",
+    "chainId": 1,
+    "name": "MIS2",
+    "symbol": "MIS2",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xb58DFBB72e648a0b035B8C85B3628123CC9bb881/logo.png"
   }
 ]
