@@ -1462,5 +1462,13 @@
     "symbol": "EGT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9/logo.png"
+  },
+  {
+    "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+    "chainId": 1,
+    "name": "Must",
+    "symbol": "MUST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f/logo.png"
   }
 ]
