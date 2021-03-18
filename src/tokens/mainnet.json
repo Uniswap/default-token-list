@@ -1446,5 +1446,21 @@
     "symbol": "RLC",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png"
+  },
+  {
+    "address": "0x1062aD0E59fa67fa0b27369113098cC941Dd0D5F",
+    "chainId": 1,
+    "name": "UMA 35 CALL",
+    "symbol": "UMAc35-0421",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+  },
+  {
+    "address": "0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9",
+    "chainId": 1,
+    "name": "Elastic Governance",
+    "symbol": "EGT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9/logo.png"
   }
 ]
