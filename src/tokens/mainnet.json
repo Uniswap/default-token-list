@@ -1494,5 +1494,13 @@
     "symbol": "pONT",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2/logo.png"
+  },
+  {
+    "address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
+    "chainId": 1,
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x383518188C0C6d7730D91b2c03a03C837814a899/logo.png"
   }
 ]
