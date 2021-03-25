@@ -281,6 +281,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8Fc8f8269ebca376D046Ce292dC7eaC40c8D358A",
+    "name": "DeFiChain Token",
+    "symbol": "DFI",
+    "decimals": 8,
+    "logoURI": "https://defichain.com/downloads/symbol-defi-blockchain.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
     "name": "Keep Network",
     "symbol": "KEEP",
