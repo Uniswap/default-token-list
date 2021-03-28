@@ -1446,5 +1446,61 @@
     "symbol": "RLC",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x607F4C5BB672230e8672085532f7e901544a7375/logo.png"
+  },
+  {
+    "address": "0x1062aD0E59fa67fa0b27369113098cC941Dd0D5F",
+    "chainId": 1,
+    "name": "UMA 35 CALL",
+    "symbol": "UMAc35-0421",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
+  },
+  {
+    "address": "0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9",
+    "chainId": 1,
+    "name": "Elastic Governance",
+    "symbol": "EGT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9/logo.png"
+  },
+  {
+    "address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+    "chainId": 1,
+    "name": "Must",
+    "symbol": "MUST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f/logo.png"
+  },
+  {
+    "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+    "chainId": 1,
+    "name": "Wootrade Network",
+    "symbol": "WOO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png"
+  },
+  {
+    "address": "0xb58DFBB72e648a0b035B8C85B3628123CC9bb881",
+    "chainId": 1,
+    "name": "MIS2",
+    "symbol": "MIS2",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xb58DFBB72e648a0b035B8C85B3628123CC9bb881/logo.png"
+  },
+  {
+    "address": "0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2",
+    "chainId": 1,
+    "name": "Poly Ontology Token",
+    "symbol": "pONT",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcb46C550539ac3DB72dc7aF7c89B11c306C727c2/logo.png"
+  },
+  {
+    "address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
+    "chainId": 1,
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x383518188C0C6d7730D91b2c03a03C837814a899/logo.png"
   }
 ]
