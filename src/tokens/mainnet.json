@@ -1502,5 +1502,93 @@
     "symbol": "OHM",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x383518188C0C6d7730D91b2c03a03C837814a899/logo.png"
+  },
+  {
+    "address": "0xF94b5C5651c888d928439aB6514B93944eEE6F48",
+    "chainId": 1,
+    "name": "Yield App",
+    "symbol": "YLD/YieldApp",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF94b5C5651c888d928439aB6514B93944eEE6F48/logo.png"
+  },
+  {
+    "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+    "chainId": 1,
+    "name": "bZx Protocol Token",
+    "symbol": "BZRX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x56d811088235F11C8920698a204A5010a788f4b3/logo.png"
+  },
+  {
+    "address": "0x160B1E5aaBFD70B2FC40Af815014925D71CEEd7E",
+    "chainId": 1,
+    "name": "stakedFiro",
+    "symbol": "stFIRO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x160B1E5aaBFD70B2FC40Af815014925D71CEEd7E/logo.png"
+  },
+  {
+    "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+    "chainId": 1,
+    "name": "Ocean Token",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png"
+  },
+  {
+    "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
+    "chainId": 1,
+    "name": "district0x",
+    "symbol": "DNT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0AbdAce70D3790235af448C88547603b945604ea/logo.png"
+  },
+  {
+    "address": "0x67c597624B17b16fb77959217360B7cD18284253",
+    "chainId": 1,
+    "name": "Benchmark",
+    "symbol": "MARK",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x67c597624B17b16fb77959217360B7cD18284253/logo.png"
+  },
+  {
+    "address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
+    "chainId": 1,
+    "name": "Inverse DAO",
+    "symbol": "INV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68/logo.png"
+  },
+  {
+    "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+    "chainId": 1,
+    "name": "Aergo",
+    "symbol": "AERGO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6/logo.png"
+  },
+  {
+    "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+    "chainId": 1,
+    "name": "Polymath",
+    "symbol": "POLY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC/logo.png"
+  },
+  {
+    "address": "0x31B595e7cfDB624D10A3E7A562eD98c3567e3865",
+    "chainId": 1,
+    "name": "stakedZEN",
+    "symbol": "stZEN",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x31B595e7cfDB624D10A3E7A562eD98c3567e3865/logo.png"
+  },
+  {
+    "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+    "chainId": 1,
+    "name": "ROOK",
+    "symbol": "ROOK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png"
   }
 ]
