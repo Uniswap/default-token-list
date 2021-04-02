@@ -1450,7 +1450,7 @@
   {
     "address": "0x1062aD0E59fa67fa0b27369113098cC941Dd0D5F",
     "chainId": 1,
-    "name": "UMA 35 CALL",
+    "name": "UMA 35 CALL April 30",
     "symbol": "UMAc35-0421",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
@@ -1590,5 +1590,21 @@
     "symbol": "ROOK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a/logo.png"
+  },
+  {
+    "address": "0xada279f9301C01A4eF914127a6C2a493Ad733924",
+    "chainId": 1,
+    "name": "XSUSHI 25 CALL May 31",
+    "symbol": "XSUc25-0531",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272/logo.png"
+  },
+  {
+    "address": "0xa1e72267084192Db7387c8CC1328fadE470e4149",
+    "chainId": 1,
+    "name": "TrueFi TrueUSD",
+    "symbol": "tfTUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa1e72267084192Db7387c8CC1328fadE470e4149/logo.png"
   }
 ]
