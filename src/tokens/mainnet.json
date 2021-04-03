@@ -302,5 +302,13 @@
     "symbol": "MLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeA4327cA725Bd0B20D751069259bd66bC8571cC5",
+    "name": "AIANetwork",
+    "symbol": "AIA",
+    "decimals": 18,
+    "logoURI": "https://aiacoin.asia/aia-200x200.png"
   }
 ]
