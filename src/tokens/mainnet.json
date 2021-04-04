@@ -302,5 +302,13 @@
     "symbol": "MLN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/605/thumb/melon.png?1547034295"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6ed276a69270a895d6e419d99dcb5aaa2f3cb4a",
+    "name": "SAP",
+    "symbol": "SAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13014/thumb/fav.png?1604383601"
   }
 ]
