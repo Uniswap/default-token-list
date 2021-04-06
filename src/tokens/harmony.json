@@ -28,7 +28,7 @@
     "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
     "symbol": "1USDT",
     "name": "Tether USD",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
   },
   {
