@@ -1614,5 +1614,13 @@
     "symbol": "ILV",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
+  },
+  {
+    "address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
+    "chainId": 1,
+    "name": "DELTA",
+    "symbol": "DELTA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9EA3b5b4EC044b70375236A281986106457b20EF/logo.png"
   }
 ]
