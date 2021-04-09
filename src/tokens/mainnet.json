@@ -1622,5 +1622,13 @@
     "symbol": "DELTA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9EA3b5b4EC044b70375236A281986106457b20EF/logo.png"
+  },
+  {
+    "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
+    "chainId": 1,
+    "name": "SIREN",
+    "symbol": "SI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
   }
 ]
