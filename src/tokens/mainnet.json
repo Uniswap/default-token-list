@@ -1630,5 +1630,21 @@
     "symbol": "SI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
+  },
+  {
+    "address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+    "chainId": 1,
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x321C2fE4446C7c963dc41Dd58879AF648838f98D/logo.png"
+  },
+  {
+    "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
+    "chainId": 1,
+    "name": "Total Crypto Market Cap Token",
+    "symbol": "TCAP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4/logo.png"
   }
 ]
