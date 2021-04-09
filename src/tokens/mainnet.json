@@ -1400,6 +1400,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a/logo.png"
   },
   {
+    "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "chainId": 1,
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
+  },
+  {
     "address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
     "chainId": 1,
     "name": "SportX",
