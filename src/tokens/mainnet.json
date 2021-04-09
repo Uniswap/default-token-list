@@ -1405,7 +1405,7 @@
     "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://basicattentiontoken.org/static-assets/images/bat-logo.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
   },
   {
     "address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
