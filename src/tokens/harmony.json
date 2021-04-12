@@ -70,5 +70,13 @@
     "name": "BUSD Token",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
+    "symbol": "1SUSHI",
+    "name": "Sushi Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
   }
 ]
