@@ -1654,5 +1654,13 @@
     "symbol": "TCAP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4/logo.png"
+  },
+  {
+    "name": "IceToken",
+    "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+    "symbol": "ICE",
+    "chainId": 1,
+    "decimals": 18,
+    "logoURI": "https://popsicle.finance/img/ice.7699afe8.svg"
   }
 ]
