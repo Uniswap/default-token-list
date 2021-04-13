@@ -1400,6 +1400,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7e7E112A68d8D2E221E11047a72fFC1065c38e1a/logo.png"
   },
   {
+    "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "chainId": 1,
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
+  },
+  {
     "address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
     "chainId": 1,
     "name": "SportX",
@@ -1606,5 +1614,45 @@
     "symbol": "tfTUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa1e72267084192Db7387c8CC1328fadE470e4149/logo.png"
+  },
+  {
+    "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+    "chainId": 1,
+    "name": "Illuvium",
+    "symbol": "ILV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E/logo.png"
+  },
+  {
+    "address": "0x9EA3b5b4EC044b70375236A281986106457b20EF",
+    "chainId": 1,
+    "name": "DELTA",
+    "symbol": "DELTA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9EA3b5b4EC044b70375236A281986106457b20EF/logo.png"
+  },
+  {
+    "address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
+    "chainId": 1,
+    "name": "SIREN",
+    "symbol": "SI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
+  },
+  {
+    "address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+    "chainId": 1,
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x321C2fE4446C7c963dc41Dd58879AF648838f98D/logo.png"
+  },
+  {
+    "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
+    "chainId": 1,
+    "name": "Total Crypto Market Cap Token",
+    "symbol": "TCAP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4/logo.png"
   }
 ]
