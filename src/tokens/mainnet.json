@@ -1654,5 +1654,13 @@
     "symbol": "TCAP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4/logo.png"
+  },
+  {
+    "address": "0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408",
+    "chainId": 1,
+    "name": "stakedXYM",
+    "symbol": "stXYM",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408/logo.png"
   }
 ]
