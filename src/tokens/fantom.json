@@ -285,6 +285,14 @@
     "symbol": "ICE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://popsicle.finance/img/ice.7699afe8.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+  },
+  {
+    "name": "Frapped USDT",
+    "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+    "symbol": "fUSDT",
+    "decimals": 6,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   }
 ]

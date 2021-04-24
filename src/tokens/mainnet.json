@@ -1656,11 +1656,19 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4/logo.png"
   },
   {
-    "name": "IceToken",
-    "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
-    "symbol": "ICE",
+    "address": "0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408",
     "chainId": 1,
+    "name": "stakedXYM",
+    "symbol": "stXYM",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408/logo.png"
+  },
+  {
+    "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+    "chainId": 1,
+    "name": "IceToken",
+    "symbol": "ICE",
     "decimals": 18,
-    "logoURI": "https://popsicle.finance/img/ice.7699afe8.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
   }
 ]

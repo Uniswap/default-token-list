@@ -617,10 +617,18 @@
   },
   {
     "name": "IceToken",
-    "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "symbol": "ICE",
+    "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://popsicle.finance/img/ice.7699afe8.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+  },
+  {
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
   }
 ]
