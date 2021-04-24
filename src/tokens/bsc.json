@@ -626,7 +626,7 @@
   {
     "name": "SushiToken",
     "symbol": "SUSHI",
-    "address": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+    "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
