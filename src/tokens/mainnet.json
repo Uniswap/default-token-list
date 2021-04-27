@@ -1678,5 +1678,13 @@
     "symbol": "PMON",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2/logo.png"
+  },
+  {
+    "address": "0x76280AF9D18a868a0aF3dcA95b57DDE816c1aaf2",
+    "chainId": 1,
+    "name": "WaifuEnhancementToken",
+    "symbol": "WET",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x76280AF9D18a868a0aF3dcA95b57DDE816c1aaf2/logo.png"
   }
 ]
