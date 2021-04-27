@@ -1670,5 +1670,13 @@
     "symbol": "ICE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+  },
+  {
+    "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+    "chainId": 1,
+    "name": "Polkamon",
+    "symbol": "PMON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1796ae0b0fa4862485106a0de9b654eFE301D0b2/logo.png"
   }
 ]
