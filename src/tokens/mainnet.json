@@ -1694,5 +1694,13 @@
     "symbol": "TXL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41/logo.png"
+  },
+  {
+    "address": "0x808507121B80c02388fAd14726482e061B8da827",
+    "chainId": 1,
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png"
   }
 ]
