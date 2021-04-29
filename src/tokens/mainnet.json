@@ -1702,5 +1702,13 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x808507121B80c02388fAd14726482e061B8da827/logo.png"
+  },
+  {
+    "address": "0x33e18a092a93ff21aD04746c7Da12e35D34DC7C4",
+    "chainId": 1,
+    "name": "Metaverse NFT Index",
+    "symbol": "PLAY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x33e18a092a93ff21aD04746c7Da12e35D34DC7C4/logo.png"
   }
 ]
