@@ -1710,5 +1710,13 @@
     "symbol": "PLAY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x33e18a092a93ff21aD04746c7Da12e35D34DC7C4/logo.png"
+  },
+  {
+    "address": "0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a",
+    "chainId": 1,
+    "name": "Yearn Compounding veCRV yVault",
+    "symbol": "yvBOOST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a/logo.png"
   }
 ]
