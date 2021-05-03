@@ -410,8 +410,8 @@
   {
     "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
     "chainId": 1,
-    "name": "Axie Infinity Shard",
-    "symbol": "AXS",
+    "name": "Axie Infinity Shard 1",
+    "symbol": "AXS/v1",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA/logo.png"
   },
@@ -1718,5 +1718,13 @@
     "symbol": "yvBOOST",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9d409a0A012CFbA9B15F6D4B36Ac57A46966Ab9a/logo.png"
+  },
+  {
+    "address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+    "chainId": 1,
+    "name": "Axie Infinity Shard 2",
+    "symbol": "AXS/v2",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b/logo.png"
   }
 ]
