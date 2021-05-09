@@ -1818,7 +1818,7 @@
   {
     "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
     "chainId": 1,
-    "name": "Celsisu",
+    "name": "Celsius",
     "symbol": "CEL",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d/logo.png"
