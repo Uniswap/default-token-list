@@ -1742,5 +1742,93 @@
     "symbol": "ANKR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png"
+  },
+  {
+    "address": "0x896e145568624a498c5a909187363ae947631503",
+    "chainId": 1,
+    "name": "Wasabi",
+    "symbol": "WASABI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x896e145568624a498c5a909187363ae947631503/logo.png"
+  },
+  {
+    "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+    "chainId": 1,
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+  },
+  {
+    "address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
+    "chainId": 1,
+    "name": "FTX Token",
+    "symbol": "FTT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
+  },
+  {
+    "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "chainId": 1,
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+  },
+  {
+    "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
+    "chainId": 1,
+    "name": "HUSD",
+    "symbol": "HUSD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdF574c24545E5FfEcb9a659c229253D4111d87e1/logo.png"
+  },
+  {
+    "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+    "chainId": 1,
+    "name": "Paxos Standard",
+    "symbol": "PAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8E870D67F660D95d5be530380D0eC0bd388289E1/logo.png"
+  },
+  {
+    "address": "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
+    "chainId": 1,
+    "name": "Waves",
+    "symbol": "WAVES",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a/logo.png"
+  },
+  {
+    "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+    "chainId": 1,
+    "name": "Crypo.com Coin",
+    "symbol": "CRO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b/logo.png"
+  },
+  {
+    "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+    "chainId": 1,
+    "name": "EnjinCoin",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png"
+  },
+  {
+    "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+    "chainId": 1,
+    "name": "Celsisu",
+    "symbol": "CEL",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d/logo.png"
+  },
+  {
+    "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
+    "chainId": 1,
+    "name": "Rai Reflex Index",
+    "symbol": "RAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919/logo.png"
   }
 ]
