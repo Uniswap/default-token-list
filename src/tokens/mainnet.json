@@ -1744,7 +1744,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png"
   },
   {
-    "address": "0x896e145568624a498c5a909187363ae947631503",
+    "address": "0x896e145568624a498c5a909187363AE947631503",
     "chainId": 1,
     "name": "Wasabi",
     "symbol": "WASABI",
