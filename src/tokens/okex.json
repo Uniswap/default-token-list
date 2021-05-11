@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Wrapped OKExChain",
+    "address": "0x8F8526dbfd6E38E3D8307702cA8469Bae6C56C15",
+    "symbol": "WOKT",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://assets.coingecko.com/coins/images/13708/small/OKExChain.jpg?1611051839"
+  },
+  {
+    "name": "BTCK",
+    "address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
+    "symbol": "BTCK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_btck.png"
+  },
+  {
+    "name": "LTCK",
+    "address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
+    "symbol": "LTCK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_ltck.png"
+  },
+  {
+    "name": "ETHK",
+    "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
+    "symbol": "ETHK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_ethk.png"
+  },
+  {
+    "name": "FILK",
+    "address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
+    "symbol": "FILK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
+  },
+  {
+    "name": "DOTK",
+    "address": "0xabc732f6f69a519F6d508434481376B6221eb7d5",
+    "symbol": "DOTK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_dotk.png"
+  },
+  {
+    "name": "OKB",
+    "address": "0xdF54B6c6195EA4d948D03bfD818D365cf175cFC2",
+    "symbol": "OKB",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_okb.png"
+  },
+  {
+    "name": "USDC",
+    "address": "0xc946DAf81b08146B1C7A8Da2A851Ddf2B3EAaf85",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdc.png"
+  },
+  {
+    "name": "USDK",
+    "address": "0xdCAC52E001f5bd413aa6ea83956438F29098166b",
+    "symbol": "USDK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdk.png"
+  },
+  {
+    "name": "USDT",
+    "address": "0x382bB369d343125BfB2117af9c149795C6C65C50",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdt.png"
+  },
+  {
+    "name": "LINKK",
+    "address": "0x9B99c3Ce751aA292320033f93a1376902d4bA58b",
+    "symbol": "LINKK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "name": "SUSHIK",
+    "address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
+    "symbol": "SUSHIK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sushik.png"
+  },
+  {
+    "name": "UNIK",
+    "address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
+    "symbol": "UNIK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_unik.png"
+  },
+  {
+    "name": "ZKSK",
+    "address": "0xCD08D321f6Bc10a10f094e4b2E6C9b8bF9906401",
+    "symbol": "ZKSK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_zksk.png"
+  },
+  {
+    "name": "AUCTIONK",
+    "address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
+    "symbol": "AUCTIONK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_auctionk.png"
+  },
+  {
+    "name": "SFGK",
+    "address": "0x3212606F74Cc59656E1EC6f587FCA61bA3B85eb0",
+    "symbol": "SFGK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sfgk.png"
+  },
+  {
+    "name": "DAIK",
+    "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
+    "symbol": "DAIK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_daik.png"
+  },
+  {
+    "name": "KINEK",
+    "address": "0xc05760d75E7F5Ad428a906674Ce7c7c82d003d01",
+    "symbol": "KINEK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_kinek.png"
+  }
+]

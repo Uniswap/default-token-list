@@ -19,7 +19,8 @@ const heco = require("./tokens/heco.json");
 const hecoTestnet = require("./tokens/heco-testnet.json");
 const harmony = require("./tokens/harmony.json");
 const harmonyTestnet = require("./tokens/harmony-testnet.json");
-
+const okex = require("./tokens/okex.json");
+const okexTestnet = require("./tokens/okex-testnet.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -43,8 +44,8 @@ module.exports = function buildList() {
       ...fantomTestnet,
       ...matic,
       ...maticTestnet,
-      ...xdai, 
-      ...bsc, 
+      ...xdai,
+      ...bsc,
       ...bscTestnet,
       ...moonbase,
       ...avalanche,
@@ -52,7 +53,9 @@ module.exports = function buildList() {
       ...heco,
       ...hecoTestnet,
       ...harmony,
-      ...harmonyTestnet
+      ...harmonyTestnet,
+      ...okex,
+      ...okexTestnet
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
