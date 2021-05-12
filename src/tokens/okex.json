@@ -142,5 +142,21 @@
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_kinek.png"
+  },
+  {
+    "name": "FLUXK",
+    "address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
+    "symbol": "FLUXK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://assets.coingecko.com/coins/images/15002/small/logo.dabc411c.png?1619402947"
+  },
+  {
+    "name": "Wing Token",
+    "address": "0x7A47ab305b8a2A3F4020d13FA9EF73cDdCc0e7D4",
+    "symbol": "WING",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://assets.coingecko.com/coins/images/12477/small/s_wing_icon.png?1610631390"
   }
 ]
