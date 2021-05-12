@@ -102,13 +102,5 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
-  },
-  {
-    "name": "ChainLink",
-    "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
-    "symbol": "LINK",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
   }
 ]
