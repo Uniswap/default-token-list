@@ -297,6 +297,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x75387e1287Dd85482aB66102DA9f6577E027f609",
+    "name": "MindsyncAI",
+    "symbol": "MAI",
+    "decimals": 18,
+    "logoURI": "https://mindsync.ai/img/media/logo/mai-uniswap.png"
+  },
+  {
+    "chainId": 1,
     "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
     "name": "Melon",
     "symbol": "MLN",
