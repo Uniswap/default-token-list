@@ -1846,5 +1846,101 @@
     "symbol": "WOOFY",
     "decimals": 12,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD0660cD418a64a1d44E9214ad8e459324D8157f1/logo.png"
+  },
+  {
+    "address": "0x0309c98B1bffA350bcb3F9fB9780970CA32a5060",
+    "chainId": 1,
+    "name": "BasketDAO DeFi Index",
+    "symbol": "BDI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0309c98B1bffA350bcb3F9fB9780970CA32a5060/logo.png"
+  },
+  {
+    "address": "0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb",
+    "chainId": 1,
+    "name": "BasketDAO Gov",
+    "symbol": "BASK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44564d0bd94343f72E3C8a0D22308B7Fa71DB0Bb/logo.png"
+  },
+  {
+    "address": "0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F",
+    "chainId": 1,
+    "name": "Interest-Bearing BTC",
+    "symbol": "ibBTC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc4E15973E6fF2A35cC804c2CF9D2a1b817a8b40F/logo.png"
+  },
+  {
+    "address": "0x7BeBd226154E865954A87650FAefA8F485d36081",
+    "chainId": 1,
+    "name": "ZigCoin",
+    "symbol": "ZIG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7BeBd226154E865954A87650FAefA8F485d36081/logo.png"
+  },
+  {
+    "address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
+    "chainId": 1,
+    "name": "MM Token",
+    "symbol": "MM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304/logo.png"
+  },
+  {
+    "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+    "chainId": 1,
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+  },
+  {
+    "address": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
+    "chainId": 1,
+    "name": "Dracula Token",
+    "symbol": "DRC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8/logo.png"
+  },
+  {
+    "address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+    "chainId": 1,
+    "name": "decentral.games",
+    "symbol": "DG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEE06A81a695750E71a662B51066F2c74CF4478a0/logo.png"
+  },
+  {
+    "address": "0x68481f2c02BE3786987ac2bC3327171C5D05F9Bd",
+    "chainId": 1,
+    "name": "Based Loans Ownership",
+    "symbol": "BLO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x68481f2c02BE3786987ac2bC3327171C5D05F9Bd/logo.png"
+  },
+  {
+    "address": "0xb29663Aa4E2e81e425294193616c1B102B70a158",
+    "chainId": 1,
+    "name": "Ludena Protocol",
+    "symbol": "LDN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xb29663Aa4E2e81e425294193616c1B102B70a158/logo.png"
+  },
+  {
+    "address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
+    "chainId": 1,
+    "name": "Lever",
+    "symbol": "LEV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbc194e6f748a222754C3E8b9946922c09E7d4e91/logo.png"
+  },
+  {
+    "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+    "chainId": 1,
+    "name": "Melon Token",
+    "symbol": "MLN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png"
   }
 ]
