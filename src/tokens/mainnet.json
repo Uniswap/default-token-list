@@ -1942,5 +1942,13 @@
     "symbol": "MLN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xec67005c4E498Ec7f55E092bd1d35cbC47C91892/logo.png"
+  },
+  {
+    "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
+    "chainId": 1,
+    "name": "NaosToken",
+    "symbol": "NAOS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496/logo.png"
   }
 ]
