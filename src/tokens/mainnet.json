@@ -1950,5 +1950,21 @@
     "symbol": "NAOS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496/logo.png"
+  },
+  {
+    "address": "0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B",
+    "chainId": 1,
+    "name": "Convex Token",
+    "symbol": "CVX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4e3FBD56CD56c3e72c1403e103b45Db9da5B9D2B/logo.png"
+  },
+  {
+    "address": "0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7",
+    "chainId": 1,
+    "name": "Convex CRV",
+    "symbol": "cvxCRV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x62B9c7356A2Dc64a1969e19C23e4f579F9810Aa7/logo.png"
   }
 ]
