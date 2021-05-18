@@ -102,5 +102,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
+  },
+  {
+    "name": "Synthetix Network Token",
+    "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+    "symbol": "SNX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png"
+  },
+  {
+    "name": "renDOGE",
+    "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
+    "symbol": "renDOGE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6/logo.png"
   }
 ]
