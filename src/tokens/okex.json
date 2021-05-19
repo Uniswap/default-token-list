@@ -158,5 +158,21 @@
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://assets.coingecko.com/coins/images/12477/small/s_wing_icon.png?1610631390"
+  },
+  {
+    "name": "Nuls",
+    "address": "0x8CD6e29d3686d24d3C2018CEe54621eA0f89313B",
+    "symbol": "NULS",
+    "decimals": 8,
+    "chainId": 66,
+    "logoURI": "https://assets.coingecko.com/coins/images/1053/small/Nuls.png?1556868153"
+  },
+  {
+    "name": "NerveNetwork",
+    "address": "0xd1351Ec15E8511658C2Ba1e1e81e1E60aA39c9Cd",
+    "symbol": "NVT",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544"
   }
 ]
