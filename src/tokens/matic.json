@@ -118,5 +118,29 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6/logo.png"
+  },
+  {
+    "name": "IRON Titanium",
+    "address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+    "symbol": "TITAN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png"
+  },
+  {
+    "name": "IRON Stablecoin",
+    "address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+    "symbol": "IRON",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD86b5923F3AD7b585eD81B448170ae026c65ae9a/logo.png"
+  },
+  {
+    "name": "PolyDoge",
+    "address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+    "symbol": "polyDoge",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472/logo.png"
   }
 ]
