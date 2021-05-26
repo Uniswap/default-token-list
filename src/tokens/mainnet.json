@@ -1982,5 +1982,13 @@
     "symbol": "APW",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4104b135DBC9609Fc1A9490E61369036497660c8/logo.png"
+  },
+  {
+    "address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
+    "chainId": 1,
+    "name": "Sake",
+    "symbol": "SAK3",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe9F84dE264E91529aF07Fa2C746e934397810334/logo.png"
   }
 ]
