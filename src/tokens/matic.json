@@ -150,5 +150,13 @@
     "decimals": 2,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32/logo.png"
+  },
+  {
+    "name": "Beefy.finance",
+    "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xFbdd194376de19a88118e84E279b977f165d01b8/logo.png"
   }
 ]
