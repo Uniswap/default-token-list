@@ -1990,5 +1990,21 @@
     "symbol": "SAK3",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe9F84dE264E91529aF07Fa2C746e934397810334/logo.png"
+  },
+  {
+    "address": "0xafcE9B78D409bF74980CACF610AFB851BF02F257",
+    "chainId": 1,
+    "name": "LIFT.Kitchen BTC",
+    "symbol": "LFBTC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xafcE9B78D409bF74980CACF610AFB851BF02F257/logo.png"
+  },
+  {
+    "address": "0xf9209d900f7ad1DC45376a2caA61c78f6dEA53B6",
+    "chainId": 1,
+    "name": "LIFT.Kitchen",
+    "symbol": "LIFT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf9209d900f7ad1DC45376a2caA61c78f6dEA53B6/logo.png"
   }
 ]
