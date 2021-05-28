@@ -166,5 +166,37 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2e2DDe47952b9c7deFDE7424d00dD2341AD927Ca/logo.png"
+  },
+  {
+    "name": "Woofy",
+    "address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+    "symbol": "WOOFY",
+    "decimals": 12,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD0660cD418a64a1d44E9214ad8e459324D8157f1/logo.png"
+  },
+  {
+    "name": "Frax",
+    "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x104592a158490a9228070E0A8e5343B499e125D0/logo.png"
+  },
+  {
+    "name": "Frax Share",
+    "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+    "symbol": "FXS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3e121107F6F22DA4911079845a470757aF4e1A1b/logo.png"
+  },
+  {
+    "name": "Graph Token",
+    "address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+    "symbol": "GRT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
   }
 ]
