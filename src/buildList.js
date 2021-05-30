@@ -21,6 +21,7 @@ const harmony = require("./tokens/harmony.json");
 const harmonyTestnet = require("./tokens/harmony-testnet.json");
 const okex = require("./tokens/okex.json");
 const okexTestnet = require("./tokens/okex-testnet.json");
+const arbitrum = require("./tokens/arbitrum.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -32,14 +33,15 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+    logoURI:
+      "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
     keywords: ["sushiswap", "default"],
     tokens: [
       ...mainnet,
-      ...ropsten, 
-      ...goerli, 
-      ...kovan, 
-      ...rinkeby, 
+      ...ropsten,
+      ...goerli,
+      ...kovan,
+      ...rinkeby,
       ...fantom,
       ...fantomTestnet,
       ...matic,
@@ -55,7 +57,8 @@ module.exports = function buildList() {
       ...harmony,
       ...harmonyTestnet,
       ...okex,
-      ...okexTestnet
+      ...okexTestnet,
+      ...arbitrum,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
