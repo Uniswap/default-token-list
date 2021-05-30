@@ -17,7 +17,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["uniswap", "default"],
+    keywords: ["aidiswap", "default"],
     tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
