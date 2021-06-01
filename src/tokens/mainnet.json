@@ -2022,5 +2022,13 @@
     "symbol": "NEAR",
     "decimals": 24,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4/logo.png"
+  },
+  {
+    "address": "0xe379a60A8FC7C9DD161887fFADF3054790576c8D",
+    "chainId": 1,
+    "name": "XSUSHI 25 Call June 30",
+    "symbol": "XSUc25-0621",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272/logo.png"
   }
 ]
