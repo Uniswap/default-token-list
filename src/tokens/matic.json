@@ -214,5 +214,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xF4B0903774532AEe5ee567C02aaB681a81539e92/logo.png"
+  },
+  {
+    "name": "DEGEN Index",
+    "address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8a2870fb69A90000D6439b7aDfB01d4bA383A415/logo.png"
   }
 ]
