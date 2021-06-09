@@ -174,5 +174,37 @@
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544"
+  },
+  {
+    "name": "SHIBK",
+    "address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
+    "symbol": "SHIBK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_shibk.png"
+  },
+  {
+    "name": "ETCK",
+    "address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
+    "symbol": "ETCK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_etck.png"
+  },
+  {
+    "name": "WBTCK",
+    "address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
+    "symbol": "WBTCK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_wbtck.png"
+  },
+  {
+    "name": "BCHK",
+    "address": "0x18D103b7066AEedb6005B78A462Ef9027329b1EA",
+    "symbol": "BCHK",
+    "decimals": 18,
+    "chainId": 66,
+    "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_bchk.png"
   }
 ]
