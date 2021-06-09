@@ -2030,5 +2030,21 @@
     "symbol": "XSUc25-0621",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272/logo.png"
+  },
+  {
+    "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+    "chainId": 1,
+    "name": "Indexed Finance",
+    "symbol": "NDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83/logo.png"
+  },
+  {
+    "address": "0x126c121f99e1E211dF2e5f8De2d96Fa36647c855",
+    "chainId": 1,
+    "name": "DEGEN Index",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x126c121f99e1E211dF2e5f8De2d96Fa36647c855/logo.png"
   }
 ]
