@@ -21,7 +21,7 @@ const harmony = require("./tokens/harmony.json");
 const harmonyTestnet = require("./tokens/harmony-testnet.json");
 const okex = require("./tokens/okex.json");
 const okexTestnet = require("./tokens/okex-testnet.json");
-const arbitrum = require("./tokens/arbitrum.json");
+//const arbitrum = require("./tokens/arbitrum.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
@@ -58,7 +58,7 @@ module.exports = function buildList() {
       ...harmonyTestnet,
       ...okex,
       ...okexTestnet,
-      ...arbitrum,
+      //...arbitrum,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
