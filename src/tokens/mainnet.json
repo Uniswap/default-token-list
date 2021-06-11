@@ -2046,5 +2046,29 @@
     "symbol": "DEGEN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x126c121f99e1E211dF2e5f8De2d96Fa36647c855/logo.png"
+  },
+  {
+    "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+    "chainId": 1,
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png"
+  },
+  {
+    "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+    "chainId": 1,
+    "name": "AdEx Network",
+    "symbol": "ADX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png"
+  },
+  {
+    "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+    "chainId": 1,
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
   }
 ]
