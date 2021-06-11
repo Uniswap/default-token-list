@@ -222,5 +222,37 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8a2870fb69A90000D6439b7aDfB01d4bA383A415/logo.png"
+  },
+  {
+    "name": "Adamant",
+    "address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+    "symbol": "ADDY",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/15225/small/adamant.png?1620136256"
+  },
+  {
+    "name": "dHedge DAO Token",
+    "address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+    "symbol": "DHT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12508/small/dht.png?1600752201"
+  },
+  {
+    "name": "Orbit Bridge Polygon Token",
+    "address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
+    "symbol": "pAUTO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf/logo.png"
+  },
+  {
+    "name": "Wrapped Filecoin",
+    "address": "0xEde1B77C0Ccc45BFa949636757cd2cA7eF30137F",
+    "symbol": "wFIL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/13238/small/WFIL-Icon.png?1606630561"
   }
 ]
