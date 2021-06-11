@@ -2070,5 +2070,53 @@
     "symbol": "LRC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+  },
+  {
+    "address": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
+    "chainId": 1,
+    "name": "BlackPool Token",
+    "symbol": "BPT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da/logo.png"
+  },
+  {
+    "address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+    "chainId": 1,
+    "name": "Alchemix USD",
+    "symbol": "alUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9/logo.png"
+  },
+  {
+    "address": "0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198",
+    "chainId": 1,
+    "name": "Bankless Token",
+    "symbol": "BANK/Bankless",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198/logo.png"
+  },
+  {
+    "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+    "chainId": 1,
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0391D2021f89DC339F60Fff84546EA23E337750f/logo.png"
+  },
+  {
+    "address": "0x673f9488619821aB4f4155FdFFe06f6139De518F",
+    "chainId": 1,
+    "name": "BarnBridge junior cDAI",
+    "symbol": "bbcDAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x673f9488619821aB4f4155FdFFe06f6139De518F/logo.png"
+  },
+  {
+    "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+    "chainId": 1,
+    "name": "Manifold Finance",
+    "symbol": "FOLD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xd084944d3c05CD115C09d072B9F44bA3E0E45921/logo.png"
   }
 ]
