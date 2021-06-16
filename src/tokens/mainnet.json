@@ -2126,5 +2126,13 @@
     "symbol": "Sunder",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6/logo.png"
+  },
+  {
+    "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+    "chainId": 1,
+    "name": "Fei",
+    "symbol": "FEI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
   }
 ]
