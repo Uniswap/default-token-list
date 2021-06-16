@@ -2022,5 +2022,117 @@
     "symbol": "NEAR",
     "decimals": 24,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4/logo.png"
+  },
+  {
+    "address": "0xe379a60A8FC7C9DD161887fFADF3054790576c8D",
+    "chainId": 1,
+    "name": "XSUSHI 25 Call June 30",
+    "symbol": "XSUc25-0621",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272/logo.png"
+  },
+  {
+    "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+    "chainId": 1,
+    "name": "Indexed Finance",
+    "symbol": "NDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83/logo.png"
+  },
+  {
+    "address": "0x126c121f99e1E211dF2e5f8De2d96Fa36647c855",
+    "chainId": 1,
+    "name": "DEGEN Index",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x126c121f99e1E211dF2e5f8De2d96Fa36647c855/logo.png"
+  },
+  {
+    "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+    "chainId": 1,
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671/logo.png"
+  },
+  {
+    "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
+    "chainId": 1,
+    "name": "AdEx Network",
+    "symbol": "ADX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xADE00C28244d5CE17D72E40330B1c318cD12B7c3/logo.png"
+  },
+  {
+    "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+    "chainId": 1,
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+  },
+  {
+    "address": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
+    "chainId": 1,
+    "name": "BlackPool Token",
+    "symbol": "BPT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da/logo.png"
+  },
+  {
+    "address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+    "chainId": 1,
+    "name": "Alchemix USD",
+    "symbol": "alUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9/logo.png"
+  },
+  {
+    "address": "0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198",
+    "chainId": 1,
+    "name": "Bankless Token",
+    "symbol": "BANK/Bankless",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2d94AA3e47d9D5024503Ca8491fcE9A2fB4DA198/logo.png"
+  },
+  {
+    "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+    "chainId": 1,
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0391D2021f89DC339F60Fff84546EA23E337750f/logo.png"
+  },
+  {
+    "address": "0x673f9488619821aB4f4155FdFFe06f6139De518F",
+    "chainId": 1,
+    "name": "BarnBridge junior cDAI",
+    "symbol": "bbcDAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x673f9488619821aB4f4155FdFFe06f6139De518F/logo.png"
+  },
+  {
+    "address": "0xd084944d3c05CD115C09d072B9F44bA3E0E45921",
+    "chainId": 1,
+    "name": "Manifold Finance",
+    "symbol": "FOLD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xd084944d3c05CD115C09d072B9F44bA3E0E45921/logo.png"
+  },
+  {
+    "address": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
+    "chainId": 1,
+    "name": "Sunder Goverance Token",
+    "symbol": "Sunder",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6/logo.png"
+  },
+  {
+    "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+    "chainId": 1,
+    "name": "Fei",
+    "symbol": "FEI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
   }
 ]
