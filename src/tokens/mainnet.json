@@ -2118,5 +2118,13 @@
     "symbol": "FOLD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xd084944d3c05CD115C09d072B9F44bA3E0E45921/logo.png"
+  },
+  {
+    "address": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
+    "chainId": 1,
+    "name": "Sunder Goverance Token",
+    "symbol": "Sunder",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6/logo.png"
   }
 ]
