@@ -1,0 +1,98 @@
+[
+  {
+    "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
+    "name": "CeloShiba",
+    "symbol": "cSHIBA",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
+    "name": "Savings CELO",
+    "symbol": "sCELO",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
+    "name": "Celo Moss Carbon Credit",
+    "symbol": "cMCO2",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+    "name": "Celo",
+    "symbol": "CELO",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+    "name": "Moola cUSD",
+    "symbol": "mcUSD",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
+    "name": "Moola CELO",
+    "symbol": "mCELO",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "name": "Celo Dollar",
+    "symbol": "cUSD",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
+    "name": "Duniapay West African CFA franc",
+    "symbol": "cXOF",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
+    "name": "Moola cEUR",
+    "symbol": "mcEUR",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+    "name": "Wrapped Bitcoin",
+    "symbol": "cBTC",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+    "name": "Celo Euro",
+    "symbol": "cEUR",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  },
+  {
+    "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
+    "name": "CeloDoge",
+    "symbol": "cDOGE",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+  }
+]
