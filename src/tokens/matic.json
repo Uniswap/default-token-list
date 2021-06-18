@@ -270,5 +270,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x4EaC4c4e9050464067D673102F8E24b2FccEB350/logo.png"
+  },
+  {
+    "name": "Gemstones",
+    "address": "0x0d962A1A2A27B402e4D84772dea65Ac8592Eb6bF",
+    "symbol": "GMS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d962A1A2A27B402e4D84772dea65Ac8592Eb6bF/logo.png"
   }
 ]
