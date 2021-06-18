@@ -2142,5 +2142,13 @@
     "symbol": "VOL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5166E09628b696285E3A151e84FB977736a83575/logo.png"
+  },
+  {
+    "address": "0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B",
+    "chainId": 1,
+    "name": "I Bet You",
+    "symbol": "IBY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B/logo.png"
   }
 ]
