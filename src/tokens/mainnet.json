@@ -2134,5 +2134,13 @@
     "symbol": "FEI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
+  },
+  {
+    "address": "0x5166E09628b696285E3A151e84FB977736a83575",
+    "chainId": 1,
+    "name": "Volatility Protocol Token",
+    "symbol": "VOL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5166E09628b696285E3A151e84FB977736a83575/logo.png"
   }
 ]
