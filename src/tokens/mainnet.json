@@ -13,7 +13,7 @@
     "name": "SushiSwap",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -21,7 +21,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -29,7 +29,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/usdt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   },
   {
     "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -37,7 +37,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
@@ -45,7 +45,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/dai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
     "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
@@ -53,7 +53,7 @@
     "name": "Synth sUSD",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/susd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/susd.jpg"
   },
   {
     "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
@@ -61,7 +61,7 @@
     "name": "UMA Voting Token v1",
     "symbol": "UMA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/uma.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uma.jpg"
   },
   {
     "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
@@ -69,7 +69,7 @@
     "name": "Band Protocol",
     "symbol": "BAND",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/band.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg"
   },
   {
     "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
@@ -77,7 +77,7 @@
     "name": "Chain Link",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/link.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
   },
   {
     "address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
@@ -85,7 +85,7 @@
     "name": "Ampleforth",
     "symbol": "AMPL",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ampl.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ampl.jpg"
   },
   {
     "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
@@ -93,7 +93,7 @@
     "name": "Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/comp.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/comp.jpg"
   },
   {
     "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
@@ -101,7 +101,7 @@
     "name": "EthLend",
     "symbol": "LEND",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/lend.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/lend.jpg"
   },
   {
     "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
@@ -109,7 +109,7 @@
     "name": "Synthetix Network Token",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/snx.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
   },
   {
     "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
@@ -117,7 +117,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/yfi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
   },
   {
     "address": "0x408e41876cCCDC0F92210600ef50372656052a38",
@@ -125,7 +125,7 @@
     "name": "Republic",
     "symbol": "REN",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ren.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ren.jpg"
   },
   {
     "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
@@ -133,7 +133,7 @@
     "name": "Serum",
     "symbol": "SRM",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/srm.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/srm.jpg"
   },
   {
     "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
@@ -141,7 +141,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/crv.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
   },
   {
     "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
@@ -149,7 +149,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/uni.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
   },
   {
     "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
@@ -157,7 +157,7 @@
     "name": "SushiBar",
     "symbol": "xSUSHI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/xsushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
   },
   {
     "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
@@ -173,7 +173,7 @@
     "name": "Wrapped Bitcoin",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
@@ -181,7 +181,7 @@
     "name": "Cream",
     "symbol": "CREAM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/cream.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cream.jpg"
   },
   {
     "address": "0xD5525D397898e5502075Ea5E830d8914f6F0affe",
@@ -197,7 +197,7 @@
     "name": "Wrapped NXM",
     "symbol": "wNXM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/wnxm.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wnxm.jpg"
   },
   {
     "address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",
@@ -221,7 +221,7 @@
     "name": "OmiseGO",
     "symbol": "OMG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/omg.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/omg.jpg"
   },
   {
     "address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
@@ -245,7 +245,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/mkr.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
   },
   {
     "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
@@ -261,7 +261,7 @@
     "name": "Hegic",
     "symbol": "HEGIC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/hegic.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/hegic.jpg"
   },
   {
     "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
@@ -269,7 +269,7 @@
     "name": "AAVE",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/aave.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
   },
   {
     "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
@@ -277,7 +277,7 @@
     "name": "Amp",
     "symbol": "AMP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/amp.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/amp.jpg"
   },
   {
     "address": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
@@ -293,7 +293,7 @@
     "name": "Rarible",
     "symbol": "RARI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/rari.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rari.jpg"
   },
   {
     "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
@@ -301,7 +301,7 @@
     "name": "Defi Pulse Index",
     "symbol": "DPI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/dpi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dpi.jpg"
   },
   {
     "address": "0xe1406825186D63980fd6e2eC61888f7B91C4bAe4",
@@ -341,7 +341,7 @@
     "name": "xDAI",
     "symbol": "STAKE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/stake.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/stake.jpg"
   },
   {
     "address": "0x8762db106B2c2A0bccB3A80d1Ed41273552616E8",
@@ -349,7 +349,7 @@
     "name": "Reserve Rights",
     "symbol": "RSR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/rsr.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rsr.jpg"
   },
   {
     "address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
@@ -373,7 +373,7 @@
     "name": "Akropolis",
     "symbol": "AKRO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/akro.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/akro.jpg"
   },
   {
     "address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
@@ -413,7 +413,7 @@
     "name": "Keep3rV1",
     "symbol": "KP3R",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/kp3r.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kp3r.jpg"
   },
   {
     "address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
@@ -453,7 +453,7 @@
     "name": "Aragon",
     "symbol": "ANT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ant.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ant.jpg"
   },
   {
     "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
@@ -493,7 +493,7 @@
     "name": "Injective Protocol",
     "symbol": "INJ",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/inj.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/inj.jpg"
   },
   {
     "address": "0x3c9d6c1C73b31c837832c72E04D3152f051fc1A9",
@@ -501,7 +501,7 @@
     "name": "BoringDao",
     "symbol": "BOR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/bor.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bor.jpg"
   },
   {
     "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
@@ -509,7 +509,7 @@
     "name": "saffron.finance",
     "symbol": "SFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/sfi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sfi.jpg"
   },
   {
     "address": "0x5BC25f649fc4e26069dDF4cF4010F9f706c23831",
@@ -533,7 +533,7 @@
     "name": "Badger DAO",
     "symbol": "BADGER",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/badger.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/badger.jpg"
   },
   {
     "address": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
@@ -557,7 +557,7 @@
     "name": "Jarvis Reward Token",
     "symbol": "JRT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/jrt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/jrt.jpg"
   },
   {
     "address": "0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5",
@@ -621,7 +621,7 @@
     "name": "TerraUSD",
     "symbol": "UST",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ust.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg"
   },
   {
     "address": "0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B",
@@ -685,7 +685,7 @@
     "name": "Frontier",
     "symbol": "FRONT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/front.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/front.jpg"
   },
   {
     "address": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
@@ -701,7 +701,7 @@
     "name": "TrueFi",
     "symbol": "TRU",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/tru.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tru.jpg"
   },
   {
     "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
@@ -709,7 +709,7 @@
     "name": "Alpha Finance",
     "symbol": "ALPHA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/alpha.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/alpha.jpg"
   },
   {
     "address": "0x7cA4408137eb639570F8E647d9bD7B7E8717514A",
@@ -733,7 +733,7 @@
     "name": "1inch Exchange",
     "symbol": "1INCH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/1inch.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
   },
   {
     "address": "0x368B3a58B5f49392e5C9E4C998cb0bB966752E51",
@@ -757,7 +757,7 @@
     "name": "Cover Protocol",
     "symbol": "COVER",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/cover.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cover.jpg"
   },
   {
     "address": "0x3155BA85D5F96b2d030a4966AF206230e46849cb",
@@ -765,7 +765,7 @@
     "name": "THORChain ETH.RUNE",
     "symbol": "RUNE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/rune.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rune.jpg"
   },
   {
     "address": "0xDb0f18081b505A7DE20B18ac41856BCB4Ba86A1a",
@@ -821,7 +821,7 @@
     "name": "LON Token",
     "symbol": "LON",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/lon.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/lon.jpg"
   },
   {
     "address": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a",
@@ -885,7 +885,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/tusd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tusd.jpg"
   },
   {
     "address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
@@ -917,7 +917,7 @@
     "name": "Meta",
     "symbol": "MTA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/mta.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mta.jpg"
   },
   {
     "address": "0x374CB8C27130E2c9E04F44303f3c8351B9De61C1",
@@ -933,7 +933,7 @@
     "name": "Rari Governance Token",
     "symbol": "RGT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/rgt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rgt.jpg"
   },
   {
     "address": "0x875773784Af8135eA0ef43b5a374AaD105c5D39e",
@@ -997,7 +997,7 @@
     "name": "Fantom Token",
     "symbol": "FTM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ftm.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
   },
   {
     "address": "0xc5bDdf9843308380375a611c18B50Fb9341f502A",
@@ -1293,7 +1293,7 @@
     "name": "The Graph",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/grt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg"
   },
   {
     "address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
@@ -1309,7 +1309,7 @@
     "name": "0x",
     "symbol": "ZRX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/zrx.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zrx.jpg"
   },
   {
     "address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
@@ -1333,7 +1333,7 @@
     "name": "Perpetual Protocol",
     "symbol": "PERP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/perp.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/perp.jpg"
   },
   {
     "address": "0x92E187a03B6CD19CB6AF293ba17F2745Fd2357D5",
@@ -1365,7 +1365,7 @@
     "name": "Alchemix",
     "symbol": "ALCX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/alcx.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/alcx.jpg"
   },
   {
     "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
@@ -1389,7 +1389,7 @@
     "name": "Polygon",
     "symbol": "MATIC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/matic.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
   },
   {
     "address": "0x19D97D8fA813EE2f51aD4B4e04EA08bAf4DFfC28",
@@ -1413,7 +1413,7 @@
     "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/bar.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bar.jpg"
   },
   {
     "address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
@@ -1461,7 +1461,7 @@
     "name": "RLC",
     "symbol": "RLC",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/rlc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rlc.jpg"
   },
   {
     "address": "0x1062aD0E59fa67fa0b27369113098cC941Dd0D5F",
@@ -1533,7 +1533,7 @@
     "name": "bZx Protocol Token",
     "symbol": "BZRX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/bzrx.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bzrx.jpg"
   },
   {
     "address": "0x160B1E5aaBFD70B2FC40Af815014925D71CEEd7E",
@@ -1549,7 +1549,7 @@
     "name": "Ocean Token",
     "symbol": "OCEAN",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ocean.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ocean.jpg"
   },
   {
     "address": "0x0AbdAce70D3790235af448C88547603b945604ea",
@@ -1557,7 +1557,7 @@
     "name": "district0x",
     "symbol": "DNT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/dnt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dnt.jpg"
   },
   {
     "address": "0x67c597624B17b16fb77959217360B7cD18284253",
@@ -1677,7 +1677,7 @@
     "name": "IceToken",
     "symbol": "ICE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ice.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
   },
   {
     "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
@@ -1749,7 +1749,7 @@
     "name": "Ankr Network",
     "symbol": "ANKR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/ankr.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ankr.jpg"
   },
   {
     "address": "0x896e145568624a498c5a909187363AE947631503",
@@ -1781,7 +1781,7 @@
     "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/busd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
   },
   {
     "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
@@ -1789,7 +1789,7 @@
     "name": "HUSD",
     "symbol": "HUSD",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/husd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/husd.jpg"
   },
   {
     "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
@@ -1797,7 +1797,7 @@
     "name": "Paxos Standard",
     "symbol": "PAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/pax.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/pax.jpg"
   },
   {
     "address": "0x1cF4592ebfFd730c7dc92c1bdFFDfc3B9EfCf29a",
@@ -1805,7 +1805,7 @@
     "name": "Waves",
     "symbol": "WAVES",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/waves.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/waves.jpg"
   },
   {
     "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
@@ -1813,7 +1813,7 @@
     "name": "Crypo.com Coin",
     "symbol": "CRO",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/cro.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cro.jpg"
   },
   {
     "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
@@ -1821,7 +1821,7 @@
     "name": "EnjinCoin",
     "symbol": "ENJ",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/enj.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/enj.jpg"
   },
   {
     "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
@@ -1829,7 +1829,7 @@
     "name": "Celsius",
     "symbol": "CEL",
     "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/cel.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg"
   },
   {
     "address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
@@ -1837,7 +1837,7 @@
     "name": "Rai Reflex Index",
     "symbol": "RAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/rai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rai.jpg"
   },
   {
     "address": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
@@ -1901,7 +1901,7 @@
     "name": "Decentraland",
     "symbol": "MANA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/mana.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mana.jpg"
   },
   {
     "address": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
@@ -1949,7 +1949,7 @@
     "name": "Melon Token",
     "symbol": "MLN",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/mln.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mln.jpg"
   },
   {
     "address": "0x4a615bB7166210CCe20E6642a6f8Fb5d4D044496",
@@ -2061,7 +2061,7 @@
     "name": "Numeraire",
     "symbol": "NMR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/nmr.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nmr.jpg"
   },
   {
     "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
@@ -2069,7 +2069,7 @@
     "name": "AdEx Network",
     "symbol": "ADX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/adx.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/adx.jpg"
   },
   {
     "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
@@ -2077,7 +2077,7 @@
     "name": "LoopringCoin V2",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/token/lrc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/lrc.jpg"
   },
   {
     "address": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
