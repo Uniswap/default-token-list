@@ -29,7 +29,7 @@
     "symbol": "CELO",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/celo-square.jpg"
   },
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
