@@ -2182,5 +2182,13 @@
     "symbol": "ROUTE",
     "decimals": 18,
     "logoURI": "https://pbs.twimg.com/profile_images/1343619589599416320/bqH1VBiG_400x400.jpg"
+  },
+  {
+    "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+    "chainId": 1,
+    "name": "Presearch",
+    "symbol": "PRE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/PresearchOfficial/presearch-brand/master/logos/svg/presearch-icon-border-blue-transparent.svg"
   }
 ]
