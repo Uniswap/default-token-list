@@ -342,5 +342,13 @@
     "symbol": "NEXO",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png"
+  },
+  {
+    "name": "Gains Farm v2",
+    "address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
+    "symbol": "GFARM2",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8444.png"
   }
 ]
