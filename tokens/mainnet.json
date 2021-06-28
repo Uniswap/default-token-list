@@ -2246,5 +2246,13 @@
     "symbol": "CRD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/2859/small/CRD.png?1623397651"
+  },
+  {
+    "address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+    "chainId": 1,
+    "name": "Alchemist",
+    "symbol": "MIST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14655/small/79158662.png?1617589045"
   }
 ]
