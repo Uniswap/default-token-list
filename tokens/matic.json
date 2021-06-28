@@ -310,5 +310,13 @@
     "decimals": 9,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9158.png"
+  },
+  {
+    "name": "Router Protocol",
+    "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8292.png"
   }
 ]
