@@ -302,5 +302,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bat.jpg"
+  },
+  {
+    "name": "Moonwolf",
+    "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+    "symbol": "WOLF",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9158.png"
   }
 ]
