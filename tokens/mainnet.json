@@ -2158,5 +2158,13 @@
     "symbol": "IBY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B/logo.png"
+  },
+  {
+    "address": "0x4C25Bdf026Ea05F32713F00f73Ca55857Fbf6342",
+    "chainId": 1,
+    "name": "Font",
+    "symbol": "FONT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/fontcommunity/Font.community/master/logo.png"
   }
 ]
