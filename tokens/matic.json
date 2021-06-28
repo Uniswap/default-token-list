@@ -334,5 +334,13 @@
     "symbol": "CEL",
     "decimals": 4,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg"
+  },
+  {
+    "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+    "chainId": 137,
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png"
   }
 ]
