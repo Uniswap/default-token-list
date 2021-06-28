@@ -114,7 +114,7 @@
   {
     "name": "renDOGE",
     "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
-    "symbol": "renDOGE",
+    "symbol": "renDOGE (PoS)",
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6/logo.png"
