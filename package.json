@@ -5,8 +5,9 @@
   "main": "build/sushiswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/sushiswap-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build"
+    "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build",
+    "sync": "node internal/sync.js"
   },
   "files": [
     "build/sushiswap-default.tokenlist.json"
@@ -29,11 +30,15 @@
   "homepage": "https://github.com/sushiswap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
+    "@ethersproject/solidity": "^5.3.0",
     "@octokit/rest": "^18.6.2",
+    "@sushiswap/sdk": "^5.0.0-canary.22",
     "@uniswap/token-lists": "^1.0.0-beta.19",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
+    "lodash": "^4.17.21",
     "mocha": "^8.0.1",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "xlsx": "^0.17.0"
   }
 }
