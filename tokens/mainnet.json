@@ -1413,7 +1413,7 @@
     "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bar.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bat.jpg"
   },
   {
     "address": "0x99fE3B1391503A1bC1788051347A1324bff41452",
