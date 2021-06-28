@@ -2190,5 +2190,13 @@
     "symbol": "PRE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/PresearchOfficial/presearch-brand/master/logos/svg/presearch-icon-border-blue-transparent.svg"
+  },
+  {
+    "address": "0x00000000441378008EA67F4284A57932B1c000a5",
+    "chainId": 1,
+    "name": "TrueGBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12724/large/TGBP.png"
   }
 ]
