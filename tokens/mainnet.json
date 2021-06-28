@@ -2230,5 +2230,13 @@
     "symbol": "1ONE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg"
+  },
+  {
+    "address": "0xea6412Fb370e8d1605E6aEeAA21aD07C3C7e9F24",
+    "chainId": 1,
+    "name": "Mushroom",
+    "symbol": "Mush",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8502.png"
   }
 ]
