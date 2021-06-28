@@ -78,5 +78,29 @@
     "name": "Sushi Token",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
+    "symbol": "1AAVE",
+    "name": "Aave Token",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
+    "symbol": "1YFI",
+    "name": "yearn.finance",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+    "symbol": "1DAI",
+    "name": "Dai Stablecoin",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
   }
 ]
