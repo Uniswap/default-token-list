@@ -358,5 +358,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd5d84e75f48E75f01fb2EB6dFD8eA148eE3d0FEb/logo.png"
+  },
+  { 
+    "name": "Ren DOGE",
+    "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",   
+    "symbol": "renDOGE",   
+    "decimals": 8,   
+    "chainId": 137,   
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg" 
   }
 ]
