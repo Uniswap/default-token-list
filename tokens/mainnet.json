@@ -2222,5 +2222,13 @@
     "symbol": "CAPS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png"
+  },
+  {
+    "address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
+    "chainId": 1,
+    "name": "Harmony ONE",
+    "symbol": "1ONE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg"
   }
 ]
