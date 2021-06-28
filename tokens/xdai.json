@@ -1197,5 +1197,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
+  },
+  {
+    "name": "Minerva Wallet SuperToken",
+    "address": "0x63e62989D9EB2d37dfDB1F93A22f063635b07d51",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://minerva.digital/i/MIVA-Token_200x200.png"
   }
 ]
