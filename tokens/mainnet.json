@@ -2238,5 +2238,13 @@
     "symbol": "Mush",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8502.png"
+  },
+  {
+    "address": "0xcAaa93712BDAc37f736C323C93D4D5fDEFCc31CC",
+    "chainId": 1,
+    "name": "CRD Network",
+    "symbol": "CRD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2859/small/CRD.png?1623397651"
   }
 ]
