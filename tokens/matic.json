@@ -318,5 +318,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8292.png"
+  },
+  {
+    "name": "Audius",
+    "address": "0x5eB8D998371971D01954205c7AFE90A7AF6a95AC",
+    "symbol": "AUDIO",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png"
   }
 ]
