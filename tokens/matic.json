@@ -366,5 +366,13 @@
     "decimals": 8,   
     "chainId": 137,   
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg" 
+  },
+  { 
+    "name": "Ren BTC",
+    "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",   
+    "symbol": "renBTC",   
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg" 
   }
 ]
