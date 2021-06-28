@@ -350,5 +350,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8444.png"
+  },
+  {
+    "name": "bZX PGOV Token",
+    "address": "0xd5d84e75f48E75f01fb2EB6dFD8eA148eE3d0FEb",
+    "symbol": "PGOV",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd5d84e75f48E75f01fb2EB6dFD8eA148eE3d0FEb/logo.png"
   }
 ]
