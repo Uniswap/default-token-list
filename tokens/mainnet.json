@@ -2167,7 +2167,6 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/fontcommunity/Font.community/master/logo.png"
   },
-  ,
   {
     "name": "Golem",
     "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
@@ -2175,5 +2174,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429/logo.png"
+  },
+  {
+    "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+    "chainId": 1,
+    "name": "Router Protocol",
+    "symbol": "ROUTE",
+    "decimals": 18,
+    "logoURI": "https://pbs.twimg.com/profile_images/1343619589599416320/bqH1VBiG_400x400.jpg"
   }
 ]
