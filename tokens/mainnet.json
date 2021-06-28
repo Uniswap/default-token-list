@@ -2254,5 +2254,13 @@
     "symbol": "MIST",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14655/small/79158662.png?1617589045"
+  },
+  {
+    "address": "0x06F3C323f0238c72BF35011071f2b5B7F43A054c",
+    "chainId": 1,
+    "name": "MASQ",
+    "symbol": "MASQ",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8376.png"
   }
 ]
