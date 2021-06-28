@@ -472,14 +472,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39/logo.png"
   },
   {
-    "name": "Honey",
-    "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
-    "symbol": "HNY",
-    "decimals": 18,
-    "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/1Hive/default-token-list/master/src/assets/xdai/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
-  },
-  {
     "name": "HOPR Token on xDai",
     "address": "0xD057604A14982FE8D88c5fC25Aac3267eA142a08",
     "symbol": "HOPR",
