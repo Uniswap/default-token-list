@@ -5,7 +5,7 @@
     "symbol": "WONE",
     "decimals": 18,
     "chainId": 1666600000,
-    "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg"
   },
   {
     "chainId": 1666600000,
@@ -13,7 +13,7 @@
     "symbol": "BUSD",
     "name": "Binance USD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
   },
   {
     "chainId": 1666600000,
@@ -29,7 +29,7 @@
     "symbol": "1USDT",
     "name": "Tether USD",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   },
   {
     "chainId": 1666600000,
@@ -37,7 +37,7 @@
     "symbol": "1USDC",
     "name": "USD Coin",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
     "chainId": 1666600000,
@@ -45,7 +45,7 @@
     "symbol": "1WBTC",
     "name": "Wrapped BTC",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "chainId": 1666600000,
@@ -53,7 +53,7 @@
     "symbol": "1ETH",
     "name": "Ether",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "chainId": 1666600000,
@@ -61,7 +61,7 @@
     "symbol": "LINK",
     "name": "ChainLink Token",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
   },
   {
     "chainId": 1666600000,
@@ -69,7 +69,7 @@
     "symbol": "bscBUSD",
     "name": "BUSD Token",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
   },
   {
     "chainId": 1666600000,
@@ -77,7 +77,7 @@
     "symbol": "1SUSHI",
     "name": "Sushi Token",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
     "chainId": 1666600000,
@@ -85,7 +85,7 @@
     "symbol": "1AAVE",
     "name": "Aave Token",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
   },
   {
     "chainId": 1666600000,
@@ -93,7 +93,7 @@
     "symbol": "1YFI",
     "name": "yearn.finance",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11849/large/yfi-192x192.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
   },
   {
     "chainId": 1666600000,
@@ -101,6 +101,6 @@
     "symbol": "1DAI",
     "name": "Dai Stablecoin",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9956/large/dai-multi-collateral-mcd.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   }
 ]
