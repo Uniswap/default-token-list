@@ -630,5 +630,13 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+  },
+  {
+    "name": "MacaronSwap Token",
+    "symbol": "MCRN",
+    "address": "0xacb2d47827C9813AE26De80965845D80935afd0B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14633/small/macaron.png?1623038435"
   }
 ]
