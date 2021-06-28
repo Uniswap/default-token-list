@@ -2198,5 +2198,13 @@
     "symbol": "TGBP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12724/large/TGBP.png"
+  },
+  {
+    "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+    "chainId": 1,
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png"
   }
 ]
