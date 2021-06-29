@@ -374,5 +374,13 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg" 
+  },
+  { 
+    "name": "PYQ",
+    "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",   
+    "symbol": "PYQ",   
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png" 
   }
 ]
