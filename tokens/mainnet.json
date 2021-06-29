@@ -2227,7 +2227,7 @@
     "address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
     "chainId": 1,
     "name": "Harmony ONE",
-    "symbol": "1ONE",
+    "symbol": "ONE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg"
   },
