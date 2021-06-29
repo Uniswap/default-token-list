@@ -374,5 +374,13 @@
     "decimals": 8,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg" 
+  },
+  { 
+    "name": "PUSD",
+    "address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",   
+    "symbol": "PUSD",   
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72/logo.png" 
   }
 ]
