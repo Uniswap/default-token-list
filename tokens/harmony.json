@@ -26,7 +26,7 @@
   {
     "chainId": 1666600000,
     "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
-    "symbol": "1USDT",
+    "symbol": "USDT",
     "name": "Tether USD",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
@@ -34,7 +34,7 @@
   {
     "chainId": 1666600000,
     "address": "0x985458E523dB3d53125813eD68c274899e9DfAb4",
-    "symbol": "1USDC",
+    "symbol": "USDC",
     "name": "USD Coin",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
@@ -42,15 +42,15 @@
   {
     "chainId": 1666600000,
     "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
-    "symbol": "1WBTC",
-    "name": "Wrapped BTC",
+    "symbol": "BTC",
+    "name": "Bitcoin",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "chainId": 1666600000,
     "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
-    "symbol": "1ETH",
+    "symbol": "ETH",
     "name": "Ether",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
@@ -74,7 +74,7 @@
   {
     "chainId": 1666600000,
     "address": "0xBEC775Cb42AbFa4288dE81F387a9b1A3c4Bc552A",
-    "symbol": "1SUSHI",
+    "symbol": "SUSHI",
     "name": "Sushi Token",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
@@ -82,7 +82,7 @@
   {
     "chainId": 1666600000,
     "address": "0xcF323Aad9E522B93F11c352CaA519Ad0E14eB40F",
-    "symbol": "1AAVE",
+    "symbol": "AAVE",
     "name": "Aave Token",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
@@ -90,7 +90,7 @@
   {
     "chainId": 1666600000,
     "address": "0xa0dc05F84A27FcCBD341305839019aB86576bc07",
-    "symbol": "1YFI",
+    "symbol": "YFI",
     "name": "yearn.finance",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
@@ -98,7 +98,7 @@
   {
     "chainId": 1666600000,
     "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
-    "symbol": "1DAI",
+    "symbol": "DAI",
     "name": "Dai Stablecoin",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
