@@ -358,21 +358,37 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd5d84e75f48E75f01fb2EB6dFD8eA148eE3d0FEb/logo.png"
-  },  
-  { 
-    "name": "Ren DOGE",
-    "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",   
-    "symbol": "renDOGE",   
-    "decimals": 8,   
-    "chainId": 137,   
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg" 
   },
-  { 
-    "name": "Ren BTC",
-    "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",   
-    "symbol": "renBTC",   
+  {
+    "name": "Ren DOGE",
+    "address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+    "symbol": "renDOGE",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg" 
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+  },
+  {
+    "name": "Ren BTC",
+    "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+    "symbol": "renBTC",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+  },
+  {
+    "name": "Dark Magic",
+    "address": "0x61dAECaB65EE2A1D5b6032df030f3fAA3d116Aa7",
+    "symbol": "DMAGIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x61dAECaB65EE2A1D5b6032df030f3fAA3d116Aa7/logo.png"
+  },
+  {
+    "name": "Drax",
+    "address": "0x1Ba3510A9ceEb72E5CdBa8bcdDe9647E1f20fB4b",
+    "symbol": "DRAX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1Ba3510A9ceEb72E5CdBa8bcdDe9647E1f20fB4b/logo.png"
   }
 ]
