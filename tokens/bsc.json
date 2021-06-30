@@ -638,5 +638,13 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14633/small/macaron.png?1623038435"
+  },
+  {
+    "name": "WenLambo",
+    "symbol": "WENLAMBO",
+    "address": "0xd8A31016cD7da048ca21FFE04256C6d08C3A2251",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/15626/small/wenlambo.jpg?1621351104"
   }
 ]
