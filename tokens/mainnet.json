@@ -2262,5 +2262,13 @@
     "symbol": "MASQ",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8376.png"
+  },
+  {
+    "address": "0xE94B97b6b43639E238c851A7e693F50033EfD75C",
+    "chainId": 1,
+    "name": "Rainbow Token",
+    "symbol": "RNBW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE94B97b6b43639E238c851A7e693F50033EfD75C/logo.png"
   }
 ]
