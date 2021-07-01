@@ -365,7 +365,7 @@
     "symbol": "renDOGE",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xce829a89d4a55a63418bcc43f00145adef0edb8e/logo.png"
   },
   {
     "name": "Ren BTC",
@@ -373,7 +373,7 @@
     "symbol": "renBTC",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg" 
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.png" 
   },
   { 
 
