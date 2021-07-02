@@ -418,7 +418,7 @@
   },
   {
     "name": "JPY Coin",
-    "address": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+    "address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
     "symbol": "JPYC",
     "decimals": 18,
     "chainId": 137,
