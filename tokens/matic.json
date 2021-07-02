@@ -418,11 +418,10 @@
   },
   {
     "name": "JPY Coin",
-    "address": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53",
+    "address": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
     "symbol": "JPYC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9045.png"
-  }
-  
+    "logoURI": "https://jpyc.jp/static/media/jpyc.0d1e5d3f.png"
+  }  
 ]
