@@ -2270,5 +2270,14 @@
     "symbol": "RNBW",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE94B97b6b43639E238c851A7e693F50033EfD75C/logo.png"
+  },
+  {
+    "address": "0x2370f9d504c7a6E775bf6E14B3F12846b594cD53",
+    "chainId": 1,
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://jpyc.jp/static/media/jpyc.0d1e5d3f.png"
   }
 ]
+
