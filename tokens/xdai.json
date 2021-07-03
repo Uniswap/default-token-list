@@ -5,7 +5,7 @@
     "symbol": "WXDAI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://cryptologos.cc/logos/xdai-stake-logo.png?v=010"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
     "name": "1INCH Token on xDai",
@@ -13,7 +13,7 @@
     "symbol": "1INCH",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/1inch_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
   },
   {
     "name": "Aave Token on xDai",
@@ -21,7 +21,7 @@
     "symbol": "AAVE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
   },
   {
     "name": "Aave Interest bearing DAI on xDai",
@@ -141,7 +141,7 @@
     "symbol": "BADGER",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/Badger-Finance/badger-system/master/images/badger-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/badger.jpg"
   },
   {
     "name": "Balancer on xDai",
@@ -149,7 +149,7 @@
     "symbol": "BAL",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/Balancer_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/balancer.jpg"
   },
   {
     "name": "BandToken on xDai",
@@ -157,7 +157,7 @@
     "symbol": "BAND",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bandtoken_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg"
   },
   {
     "name": "BaoToken on xDai",
@@ -181,7 +181,7 @@
     "symbol": "BAT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bat.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bat.jpg"
   },
   {
     "name": "BlackDragon Token on xDai",
@@ -245,7 +245,7 @@
     "symbol": "CEL",
     "decimals": 4,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/celsiustoken1_28.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg"
   },
   {
     "name": "CelerToken on xDai",
@@ -277,7 +277,7 @@
     "symbol": "COIN",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x87b008E57F640D94Ee44Fd893F0323AF933F9195/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/coin.jpg"
   },
   {
     "name": "COLD TRUTH CASH",
@@ -293,7 +293,7 @@
     "symbol": "COMP",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/comp.jpg"
   },
   {
     "name": "Cream on xDai",
@@ -301,7 +301,7 @@
     "symbol": "CREAM",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/CreamFinance_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cream.jpg"
   },
   {
     "name": "Curve DAO Token on xDai",
@@ -309,7 +309,7 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
   },
   {
     "name": "Concentrated Voting Power on xDai",
@@ -325,7 +325,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
     "name": "Streamr DATAcoin on xDai",
@@ -381,7 +381,7 @@
     "symbol": "ENJ",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/enjin_28_2.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/enj.jpg"
   },
   {
     "name": "Ethereum Meta on xDai",
@@ -461,7 +461,7 @@
     "symbol": "GRT",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/TheGraph_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg"
   },
   {
     "name": "HEX on xDai",
@@ -533,7 +533,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
   },
   {
     "name": "Meridian Network on xDai",
@@ -573,7 +573,7 @@
     "symbol": "MANA",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0F5D2fB29fb7d3CFeE444a200298f468908cC942/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mana.jpg"
   },
   {
     "name": "Matic Token on xDai",
@@ -581,7 +581,7 @@
     "symbol": "MATIC",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/matictoken_28.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
   },
   {
     "name": "MCDEX Token on xDai",
@@ -629,7 +629,7 @@
     "symbol": "MKR",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
   },
   {
     "name": "MoonToken on xDai",
@@ -677,7 +677,7 @@
     "symbol": "OCEAN",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/oceantoken_28.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ocean.jpg"
   },
   {
     "name": "OM Token on xDai",
@@ -693,7 +693,7 @@
     "symbol": "OMG",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/OMGNetwork_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/omg.jpg"
   },
   {
     "name": "OWL on xDai",
@@ -797,7 +797,7 @@
     "symbol": "RARI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/rarible_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rari.jpg"
   },
   {
     "name": "Republic Token on xDai",
@@ -805,7 +805,7 @@
     "symbol": "REN",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x408e41876cCCDC0F92210600ef50372656052a38/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ren.jpg"
   },
   {
     "name": "renBTC on xDai",
@@ -813,7 +813,7 @@
     "symbol": "renBTC",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/renbtc_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "name": "renZEC on xDai",
@@ -821,7 +821,7 @@
     "symbol": "renZEC",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zec.jpg"
   },
   {
     "name": "Darwinia Network Native Token on xDai",
@@ -869,7 +869,7 @@
     "symbol": "SAI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sai.jpg"
   },
   {
     "name": "Synth sETH on xDai",
@@ -877,7 +877,7 @@
     "symbol": "SETH",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/SynthetixsETH_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/seth.jpg"
   },
   {
     "name": "Shenanigan SHWEATPANTS v3",
@@ -901,7 +901,7 @@
     "symbol": "SNX",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://assets.coingecko.com/coins/images/3406/small/SNX.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
   },
   {
     "name": "Sora Token on xDai",
@@ -917,7 +917,7 @@
     "symbol": "STAKE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0Ae055097C6d159879521C384F1D2123D1f195e6/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/stake.jpg"
   },
   {
     "name": "StorjToken on xDai",
@@ -933,7 +933,7 @@
     "symbol": "sUSD",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x57Ab1ec28D129707052df4dF418D58a2D46d5f51/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/susd.jpg"
   },
   {
     "name": "SushiToken on xDai",
@@ -941,7 +941,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/sushiswap_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
     "name": "TrustSwap Token on xDai",
@@ -1005,7 +1005,7 @@
     "symbol": "TUSD",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/trueusd_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tusd.jpg"
   },
   {
     "name": "UniBright on xDai",
@@ -1037,7 +1037,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://cloudflare-ipfs.com/ipfs/QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg/"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
   },
   {
     "name": "USDC on xDai",
@@ -1045,7 +1045,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
     "name": "Tether on xDai",
@@ -1053,7 +1053,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   },
   {
     "name": "VectorspaceAI on xDai",
@@ -1069,7 +1069,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "name": "Wrapped Ether on xDai",
@@ -1077,7 +1077,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "name": "Wrapped NXM on xDai",
@@ -1094,13 +1094,6 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://assets.coingecko.com/coins/images/11223/small/Brick.png"
-  },
-  {
-    "name": "xDankBillz",
-    "address": "0xDaADd8D96D01e47ee5E4eAFEcF14cbe46909f335",
-    "symbol": "xdbx",
-    "decimals": 18,
-    "chainId": 100
   },
   {
     "name": "XionGlobal Token",
@@ -1172,7 +1165,7 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
   },
   {
     "name": "Yield on xDai",
@@ -1188,7 +1181,7 @@
     "symbol": "ZRX",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/zrx_28.png?v=3"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zrx.jpg"
   },
   {
     "name": "Minerva Wallet SuperToken",
