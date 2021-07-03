@@ -200,11 +200,11 @@
     "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_wbtck.png"
   },
   {
-    "name": "BCHK",
-    "address": "0x18D103b7066AEedb6005B78A462Ef9027329b1EA",
-    "symbol": "BCHK",
+    "name": "DeFiner",
+    "address": "0x8D3573f24c0aa3819A2f5b02b2985dD82B487715",
+    "symbol": "FIN",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_bchk.png"
+    "logoURI": "https://static.oklink.com/cdn/explorer/icon/pool/unknow.png"
   }
 ]
