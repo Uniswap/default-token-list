@@ -415,5 +415,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4691937a7508860F876c9c0a2a617E7d9E945D4B/logo.png"
-  }
+  },
+  {
+    "name": "JPY Coin",
+    "address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://jpyc.jp/static/media/jpyc.0d1e5d3f.png"
+  }  
 ]
