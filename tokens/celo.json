@@ -93,7 +93,7 @@
     "symbol": "cBTC",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cBTC.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
@@ -109,6 +109,6 @@
     "symbol": "cDOGE",
     "decimals": 9,
     "chainId": 42220,
-    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
   }
 ]
