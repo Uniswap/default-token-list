@@ -106,10 +106,10 @@
   {
     "chainId": 1666600000,
     "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
-    "symbol": "1MATIC",
+    "symbol": "MATIC",
     "name": "Matic Token",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
   },
   {
     "chainId": 1666600000,
