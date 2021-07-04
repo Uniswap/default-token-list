@@ -102,5 +102,69 @@
     "name": "Dai Stablecoin",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
-  }
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
+    "symbol": "1MATIC",
+    "name": "Matic Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x90D81749da8867962c760414C1C25ec926E889b6",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x58f1b044d8308812881a1433d9Bbeff99975e70C",
+    "symbol": "1INCH",
+    "name": "1INCH Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x7b9c523d59AeFd362247Bd5601A89722e3774dD2",
+    "symbol": "SNX",
+    "name": "Synthetix Network Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xE7e3C4D1cFc722b45A428736845B6AfF862842a1",
+    "symbol": "WISE",
+    "name": "Wise Token",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1WISE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x582617bD8Ca80d22D4432E63Fda52D74dcDCEe4c",
+    "symbol": "bscADA",
+    "name": "Cardano Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ada.jpg"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x2F459Dd7CBcC9D8323621f6Fb430Cd0555411E7B",
+    "symbol": "JENN",
+    "name": "TokenJenny",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x08CB2917245BBE75C8C9c6Dc4a7B3765Dae02b31",
+    "symbol": "bscDOT",
+    "name": "Polkadot Token",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg"
+  },
 ]
