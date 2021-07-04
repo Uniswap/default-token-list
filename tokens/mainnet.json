@@ -2278,6 +2278,14 @@
     "symbol": "JPYC",
     "decimals": 18,
     "logoURI": "https://jpyc.jp/static/media/jpyc.0d1e5d3f.png"
+  },
+  {
+    "address": "0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A",
+    "chainId": 1,
+    "name": "Attrace",
+    "symbol": "ATTR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A/logo.png"
   }
 ]
 
