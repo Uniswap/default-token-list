@@ -423,5 +423,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://jpyc.jp/static/media/jpyc.0d1e5d3f.png"
+  },
+  {
+    "name": "BONE Token",
+    "address": "0x6bb45cEAC714c52342Ef73ec663479da35934bf7",
+    "symbol": "BONE",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6bb45cEAC714c52342Ef73ec663479da35934bf7/logo.png"
   }  
 ]
