@@ -2286,6 +2286,14 @@
     "symbol": "ATTR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44e2deC86B9F0e0266E9AA66e10323A2bd69CF9A/logo.png"
+  },
+  {
+    "address": "0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9",
+    "chainId": 1,
+    "name": "Kineko",
+    "symbol": "KKO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9/logo.png"
   }
 ]
 
