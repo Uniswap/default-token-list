@@ -431,5 +431,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6bb45cEAC714c52342Ef73ec663479da35934bf7/logo.png"
-  }  
+  },
+  {
+    "name": "BZRX Token",
+    "address": "0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2",
+    "symbol": "BZRX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2/logo.png"
+  }
 ]
