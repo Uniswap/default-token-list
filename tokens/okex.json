@@ -5,7 +5,7 @@
     "symbol": "WOKT",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://assets.coingecko.com/coins/images/13708/small/OKExChain.jpg?1611051839"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/okt.jpg"
   },
   {
     "name": "BTC",
@@ -13,7 +13,7 @@
     "symbol": "BTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_btck.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "name": "LTC",
@@ -21,7 +21,7 @@
     "symbol": "LTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_ltck.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ltc.jpg"
   },
   {
     "name": "ETH",
@@ -29,7 +29,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_ethk.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "name": "FIL",
@@ -37,7 +37,7 @@
     "symbol": "FIL",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg"
   },
   {
     "name": "DOT",
@@ -45,7 +45,7 @@
     "symbol": "DOT",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_dotk.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg"
   },
   {
     "name": "OKB",
@@ -61,7 +61,7 @@
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdc.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
     "name": "USDK",
@@ -77,7 +77,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdt.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   },
   {
     "name": "LINK",
@@ -85,7 +85,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
   },
   {
     "name": "SUSHI",
@@ -93,7 +93,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sushik.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
     "name": "UNI",
@@ -101,7 +101,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_unik.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
   },
   {
     "name": "ZKS",
@@ -128,12 +128,12 @@
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sfgk.png"
   },
   {
-    "name": "DAIK",
+    "name": "DAI",
     "address": "0x21cDE7E32a6CAF4742d00d44B07279e7596d26B9",
-    "symbol": "DAIK",
+    "symbol": "DAI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_daik.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
     "name": "KINE",
@@ -197,7 +197,7 @@
     "symbol": "WBTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_wbtck.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "name": "DeFiner",
