@@ -8,41 +8,41 @@
     "logoURI": "https://assets.coingecko.com/coins/images/13708/small/OKExChain.jpg?1611051839"
   },
   {
-    "name": "BTCK",
+    "name": "BTC",
     "address": "0x54e4622DC504176b3BB432dCCAf504569699a7fF",
-    "symbol": "BTCK",
+    "symbol": "BTC",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_btck.png"
   },
   {
-    "name": "LTCK",
+    "name": "LTC",
     "address": "0xfA520efC34C81bfC1E3DD48b7fE9fF326049f986",
-    "symbol": "LTCK",
+    "symbol": "LTC",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_ltck.png"
   },
   {
-    "name": "ETHK",
+    "name": "ETH",
     "address": "0xEF71CA2EE68F45B9Ad6F72fbdb33d707b872315C",
-    "symbol": "ETHK",
+    "symbol": "ETH",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_ethk.png"
   },
   {
-    "name": "FILK",
+    "name": "FIL",
     "address": "0x3F8969Be2FC0770dCc174968e4B4ff146E0ACDaF",
-    "symbol": "FILK",
+    "symbol": "FIL",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_filk.png"
   },
   {
-    "name": "DOTK",
+    "name": "DOT",
     "address": "0xabc732f6f69a519F6d508434481376B6221eb7d5",
-    "symbol": "DOTK",
+    "symbol": "DOT",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_dotk.png"
@@ -80,49 +80,49 @@
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_usdt.png"
   },
   {
-    "name": "LINKK",
+    "name": "LINK",
     "address": "0x9B99c3Ce751aA292320033f93a1376902d4bA58b",
-    "symbol": "LINKK",
+    "symbol": "LINK",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
   },
   {
-    "name": "SUSHIK",
+    "name": "SUSHI",
     "address": "0x2218E0D5E0173769F5b4939a3aE423f7e5E4EAB7",
-    "symbol": "SUSHIK",
+    "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sushik.png"
   },
   {
-    "name": "UNIK",
+    "name": "UNI",
     "address": "0x59D226BB0a4d74274D4354EBb6a0E1A1Aa5175B6",
-    "symbol": "UNIK",
+    "symbol": "UNI",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_unik.png"
   },
   {
-    "name": "ZKSK",
+    "name": "ZKS",
     "address": "0xCD08D321f6Bc10a10f094e4b2E6C9b8bF9906401",
-    "symbol": "ZKSK",
+    "symbol": "ZKS",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_zksk.png"
   },
   {
-    "name": "AUCTIONK",
+    "name": "AUCTION",
     "address": "0x77Df6ebec3316792D4ea5bc0f8286c27905Aa8e8",
-    "symbol": "AUCTIONK",
+    "symbol": "AUCTION",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_auctionk.png"
   },
   {
-    "name": "SFGK",
+    "name": "SFG",
     "address": "0x3212606F74Cc59656E1EC6f587FCA61bA3B85eb0",
-    "symbol": "SFGK",
+    "symbol": "SFG",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_sfgk.png"
@@ -136,9 +136,9 @@
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_daik.png"
   },
   {
-    "name": "KINEK",
+    "name": "KINE",
     "address": "0xc05760d75E7F5Ad428a906674Ce7c7c82d003d01",
-    "symbol": "KINEK",
+    "symbol": "KINE",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.bafang.com/cdn/explorer/okexchain/exchain_kinek.png"
@@ -146,7 +146,7 @@
   {
     "name": "FLUXK",
     "address": "0xd0C6821aba4FCC65e8f1542589e64BAe9dE11228",
-    "symbol": "FLUXK",
+    "symbol": "FLUX",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://assets.coingecko.com/coins/images/15002/small/logo.dabc411c.png?1619402947"
@@ -176,25 +176,25 @@
     "logoURI": "https://assets.coingecko.com/coins/images/11873/small/NerveNetwork.png?1595541544"
   },
   {
-    "name": "SHIBK",
+    "name": "SHIB",
     "address": "0xaa27bADaa3C9ec9081b8f6C9cDd2bf375F143780",
-    "symbol": "SHIBK",
+    "symbol": "SHIB",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_shibk.png"
   },
   {
-    "name": "ETCK",
+    "name": "ETC",
     "address": "0x99970778E2715bBc9Cf8fb83D10dCBC2D2D551A3",
-    "symbol": "ETCK",
+    "symbol": "ETC",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_etck.png"
   },
   {
-    "name": "WBTCK",
+    "name": "WBTC",
     "address": "0x506f731F7656e2FB34b587B912808f2a7aB640BD",
-    "symbol": "WBTCK",
+    "symbol": "WBTC",
     "decimals": 18,
     "chainId": 66,
     "logoURI": "https://static.coinall.ltd/cdn/explorer/okexchain/exchain_wbtck.png"
