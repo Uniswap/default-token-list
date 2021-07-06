@@ -373,21 +373,21 @@
     "symbol": "renBTC",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.png" 
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.png"
   },
-  { 
+  {
 
     "name": "PUSD",
-    "address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",   
-    "symbol": "PUSD",   
+    "address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+    "symbol": "PUSD",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72/logo.png"
   },
   {
     "name": "PYQ",
-    "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",   
-    "symbol": "PYQ",   
+    "address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+    "symbol": "PYQ",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8/logo.png"
@@ -433,11 +433,27 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6bb45cEAC714c52342Ef73ec663479da35934bf7/logo.png"
   },
   {
+    "name": "Polaris Token",
+    "address": "0xdC3aCB92712D1D44fFE15d3A8D66d9d18C81e038",
+    "symbol": "POLAR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdC3aCB92712D1D44fFE15d3A8D66d9d18C81e038/logo.png"
+  },
+  {
     "name": "BZRX Token",
     "address": "0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2",
     "symbol": "BZRX",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x54cFe73f2c7d0c4b62Ab869B473F5512Dc0944D2/logo.png"
+  },
+  {
+    "name": "Augury Finance",
+    "address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+    "symbol": "OMEN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E/logo.png"
   }
 ]
