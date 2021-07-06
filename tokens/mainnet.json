@@ -2302,5 +2302,37 @@
     "symbol": "TRIBE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B/logo.png"
+  },
+  {
+    "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+    "chainId": 1,
+    "name": "Bancor",
+    "symbol": "BNT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
+  },
+  {
+    "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+    "chainId": 1,
+    "name": "Paxos Gold",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x45804880De22913dAFE09f4980848ECE6EcbAf78/logo.png"
+  },
+  {
+    "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+    "chainId": 1,
+    "name": "Orchid",
+    "symbol": "OXT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4575f41308EC1483f3d399aa9a2826d74Da13Deb/logo.png"
+  },
+  {
+    "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+    "chainId": 1,
+    "name": "OriginToken",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png"
   }
 ]
