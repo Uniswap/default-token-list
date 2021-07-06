@@ -2294,6 +2294,13 @@
     "symbol": "KKO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x368c5290b13caa10284db58b4ad4f3e9ee8bf4c9/logo.png"
+  },
+  {
+    "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+    "chainId": 1,
+    "name": "Tribe",
+    "symbol": "TRIBE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B/logo.png"
   }
 ]
-
