@@ -205,6 +205,6 @@
     "symbol": "FIN",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://static.oklink.com/cdn/explorer/icon/pool/unknow.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/unkown.jpg"
   }
 ]
