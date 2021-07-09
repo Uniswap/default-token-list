@@ -2486,5 +2486,85 @@
     "symbol": "ZRX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zrx.jpg"
+  },
+  {
+    "address": "0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf",
+    "chainId": 1,
+    "name": "renBCH",
+    "symbol": "renBCH",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/11563/small/renBCH.png?1591185978"
+  },
+  {
+    "address": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
+    "chainId": 1,
+    "name": "Bytom",
+    "symbol": "BTM",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/1087/small/bytom.png?1547564390"
+  },
+  {
+    "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+    "chainId": 1,
+    "name": "Wrapped Celo",
+    "symbol": "wCELO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11090/small/icon-celo-CELO-color-500.png?1592293590"
+  },
+  {
+    "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+    "chainId": 1,
+    "name": "DIAToken",
+    "symbol": "DIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11955/small/DIA-icon-colour_%281%29.png?1596423488"
+  },
+  {
+    "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+    "chainId": 1,
+    "name": "Wrapped Filecoin",
+    "symbol": "WFIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933"
+  },
+  {
+    "address": "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab",
+    "chainId": 1,
+    "name": "IOSToken",
+    "symbol": "IOST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2523/small/IOST.png?1557555183"
+  },
+  {
+    "address": "0x4fE83213D56308330EC302a8BD641f1d0113A4Cc",
+    "chainId": 1,
+    "name": "NuCypher",
+    "symbol": "NU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/3318/small/photo1198982838879365035.jpg?1547037916"
+  },
+  {
+    "address": "0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096",
+    "chainId": 1,
+    "name": "Bounce Token",
+    "symbol": "AUCTION",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13860/small/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg?1612412025"
+  },
+  {
+    "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+    "chainId": 1,
+    "name": "HuobiToken",
+    "symbol": "HT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2822/small/huobi-token-logo.png?1547036992"
+  },
+  {
+    "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+    "chainId": 1,
+    "name": "OKB",
+    "symbol": "OKB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4463/small/okb_token.png?1548386209"
   }
 ]
