@@ -40,6 +40,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xFbdd194376de19a88118e84E279b977f165d01b8/logo.png"
   },
   {
+    "name": "BarnBridge",
+    "address": "0xA041544fe2BE56CCe31Ebb69102B965E06aacE80",
+    "symbol": "BOND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/12811/small/barnbridge.jpg?1602728853"
+  },
+  {
     "name": "BONE Token",
     "address": "0x6bb45cEAC714c52342Ef73ec663479da35934bf7",
     "symbol": "BONE",
@@ -240,11 +248,27 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
   },
   {
-    "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+    "address": "0x91cA694d2B293f70Fe722fbA7d8A5259188959c3",
+    "name": "Hifi Finance",
+    "symbol": "MFT",
+    "decimals": 18,
     "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/3293/small/hifi_logo.png?1613102742"
+  },
+  {
+    "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
+  },
+  {
+    "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
     "name": "Nexo",
     "symbol": "NEXO",
     "decimals": 18,
+    "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2694.png"
   },
   {
@@ -312,12 +336,20 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x580A84C73811E1839F75d86d75d88cCa0c241fF4/logo.png"
   },
   {
+    "name": "RipioCreditNetwork",
+    "address": "0x89C296Be2F904F3e99a6125815b4B78F5388d2dd",
+    "symbol": "RCN",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rcn.jpg"
+  },
+  {
     "name": "Ren BTC",
     "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
     "symbol": "renBTC",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdbf31df14b66535af65aac99c32e9ea844e14501/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "name": "Ren DOGE",
@@ -325,7 +357,7 @@
     "symbol": "renDOGE",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xce829a89d4a55a63418bcc43f00145adef0edb8e/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
   },
   {
     "name": "Ren DOGE/PoS",
@@ -342,6 +374,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8292.png"
+  },
+  {
+    "name": "The Sandbox",
+    "address": "0xC6d54D2f624bc83815b49d9c2203b1330B841cA0",
+    "symbol": "SAND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
   },
   {
     "name": "Synthetix Network Token",
@@ -382,6 +422,14 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A/logo.png"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+    "symbol": "UNI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
   },
   {
     "name": "USD Coin",
