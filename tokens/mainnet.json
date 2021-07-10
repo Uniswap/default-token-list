@@ -1147,9 +1147,9 @@
     "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
     "chainId": 1,
     "name": "Polygon",
-    "symbol": "MATIC",
+    "symbol": "WMATIC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
   },
   {
     "address": "0x26cF82e4aE43D31eA51e72B663d26e26a75AF729",
