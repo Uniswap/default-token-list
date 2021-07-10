@@ -72,6 +72,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x27702a26126e0B3702af63Ee09aC4d1A084EF628/logo.png"
   },
   {
+    "name": "Alpha Finance",
+    "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+    "symbol": "ALPHA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/alpha.jpg"
+  },
+  {
     "name": "Agave ALVIN v3",
     "address": "0x50DBde932A94b0c23D27cdd30Fbc6B987610c831",
     "symbol": "ALVIN",
@@ -368,6 +376,22 @@
     "logoURI": "https://assets.coingecko.com/coins/images/7538/small/Donut.png"
   },
   {
+    "name": "Polkadot Token from BSC",
+    "address": "0xe51Cf68301B30b06c72d38f5314FA85c94C8e5f1",
+    "symbol": "DOT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg"
+  },
+  {
+    "name": "DefiPulse Index from Ethereum",
+    "address": "0xD3D47d5578e55C880505dC40648F7F9307C3e7A8",
+    "symbol": "DPI",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dpi.jpg"
+  },
+  {
     "name": "Enigma on xDai",
     "address": "0x7a7d81657A1A66b38a6cA2565433A9873C6913B2",
     "symbol": "ENG",
@@ -422,6 +446,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xfffffffFf15AbF397dA76f1dcc1A1604F45126DB/logo.png"
+  },
+  {
+    "name": "FTT from Ethereum",
+    "address": "0x75886F00c1a20Ec1511111Fb4Ec3C51de65B1fe7",
+    "symbol": "FTT",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9/logo.png"
   },
   {
     "name": "Bitgear on xDai",
@@ -630,6 +662,14 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
+  },
+  {
+    "name": "Perpetual from Ethereum",
+    "address": "0x7ecF26cd9A36990b8ea477853663092333f59979",
+    "symbol": "PERP",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/perp.jpg"
   },
   {
     "name": "MoonToken on xDai",
@@ -944,6 +984,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
+    "name": "THORChain ETH.RUNE from Ethereum",
+    "address": "0x4c68041898bfEfbfCc4253fbE8eD30830E6eb767",
+    "symbol": "RUNE",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rune.jpg"
+  },
+  {
     "name": "TrustSwap Token on xDai",
     "address": "0xEAaccE3E5bCC10FB32c2553f8d6Fc4C3888ffDaD",
     "symbol": "SWAP",
@@ -1014,6 +1062,14 @@
     "decimals": 8,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e/logo.png"
+  },
+  {
+    "name": "UMA Voting Token v1 from Ethereum",
+    "address": "0x5806212Bec491bEb309E3F5C1F911eaC6f24cd6b",
+    "symbol": "UMA",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uma.jpg"
   },
   {
     "name": "UNCL on xDai",
