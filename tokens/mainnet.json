@@ -2566,5 +2566,13 @@
     "symbol": "OKB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/okb.jpg"
+  },
+  {
+    "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+    "chainId": 1,
+    "name": "KyberNetwork",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/knc.jpg"
   }
 ]
