@@ -696,6 +696,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5BC25f649fc4e26069dDF4cF4010F9f706c23831/logo.png"
   },
   {
+    "address": "0xDDdddd4301A082e62E84e43F474f044423921918",
+    "chainId": 1,
+    "name": "DeversiFi Token",
+    "symbol": "DVF",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDDdddd4301A082e62E84e43F474f044423921918/logo.png"
+  },
+  {
     "address": "0x2aA5cE395b00CC486159aDbDD97c55b535CF2cf9",
     "chainId": 1,
     "name": "Elastic Governance",
