@@ -2574,5 +2574,13 @@
     "symbol": "KNC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/knc.jpg"
+  },
+  {
+    "address": "0x99D8a9C45b2ecA8864373A26D1459e3Dff1e17F3",
+    "chainId": 1,
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://abracadabra.money/img/Token_MIM.12c48248.svg"
   }
 ]
