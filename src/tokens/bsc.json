@@ -5,7 +5,7 @@
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/binance/info/logo.png"
   },
   {
     "name": "bPrism",
@@ -13,6 +13,6 @@
     "symbol": "BPRISM",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/assets/master/blockchains/binance/assets/0x4cf12dd46bab9afc94e049342fd75a9eaff5d096/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/default-token-list.png"
   }
 ]
