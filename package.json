@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha",
     "release": "standard-version",
-    "build": "standard-version && rimraf build && mkdir -p build && node src/write.js > build/tokenlist.json",
+    "build": "standard-version && git push && rimraf build && mkdir -p build && node src/write.js > build/tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
