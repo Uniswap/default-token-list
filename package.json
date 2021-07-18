@@ -5,7 +5,7 @@
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped BNB",
+    "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+  },
+  {
+    "name": "bPrism",
+    "address": "0x944615Aec64170d73e514Ea636EC38EB33112d52",
+    "symbol": "BPRISM",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/assets/master/blockchains/binance/assets/0x4cf12dd46bab9afc94e049342fd75a9eaff5d096/logo.png"
+  }
+]
