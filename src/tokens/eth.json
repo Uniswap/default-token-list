@@ -13,7 +13,7 @@
     "symbol": "PRISM",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/default-token-list.png"
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/prism.png"
   },
   {
     "name": "Dai Stablecoin",
