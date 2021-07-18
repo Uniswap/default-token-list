@@ -408,12 +408,12 @@
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2b88aD57897A8b496595925F43048301C37615Da/logo.png"
 	},
 	{
-		"address": "0x94162cB84baDa965e4E3F572a4429Ec658dc5b70",
+		"address": "0x61E9c2F3501889f6167921087Bd6EA306002904a",
 		"chainId": 137,
 		"name": "Pixel",
 		"symbol": "PIXEL",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x94162cB84baDa965e4E3F572a4429Ec658dc5b70/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x61E9c2F3501889f6167921087Bd6EA306002904a/logo.png"
 	},
 	{
 		"name": "Polaris Token",
