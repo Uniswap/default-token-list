@@ -14,7 +14,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+    logoURI: "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png",
     keywords: ["empire", "default"],
     tokens: [...eth, ...bsc, ...bsctestnet]
       // sort them by symbol for easy readability
