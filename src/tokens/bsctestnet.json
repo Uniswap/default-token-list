@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 97,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/prism.png"
+  },
+  {
+    "name": "MoonShine.so",
+    "address": "0x9084DDaE59E1728F4E661e8318bf1631B290E06d",
+    "symbol": "SHINE",
+    "decimals": 18,
+    "chainId": 97,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsctestnet/0x9084DDaE59E1728F4E661e8318bf1631B290E06d/logo.png"
   }
 ]
