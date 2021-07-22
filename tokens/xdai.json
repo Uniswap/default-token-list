@@ -21,7 +21,7 @@
     "symbol": "BAO",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://etherscan.io/token/images/bao_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bao.jpg"
   },
   {
     "name": "Curve DAO Token on xDai",
