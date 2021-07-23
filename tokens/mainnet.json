@@ -1920,14 +1920,6 @@
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uma.jpg"
 	},
 	{
-		"address": "0x1062aD0E59fa67fa0b27369113098cC941Dd0D5F",
-		"chainId": 1,
-		"name": "UMA 35 CALL April 30",
-		"symbol": "UMAc35-0421",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
-	},
-	{
 		"address": "0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2",
 		"chainId": 1,
 		"name": "Umbrella",
@@ -2606,5 +2598,77 @@
 		"symbol": "yveCRV-DAO",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc5bDdf9843308380375a611c18B50Fb9341f502A/logo.png"
-	}
+	},
+  {
+    "chainId": 1,
+    "address": "0x0cae9e4d663793c2a2A0b211c1Cf4bBca2B9cAa7",
+    "name": "Mirrored Amazon",
+    "symbol": "MAMZN",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x31c63146a635EB7465e5853020b39713AC356991",
+    "name": "M US Oil",
+    "symbol": "MUSO",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x59A921Db27Dd6d4d974745B7FfC5c33932653442",
+    "name": "M Google",
+    "symbol": "MGOOGL",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf72FCd9DCF0190923Fadd44811E240Ef4533fc86",
+    "name": "Mirrored ProShares",
+    "symbol": "MVIXY",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x56aA298a19C93c6801FDde870fA63EF75Cc0aF72",
+    "name": "Mirrored Alibaba",
+    "symbol": "MBABA",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e99cC0535BB6251F6679Fa6E65d6d3b430e840B",
+    "name": "Mirrored Facebook",
+    "symbol": "MFB",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x41BbEDd7286dAab5910a1f15d12CBda839852BD7",
+    "name": "Mirrored Microsoft",
+    "symbol": "MMSFT",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9d1555d8cB3C846Bb4f7D5B1B1080872c3166676",
+    "name": "Mirrored iShares Si",
+    "symbol": "MSLV",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+  {
+    "chainId": 1,
+    "address": "0x21cA39943E91d704678F5D00b6616650F066fD63",
+    "name": "Mirrored Tesla",
+    "symbol": "MTSLA",
+    "decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  }
 ]
