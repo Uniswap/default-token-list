@@ -190,5 +190,13 @@
 		"name": "Polkadot Token",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0xeB6C08ccB4421b6088e581ce04fcFBed15893aC3",
+		"symbol": "FRAX",
+		"name": "Frax",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xeB6C08ccB4421b6088e581ce04fcFBed15893aC3/logo.png"
 	}
 ]
