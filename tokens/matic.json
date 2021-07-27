@@ -24,6 +24,14 @@
 		"logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png"
 	},
 	{
+		"name": "Axie Infinity",
+		"address": "0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b",
+		"symbol": "AXS",
+		"decimals": 18,
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x61BDD9C7d4dF4Bf47A4508c0c8245505F2Af5b7b/logo.png"
+	},
+	{
 		"address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
 		"chainId": 137,
 		"name": "Balancer",
