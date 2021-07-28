@@ -2670,5 +2670,13 @@
     "symbol": "MTSLA",
     "decimals": 18,
 		"logoURI": "https://assets.coingecko.com/coins/images/13645/small/mirror_logo_transparent.png?1611565327"
+  },
+	{
+    "chainId": 1,
+    "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
+    "name": "Yield Guild Games Token",
+    "symbol": "YGG",
+    "decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x25f8087EAD173b73D6e8B84329989A8eEA16CF73/logo.png"
   }
 ]
