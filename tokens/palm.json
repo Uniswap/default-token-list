@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Wrapped Palm",
+    "address": "0xF98cABF0a963452C5536330408B2590567611a71",
+    "symbol": "WPALM",
+    "decimals": 18,
+    "chainId": 11297108109,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/palm.jpg"
+  },
+  {
+		"name": "Dai Stablecoin",
+		"address": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",
+		"symbol": "DAI",
+		"decimals": 18,
+		"chainId": 11297108109,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+	}
+]
+
