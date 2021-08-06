@@ -1096,18 +1096,10 @@
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x66C0DDEd8433c9EA86C8cf91237B14e10b4d70B7/logo.png"
 	},
 	{
-		"address": "0x0fe629d1E84E171f8fF0C1Ded2Cc2221Caa48a3f",
-		"chainId": 1,
-		"name": "NFTX Hashmasks Index",
-		"symbol": "MASK/Hashmasks",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0fe629d1E84E171f8fF0C1Ded2Cc2221Caa48a3f/logo.png"
-	},
-	{
 		"address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
 		"chainId": 1,
 		"name": "Mask Network",
-		"symbol": "MASK/MaskNetwork",
+		"symbol": "MASK",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png"
 	},
@@ -1494,54 +1486,6 @@
 		"symbol": "PUNDIX",
 		"decimals": 18,
 		"logoURI": "https://assets.coingecko.com/coins/images/14571/small/vDyefsXq_400x400.jpg?1617085003"
-	},
-	{
-		"address": "0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5",
-		"chainId": 1,
-		"name": "Punk",
-		"symbol": "PUNK",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9cea2eD9e47059260C97d697f82b8A14EfA61EA5/logo.png"
-	},
-	{
-		"address": "0x49706a576bb823cdE3180C930F9947d59e2deD4D",
-		"chainId": 1,
-		"name": "Punk-Attr-4",
-		"symbol": "PUNK-ATTR-4",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x49706a576bb823cdE3180C930F9947d59e2deD4D/logo.png"
-	},
-	{
-		"address": "0xAB9c92A9337A1494C6D545E48187Fa37144403c8",
-		"chainId": 1,
-		"name": "Punk-Attr-5",
-		"symbol": "PUNK-ATTR-5",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xAB9c92A9337A1494C6D545E48187Fa37144403c8/logo.png"
-	},
-	{
-		"address": "0x69BbE2FA02b4D90A944fF328663667DC32786385",
-		"chainId": 1,
-		"name": "Punk-Basic",
-		"symbol": "PUNK-BASIC",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69BbE2FA02b4D90A944fF328663667DC32786385/logo.png"
-	},
-	{
-		"address": "0x27Ffed7E5926Fb2795fC85aAab558243F280A8a2",
-		"chainId": 1,
-		"name": "Punk-Female",
-		"symbol": "PUNK-FEMALE",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x27Ffed7E5926Fb2795fC85aAab558243F280A8a2/logo.png"
-	},
-	{
-		"address": "0xF18ade29a225fAa555e475eE01F9Eb66eb4a3a74",
-		"chainId": 1,
-		"name": "Punk-Zombie",
-		"symbol": "PUNK-ZOMBIE",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF18ade29a225fAa555e475eE01F9Eb66eb4a3a74/logo.png"
 	},
 	{
 		"address": "0x03ab458634910AaD20eF5f1C8ee96F1D6ac54919",
