@@ -2635,7 +2635,7 @@
 	"chainId": 1,
 	"address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
 	"name": "MaidCoin",
-	"symbol": "$MAID",
+	"symbol": "MAID",
 	"decimals": 18,
 	"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4Af698B479D0098229DC715655c667Ceb6cd8433/logo.png"
   }
