@@ -1,7 +1,7 @@
 [
   {
     "name": "Wrapped BNB",
-    "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
     "symbol": "WBNB",
     "decimals": 18,
     "chainId": 56,
@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/prism.png"
+  },
+  {
+    "name": "Empire",
+    "address": "0xc83859C413a6bA5ca1620cD876c7E33a232c1C34",
+    "symbol": "EMPIRE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png"
   }
 ]
