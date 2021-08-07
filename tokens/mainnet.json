@@ -2630,5 +2630,13 @@
     "symbol": "EDEN",
     "decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559/logo.png"
+  },
+  {
+	"chainId": 1,
+	"address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
+	"name": "MaidCoin",
+	"symbol": "$MAID",
+	"decimals": 18,
+	"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4Af698B479D0098229DC715655c667Ceb6cd8433/logo.png"
   }
 ]
