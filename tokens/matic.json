@@ -669,7 +669,7 @@
 		"symbol": "renBTC",
 		"decimals": 8,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501/logo.png"
 	},
 	{
 		"name": "Ren DOGE",
@@ -677,15 +677,7 @@
 		"symbol": "renDOGE",
 		"decimals": 8,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
-	},
-	{
-		"name": "Ren DOGE/PoS",
-		"address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
-		"symbol": "renDOGE/PoS",
-		"decimals": 8,
-		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png"
 	},
 	{
 		"name": "Wrapped Filecoin",
@@ -694,5 +686,45 @@
 		"decimals": 18,
 		"chainId": 137,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg"
+	},
+	{
+		"name": "ARPA Token",
+		"address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
+		"symbol": "ARPA",
+		"decimals": 18,
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xEE800B277A96B0f490a1A732e1D6395FAD960A26/logo.png"
+	},
+	{
+		"name": "Polyroll Token",
+		"address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
+		"symbol": "ROLL",
+		"decimals": 18,
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC68e83a305b0FaD69E264A1769a0A070F190D2d6/logo.png"
+	},
+	{
+		"name": "Standard",
+		"address": "0x0795106fE1D6B169E26AeC99EFDf27a4262a4a9e",
+		"symbol": "STND",
+		"decimals": 18,
+		"chainId": 137,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0795106fe1d6b169e26aec99efdf27a4262a4a9e/logo.png"
+	},
+	{
+		"chainId": 137,
+		"address": "0x2628568509E87c4429fBb5c664Ed11391BE1BD29",
+		"name": "renDGB",
+		"symbol": "renDGB",
+		"decimals": 8,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2628568509E87c4429fBb5c664Ed11391BE1BD29/logo.png"
+	},
+	{
+		"chainId": 137,
+		"address": "0xc4Ace9278e7E01755B670C0838c3106367639962",
+		"name": "renFIL",
+		"symbol": "renFIL",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc4Ace9278e7E01755B670C0838c3106367639962/logo.png"
 	}
 ]
