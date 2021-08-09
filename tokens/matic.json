@@ -733,6 +733,14 @@
 		"name": "axMatic",
 		"symbol": "AXMATIC",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/unknown.jpg"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9/logo.png"
+	},
+	{
+		"chainId": 137,
+		"address": "0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a",
+		"name": "Polygon Bunny Token",
+		"symbol": "polyBUNNY",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a/logo.png"
 	}
 ]
