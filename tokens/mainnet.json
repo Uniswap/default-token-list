@@ -2381,7 +2381,7 @@
 		"name": "renBCH",
 		"symbol": "renBCH",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bch.jpg"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x459086F2376525BdCebA5bDDA135e4E9d3FeF5bf/logo.png"
 	},
 	{
 		"address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
@@ -2389,7 +2389,7 @@
 		"name": "renBTC",
 		"symbol": "renBTC",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png"
 	},
 	{
 		"address": "0x3832d2F059E55934220881F831bE501D180671A7",
@@ -2402,10 +2402,10 @@
 	{
 		"address": "0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2",
 		"chainId": 1,
-		"name": "renZCH",
-		"symbol": "renZCH",
+		"name": "renZEC",
+		"symbol": "renZEC",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zec.jpg"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1C5db575E2Ff833E46a2E9864C22F4B22E0B37C2/logo.png"
 	},
 	{
 		"address": "0xeABACD844A196D7Faf3CE596edeBF9900341B420",
@@ -2632,11 +2632,115 @@
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1559FA1b8F28238FD5D76D9f434ad86FD20D1559/logo.png"
   },
   {
-	"chainId": 1,
-	"address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
-	"name": "MaidCoin",
-	"symbol": "MAID",
-	"decimals": 18,
-	"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4Af698B479D0098229DC715655c667Ceb6cd8433/logo.png"
-  }
+		"chainId": 1,
+		"address": "0x4Af698B479D0098229DC715655c667Ceb6cd8433",
+		"name": "MaidCoin",
+		"symbol": "MAID",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4Af698B479D0098229DC715655c667Ceb6cd8433/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x650F44eD6F1FE0E1417cb4b3115d52494B4D9b6D",
+		"name": "Meowshi",
+		"symbol": "MEOW",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x650F44eD6F1FE0E1417cb4b3115d52494B4D9b6D/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x749b964F3dd571b177fc6E415A07F62b05047dA4",
+		"name": "Bad Trip",
+		"symbol": "LSD",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x749b964F3dd571b177fc6E415A07F62b05047dA4/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x2e9d63788249371f1DFC918a52f8d799F4a38C94",
+		"name": "Tokemak",
+		"symbol": "TOKE",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2e9d63788249371f1DFC918a52f8d799F4a38C94/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x9040e237C3bF18347bb00957Dc22167D0f2b999d",
+		"name": "Standard",
+		"symbol": "STND",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9040e237C3bF18347bb00957Dc22167D0f2b999d/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x72377f31e30a405282b522d588AEbbea202b4f23",
+		"name": "Varen",
+		"symbol": "VRN",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x72377f31e30a405282b522d588AEbbea202b4f23/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xdb726152680eCe3c9291f1016f1d36f3995f6941",
+		"name": "Media Network Token",
+		"symbol": "MEDIA",
+		"decimals": 6,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdb726152680eCe3c9291f1016f1d36f3995f6941/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xAE12C5930881c53715B369ceC7606B70d8EB229f",
+		"name": "Coin98",
+		"symbol": "C98",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xAE12C5930881c53715B369ceC7606B70d8EB229f/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5",
+		"name": "renFIL",
+		"symbol": "renFIL",
+		"decimals": 8,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD5147bc8e386d91Cc5DBE72099DAC6C9b99276F5/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xe3Cb486f3f5C639e98cCBaF57d95369375687F80",
+		"name": "renDGB",
+		"symbol": "renDGB",
+		"decimals": 8,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe3Cb486f3f5C639e98cCBaF57d95369375687F80/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x7815bDa662050D84718B988735218CFfd32f75ea",
+		"name": "YEL Token",
+		"symbol": "YEL",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7815bDa662050D84718B988735218CFfd32f75ea/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x8e2B4badaC15a4ec8c56020f4Ce60faa7558c052",
+		"name": "Communifty",
+		"symbol": "CNFT",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8e2B4badaC15a4ec8c56020f4Ce60faa7558c052/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+		"name": "BIOS",
+		"symbol": "BIOS",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xAACa86B876ca011844b5798ECA7a67591A9743C8/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+		"name": "UnFederalReserveToken",
+		"symbol": "eRSDL",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6/logo.png"
+	}
 ]

@@ -669,7 +669,7 @@
     "symbol": "renBTC",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xDBf31dF14B66535aF65AaC99C32e9eA844e14501/logo.png"
   },
   {
     "name": "Ren DOGE",
@@ -677,15 +677,7 @@
     "symbol": "renDOGE",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
-  },
-  {
-    "name": "Ren DOGE/PoS",
-    "address": "0x7C4A54f5d20b4023D6746F1f765f4DFe7C39a7e6",
-    "symbol": "renDOGE/PoS",
-    "decimals": 8,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcE829A89d4A55a63418bcC43F00145adef0eDB8E/logo.png"
   },
   {
     "name": "Wrapped Filecoin",
