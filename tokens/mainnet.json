@@ -192,18 +192,10 @@
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png"
 	},
 	{
-		"address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
-		"chainId": 1,
-		"name": "Axie Infinity Shard 1",
-		"symbol": "AXS/v1",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA/logo.png"
-	},
-	{
 		"address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
 		"chainId": 1,
-		"name": "Axie Infinity Shard 2",
-		"symbol": "AXS/v2",
+		"name": "Axie Infinity Shard",
+		"symbol": "AXS",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b/logo.png"
 	},
@@ -2742,5 +2734,29 @@
 		"symbol": "eRSDL",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+		"name": "TOWER",
+		"symbol": "TOWER",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1C9922314ED1415c95b9FD453c3818fd41867d0B/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+		"name": "GAMEE",
+		"symbol": "GMEE",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+		"name": "REVV",
+		"symbol": "REVV",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca/logo.png"
 	}
 ]

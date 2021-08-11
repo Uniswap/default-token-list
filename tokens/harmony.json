@@ -17,6 +17,14 @@
 	},
 	{
 		"chainId": 1666600000,
+		"address": "0x14A7B318fED66FfDcc80C1517C172c13852865De",
+		"symbol": "AXS",
+		"name": "Axie Infinity Shard",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x14A7B318fED66FfDcc80C1517C172c13852865De/logo.png"
+	},
+	{
+		"chainId": 1666600000,
 		"address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
 		"symbol": "BTC",
 		"name": "Bitcoin",
