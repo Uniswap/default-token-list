@@ -2766,5 +2766,13 @@
 		"symbol": "BIT",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+		"name": "Wrapped NCG",
+		"symbol": "WNCG",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817/logo.png"
 	}
 ]
