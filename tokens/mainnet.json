@@ -2782,5 +2782,21 @@
 		"symbol": "wstETH",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
+		"name": "XYZ Governance Token",
+		"symbol": "XYZ",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x618679dF9EfCd19694BB1daa8D00718Eacfa2883/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x677ddbd918637E5F2c79e164D402454dE7dA8619",
+		"name": "VUSD",
+		"symbol": "VUSD",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x677ddbd918637E5F2c79e164D402454dE7dA8619/logo.png"
 	}
 ]
