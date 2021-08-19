@@ -2798,5 +2798,13 @@
 		"symbol": "VUSD",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x677ddbd918637E5F2c79e164D402454dE7dA8619/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x1590ABe3612Be1CB3ab5B0f28874D521576e97Dc",
+		"name": "PIXEL",
+		"symbol": "Pixel",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1590ABe3612Be1CB3ab5B0f28874D521576e97Dc/logo.png"
 	}
 ]
