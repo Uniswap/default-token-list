@@ -2806,5 +2806,29 @@
 		"symbol": "Pixel",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1590ABe3612Be1CB3ab5B0f28874D521576e97Dc/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x0DC5189Ec8CDe5732a01F0F592e927B304370551",
+		"name": "Asgard",
+		"symbol": "ASG",
+		"decimals": 9,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0DC5189Ec8CDe5732a01F0F592e927B304370551/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+		"name": "BitFrost",
+		"symbol": "BFC",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81",
+		"name": "BiFi",
+		"symbol": "BIFI",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81/logo.png"
 	}
 ]
