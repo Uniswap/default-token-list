@@ -2830,5 +2830,13 @@
 		"symbol": "BIFI",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
+		"name": "Feisty Doge NFT",
+		"symbol": "NFD",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346/logo.png"
 	}
 ]
