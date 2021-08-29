@@ -734,5 +734,13 @@
     "symbol": "polyBUNNY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+    "name": "Avalanche Token",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b/logo.png"
   }
 ]

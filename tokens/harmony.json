@@ -17,6 +17,14 @@
 	},
 	{
 		"chainId": 1666600000,
+		"address": "0x14A7B318fED66FfDcc80C1517C172c13852865De",
+		"symbol": "AXS",
+		"name": "Axie Infinity Shard",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x14A7B318fED66FfDcc80C1517C172c13852865De/logo.png"
+	},
+	{
+		"chainId": 1666600000,
 		"address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
 		"symbol": "BTC",
 		"name": "Bitcoin",
@@ -198,5 +206,37 @@
 		"name": "Frax",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xeB6C08ccB4421b6088e581ce04fcFBed15893aC3/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x775d7816afbEf935ea9c21a3aC9972F269A39004",
+		"symbol": "FXS",
+		"name": "Frax Share",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x775d7816afbEf935ea9c21a3aC9972F269A39004/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x63cf309500d8be0B9fDB8F1fb66C821236c0438c",
+		"symbol": "YGG",
+		"name": "Yield Guild Games Token",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x95CE547D730519A90dEF30d647F37D9E5359B6Ae",
+		"symbol": "LUNA",
+		"name": "Wrapped LUNA Token",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x95CE547D730519A90dEF30d647F37D9E5359B6Ae/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x40d2f81bD135B5282CB2aA18F19cF7098079D012",
+		"symbol": "IKURA",
+		"name": "Ikura",
+		"decimals": 9,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x40d2f81bD135B5282CB2aA18F19cF7098079D012/logo.png"
 	}
 ]

@@ -35,7 +35,7 @@
 		"address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
 		"chainId": 1,
 		"name": "ankrETH",
-		"symbol": "AETH",
+		"symbol": "aETHc",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE95A203B1a91a908F9B9CE46459d101078c2c3cb/logo.png"
 	},
@@ -192,18 +192,10 @@
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998/logo.png"
 	},
 	{
-		"address": "0xF5D669627376EBd411E34b98F19C868c8ABA5ADA",
-		"chainId": 1,
-		"name": "Axie Infinity Shard 1",
-		"symbol": "AXS/v1",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF5D669627376EBd411E34b98F19C868c8ABA5ADA/logo.png"
-	},
-	{
 		"address": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
 		"chainId": 1,
-		"name": "Axie Infinity Shard 2",
-		"symbol": "AXS/v2",
+		"name": "Axie Infinity Shard",
+		"symbol": "AXS",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b/logo.png"
 	},
@@ -2742,5 +2734,109 @@
 		"symbol": "eRSDL",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x1C9922314ED1415c95b9FD453c3818fd41867d0B",
+		"name": "TOWER",
+		"symbol": "TOWER",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1C9922314ED1415c95b9FD453c3818fd41867d0B/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373",
+		"name": "GAMEE",
+		"symbol": "GMEE",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD9016A907Dc0ECfA3ca425ab20B6b785B42F2373/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x557B933a7C2c45672B610F8954A3deB39a51A8Ca",
+		"name": "REVV",
+		"symbol": "REVV",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x557B933a7C2c45672B610F8954A3deB39a51A8Ca/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5",
+		"name": "BitDAO",
+		"symbol": "BIT",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1A4b46696b2bB4794Eb3D4c26f1c55F9170fa4C5/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817",
+		"name": "Wrapped NCG",
+		"symbol": "WNCG",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf203Ca1769ca8e9e8FE1DA9D147DB68B6c919817/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+		"name": "Wrapped Liquid Staked Ether 2.0",
+		"symbol": "wstETH",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
+		"name": "XYZ Governance Token",
+		"symbol": "XYZ",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x618679dF9EfCd19694BB1daa8D00718Eacfa2883/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x677ddbd918637E5F2c79e164D402454dE7dA8619",
+		"name": "VUSD",
+		"symbol": "VUSD",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x677ddbd918637E5F2c79e164D402454dE7dA8619/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x1590ABe3612Be1CB3ab5B0f28874D521576e97Dc",
+		"name": "PIXEL",
+		"symbol": "Pixel",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1590ABe3612Be1CB3ab5B0f28874D521576e97Dc/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x0DC5189Ec8CDe5732a01F0F592e927B304370551",
+		"name": "Asgard",
+		"symbol": "ASG",
+		"decimals": 9,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0DC5189Ec8CDe5732a01F0F592e927B304370551/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+		"name": "BiFrost",
+		"symbol": "BFC",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81",
+		"name": "BiFi",
+		"symbol": "BIFI",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2791BfD60D232150Bff86b39B7146c0eaAA2BA81/logo.png"
+	},
+	{
+		"chainId": 1,
+		"address": "0xDFDb7f72c1F195C5951a234e8DB9806EB0635346",
+		"name": "Feisty Doge NFT",
+		"symbol": "NFD",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346/logo.png"
 	}
 ]
