@@ -5,7 +5,7 @@
     "symbol": "WFTM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/wFtm_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
   },
   {
     "name": "Staked FTM",
@@ -13,7 +13,7 @@
     "symbol": "sFTM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/sftm.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sftm.jpg"
   },
   {
     "name": "fWTI Oil",
@@ -21,7 +21,7 @@
     "symbol": "fWTIOIL",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/wti.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fwtioil.jpg"
   },
   {
     "name": "Fantom USD",
@@ -29,7 +29,7 @@
     "symbol": "fUSD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fusd.jpg"
   },
   {
     "name": "fSilver",
@@ -37,7 +37,7 @@
     "symbol": "fSILVER",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/silver.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fsilver.jpg"
   },
   {
     "name": "fLINK",
@@ -45,7 +45,7 @@
     "symbol": "fLINK",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/link.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/flink.jpg"
   },
   {
     "name": "fKRW",
@@ -53,7 +53,7 @@
     "symbol": "fKRW",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/krw.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fkrw.jpg"
   },
   {
     "name": "fJPY",
@@ -61,7 +61,7 @@
     "symbol": "fJPY",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/jpy.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fjpy.jpg"
   },
   {
     "name": "fGold",
@@ -69,7 +69,7 @@
     "symbol": "fGOLD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/gold.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fgold.jpg"
   },
   {
     "name": "fGBP",
@@ -77,7 +77,7 @@
     "symbol": "fGBP",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/gbp.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fgbp.jpg"
   },
   {
     "name": "fEUR",
@@ -85,7 +85,7 @@
     "symbol": "fEUR",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/euro.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/feur.jpg"
   },
   {
     "name": "fETH",
@@ -93,7 +93,7 @@
     "symbol": "fETH",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/eth.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "name": "fCNY",
@@ -101,7 +101,7 @@
     "symbol": "fCNY",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/cny.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fcny.jpg"
   },
   {
     "name": "fCHF",
@@ -109,7 +109,7 @@
     "symbol": "fCHF",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/chf.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fchf.jpg"
   },
   {
     "name": "fBTC",
@@ -117,7 +117,7 @@
     "symbol": "fBTC",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/bitcoin.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "name": "fBNB",
@@ -125,7 +125,7 @@
     "symbol": "fBNB",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/bnb.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
   },
   {
     "name": "fBAND",
@@ -133,7 +133,7 @@
     "symbol": "fBAND",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://repository.fantom.network/logos/band.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg"
   },
   {
     "name": "ChainLink",
@@ -141,7 +141,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/chainlink_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
   },
   {
     "name": "USD Coin",
@@ -149,7 +149,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
     "name": "Wrapped Bitcoin",
@@ -157,7 +157,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/wBTC_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wbtc.jpg"
   },
   {
     "name": "Aave",
@@ -165,7 +165,7 @@
     "symbol": "AAVE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/aave_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
   },
   {
     "name": "Dai Stablecoin",
@@ -173,7 +173,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
     "name": "Sushi",
@@ -181,7 +181,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/sushiswap_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
     "name": "yearn.finance",
@@ -189,7 +189,7 @@
     "symbol": "YFI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/YFI_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
   },
   {
     "name": "Curve DAO",
@@ -197,7 +197,7 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/CurveFi_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
   },
   {
     "name": "Band",
@@ -205,7 +205,7 @@
     "symbol": "BAND",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/bandprotocol_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg"
   },
   {
     "name": "Spice",
@@ -213,7 +213,7 @@
     "symbol": "SFI",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/saffron_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sfi.jpg"
   },
   {
     "name": "Hegic",
@@ -221,7 +221,7 @@
     "symbol": "HEGIC",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/hegic_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/hegic.jpg"
   },
   {
     "name": "Frax",
@@ -229,7 +229,7 @@
     "symbol": "FRAX",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/fraxfinance_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
   },
   {
     "name": "Cover",
@@ -237,7 +237,7 @@
     "symbol": "COVER",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/cover_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cover.jpg"
   },
   {
     "name": "Keep3r",
@@ -245,7 +245,7 @@
     "symbol": "KP3R",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/kp3r_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kp3r.jpg"
   },
   {
     "name": "Wrapped Ether",
@@ -253,7 +253,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "name": "Cream",
@@ -261,7 +261,7 @@
     "symbol": "CREAM",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/CreamFinance_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cream.jpg"
   },
   {
     "name": "Synth sUSD",
@@ -269,7 +269,7 @@
     "symbol": "sUSD",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/sUSD_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/susd.jpg"
   },
   {
     "name": "Synthetix Network",
@@ -277,7 +277,7 @@
     "symbol": "SNX",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://ftmscan.com/token/images/Synthetix_SNX_32.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
   },
   {
     "name": "IceToken",
@@ -285,7 +285,7 @@
     "symbol": "ICE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
   },
   {
     "name": "Frapped USDT",
@@ -293,6 +293,6 @@
     "symbol": "fUSDT",
     "decimals": 6,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   }
 ]

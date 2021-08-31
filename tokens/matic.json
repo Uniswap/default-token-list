@@ -709,7 +709,7 @@
     "name": "renDGB",
     "symbol": "renDGB",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2628568509E87c4429fBb5c664Ed11391BE1BD29/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2628568509E87c4429fBb5c664Ed11391BE1BD29/logo.png"
   },
   {
     "chainId": 137,
@@ -717,7 +717,7 @@
     "name": "renFIL",
     "symbol": "renFIL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc4Ace9278e7E01755B670C0838c3106367639962/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc4Ace9278e7E01755B670C0838c3106367639962/logo.png"
   },
   {
     "chainId": 137,
@@ -725,7 +725,7 @@
     "name": "axMatic",
     "symbol": "AXMATIC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1221591c1d77A9c334aBb0fe530ae6EE3aF51Af9/logo.png"
   },
   {
     "chainId": 137,
@@ -733,7 +733,7 @@
     "name": "Polygon Bunny Token",
     "symbol": "polyBUNNY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a/logo.png"
   },
   {
     "chainId": 137,
@@ -741,6 +741,22 @@
     "name": "Avalanche Token",
     "symbol": "AVAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+    "name": "Aavegotchi GHST Token",
+    "symbol": "GHST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
+    "name": "WrappedConceal",
+    "symbol": "wCCX",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A/logo.png"
   }
 ]

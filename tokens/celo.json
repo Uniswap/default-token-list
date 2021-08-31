@@ -5,7 +5,15 @@
     "symbol": "cSHIBA",
     "decimals": 9,
     "chainId": 42220,
-    "logoURI": "https://sushiswap-interface-canary.vercel.app/images/tokens/unknown.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+    "symbol": "cETH",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/weth.jpg"
   },
   {
     "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
@@ -13,7 +21,7 @@
     "symbol": "UBE",
     "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_UBE.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ube.jpg"
   },
   {
     "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
@@ -21,7 +29,7 @@
     "symbol": "rCELO",
     "chainId": 42220,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rcelo.jpg"
   },
   {
     "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
@@ -29,7 +37,7 @@
     "symbol": "sCELO",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/scelo.jpg"
   },
   {
     "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
@@ -37,7 +45,7 @@
     "symbol": "cMCO2",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cMCO2.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cmco2.jpg"
   },
   {
     "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
@@ -53,7 +61,7 @@
     "symbol": "mcUSD",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcusd.jpg"
   },
   {
     "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
@@ -61,7 +69,7 @@
     "symbol": "mCELO",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcelo.jpg"
   },
   {
     "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
@@ -69,7 +77,7 @@
     "symbol": "cUSD",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cusd.jpg"
   },
   {
     "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
@@ -77,7 +85,7 @@
     "symbol": "cXOF",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cXOF.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cxof.jpg"
   },
   {
     "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
@@ -85,7 +93,7 @@
     "symbol": "mcEUR",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mceur.jpg"
   },
   {
     "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
@@ -93,7 +101,7 @@
     "symbol": "cBTC",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wbtc.jpg"
   },
   {
     "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
@@ -101,7 +109,7 @@
     "symbol": "cEUR",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ceur.jpg"
   },
   {
     "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
@@ -109,6 +117,6 @@
     "symbol": "cDOGE",
     "decimals": 9,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg"
   }
 ]
