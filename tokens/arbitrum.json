@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
+    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "chainId": 42161,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
     "chainId": 42161,
     "address": "0x0e15258734300290a651FdBAe8dEb039a8E7a2FA",
     "name": "Alchemy",
