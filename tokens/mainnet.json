@@ -2838,5 +2838,13 @@
     "symbol": "NFD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png"
   }
 ]
