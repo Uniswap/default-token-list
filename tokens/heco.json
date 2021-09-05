@@ -366,5 +366,13 @@
     "decimals": 18,
     "chainId": 128,
     "logoURI": "https://hecoinfo.com/images/main/empty-token.png"
+  },
+  {
+    "name": "SUSHI",
+    "address": "0x52E00B2dA5Bd7940fFe26B609A42F957f31118D5",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 128,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   }
 ]
