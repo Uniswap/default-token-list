@@ -25,6 +25,14 @@
   },
   {
     "chainId": 43114,
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "symbol": "WETH.e",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0x96CE026f10890f4836937e6FDe75f13252fdf414",
     "decimals": 18,
     "name": "Poolz Finance",
