@@ -2838,5 +2838,53 @@
     "symbol": "NFD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDFDb7f72c1F195C5951a234e8DB9806EB0635346/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xBAac2B4491727D78D2b78815144570b9f2Fe8899",
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32353A6C91143bfd6C7d363B546e62a9A2489A20",
+    "name": "Adventure Gold",
+    "symbol": "AGLD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x32353A6C91143bfd6C7d363B546e62a9A2489A20/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
+    "name": "Everest ID",
+    "symbol": "ID",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "name": "LUSD Stablecoin",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b",
+    "name": "Based Gold",
+    "symbol": "BGLD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE2311ae37502105b442bBef831E9b53c5d2e9B3b",
+    "name": "Banana",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE2311ae37502105b442bBef831E9b53c5d2e9B3b/logo.png"
   }
 ]
