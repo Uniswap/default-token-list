@@ -2870,5 +2870,13 @@
     "symbol": "LUSD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b",
+    "name": "Based Gold",
+    "symbol": "BGLD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b/logo.png"
   }
 ]
