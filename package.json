@@ -1,6 +1,6 @@
 {
   "name": "@sushiswap/default-token-list",
-  "version": "15.1.0",
+  "version": "15.2.0",
   "description": "◦ The SushiSwap default token list",
   "main": "build/sushiswap-default.tokenlist.json",
   "scripts": {
