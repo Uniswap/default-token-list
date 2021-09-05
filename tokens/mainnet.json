@@ -2878,5 +2878,13 @@
     "symbol": "BGLD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbA7970f10D9f0531941DcEd1dda7ef3016B24e5b/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE2311ae37502105b442bBef831E9b53c5d2e9B3b",
+    "name": "Banana",
+    "symbol": "BANANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE2311ae37502105b442bBef831E9b53c5d2e9B3b/logo.png"
   }
 ]
