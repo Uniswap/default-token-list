@@ -13,7 +13,7 @@
     "symbol": "$CATS",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
   },
   {
     "name": "Green Ben",
