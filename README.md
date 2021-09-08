@@ -18,7 +18,7 @@ Edit token lists in `src/` directory and build the complete list:
 ```sh
 yarn build
 ```
-The complete list will be `build/smartbch.tokenlist.json` .
+The complete list will be `dist/smartbch.tokenlist.json` .
 
 Test if the list is in the proper format, acording to the [Tokenlist JSON schema](https://uniswap.org/tokenlist.schema.json):
 

@@ -1,15 +1,15 @@
 {
   "name": "smartbch-token-list",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "SmartBCH default token list",
-  "main": "build/smartbch.tokenlist.json",
+  "main": "dist/smartbch.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/smartbch.tokenlist.json",
+    "build": "rimraf dist && mkdir -p dist && node src/write.js > dist/smartbch.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/smartbch.tokenlist.json"
+    "dist/"
   ],
   "repository": {
     "type": "git",
