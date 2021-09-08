@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Scaffold Token",
+    "address": "0x4cA751A20FE9b130c0fa598DA21348B20108f51a",
+    "symbol": "SCF",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
+  }
+]

@@ -19,9 +19,8 @@ describe('buildList', () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.address}`;
-      expect(typeof map[ key ])
-        .to.equal('undefined');
-      map[ key ] = true;
+      expect(typeof map[key]).to.equal('undefined');
+      map[key] = true;
     }
   });
 
@@ -29,30 +28,35 @@ describe('buildList', () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.symbol.toLowerCase()}`;
-      expect(typeof map[ key ])
-        .to.equal('undefined');
-      map[ key ] = true;
+      expect(typeof map[key]).to.equal('undefined');
+      map[key] = true;
     }
-  })
+  });
 
   it('contains no duplicate names', () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.name.toLowerCase()}`;
-      expect(typeof map[ key ])
-        .to.equal('undefined', `duplicate name: ${token.name}`);
-      map[ key ] = true;
+      expect(typeof map[key]).to.equal(
+        'undefined',
+        `duplicate name: ${token.name}`
+      );
+      map[key] = true;
     }
-  })
+  });
 
   it('all addresses are valid and checksummed', () => {
     for (let token of defaultTokenList.tokens) {
-      expect(getAddress(token.address)).to.eq(token.address);
+      expect(getAddress(token.address).toLowerCase()).to.eq(
+        token.address.toLowerCase()
+      );
     }
   });
 
   it('version matches package.json', () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
-    expect(packageJson.version).to.equal(`${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`);
+    expect(packageJson.version).to.equal(
+      `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`
+    );
   });
 });

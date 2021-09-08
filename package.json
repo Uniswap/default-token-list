@@ -1,19 +1,19 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "2.0.0",
-  "description": "◦ The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "name": "smartbch-token-list",
+  "version": "1.0.0",
+  "description": "SmartBCH default token list",
+  "main": "build/smartbch.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/smartbch.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/smartbch.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/zh/smartbch-token-list.git"
   },
   "keywords": [
     "uniswap",
@@ -22,11 +22,14 @@
     "list"
   ],
   "author": "Moody Salem",
+  "contributors": [
+    "Stoyan Zhekov <zh@zhware.net>"
+  ],
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/zh/smartbch-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/zh/smartbch-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",
