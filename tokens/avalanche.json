@@ -13,7 +13,7 @@
     "decimals": 18,
     "name": "Wrapped AVAX",
     "symbol": "WAVAX",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg"
   },
   {
     "chainId": 43114,
@@ -53,7 +53,7 @@
     "decimals": 18,
     "name": "0x Protocol Token",
     "symbol": "ZRX",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xC8E94215b75F5B9c3b5fB041eC3A97B7D17a37Ff/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zrx.jpg"
   },
   {
     "chainId": 43114,
@@ -69,7 +69,7 @@
     "decimals": 18,
     "name": "1INCH Token",
     "symbol": "1INCH",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xE54EB2C3009Fa411BF24fB017F9725b973CE36F0/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
   },
   {
     "chainId": 43114,
@@ -77,7 +77,7 @@
     "decimals": 18,
     "name": "88mph.app",
     "symbol": "MPH",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xa477b670C46fe58cF48708D9519a5E8875a48062/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mph.jpg"
   },
   {
     "chainId": 43114,
