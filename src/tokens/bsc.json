@@ -65,11 +65,11 @@
   },
   {
     "name": "Dolphins Finance",
-    "address": "0xcd970d95da2a886e04eaf739d04c0deee8f37f4d",
+    "address": "0xCd970D95Da2A886E04eaf739D04C0deEe8F37F4D",
     "symbol": "DOLPH",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xcd970d95da2a886e04eaf739d04c0deee8f37f4d/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xCd970D95Da2A886E04eaf739D04C0deEe8F37F4D/logo.png"
   },
   {
     "name": "ADAFlect",
