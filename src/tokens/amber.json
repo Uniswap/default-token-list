@@ -6,5 +6,13 @@
     "decimals": 18,
     "chainId": 10001,
     "logoURI": "https://gateway.pinata.cloud/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
+  },
+  {
+    "name": "Art Token",
+    "address": "0x2618B5927957969B346E60694e77213923eb11e5",
+    "symbol": "ART",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmZx3XHnkYmaEGrpMgvzRjUcKXnmvNdqpYz9h9ySTwFDGm"
   }
 ]
