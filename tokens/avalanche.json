@@ -19,17 +19,17 @@
     "chainId": 43114,
     "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
     "decimals": 18,
-    "name": "Wrapped Ether",
+    "name": "Wrapped Ether Old",
     "symbol": "WETH",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "chainId": 43114,
     "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
     "decimals": 18,
     "name": "Wrapped Ether",
-    "symbol": "WETH.e",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15/logo.png"
+    "symbol": "WETH/e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
     "chainId": 43114,
@@ -83,9 +83,17 @@
     "chainId": 43114,
     "address": "0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9",
     "decimals": 18,
-    "name": "Aave Token",
+    "name": "Aave Token Old",
     "symbol": "AAVE",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x8cE2Dee54bB9921a2AE0A63dBb2DF8eD88B91dD9/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+    "decimals": 18,
+    "name": "Aave Token",
+    "symbol": "AAVE/e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
   },
   {
     "chainId": 43114,
@@ -499,10 +507,20 @@
     "chainId": 43114,
     "address": "0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651",
     "decimals": 18,
-    "name": "ChainLink Token",
+    "name": "ChainLink Token Old",
     "symbol": "LINK",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB3fe5374F67D7a22886A0eE082b2E2f9d2651651/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
   },
+  {
+    "chainId": 43114,
+    "address": "0x5947BB275c521040051D82396192181b413227A3",
+    "decimals": 18,
+    "name": "ChainLink Token",
+    "symbol": "LINK/e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+  },
+ 
+
   {
     "chainId": 43114,
     "address": "0xEFb603A7844f11D17aDA15B63e3A876AB443372C",
@@ -603,9 +621,17 @@
     "chainId": 43114,
     "address": "0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a",
     "decimals": 18,
-    "name": "Dai Stablecoin",
+    "name": "Dai Stablecoin Old",
     "symbol": "DAI",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xbA7dEebBFC5fA1100Fb055a87773e1E99Cd3507a/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "symbol": "DAI/e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
     "chainId": 43114,
@@ -2427,9 +2453,25 @@
     "chainId": 43114,
     "address": "0xde3A24028580884448a5397872046a019649b084",
     "decimals": 6,
-    "name": "Tether USD",
+    "name": "Tether USD Old",
     "symbol": "USDT",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xde3A24028580884448a5397872046a019649b084/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT/e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+    "decimals": 6,
+    "name": "USD Coin",
+    "symbol": "USDC/e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
     "chainId": 43114,
@@ -2747,9 +2789,17 @@
     "chainId": 43114,
     "address": "0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB",
     "decimals": 8,
-    "name": "Wrapped BTC",
+    "name": "Wrapped BTC Old",
     "symbol": "WBTC",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x408D4cD0ADb7ceBd1F1A1C33A0Ba2098E1295bAB/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "symbol": "WBTC/e",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
     "chainId": 43114,
