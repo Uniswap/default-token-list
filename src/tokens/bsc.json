@@ -62,5 +62,29 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d/logo.png"
+  },
+  {
+    "name": "Dolphins Finance",
+    "address": "0xcd970d95da2a886e04eaf739d04c0deee8f37f4d",
+    "symbol": "DOLPH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xcd970d95da2a886e04eaf739d04c0deee8f37f4d/logo.png"
+  },
+  {
+    "name": "ADAFlect",
+    "address": "0xD6ca9451bba47e26706A701aE05bE45A712D4B1B",
+    "symbol": "ADAFLECT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xD6ca9451bba47e26706A701aE05bE45A712D4B1B/logo.png"
+  },
+  {
+    "name": "Empire LP",
+    "address": "0xEc08e44232d7385472B4E1D374DEA7D7B780d5Dc",
+    "symbol": "EMP LP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xEc08e44232d7385472B4E1D374DEA7D7B780d5Dc/logo.png"
   }
 ]
