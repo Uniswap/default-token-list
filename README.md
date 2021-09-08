@@ -10,7 +10,7 @@ This NPM module and GitHub repo contains the tokens list used in the SmartBCH un
 Install required dependencies:
 
 ```sh
-yarn insatll
+yarn install
 ```
 
 Edit token lists in `src/` directory and build the complete list:
