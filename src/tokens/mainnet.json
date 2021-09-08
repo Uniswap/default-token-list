@@ -37,7 +37,7 @@
     "symbol": "ZOMBIE",
     "decimals": 0,
     "chainId": 10000,
-    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmSFyejP46jhvgVHW9gTEYT8NBfaF8RYfzL4GLVM75xJfq"
   },
   {
     "name": "VANDALS",
@@ -45,7 +45,7 @@
     "symbol": "VANDALS",
     "decimals": 8,
     "chainId": 10000,
-    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmS5h8oS4bCvXbGA7F19w7mkMZuTn6yoVgwXcFbC53V8ih"
   },
   {
     "name": "MAZE",
@@ -53,6 +53,6 @@
     "symbol": "MAZE",
     "decimals": 6,
     "chainId": 10000,
-    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmQhEHRbxsFvSxaBFhSUD92z3WQNSYxfW9iFJmYBWRR2JL"
   }
 ]
