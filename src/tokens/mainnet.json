@@ -54,5 +54,45 @@
     "decimals": 6,
     "chainId": 10000,
     "logoURI": "https://ipfs.io/ipfs/QmQhEHRbxsFvSxaBFhSUD92z3WQNSYxfW9iFJmYBWRR2JL"
+  },
+  {
+    "name": "sVNT Token",
+    "address": "0x8f66C730e383Bb412a9a3cB58178BAb2f432d194",
+    "symbol": "sVNT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://ipfs.io/ipfs/QmfPoxtMSidHkVe1ShGn7zhxrMT28S5G8bNPZD3MFQz5hM"
+  },
+  {
+    "name": "ART Token",
+    "address": "0x7855101ABC103C1F1aa0A8e5402C48678d0bd20C",
+    "symbol": "ART",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://ipfs.io/ipfs/QmZx3XHnkYmaEGrpMgvzRjUcKXnmvNdqpYz9h9ySTwFDGm"
+  },
+  {
+    "name": "Awesome Token",
+    "address": "0xc624d2bb7c9a27eb76919cda82d1748df2c7cab1",
+    "symbol": "AWE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://ipfs.io/ipfs/QmVU6Lr6BmQyJ1Jq94bvttejYFCUUYoFAjt6iwWPpgaU6X"
+  },
+  {
+    "name": "Falcon Token",
+    "address": "0x7040d89f8111dee9d768f9d282cdd97fe5a4daa8",
+    "symbol": "FLCT",
+    "decimals": 0,
+    "chainId": 10000,
+    "logoURI": "https://ipfs.io/ipfs/"
+  },
+  {
+    "name": "Scaffold Token",
+    "address": "0x836d1b6F07daD45bD6C870c24a4B32B78fDDDd34",
+    "symbol": "SCF",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://ipfs.io/ipfs/"
   }
 ]
