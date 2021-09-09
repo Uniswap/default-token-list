@@ -766,5 +766,13 @@
     "symbol": "STND",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x08BE454de533509e8832B257116C5506E55b0b64/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
+    "name": "ShapeShift FOX Token",
+    "symbol": "FOX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x65A05DB8322701724c197AF82C9CaE41195B0aA8/logo.png"
   }
 ]
