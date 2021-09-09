@@ -85,7 +85,7 @@
     "symbol": "FLCT",
     "decimals": 0,
     "chainId": 10000,
-    "logoURI": "https://ipfs.io/ipfs/"
+    "logoURI": "https://ipfs.io/ipfs/QmSzJtStHGm3W1p4ALJcPutwYyaLQHpi2mSQ9mHDH37xry"
   },
   {
     "name": "Scaffold Token",
@@ -93,6 +93,6 @@
     "symbol": "SCF",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://ipfs.io/ipfs/"
+    "logoURI": "https://ipfs.io/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
   }
 ]
