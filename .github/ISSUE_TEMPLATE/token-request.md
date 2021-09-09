@@ -12,5 +12,6 @@ assignees: ''
 * Token Name (from contract):
 * Token Decimals (from contract):
 * Token Symbol (from contract):
+* Token Image (URL): 
 
 Link to the official homepage of token:
