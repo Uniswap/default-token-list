@@ -5,7 +5,7 @@
     "symbol": "sBUSD",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://via.placeholder.com/32.png"
+    "logoURI": "https://www.marketcap.cash/sbusd.jpg"
   },
   {
     "name": "CashCats",
@@ -13,7 +13,7 @@
     "symbol": "$CATS",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://via.placeholder.com/32.png"
+    "logoURI": "https://www.marketcap.cash/cashcats.jpg"
   },
   {
     "name": "Green Ben",
@@ -21,7 +21,7 @@
     "symbol": "EBEN",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://benswap.cash/images/ben/EBEN64x64.png"
+    "logoURI": "https://www.marketcap.cash/benswap.png"
   },
   {
     "name": "HONK",
@@ -29,7 +29,7 @@
     "symbol": "HONK",
     "decimals": 2,
     "chainId": 10000,
-    "logoURI": "https://via.placeholder.com/32.png"
+    "logoURI": "https://www.marketcap.cash/honk.png"
   },
   {
     "name": "ZOMBIE",
@@ -61,7 +61,7 @@
     "symbol": "sVNT",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://ipfs.io/ipfs/QmfPoxtMSidHkVe1ShGn7zhxrMT28S5G8bNPZD3MFQz5hM"
+    "logoURI": "https://www.marketcap.cash/svnt.png"
   },
   {
     "name": "ART Token",
@@ -110,5 +110,69 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://abs-0.twimg.com/emoji/v2/svg/1f4f6.svg"
+  },
+  {
+    "name": "Alpha",
+    "address": "0x5a3bb59f34d60e9eb5643fb80c8d712275f6a96a",
+    "symbol": "PHA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/alpha.png"
+  },
+  {
+    "name": "SPICE",
+    "address": "0xe11829a7d5d8806bb36e118461a1012588fafd89",
+    "symbol": "SPICE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/spice.png"
+  },
+  {
+    "name": "ORB",
+    "address": "0xff3ed63bf8bc9303ea0a7e1215ba2f82d569799e",
+    "symbol": "ORB",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/orb.png"
+  },
+  {
+    "name": "UatX Token",
+    "address": "0xffa2394b61d3de16538a2bbf3491297cc5a7c79a",
+    "symbol": "UATX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/uatx.jpg"
+  },
+  {
+    "name": "Knuth",
+    "address": "0xc70c7718C7f1CCd906534C2c4a76914173EC2c44",
+    "symbol": "KNUTH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/knuth.jpg"
+  },
+  {
+    "name": "HODL",
+    "address": "0xB24D7763516bca9656779d760be9a32490f46E27",
+    "symbol": "HODL",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/hodl.png"
+  },
+  {
+    "name": "Lightning",
+    "address": "0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D",
+    "symbol": "LIGHTNING",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/lightning.png"
+  },
+  {
+    "name": "Bitcoin Cash Argentina",
+    "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+    "symbol": "ARG",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/arg.png"
   }
 ]
