@@ -9,7 +9,7 @@
   },
   {
     "name": "bPrism",
-    "address": "0x4cf12dd46bab9afc94e049342fd75a9eaff5d096",
+    "address": "0x4Cf12Dd46baB9afC94e049342FD75a9eaFF5d096",
     "symbol": "BPRISM",
     "decimals": 18,
     "chainId": 56,
@@ -82,7 +82,7 @@
   {
     "name": "Empire/BNB LP",
     "address": "0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f",
-    "symbol": "EMP LP",
+    "symbol": "EMP-LP",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f/logo.png"
