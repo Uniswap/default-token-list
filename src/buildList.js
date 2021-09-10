@@ -13,7 +13,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: 'https://smartbch.org/_nuxt/img/logo-white-large.73f49c5.png',
+    logoURI: 'ipfs://QmbBKPZyi1N3bkc5uywVRGagkHCLMiR8QX6Nh2CxWRDhsw',
     keywords: ['smartbch', 'sep20'],
     tokens: [...mainnet, ...amber]
       // sort them by symbol for easy readability
