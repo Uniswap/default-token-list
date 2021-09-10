@@ -1,8 +1,8 @@
 [
     {
-      "name": "Fantom",
+      "name": "Wrapped Fantom",
       "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-      "symbol": "FTM",
+      "symbol": "WFTM",
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
