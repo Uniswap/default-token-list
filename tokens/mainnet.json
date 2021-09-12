@@ -2886,5 +2886,13 @@
     "symbol": "BANANA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE2311ae37502105b442bBef831E9b53c5d2e9B3b/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x92D6C1e31e14520e676a687F0a93788B716BEff5",
+    "name": "dYdX",
+    "symbol": "DYDX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5/logo.png"
   }
 ]
