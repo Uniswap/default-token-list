@@ -280,5 +280,14 @@
     "symbol": "ADoge",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1a7bd9edc36fb2b3c0852bcd7438c2a957fd7ad5",
+    "name": "ArbiMoon",
+    "symbol": "aMoon",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg"
   }
+  
 ]
