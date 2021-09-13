@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Wrapped Fuse",
+    "address": "0x0BE9e53fd7EDaC9F859882AfdDa116645287C629",
+    "symbol": "WFUSE",
+    "decimals": 18,
+    "chainId": 122,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fuse.jpg"
+  }
+]
+

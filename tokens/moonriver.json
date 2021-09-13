@@ -6,5 +6,61 @@
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+  },
+  {
+    "name": "WBNB Token",
+    "symbol": "WBNB",
+    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
+  },
+  {
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "decimals": 6,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   }
 ]
