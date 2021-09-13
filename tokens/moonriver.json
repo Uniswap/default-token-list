@@ -62,5 +62,61 @@
     "decimals": 6,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "name": "SushiToken",
+    "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
+    "name": "Aave",
+    "address": "0xf27Ee99622C3C9b264583dACB2cCE056e194494f",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+  },
+  {
+    "name": "ChainLink Token",
+    "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+    "symbol": "LINK",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+  },
+  {
+    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
+  },
+  {
+    "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
+  },
+  {
+    "address": "0xABd380327Fe66724FFDa91A87c772FB8D00bE488",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
+  },
+  {
+    "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "chainId": 1285,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
   }
 ]
