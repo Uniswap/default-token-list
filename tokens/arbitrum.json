@@ -280,5 +280,13 @@
     "symbol": "ADoge",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
-  }
+  },
+  {
+    "chainId": 42161,
+    "address": "ArbiNYAN",
+    "name": "ArbiDoge",
+    "symbol": "NYAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nyan.jpg"
+  }  
 ]
