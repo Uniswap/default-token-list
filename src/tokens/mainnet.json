@@ -174,5 +174,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/arg.png"
+  },
+  {
+    "name": "CashKitten",
+    "address": "0x7ebeadb95724a006afaf2f1f051b13f4ebebf711",
+    "symbol": "$KITTEN",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://cashkitten.org/wp-content/uploads/2021/09/1631300627950.png"
   }
 ]
