@@ -5,7 +5,7 @@
       "symbol": "WFTM",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
     },
     {
       "name": "Wrapped Ether",
@@ -29,7 +29,7 @@
       "symbol": "fUSDT",
       "decimals": 6,
       "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ftm/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/TETHER.png"
     },
     {
       "name": "Dai Stablecoin",
