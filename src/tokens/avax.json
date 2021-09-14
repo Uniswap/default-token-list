@@ -53,7 +53,7 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
     },
     {
       "name": "Avalanche PRISM Token",

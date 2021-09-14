@@ -17,7 +17,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png",
     keywords: ["empire", "default"],
-    tokens: [...eth, ...bsc, ...ftm, ...avax/*, ...matic*/]
+    tokens: [...eth, ...bsc, ...ftm, /*...avax, ...matic*/]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
