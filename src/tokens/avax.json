@@ -1,59 +1,11 @@
 [
     {
-      "name": "Wrapped Ether",
-      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
-      "symbol": "WETH.e",
-      "decimals": 18,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
-    },
-    {
-      "name": "Wrapped BTC",
-      "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
-      "symbol": "WBTC.e",
-      "decimals": 8,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
-    },
-    {
-      "name": "Binance USD",
-      "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
-      "symbol": "BUSD.e",
-      "decimals": 18,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png"
-    },
-    {
-      "name": "Tether",
-      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-      "symbol": "USDT.e",
-      "decimals": 6,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
-    },
-    {
       "name": "Wrapped AVAX",
       "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "symbol": "WAVAX",
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedAVAX.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-      "symbol": "DAI.e",
-      "decimals": 18,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
-    },
-    {
-      "name": "USD Coin",
-      "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-      "symbol": "USDC.e",
-      "decimals": 6,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
     },
     {
       "name": "Avalanche PRISM Token",
