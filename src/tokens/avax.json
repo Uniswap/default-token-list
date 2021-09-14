@@ -5,7 +5,7 @@
       "symbol": "WETH.e",
       "decimals": 18,
       "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.png"
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
     },
     {
       "name": "Wrapped BTC",
@@ -13,7 +13,7 @@
       "symbol": "WBTC.e",
       "decimals": 8,
       "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x50b7545627a5162F82A992c33b87aDc75187B218.png"
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
     },
     {
       "name": "Binance USD",
@@ -37,7 +37,7 @@
       "symbol": "WAVAX",
       "decimals": 18,
       "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedAVAX.png"
     },
     {
       "name": "Dai Stablecoin",
