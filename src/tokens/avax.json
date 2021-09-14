@@ -1,13 +1,5 @@
 [
     {
-      "name": "Avax",
-      "address": "FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z",
-      "symbol": "AVAX",
-      "decimals": 9,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/FvwEAhmxKfeiG8SnEvq42hc6whRyY3EFYAvebMqDNDGCgxN5Z/logo.png"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
       "symbol": "WETH.e",
@@ -62,5 +54,13 @@
       "decimals": 6,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
+    },
+    {
+      "name": "Avalanche PRISM Token",
+      "address": "0x9888B4470f7b3494572AD491F24717C6a1EfE1b7",
+      "symbol": "aPrism",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x9888B4470f7b3494572AD491F24717C6a1EfE1b7/logo.png"
     }
   ]
