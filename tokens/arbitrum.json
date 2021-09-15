@@ -283,10 +283,18 @@
   },
   {
     "chainId": 42161,
-    "address": "ArbiNYAN",
-    "name": "ArbiDoge",
+    "address": "0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC",
+    "name": "ArbiNYAN",
     "symbol": "NYAN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nyan.jpg"
-  }  
+  },
+  {
+    "chainId": 42161,
+    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
+  }
 ]
