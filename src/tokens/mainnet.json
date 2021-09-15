@@ -85,7 +85,7 @@
     "symbol": "FLCT",
     "decimals": 0,
     "chainId": 10000,
-    "logoURI": "https://ipfs.io/ipfs/QmSzJtStHGm3W1p4ALJcPutwYyaLQHpi2mSQ9mHDH37xry"
+    "logoURI": "https://zh.thedev.id/sep20tokens/assets/falcon.png"
   },
   {
     "name": "Scaffold Token",
@@ -93,7 +93,7 @@
     "symbol": "SCF",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://ipfs.io/ipfs/QmQoMmjEGsGABRotkXkf59FJ9WAwZS5P3CTR8x8EQLpKui"
+    "logoURI": "https://zh.thedev.id/sep20tokens/assets/scaffold.png"
   },
   {
     "name": "HAM Token",
@@ -182,5 +182,37 @@
     "decimals": 2,
     "chainId": 10000,
     "logoURI": "https://cashkitten.org/wp-content/uploads/2021/09/1631300627950.png"
+  },
+  {
+    "name": "flexUSD",
+    "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "symbol": "flexUSD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://s3.ap-northeast-1.amazonaws.com/flexusd.com/wp-content/uploads/20201117112615/flexusd.png"
+  },
+  {
+    "name": "CandyMan",
+    "address": "0x0D8b355f9CEDeB612f2df4B39CdD87059A244567",
+    "symbol": "CandyMan",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/candyman.png"
+  },
+  {
+    "name": "ShibaCash",
+    "address": "0x2f309b9d47b1ce7f0ec30a26bab2deab8c4ea5e9",
+    "symbol": "Shiba",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/shibbch.png"
+  },
+  {
+    "name": "MGOT",
+    "address": "0x7DF65F158126898725f262378538B60db543C11A",
+    "symbol": "MGOT",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/mgot.png"
   }
 ]
