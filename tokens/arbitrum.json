@@ -288,5 +288,13 @@
     "symbol": "NYAN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nyan.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A",
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png"
   }
 ]
