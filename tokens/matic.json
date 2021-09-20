@@ -774,5 +774,13 @@
     "symbol": "FOX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x65A05DB8322701724c197AF82C9CaE41195B0aA8/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+    "name": "PoolTogether",
+    "symbol": "POOL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x25788a1a171ec66Da6502f9975a15B609fF54CF6/logo.png"
   }
 ]
