@@ -296,5 +296,21 @@
     "symbol": "DOG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/spell.jpg"
   }
 ]
