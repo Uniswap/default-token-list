@@ -283,6 +283,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
+    "name": "ArbiMoon",
+    "symbol": "aMoon",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg"
+  },
+  {
+    "chainId": 42161,
     "address": "0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC",
     "name": "ArbiNYAN",
     "symbol": "NYAN",
