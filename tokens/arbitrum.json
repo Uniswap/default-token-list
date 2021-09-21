@@ -283,8 +283,7 @@
   },
   {
     "chainId": 42161,
-
-    "address": "0x1a7bd9edc36fb2b3c0852bcd7438c2a957fd7ad5",
+    "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
     "name": "ArbiMoon",
     "symbol": "aMoon",
     "decimals": 9,
