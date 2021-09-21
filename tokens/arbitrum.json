@@ -280,5 +280,45 @@
     "symbol": "ADoge",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1a7BD9EDC36Fb2b3c0852bcD7438c2A957Fd7Ad5",
+    "name": "ArbiMoon",
+    "symbol": "aMoon",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/ArbiMoonXyz/MyFiles/main/arbimoon.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xeD3fB761414DA74b74F33e5c5a1f78104b188DfC",
+    "name": "ArbiNYAN",
+    "symbol": "NYAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nyan.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x4425742F1EC8D98779690b5A3A6276Db85Ddc01A",
+    "name": "The Doge NFT",
+    "symbol": "DOG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBAac2B4491727D78D2b78815144570b9f2Fe8899/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF",
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/spell.jpg"
   }
 ]

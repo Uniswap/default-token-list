@@ -118,5 +118,13 @@
     "decimals": 9,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg"
-  }
+  },
+  {
+    "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  }  
 ]
