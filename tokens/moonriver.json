@@ -118,5 +118,13 @@
     "chainId": 1285,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
+  },
+  {
+    "name": "RivrDoge",
+    "address": "0x5D4360f1Be94bD6f182F09cFE5EF9832e65EB1ac",
+    "symbol": "RivrDoge",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://rivrdoge.com/wp-content/uploads/2021/09/logo.png"
   }
 ]
