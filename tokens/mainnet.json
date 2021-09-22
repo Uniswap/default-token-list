@@ -2894,5 +2894,61 @@
     "symbol": "DYDX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x92D6C1e31e14520e676a687F0a93788B716BEff5/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8f693ca8D21b157107184d29D398A8D082b38b76",
+    "name": "Streamr",
+    "symbol": "DATA/Streamr",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8f693ca8D21b157107184d29D398A8D082b38b76/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1",
+    "name": "Data Economy Index",
+    "symbol": "DATA/Index",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x33d63Ba1E57E54779F7dDAeaA7109349344cf5F1/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8642A849D0dcb7a15a974794668ADcfbe4794B56",
+    "name": "Prosper",
+    "symbol": "PROS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8642A849D0dcb7a15a974794668ADcfbe4794B56/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f2D719407FdBeFF09D87557AbB7232601FD9F29",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0f2D719407FdBeFF09D87557AbB7232601FD9F29/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2610F0bFC21EF389fe4D03CFB7De9ac1E6C99D6E",
+    "name": "Skyrim Finance",
+    "symbol": "SKYRIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2610F0bFC21EF389fe4D03CFB7De9ac1E6C99D6E/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050",
+    "name": "Tracer",
+    "symbol": "TCR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9C4A4204B79dd291D6b6571C5BE8BbcD0622F050/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A",
+    "name": "NearPad",
+    "symbol": "PAD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A/logo.png"
   }
 ]

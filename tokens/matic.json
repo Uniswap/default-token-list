@@ -782,5 +782,37 @@
     "symbol": "POOL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x25788a1a171ec66Da6502f9975a15B609fF54CF6/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x6002410dDA2Fb88b4D0dc3c1D562F7761191eA80",
+    "name": "The Employment Commons Work Token",
+    "symbol": "WORK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6002410dDA2Fb88b4D0dc3c1D562F7761191eA80/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+    "name": "Wrapped Banano",
+    "symbol": "wBAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x8a0e8b4b0903929f47C3ea30973940D4a9702067",
+    "name": "InsurAce",
+    "symbol": "INSUR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets//logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x255707B70BF90aa112006E1b07B9AeA6De021424",
+    "name": "TETU Reward Token",
+    "symbol": "TETU",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x255707B70BF90aa112006E1b07B9AeA6De021424/logo.png"
   }
 ]
