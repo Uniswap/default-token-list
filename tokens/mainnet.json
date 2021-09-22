@@ -1170,7 +1170,7 @@
   {
     "address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
     "chainId": 1,
-    "name": "MM Token",
+    "name": "MMToken",
     "symbol": "MM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304/logo.png"
@@ -2950,5 +2950,13 @@
     "symbol": "PAD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xea7Cc765eBC94C4805e3BFf28D7E4aE48D06468A/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611",
+    "name": "Million",
+    "symbol": "MM/Million",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611/logo.png"
   }
 ]

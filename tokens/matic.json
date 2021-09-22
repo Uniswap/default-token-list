@@ -814,5 +814,21 @@
     "symbol": "TETU",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x255707B70BF90aa112006E1b07B9AeA6De021424/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+    "name": "Million",
+    "symbol": "MM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x0B048D6e01a6b9002C291060bF2179938fd8264c",
+    "name": "PolyAlpha Finance",
+    "symbol": "ALPHA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0B048D6e01a6b9002C291060bF2179938fd8264c/logo.png"
   }
 ]
