@@ -49,11 +49,19 @@
   },
   {
     "chainId": 43114,
-    "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+    "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
     "decimals": 18,
     "name": "SushiToken",
     "symbol": "SUSHI",
-    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+    "decimals": 18,
+    "name": "Old SushiToken",
+    "symbol": "oldSUSHI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
     "chainId": 43114,
