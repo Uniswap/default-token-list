@@ -646,5 +646,21 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/15626/small/wenlambo.jpg?1621351104"
+  },
+  {
+    "name": "WrappedConceal",
+    "symbol": "wCCX",
+    "address": "0x988c11625472340b7B36FF1534893780E0d8d841",
+    "chainId": 56,
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0x988c11625472340b7B36FF1534893780E0d8d841/logo.png"
+  },
+  {
+    "chainId": 56,
+    "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
+    "name": "Million",
+    "symbol": "MM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4/logo.png"
   }
 ]
