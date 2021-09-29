@@ -2958,5 +2958,21 @@
     "symbol": "MM/Million",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B4c7A5e3f0B99FCD83e9c089BDDD6c7FCe5c611/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x16CDA4028e9E872a38AcB903176719299beAed87",
+    "name": "MARS4",
+    "symbol": "MARS4",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x16CDA4028e9E872a38AcB903176719299beAed87/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53",
+    "name": "BNPL Pay",
+    "symbol": "BNPL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53/logo.png"
   }
 ]
