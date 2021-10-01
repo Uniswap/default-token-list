@@ -2974,5 +2974,21 @@
     "symbol": "BNPL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x84d821F7FbDD595c4C4A50842913e6b1E07d7a53/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x725C263e32c72dDC3A19bEa12C5a0479a81eE688",
+    "name": "Bidge Mutual",
+    "symbol": "BMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x725C263e32c72dDC3A19bEa12C5a0479a81eE688/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436",
+    "name": "Kanpeki",
+    "symbol": "KAE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436/logo.png"
   }
 ]
