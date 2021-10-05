@@ -98,7 +98,7 @@
   {
     "name": "HAM Token",
     "address": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
-    "symbol": "$HAM",
+    "symbol": "HAM",
     "decimals": 8,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/ham.png"
@@ -106,7 +106,7 @@
   {
     "name": "WRS Token",
     "address": "0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7",
-    "symbol": "$WRS",
+    "symbol": "WRS",
     "decimals": 6,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/thewirelesstoken.png"
@@ -230,5 +230,29 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/axiebch.png"
+  },
+  {
+    "name": "MistToken",
+    "address": "0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
+    "symbol": "MIST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/mist.jpeg"
+  },
+  {
+    "name": "LAWTOKEN",
+    "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "symbol": "LAW",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/law.png"
+  },
+  {
+    "name": "Potato",
+    "address": "0xb5b1939ef0a3743d0ae9282dba62312b614a5ac0",
+    "symbol": "POTA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/pota.png"
   }
 ]
