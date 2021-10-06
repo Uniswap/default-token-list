@@ -3,6 +3,7 @@ const eth = require("./tokens/eth.json");
 const bsc = require("./tokens/bsc.json");
 const ftm = require("./tokens/ftm.json");
 const avax = require("./tokens/avax.json");
+const matic = require("./tokens/matic.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -17,7 +18,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png",
     keywords: ["empire", "default"],
-    tokens: [...eth, ...bsc, ...ftm, ...avax]
+    tokens: [...eth, ...bsc, ...ftm, ...avax, ...matic]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
