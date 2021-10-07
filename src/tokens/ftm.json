@@ -16,9 +16,9 @@
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ftm/0xc83859C413a6bA5ca1620cD876c7E33a232c1C34/logo.png"
     },
     {
-      "name": "FDEX/EMP",
+      "name": "FDEX/EMP-LP",
       "address": "0xC12a874065b52926F89F29253744c15Bc37eAf0B",
-      "symbol": "FDEX",
+      "symbol": "FDEX/EMP-LP",
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ftm/0xC12a874065b52926F89F29253744c15Bc37eAf0B/logo.png"
