@@ -336,5 +336,21 @@
     "symbol": "TCR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA72159FC390f0E3C6D415e658264c7c4051E9b87/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
+    "name": "Dopex Governance Token",
+    "symbol": "DPX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEec2bE5c91ae7f8a338e1e5f3b5DE49d07AfdC81/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x32Eb7902D4134bf98A28b963D26de779AF92A212",
+    "name": "Dopex Rebate Token",
+    "symbol": "RDPX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEec2bE5c91ae7f8a338e1e5f3b5DE49d07AfdC81/logo.png"
   }
 ]
