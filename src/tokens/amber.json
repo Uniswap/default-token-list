@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 10001,
     "logoURI": "https://ipfs.io/ipfs/QmZx3XHnkYmaEGrpMgvzRjUcKXnmvNdqpYz9h9ySTwFDGm"
+  },
+  {
+    "name": "AMM Token",
+    "address": "0x9E06bF2B60f42e5bA8E0c9BDfB2242924d09fD78",
+    "symbol": "AMM",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://zh.thedev.id/sep20tokens/assets/scales.png"
   }
 ]
