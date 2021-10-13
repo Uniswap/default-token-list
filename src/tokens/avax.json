@@ -5,7 +5,7 @@
       "symbol": "WAVAX",
       "decimals": 18,
       "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedAVAX.png"
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     },
     {
       "name": "Avalanche PRISM Token",
@@ -14,5 +14,32 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x9888B4470f7b3494572AD491F24717C6a1EfE1b7/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedBTC.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedETH.png"
     }
   ]
+
+
+  
