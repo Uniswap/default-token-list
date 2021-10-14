@@ -10,7 +10,7 @@
     {
       "name": "Avalanche PRISM Token",
       "address": "0x9888B4470f7b3494572AD491F24717C6a1EfE1b7",
-      "symbol": "aPrism",
+      "symbol": "aPRISM",
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x9888B4470f7b3494572AD491F24717C6a1EfE1b7/logo.png"
