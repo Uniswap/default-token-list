@@ -38,6 +38,14 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedETH.png"
+    },
+    {
+      "name": "OctaDahlia",
+      "address": "0x37954a6f74261Ae998c8ECc40424F7E5822eAEE2",
+      "symbol": "OcDa",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x37954a6f74261Ae998c8ECc40424F7E5822eAEE2/logo.png"
     }
   ]
 
