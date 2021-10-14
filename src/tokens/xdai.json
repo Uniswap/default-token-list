@@ -1,0 +1,50 @@
+[
+    {
+      "name": "Wrapped XDAI",
+      "address": "0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d",
+      "symbol": "WAVAX",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
+    },
+    {
+      "name": "xDai PRISM Token",
+      "address": "0x9888B4470f7b3494572AD491F24717C6a1EfE1b7",
+      "symbol": "xPrism",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0x9888B4470f7b3494572AD491F24717C6a1EfE1b7/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedBTC.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x6A023CCd1ff6F2045C3309768eAd9E68F978f6e1",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedETH.png"
+    },
+    {
+      "name": "STAKE",
+      "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
+      "symbol": "STAKE",
+      "decimals": 18,
+      "chainId": 100,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/logo.png"
+    }
+  ]
