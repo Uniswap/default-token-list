@@ -4,7 +4,7 @@ const bsc = require("./tokens/bsc.json");
 const ftm = require("./tokens/ftm.json");
 const avax = require("./tokens/avax.json");
 const matic = require("./tokens/matic.json");
-const matic = require("./tokens/xdai.json");
+const xdai = require("./tokens/xdai.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
