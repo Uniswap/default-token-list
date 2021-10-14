@@ -2990,5 +2990,45 @@
     "symbol": "KAE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Def5029A0e7591e46B38742bFEdd1Fb7b24436/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xadd5E881984783dD432F80381Fb52F45B53f3e70",
+    "name": "Vite",
+    "symbol": "VITE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xadd5E881984783dD432F80381Fb52F45B53f3e70/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3405A1bd46B85c5C029483FbECf2F3E611026e45",
+    "name": "WOWSwap",
+    "symbol": "WOW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44017598f2AF1bD733F9D87b5017b4E7c1B28DDE",
+    "name": "pSTAKE Staked Atom",
+    "symbol": "stkATOM",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44017598f2AF1bD733F9D87b5017b4E7c1B28DDE/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59",
+    "name": "CheeseFry",
+    "symbol": "CHEESE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x332E824e46FcEeB9E59ba9491B80d3e6d42B0B59/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe76C6c83af64e4C60245D8C7dE953DF673a7A33D",
+    "name": "Rail",
+    "symbol": "RAIL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe76C6c83af64e4C60245D8C7dE953DF673a7A33D/logo.png"
   }
 ]

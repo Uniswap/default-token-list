@@ -662,5 +662,21 @@
     "symbol": "MM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4/logo.png"
+  },
+  {
+    "chainId": 56,
+    "address": "0x4DA996C5Fe84755C80e108cf96Fe705174c5e36A",
+    "name": "WOWSwap",
+    "symbol": "WOW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+  },
+  {
+    "name": "ShibaWallet",
+    "symbol": "SHWA",
+    "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://shibawallet.pro/assets/favicon32x32.png"
   }
 ]

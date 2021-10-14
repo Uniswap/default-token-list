@@ -830,5 +830,61 @@
     "symbol": "ALPHA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0B048D6e01a6b9002C291060bF2179938fd8264c/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
+    "name": "PolyPup Finance",
+    "symbol": "COLLAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x855D4248672a1fCE482165e8DBE1207b94b1968a",
+    "name": "WOWSwap",
+    "symbol": "WOW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+    "name": "WolfSafePoorPeople",
+    "symbol": "WSPP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F/logo.png"
+  },
+  {
+   "name": "Kommunitas",
+   "address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+   "symbol": "KOM",
+   "decimals": 8,
+   "chainId": 137,
+   "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC004e2318722EA2b15499D6375905d75Ee5390B8/logo.png"
+ },
+ {
+    "chainId": 137,
+    "address": "0x3f717919deF69f81d17b80839bf8af35697ccbFa",
+    "name": "Data Exchange Token",
+    "symbol": "DTX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3f717919deF69f81d17b80839bf8af35697ccbFa/logo.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+    "name": "Propel",
+    "symbol": "Propel",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe0ce60af0850bf54072635e66e79df17082a1109/logo.png"
+  },
+  {
+    "name": "PolyQuity Dollar",
+    "address": "0x0527c8C43250279D6Eb74dA1078193f5316fc9a0",
+    "symbol": "PYD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0527c8C43250279D6Eb74dA1078193f5316fc9a0/logo.png"
   }
 ]
