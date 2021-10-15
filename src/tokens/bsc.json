@@ -80,11 +80,19 @@
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xD6ca9451bba47e26706A701aE05bE45A712D4B1B/logo.png"
   },
   {
-    "name": "EMPIRE/EMPIRE-BNB LP",
+    "name": "EMPIRE/BNB",
     "address": "0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f",
+    "symbol": "EMPIRE/BNB",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
+  },
+  {
+    "name": "EMPIRE/EMPIRE-BNB LP",
+    "address": "0x6688349f8E74c03C422F79254e8126280BE5E484",
     "symbol": "EMPIRE/EMPIRE-BNB",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
   }
 ]
