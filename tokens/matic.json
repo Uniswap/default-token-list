@@ -480,14 +480,6 @@
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8292.png"
   },
   {
-    "name": "The Sandbox",
-    "address": "0xC6d54D2f624bc83815b49d9c2203b1330B841cA0",
-    "symbol": "SAND",
-    "decimals": 18,
-    "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
-  },
-  {
     "name": "Synthetix Network Token",
     "address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
     "symbol": "SNX",
