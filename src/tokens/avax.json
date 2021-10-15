@@ -54,6 +54,14 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/avax/0xc83859C413a6bA5ca1620cD876c7E33a232c1C34/logo.png"
+    },
+    {
+      "name": "ADEX/ADEX-AVAX LP",
+      "address": "0xe4b37EF0ADd9A7532ac513D4637D8fC0f4129D44",
+      "symbol": "ADEX/ADEX-AVAX LP",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
     }
   ]
 

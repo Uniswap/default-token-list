@@ -80,9 +80,9 @@
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xD6ca9451bba47e26706A701aE05bE45A712D4B1B/logo.png"
   },
   {
-    "name": "Empire/BNB LP",
+    "name": "EMPIRE/EMPIRE-BNB LP",
     "address": "0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f",
-    "symbol": "EMP-LP",
+    "symbol": "EMPIRE/EMPIRE-BNB",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f/logo.png"
