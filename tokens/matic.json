@@ -878,5 +878,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0527c8C43250279D6Eb74dA1078193f5316fc9a0/logo.png"
+  },
+  {
+    "name": "Klima DAO",
+    "address": "0x4e78011Ce80ee02d2c3e649Fb657E45898257815",
+    "symbol": "KLIMA",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x4e78011Ce80ee02d2c3e649Fb657E45898257815/logo.png"
+  },
+  {
+    "name": "Toucan Protocol: Base Carbon Tonne",
+    "address": "0x2F800Db0fdb5223b3C3f354886d907A671414A7F",
+    "symbol": "BCT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2F800Db0fdb5223b3C3f354886d907A671414A7F/logo.png"
   }
 ]
