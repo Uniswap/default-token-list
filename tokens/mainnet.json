@@ -3030,5 +3030,13 @@
     "symbol": "CELO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/celo.jpg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638",
+    "name": "Nifty League",
+    "symbol": "NFTL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638/logo.png"
   }
 ]
