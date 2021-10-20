@@ -331,14 +331,6 @@
   },
   {
     "chainId": 42161,
-    "address": "0xA72159FC390f0E3C6D415e658264c7c4051E9b87",
-    "name": "Tracer",
-    "symbol": "TCR",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA72159FC390f0E3C6D415e658264c7c4051E9b87/logo.png"
-  },
-  {
-    "chainId": 42161,
     "address": "0x6C2C06790b3E3E3c38e12Ee22F8183b37a13EE55",
     "name": "Dopex Governance Token",
     "symbol": "DPX",
@@ -384,5 +376,37 @@
     "symbol": "ARVAULT",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xA6219B4Bf4B861A2b1C02da43b2aF266186eDC04/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x326c33FD1113c1F29B35B4407F3d6312a8518431",
+    "name": "Strips Token",
+    "symbol": "STRP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x326c33FD1113c1F29B35B4407F3d6312a8518431/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B",
+    "name": "Wrapped sOHM",
+    "symbol": "wsOHM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x739ca6D71365a08f584c8FC4e1029045Fa8ABC4B/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xA72159FC390f0E3C6D415e658264c7c4051E9b87",
+    "name": "Tracer",
+    "symbol": "TCR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xA72159FC390f0E3C6D415e658264c7c4051E9b87/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xAFD871f684F21Ab9D7137608C71808f83D75e6fc",
+    "name": "Arbucks",
+    "symbol": "BUCK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png"
   }
 ]

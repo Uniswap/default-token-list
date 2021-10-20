@@ -158,5 +158,45 @@
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0x8b29344f368b5FA35595325903fE0eAab70C8E1F/logo.png"
+  },
+  {
+    "name": "Rivr Shiba",
+    "address": "0x3d593056F3e34dB7A4720d7F171447C489CFa195",
+    "symbol": "RIVRSHIBA",
+    "decimals": 9,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0x3d593056F3e34dB7A4720d7F171447C489CFa195/logo.png"
+  },
+  {
+    "name": "BEPRO Network",
+    "address": "0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47",
+    "symbol": "BEPRO",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/moonriver/assets/0xCb4a593ce512D78162C58384f0b2Fd6e802c2c47/logo.png"
+  },
+  {
+    "name": "Mai MiMatic",
+    "address": "0x7f5a79576620C046a293F54FFCdbd8f2468174F1",
+    "symbol": "MAI",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png"
+  },
+  {
+    "name": "Fantom",
+    "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
+    "symbol": "FTM",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/network/fantom.jpg"
+  },
+  {
+    "name": "Relay",
+    "address": "0xAd7F1844696652ddA7959a49063BfFccafafEfe7",
+    "symbol": "RELAY",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png"
   }
 ]

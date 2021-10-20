@@ -894,5 +894,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2F800Db0fdb5223b3C3f354886d907A671414A7F/logo.png"
+  },
+  {
+    "name": "DFX Token",
+    "address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
+    "symbol": "DFX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395/logo.png"
   }
 ]

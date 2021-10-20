@@ -3038,5 +3038,29 @@
     "symbol": "NFTL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3c8D2FCE49906e11e71cB16Fa0fFeB2B16C29638/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9",
+    "name": "Strips Token",
+    "symbol": "STRP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x97872EAfd79940C7b24f7BCc1EADb1457347ADc9/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+    "name": "O3 Swap Token",
+    "symbol": "O3",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xEe9801669C6138E84bD50dEB500827b776777d28/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xFb782396c9b20E564A64896181c7AC8d8979d5F4",
+    "name": "DivergenceProtocol",
+    "symbol": "DIVER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xFb782396c9b20E564A64896181c7AC8d8979d5F4/logo.png"
   }
 ]
