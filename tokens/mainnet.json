@@ -3062,5 +3062,13 @@
     "symbol": "DIVER",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xFb782396c9b20E564A64896181c7AC8d8979d5F4/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4",
+    "name": "Polygon Ecosystem Index",
+    "symbol": "PECO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4/logo.png"
   }
 ]
