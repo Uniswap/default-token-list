@@ -254,5 +254,61 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/pota.png"
+  },
+  {
+    "name": "MILK",
+    "address": "0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0",
+    "symbol": "MILK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/milk.png"
+  },
+  {
+    "name": "Celery",
+    "address": "0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91",
+    "symbol": "CLY",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/cly.png"
+  },
+  {
+    "name": "BCHPad",
+    "address": "0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
+    "symbol": "BPAD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/pota.png"
+  },
+  {
+    "name": "Joystick",
+    "address": "0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+    "symbol": "JOY",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/joy.png"
+  },
+  {
+    "name": "MISTbar",
+    "address": "0xc41c680c60309d4646379ed62020c534eb67b6f4",
+    "symbol": "xMIST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/xmist.jpeg"
+  },
+  {
+    "name": "Konra SEP20",
+    "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+    "symbol": "KONRA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/konra.jpg"
+  },
+  {
+    "name": "Cheese",
+    "address": "0x09A4CDb1569563fF277aC457cED35fe2551aEC1D",
+    "symbol": "CHEESE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/cheese.png"
   }
 ]
