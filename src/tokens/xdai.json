@@ -46,5 +46,21 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/logo.png"
+    },
+    {
+      "name": "EmpireDEX xDAI",
+      "address": "0xc83859C413a6bA5ca1620cD876c7E33a232c1C34",
+      "symbol": "PDEX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xc83859C413a6bA5ca1620cD876c7E33a232c1C34/logo.png"
+    },
+    {
+      "name": "XDEX/XDEX-XDAI",
+      "address": "0xd70a028b42132e55d1c3c6a1890e9c478d559c24",
+      "symbol": "XDEX/XDEX-XDAI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
     }
   ]
