@@ -408,5 +408,13 @@
     "symbol": "BUCK",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xAFD871f684F21Ab9D7137608C71808f83D75e6fc/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xA7Aa2921618e3D63dA433829d448b58C9445A4c3",
+    "name": "DeversiFi Token",
+    "symbol": "DVF",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDDdddd4301A082e62E84e43F474f044423921918/logo.png"
   }
 ]

@@ -3070,5 +3070,45 @@
     "symbol": "PECO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9d3EE6B64e69Ebe12a4bF0b01D031CB80F556eE4/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbA8A621b4a54e61C442F5Ec623687e2a942225ef",
+    "name": "Sandclock",
+    "symbol": "QUARTZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbA8A621b4a54e61C442F5Ec623687e2a942225ef/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97",
+    "name": "Gods Unchained",
+    "symbol": "GODS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xccC8cb5229B0ac8069C51fd58367Fd1e622aFD97/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x45e007750Cc74B1D2b4DD7072230278d9602C499",
+    "name": "pSTAKE Staked XRPT",
+    "symbol": "stkXRPT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x45e007750Cc74B1D2b4DD7072230278d9602C499/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1098269bFc70b26DeA43f18F812D2b9854E874bA",
+    "name": "Oh..Geez",
+    "symbol": "OH-GEEZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1098269bFc70b26DeA43f18F812D2b9854E874bA/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x865377367054516e17014CcdED1e7d814EDC9ce4/logo.png"
   }
 ]

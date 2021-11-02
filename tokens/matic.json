@@ -918,5 +918,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978/logo.png"
+  },
+  {
+    "name": "TrueUSD",
+    "address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756/logo.png"
   }
 ]

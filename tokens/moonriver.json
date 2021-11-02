@@ -24,6 +24,22 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
+    "name": "Magic Internet Money",
+    "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+    "symbol": "MIM",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
+  },
+  {
+    "name": "Frax",
+    "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
     "symbol": "DAI",
