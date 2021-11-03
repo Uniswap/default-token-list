@@ -10,7 +10,7 @@
     {
       "name": "xDai PRISM Token",
       "address": "0xd46df541148932690B81092f600f35208AFd4325",
-      "symbol": "xPrism",
+      "symbol": "xPRISM",
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xd46df541148932690B81092f600f35208AFd4325/logo.png"
