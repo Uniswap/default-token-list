@@ -8,7 +8,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg"
   },
   {
-    "name": "Wrapped Ether",
+    "name": "Wrapped Ether - AnySwap",
     "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
     "symbol": "WETH",
     "decimals": 18,
@@ -16,15 +16,15 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
   },
   {
-    "name": "Wrapped Bitcoin",
-    "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+    "name": "Wrapped Bitcoin - Meter",
+    "address": "0xE6a991Ffa8CfE62B0bf6BF72959A3d4f11B2E0f5",
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
-    "name": "Magic Internet Money",
+    "name": "Magic Internet Money - AnySwap",
     "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
     "symbol": "MIM",
     "decimals": 18,
@@ -33,14 +33,14 @@
   },
   {
     "name": "Frax",
-    "address": "0x965f84D915a9eFa2dD81b653e3AE736555d945f4",
+    "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
     "symbol": "FRAX",
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
   },
   {
-    "name": "Dai Stablecoin",
+    "name": "Dai Stablecoin - AnySwap",
     "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
     "symbol": "DAI",
     "decimals": 18,
@@ -48,15 +48,15 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
   },
   {
-    "name": "WBNB Token",
-    "symbol": "WBNB",
-    "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+    "name": "BNB - Meter",
+    "symbol": "BNB",
+    "address": "0x868892CCcEdbfF0B028F3b3595205Ea91b99376B",
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bnb.jpg"
   },
   {
-    "name": "Binance USD",
+    "name": "Binance USD - AnySwap",
     "symbol": "BUSD",
     "address": "0x5D9ab5522c64E1F6ef5e3627ECCc093f56167818",
     "decimals": 18,
@@ -64,7 +64,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
   },
   {
-    "name": "USD Coin",
+    "name": "USD Coin - AnySwap",
     "symbol": "USDC",
     "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
     "decimals": 6,
@@ -72,7 +72,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
   },
   {
-    "name": "Tether USD",
+    "name": "Tether USD - AnySwap",
     "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
     "symbol": "USDT",
     "decimals": 6,
@@ -80,7 +80,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
   },
   {
-    "name": "SushiToken",
+    "name": "SushiToken - AnySwap",
     "address": "0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
     "symbol": "SUSHI",
     "decimals": 18,
@@ -88,7 +88,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
   },
   {
-    "name": "Aave",
+    "name": "Aave - AnySwap",
     "address": "0xf27Ee99622C3C9b264583dACB2cCE056e194494f",
     "symbol": "AAVE",
     "decimals": 18,
@@ -96,7 +96,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
   },
   {
-    "name": "ChainLink Token",
+    "name": "ChainLink Token - AnySwap",
     "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
     "symbol": "LINK",
     "decimals": 18,
@@ -105,7 +105,7 @@
   },
   {
     "address": "0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A",
-    "name": "Curve DAO Token",
+    "name": "Curve DAO Token - AnySwap",
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 1285,
@@ -113,23 +113,15 @@
   },
   {
     "address": "0xF480f38C366dAaC4305dC484b2Ad7a496FF00CeA",
-    "name": "Synthetix Network Token",
+    "name": "Synthetix Network Token - AnySwap",
     "symbol": "SNX",
     "chainId": 1285,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
   },
   {
-    "address": "0xABd380327Fe66724FFDa91A87c772FB8D00bE488",
-    "name": "Uniswap",
-    "symbol": "UNI",
-    "chainId": 1285,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
-  },
-  {
     "address": "0x375488F097176507e39B9653b88FDc52cDE736Bf",
-    "name": "yearn.finance",
+    "name": "yearn.finance - AnySwap",
     "symbol": "YFI",
     "chainId": 1285,
     "decimals": 18,
@@ -145,7 +137,7 @@
   },
   {
     "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
-    "name": "Matic",
+    "name": "Matic - AnySwap",
     "symbol": "MATIC",
     "chainId": 1285,
     "decimals": 18,
@@ -153,7 +145,7 @@
   },
    {
     "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
-    "name": "Avax",
+    "name": "Avax - AnySwap",
     "symbol": "AVAX",
     "chainId": 1285,
     "decimals": 18,
@@ -214,5 +206,13 @@
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0xAd7F1844696652ddA7959a49063BfFccafafEfe7/logo.png"
+  },
+  {
+    "name": "Meter Governance",
+    "address": "0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692",
+    "symbol": "MTRG",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692/logo.png"
   }
 ]
