@@ -94,5 +94,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
+  },
+  {
+    "name": "Adamant",
+    "address": "0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69",
+    "symbol": "ADMC",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69/logo.png"
   }
 ]
