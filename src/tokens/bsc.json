@@ -102,5 +102,13 @@
     "decimals": 9,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xA55EF2fB2B7b6A60371FD3def9B806E74a48bE69/logo.png"
+  },
+  {
+    "name": "NJOY",
+    "address": "0x299899A16df8a7bcDdd176913737F19782958C76",
+    "symbol": "NJOY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0x299899A16df8a7bcDdd176913737F19782958C76/logo.png"
   }
 ]
