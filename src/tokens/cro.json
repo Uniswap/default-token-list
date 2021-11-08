@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Wrapped Crypto.com Coin",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23 ",
+      "symbol": "WCRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedETH.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedBTC.png"
+    },
+    {
+      "name": "Tether",
+      "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/TETHER.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DAI.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
+    }
+
+    // {
+    //   "name": "EmpireDEX Cronos",
+    //   "address": "#",
+    //   "symbol": "CRODEX",
+    //   "decimals": 18,
+    //   "chainId": 25,
+    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/#/logo.png"
+    // },
+    // {
+    //   "name": "CRODEX/CRO",
+    //   "address": "#",
+    //   "symbol": "CRODEX/CRO",
+    //   "decimals": 18,
+    //   "chainId": 25,
+    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
+    // },
+    // {
+    //   "name": "CRODEX/CRODEX-CRO LP",
+    //   "address": "#",
+    //   "symbol": "CRODEX/CRODEX-CRO",
+    //   "decimals": 18,
+    //   "chainId": 25,
+    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
+    // },
+    // {
+    //   "name": "Cronos PRISM Token",
+    //   "address": "#",
+    //   "symbol": "croPRISM",
+    //   "decimals": 18,
+    //   "chainId": 25,
+    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/#/logo.png"
+    // }
+  ]
