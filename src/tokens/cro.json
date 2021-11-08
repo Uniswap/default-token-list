@@ -47,37 +47,4 @@
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
     }
-
-    // {
-    //   "name": "EmpireDEX Cronos",
-    //   "address": "#",
-    //   "symbol": "CRODEX",
-    //   "decimals": 18,
-    //   "chainId": 25,
-    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/#/logo.png"
-    // },
-    // {
-    //   "name": "CRODEX/CRO",
-    //   "address": "#",
-    //   "symbol": "CRODEX/CRO",
-    //   "decimals": 18,
-    //   "chainId": 25,
-    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
-    // },
-    // {
-    //   "name": "CRODEX/CRODEX-CRO LP",
-    //   "address": "#",
-    //   "symbol": "CRODEX/CRODEX-CRO",
-    //   "decimals": 18,
-    //   "chainId": 25,
-    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
-    // },
-    // {
-    //   "name": "Cronos PRISM Token",
-    //   "address": "#",
-    //   "symbol": "croPRISM",
-    //   "decimals": 18,
-    //   "chainId": 25,
-    //   "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/#/logo.png"
-    // }
   ]
