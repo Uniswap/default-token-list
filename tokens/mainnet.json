@@ -3110,5 +3110,45 @@
     "symbol": "DOLA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x865377367054516e17014CcdED1e7d814EDC9ce4/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba5BDe662c17e2aDFF1075610382B9B691296350",
+    "name": "SuperRare",
+    "symbol": "RARE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xba5BDe662c17e2aDFF1075610382B9B691296350/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3",
+    "name": "Fodl",
+    "symbol": "FODL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4C2e59D098DF7b6cBaE0848d66DE2f8A4889b9C3/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+    "name": "Immutable X",
+    "symbol": "IMX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c",
+    "name": "XRUNE Token",
+    "symbol": "XRUNE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c/logo.png"
   }
 ]
