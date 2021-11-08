@@ -51,7 +51,7 @@
       "name": "Tendies",
       "address": "0x2fDcB16a977921FaDac3A9E03D18aDa77B4aA3F5",
       "symbol": "TENDIES",
-      "decimals": 18,
+      "decimals": 9,
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/tendiefrenco/tendies/52c1c097ff0b7f7f5fa09fec7dad4ee57839d124/logo%2025x25.png"
     }
