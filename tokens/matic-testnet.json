@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 80001,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+  },
+  {
+    "address": "0xE03489D4E90b22c59c5e23d45DFd59Fc0dB8a025",
+    "chainId": 80001,
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
   }
 ]

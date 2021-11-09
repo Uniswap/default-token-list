@@ -37,7 +37,7 @@
     "symbol": "FRAX",
     "decimals": 18,
     "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+    "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0x1A93B23281CC1CDE4C4741353F3064709A16197d/logo.png"
   },
   {
     "name": "Dai Stablecoin - AnySwap",
