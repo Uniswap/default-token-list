@@ -26,6 +26,7 @@ const celo = require("../tokens/celo.json");
 const palm = require("../tokens/palm.json");
 const moonriver = require("../tokens/moonriver.json");
 const fuse = require("../tokens/fuse.json");
+const telos = require("../tokens/telos.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -68,6 +69,7 @@ module.exports = function buildList() {
       ...palm,
       ...moonriver,
       ...fuse,
+      ...telos,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {

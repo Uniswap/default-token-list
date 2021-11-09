@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E",
+    "chainId": 40,
+    "name": "Wrapped Telos",
+    "symbol": "WTLOS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E.jpg"
+  }
+]
