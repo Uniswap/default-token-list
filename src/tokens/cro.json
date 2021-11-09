@@ -54,5 +54,14 @@
       "decimals": 9,
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/tendiefrenco/tendies/52c1c097ff0b7f7f5fa09fec7dad4ee57839d124/logo%2025x25.png"
+    },
+    {
+      "name": "CroWasp",
+      "address": "0x766399F162a9806BDcf3A5E89825683AB0082382",
+      "symbol": "WASP",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x766399F162a9806BDcf3A5E89825683AB0082382/logo.png"
+
     }
   ]
