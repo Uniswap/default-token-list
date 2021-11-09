@@ -1,38 +1,44 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "2.0.0",
-  "description": "◦ The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "name": "@sushiswap/default-token-list",
+  "version": "18.1.0",
+  "description": "◦ The SushiSwap default token list",
+  "main": "build/sushiswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build"
+    "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build",
+    "sync": "node internal/sync.js"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/sushiswap-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/sushiswap/default-token-list.git"
   },
   "keywords": [
-    "uniswap",
+    "sushiswap",
     "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "Matthew Lilley <hello@matthewlilley.com>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/sushiswap/default-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/sushiswap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.8",
+    "@ethersproject/solidity": "^5.3.0",
+    "@octokit/rest": "^18.6.2",
+    "@sushiswap/sdk": "^5.0.0-canary.22",
+    "@uniswap/token-lists": "1.0.0-beta.25",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
+    "lodash": "^4.17.21",
     "mocha": "^8.0.1",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "xlsx": "^0.17.0"
   }
 }

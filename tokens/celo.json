@@ -1,0 +1,170 @@
+[
+  {
+    "address": "0x22401536505dd5d85F7d57f8B37172feDa8f499d",
+    "name": "CeloShiba",
+    "symbol": "cSHIBA",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cshiba.jpg"
+  },
+  {
+    "name": "wrapped.com Ethereum",
+    "address": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+    "symbol": "cETH",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/weth.jpg"
+  },
+  {
+    "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
+    "name": "Ubeswap",
+    "symbol": "UBE",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ube.jpg"
+  },
+  {
+    "address": "0x1a8Dbe5958c597a744Ba51763AbEBD3355996c3e",
+    "name": "Rewards CELO",
+    "symbol": "rCELO",
+    "chainId": 42220,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rcelo.jpg"
+  },
+  {
+    "address": "0x2879BFD5e7c4EF331384E908aaA3Bd3014b703fA",
+    "name": "Savings CELO",
+    "symbol": "sCELO",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/scelo.jpg"
+  },
+  {
+    "address": "0x32A9FE697a32135BFd313a6Ac28792DaE4D9979d",
+    "name": "Celo Moss Carbon Credit",
+    "symbol": "cMCO2",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cmco2.jpg"
+  },
+  {
+    "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+    "name": "Celo Native Asset",
+    "symbol": "CELO",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/celo.jpg"
+  },
+  {
+    "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
+    "name": "Moola cUSD",
+    "symbol": "mcUSD",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcusd.jpg"
+  },
+  {
+    "address": "0x7037F7296B2fc7908de7b57a89efaa8319f0C500",
+    "name": "Moola CELO",
+    "symbol": "mCELO",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mcelo.jpg"
+  },
+  {
+    "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+    "name": "Celo Dollar",
+    "symbol": "cUSD",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cusd.jpg"
+  },
+  {
+    "address": "0x832F03bCeE999a577cb592948983E35C048B5Aa4",
+    "name": "Duniapay West African CFA franc",
+    "symbol": "cXOF",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cxof.jpg"
+  },
+  {
+    "address": "0xa8d0E6799FF3Fd19c6459bf02689aE09c4d78Ba7",
+    "name": "Moola cEUR",
+    "symbol": "mcEUR",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mceur.jpg"
+  },
+  {
+    "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
+    "name": "wrapped.com Bitcoin",
+    "symbol": "cBTC",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wbtc.jpg"
+  },
+  {
+    "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+    "name": "Celo Euro",
+    "symbol": "cEUR",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ceur.jpg"
+  },
+  {
+    "address": "0xD90BBdf5904cb7d275c41f897495109B9A5adA58",
+    "name": "CeloDoge",
+    "symbol": "cDOGE",
+    "decimals": 9,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cdoge.jpg"
+  },
+  {
+    "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
+    "name": "Optics WETH",
+    "address": "0xE919F65739c26a42616b7b8eedC6b5524d1e3aC4",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+    "name": "Optics DAI",
+    "address": "0xE4fE50cdD716522A56204352f00AA110F731932d",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+  },
+  {
+    "name": "Optics USDC",
+    "address": "0x2A3684e9Dc20B857375EA04235F2F7edBe818FA7",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+  },
+  {
+    "name": "Optics USDT",
+    "address": "0xb020D981420744F6b0FedD22bB67cd37Ce18a1d5",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "name": "Optics WBTC",
+    "address": "0xBe50a3013A1c94768A1ABb78c3cB79AB28fc1aCE",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+  }
+]

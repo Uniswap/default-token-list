@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wrapped OKExChain",
+    "address": "0x2219845942d28716c0F7C605765fABDcA1a7d9E0",
+    "symbol": "WOKT",
+    "decimals": 18,
+    "chainId": 65,
+    "logoURI": "https://assets.coingecko.com/coins/images/13708/small/OKExChain.jpg?1611051839"
+  },
+  {
+    "name": "Tether",
+    "address": "0xe579156f9dEcc4134B5E3A30a24Ac46BB8B01281",
+    "symbol": "USDT",
+    "decimals": 10,
+    "chainId": 65,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  }
+]

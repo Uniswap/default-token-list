@@ -1,0 +1,122 @@
+[
+  {
+    "chainId": 43114,
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "decimals": 18,
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15",
+    "decimals": 18,
+    "name": "Old Wrapped Ether",
+    "symbol": "oldWETH",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+    "decimals": 18,
+    "name": "Aave Token",
+    "symbol": "AAVE",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5947BB275c521040051D82396192181b413227A3",
+    "decimals": 18,
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+    "decimals": 18,
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+    "decimals": 18,
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+    "decimals": 18,
+    "name": "Old SushiToken",
+    "symbol": "oldSUSHI",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xde3A24028580884448a5397872046a019649b084",
+    "decimals": 6,
+    "name": "Old Tether USD",
+    "symbol": "oldUSDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+    "decimals": 6,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+  },
+  {
+    "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+    "chainId": 43114,
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
+  },
+  {
+    "address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+    "chainId": 43114,
+    "name": "Time",
+    "symbol": "TIME",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/time.jpg"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
+    "name": "WOWSwap",
+    "symbol": "WOW",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+  }
+]

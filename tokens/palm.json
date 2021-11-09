@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Wrapped Palm",
+    "address": "0xF98cABF0a963452C5536330408B2590567611a71",
+    "symbol": "WPALM",
+    "decimals": 18,
+    "chainId": 11297108109,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/palm.jpg"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x726138359C17F1E56bA8c4F737a7CAf724F6010b",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 11297108109,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+		"name": "Dai Stablecoin",
+		"address": "0x4C1f6fCBd233241bF2f4D02811E3bF8429BC27B8",
+		"symbol": "DAI",
+		"decimals": 18,
+		"chainId": 11297108109,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+	},
+  {
+		"name": "Portion",
+		"address": "0x5eE074D24f462E0311814C992c99a178458C39fc",
+		"symbol": "PRT",
+		"decimals": 18,
+		"chainId": 11297108109,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/unknown.jpg"
+	}
+]
+
