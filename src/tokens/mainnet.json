@@ -277,7 +277,7 @@
     "symbol": "BPAD",
     "decimals": 18,
     "chainId": 10000,
-    "logoURI": "https://www.marketcap.cash/pota.png"
+    "logoURI": "https://www.marketcap.cash/bpad.png"
   },
   {
     "name": "Joystick",
@@ -310,5 +310,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/cheese.png"
+  },
+  {
+    "name": "Xolos",
+    "address": "0x49F9ECF126B6dDF51C731614755508A4674bA7eD",
+    "symbol": "RMZ",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/rmz.png"
   }
 ]
