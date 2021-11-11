@@ -63,5 +63,14 @@
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x766399F162a9806BDcf3A5E89825683AB0082382/logo.png"
 
+    },
+    {
+      "name": "Croshiba",
+      "address": "0x5617EA36c5da5dAFaB51A8634B02609459fEE94F",
+      "symbol": "CROSHIBA",
+      "decimals": 4,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x5617EA36c5da5dAFaB51A8634B02609459fEE94F/logo.png"
+
     }
   ]
