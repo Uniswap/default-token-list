@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.1.30](https://github.com/Uniswap/default-token-list/compare/v4.1.29...v4.1.30) (2021-11-11)
+
 ### [4.1.29](https://github.com/Uniswap/default-token-list/compare/v4.1.28...v4.1.29) (2021-11-09)
 
 ### [4.1.28](https://github.com/Uniswap/default-token-list/compare/v4.1.27...v4.1.28) (2021-11-08)
