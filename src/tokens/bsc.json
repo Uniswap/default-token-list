@@ -113,10 +113,10 @@
   },
   {
     "name": "HIBIKI",
-    "address": "0x299899A16df8a7bcDdd176913737F19782958C76",
+    "address": "0xA532cfaA916c465A094DAF29fEa07a13e41E5B36",
     "symbol": "HIBIKI",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0x299899A16df8a7bcDdd176913737F19782958C76/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xA532cfaA916c465A094DAF29fEa07a13e41E5B36/logo.png"
   }
 ]
