@@ -72,5 +72,14 @@
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x5617EA36c5da5dAFaB51A8634B02609459fEE94F/logo.png"
 
+    },
+    {
+      "name": "croSHID",
+      "address": "0xE2c3e23F751dB74739B7D4D9F89b81768b9E9927",
+      "symbol": "croSHID",
+      "decimals": 4,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xE2c3e23F751dB74739B7D4D9F89b81768b9E9927/logo.png"
+
     }
   ]
