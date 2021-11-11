@@ -22,5 +22,13 @@
     "decimals": 18,
     "chainId": 10001,
     "logoURI": "https://zh.thedev.id/sep20tokens/assets/scales.png"
+  },
+  {
+    "name": "Content View Token",
+    "address": "0xd3063d326d528c614df2Ab23D0C1A2C701F839EA",
+    "symbol": "CVT",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://zh.thedev.id/sep20tokens/assets/eye.png"
   }
 ]
