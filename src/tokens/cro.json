@@ -77,7 +77,7 @@
       "name": "croSHID",
       "address": "0xE2c3e23F751dB74739B7D4D9F89b81768b9E9927",
       "symbol": "croSHID",
-      "decimals": 4,
+      "decimals": 18,
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xE2c3e23F751dB74739B7D4D9F89b81768b9E9927/logo.png"
 
