@@ -110,5 +110,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0x299899A16df8a7bcDdd176913737F19782958C76/logo.png"
+  },
+  {
+    "name": "HIBIKI",
+    "address": "0x299899A16df8a7bcDdd176913737F19782958C76",
+    "symbol": "HIBIKI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0x299899A16df8a7bcDdd176913737F19782958C76/logo.png"
   }
 ]
