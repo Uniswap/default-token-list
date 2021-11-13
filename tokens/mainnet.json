@@ -3150,5 +3150,13 @@
     "symbol": "XRUNE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF",
+    "name": "we love gm",
+    "symbol": "gm",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/cf07eb0b02a013c851eddde2fa8e62f8895536a9/network/ethereum/0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF.jpg"
   }
 ]
