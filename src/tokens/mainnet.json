@@ -160,9 +160,9 @@
     "logoURI": "https://www.marketcap.cash/hodl.png"
   },
   {
-    "name": "Lightning",
+    "name": "🌩️",
     "address": "0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D",
-    "symbol": "LIGHTNING",
+    "symbol": "🌩️",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/lightning.png"
