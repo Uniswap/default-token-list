@@ -91,14 +91,6 @@
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x6B66fCB66Dba37F99876a15303b759c73fc54ed0/logo.png"
     },
     {
-      "name": "EmpireDEX Cronos",
-      "address": "0xc83859C413a6bA5ca1620cD876c7E33a232c1C34",
-      "symbol": "CRODEX",
-      "decimals": 18,
-      "chainId": 25,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xc83859C413a6bA5ca1620cD876c7E33a232c1C34/logo.png"
-    },
-    {
       "name": "Cronos PRISM Token",
       "address": "0x611EB023EDcca8f4aC40260d90A27ba7A7539DB1",
       "symbol": "croPRISM",
