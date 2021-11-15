@@ -318,5 +318,21 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/rmz.png"
+  },
+  {
+    "name": "Flying High",
+    "address": "0x037BcD46Cdfc4ccf25eD9EbC31D09a9D09E06573",
+    "symbol": "FLY",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://miro.medium.com/max/256/1*jZlsJuF_1mWqCMlcQP1DNw.png"
+  },
+  {
+    "name": "MoonMoon",
+    "address": "0x039Bcd43B18A29aa72CabFe269BA045447C881E4",
+    "symbol": "MM",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://i.gyazo.com/d77c3243caa5112d733ba4979ec51942.png"
   }
 ]
