@@ -1,6 +1,6 @@
 {
   "name": "smartbch-token-list",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "SmartBCH default token list",
   "main": "dist/smartbch.tokenlist.json",
   "scripts": {
