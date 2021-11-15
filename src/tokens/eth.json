@@ -38,5 +38,13 @@
     "decimals": 6,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Rootdex",
+    "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+    "symbol": "ROOTDEX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x10998e74f5d33c8ccb46d4f8d8e2711b8a857b57/logo.png"
   }
 ]
