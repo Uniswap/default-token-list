@@ -3090,8 +3090,8 @@
   {
     "chainId": 1,
     "address": "0x45e007750Cc74B1D2b4DD7072230278d9602C499",
-    "name": "pSTAKE Staked XRPT",
-    "symbol": "stkXRPT",
+    "name": "pSTAKE Staked XPRT",
+    "symbol": "stkXPRT",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x45e007750Cc74B1D2b4DD7072230278d9602C499/logo.png"
   },
@@ -3158,5 +3158,101 @@
     "symbol": "gm",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/cf07eb0b02a013c851eddde2fa8e62f8895536a9/network/ethereum/0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF.jpg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x470EBf5f030Ed85Fc1ed4C2d36B9DD02e77CF1b7",
+    "name": "Temple",
+    "symbol": "TEMPLE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x470EBf5f030Ed85Fc1ed4C2d36B9DD02e77CF1b7/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9",
+    "name": "Everipedia IQ",
+    "symbol": "IQ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24Eb24647786135352cbB14f888B23277F0014e7",
+    "name": "Star",
+    "symbol": "STAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x24Eb24647786135352cbB14f888B23277F0014e7/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA",
+    "name": "Phuture",
+    "symbol": "PHTR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE1Fc4455f62a6E89476f1072530C20CF1A0622dA/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "name": "agEUR",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x31429d1856aD1377A8A0079410B297e1a9e214c2",
+    "name": "Angle",
+    "symbol": "ANGLE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x31429d1856aD1377A8A0079410B297e1a9e214c2/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4A64515E5E1d1073e83f30cB97BEd20400b66E10",
+    "name": "Wrapped ZEC",
+    "symbol": "WZEC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4A64515E5E1d1073e83f30cB97BEd20400b66E10/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+    "name": "Wrapped Celo",
+    "symbol": "WCELO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+    "name": "Wrapped Celo Dollar",
+    "symbol": "WCUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x85D7bdfc9c3426b33A684241eEEE70385Bc42820",
+    "name": "Wrapped Kadena",
+    "symbol": "WKDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x85D7bdfc9c3426b33A684241eEEE70385Bc42820/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x39fBBABf11738317a448031930706cd3e612e1B9",
+    "name": "Wrapped XRP",
+    "symbol": "WXRP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x39fBBABf11738317a448031930706cd3e612e1B9/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53c4871322Bb47e7A24136fce291a6dcC832a294",
+    "name": "Wrapped Litecoin",
+    "symbol": "WLTC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x53c4871322Bb47e7A24136fce291a6dcC832a294/logo.png"
   }
 ]
