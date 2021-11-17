@@ -430,7 +430,7 @@
     "address": "0xdb96f8efd6865644993505318cc08FF9C42fb9aC",
     "name": "ZeroTwOhm",
     "symbol": "Z2O",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png"
   },
   {
