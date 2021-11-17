@@ -160,9 +160,9 @@
     "logoURI": "https://www.marketcap.cash/hodl.png"
   },
   {
-    "name": "🌩️",
+    "name": "Lightning",
     "address": "0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D",
-    "symbol": "🌩️",
+    "symbol": "Lightning",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/lightning.png"
@@ -318,5 +318,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/rmz.png"
+  },
+  {
+    "name": "Wrapped BCH",
+    "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+    "symbol": "WBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/bch.svg"
   }
 ]
