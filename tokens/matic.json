@@ -942,5 +942,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x839F1a22A59eAAf26c85958712aB32F80FEA23d9/logo.png"
+  },
+  {
+    "name": "Guaranteed Entrance Token",
+    "address": "0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4",
+    "symbol": "GET",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4/logo.png"
   }
 ]

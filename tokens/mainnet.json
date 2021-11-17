@@ -3254,5 +3254,165 @@
     "symbol": "WLTC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x53c4871322Bb47e7A24136fce291a6dcC832a294/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x47252A63C723889814AeBcAC0683E615624ceC64",
+    "name": "nil",
+    "symbol": "NIL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x47252A63C723889814AeBcAC0683E615624ceC64/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x00813E3421E1367353BfE7615c7f7f133C89df74",
+    "name": "Splintershards",
+    "symbol": "SPS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x00813E3421E1367353BfE7615c7f7f133C89df74/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5",
+    "name": "ParaSwap",
+    "symbol": "PSP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcAfE001067cDEF266AfB7Eb5A286dCFD277f3dE5/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
+    "name": "Marlin POND",
+    "symbol": "POND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x57B946008913B82E4dF85f501cbAeD910e58D26C/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72B886d09C117654aB7dA13A14d603001dE0B777",
+    "name": "XDEFI",
+    "symbol": "XDEFI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e",
+    "name": "Vega",
+    "symbol": "VEGA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xcB84d72e61e383767C4DFEb2d8ff7f4FB89abc6e/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2",
+    "name": "Squid",
+    "symbol": "SQUID",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x21ad647b8F4Fe333212e735bfC1F36B4941E6Ad2/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB",
+    "name": "Blocks Dao",
+    "symbol": "BLOCKS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8a6D4C8735371EBAF8874fBd518b56Edd66024eB/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e",
+    "name": "ENTER Governance Token",
+    "symbol": "ENTR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xd779eEA9936B4e323cDdff2529eb6F13d0A4d66e/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5DE7Cc4BcBCa31c473F6D2F27825Cfb09cc0Bb16",
+    "name": "XBE",
+    "symbol": "XBE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5DE7Cc4BcBCa31c473F6D2F27825Cfb09cc0Bb16/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0dC7d0192c148d7d2D6fa32DC280f953c0AD6A34",
+    "name": "MetaCat",
+    "symbol": "MetaCat",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0dC7d0192c148d7d2D6fa32DC280f953c0AD6A34/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7b39917f9562C8Bc83c7a6c2950FF571375D505D",
+    "name": "LeagueDAO Governance Token",
+    "symbol": "LEAG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7b39917f9562C8Bc83c7a6c2950FF571375D505D/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0110aD3Cf10A6d04993BeC37BDCCBA6EE2C48A27",
+    "name": "Tether 3x Short",
+    "symbol": "TETHERDOOM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0110aD3Cf10A6d04993BeC37BDCCBA6EE2C48A27/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x70cDD88638cB569f1Ae1d4bD3529cc7FB331cbab",
+    "name": "LINKETH 2x Long",
+    "symbol": "LINKETHMOON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x70cDD88638cB569f1Ae1d4bD3529cc7FB331cbab/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe2D8F9557fD46AD134C8fb5Eabf6f4DA3E0d3f68",
+    "name": "ETHBTC 2x Long",
+    "symbol": "RATIOMOON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe2D8F9557fD46AD134C8fb5Eabf6f4DA3E0d3f68/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x26AB7c9ec873633D03C8f3a828F657878245A2dd",
+    "name": "ETHBTC 1x Short",
+    "symbol": "RATIODOOM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x26AB7c9ec873633D03C8f3a828F657878245A2dd/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x030ed557a0775e110394C1a543f3eB181AeEa05F",
+    "name": "MKRETH 1x Short",
+    "symbol": "MKRETHDOOM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x030ed557a0775e110394C1a543f3eB181AeEa05F/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8564653879a18C560E7C0Ea0E084c516C62F5653",
+    "name": "UpBots",
+    "symbol": "UBXT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8564653879a18C560E7C0Ea0E084c516C62F5653/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+    "name": "Guaranteed Entrance Token",
+    "symbol": "GET",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8a854288a5976036A725879164Ca3e91d30c6A1B/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E",
+    "name": "GenomesDAO",
+    "symbol": "GENE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E/logo.png"
   }
 ]
