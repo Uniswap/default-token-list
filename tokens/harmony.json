@@ -254,5 +254,29 @@
 		"name": "FarmersOnly Token2",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x0159ED2E06DDCD46a25E74eb8e159Ce666B28687/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0xCf1709Ad76A79d5a60210F23e81cE2460542A836",
+		"symbol": "TRANQ",
+		"name": "Tranquil",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xCf1709Ad76A79d5a60210F23e81cE2460542A836/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x1b2bc2683F85bFb9c4C90e8322d62A20B97cF87D",
+		"symbol": "MM",
+		"name": "Million",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x1b2bc2683F85bFb9c4C90e8322d62A20B97cF87D/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+		"symbol": "BIFI",
+		"name": "Beefy Finance",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
 	}
 ]

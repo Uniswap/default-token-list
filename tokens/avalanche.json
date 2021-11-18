@@ -118,5 +118,29 @@
     "symbol": "WOW",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+  },
+  {
+    "address": "0xF873633DF9D5cDd62BB1f402499CC470a72A02D7",
+    "chainId": 43114,
+    "name": "MoonRiver",
+    "symbol": "MOVR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg"
+  },
+  {
+    "address": "0xA56B1b9f4e5A1A1e0868F5Fd4352ce7CdF0C2A4F",
+    "chainId": 43114,
+    "name": "Matic",
+    "symbol": "MATIC",
+    "decimals": 19,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
+  },
+  {
+    "address": "0xCDEB5641dC5BF05845317B00643A713CCC3b22e6",
+    "chainId": 43114,
+    "name": "Huobi",
+    "symbol": "HT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ht.jpg"
   }
 ]

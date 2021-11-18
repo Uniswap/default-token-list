@@ -416,5 +416,29 @@
     "symbol": "DVF",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDDdddd4301A082e62E84e43F474f044423921918/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+    "name": "MAGIC",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x539bdE0d7Dbd336b79148AA742883198BBF60342/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xdb96f8efd6865644993505318cc08FF9C42fb9aC",
+    "name": "ZeroTwOhm",
+    "symbol": "Z2O",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xdb96f8efd6865644993505318cc08FF9C42fb9aC/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
+    "name": "Beefy Finance",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE/logo.png"
   }
 ]
