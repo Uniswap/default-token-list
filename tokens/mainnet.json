@@ -3157,6 +3157,14 @@
     "name": "we love gm",
     "symbol": "gm",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/cf07eb0b02a013c851eddde2fa8e62f8895536a9/network/ethereum/0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x7F0693074F8064cFbCf9fA6E5A3Fa0e4F58CcCCF.jpg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC",
+    "name": "LevX DAO",
+    "symbol": "LEVX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xf474E526ADe9aD2CC2B66ffCE528B1A51B91FCdC.jpg"
   }
 ]
