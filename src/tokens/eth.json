@@ -46,5 +46,21 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x10998e74f5d33c8ccb46d4f8d8e2711b8a857b57/logo.png"
+  },
+  {
+    "name": "ROOTDEX/ETH",
+    "address": "0x163B890f4892D593945579028Ec44Ef0f20A4633",
+    "symbol": "ROOTDEX/ETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
+  },
+  {
+    "name": "ROOTDEX/ROOTDEX-ETH LP",
+    "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+    "symbol": "ROOTDEX/ROOTDEX-ETH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
   }
 ]
