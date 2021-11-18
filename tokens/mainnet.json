@@ -3301,7 +3301,7 @@
     "name": "XDEFI",
     "symbol": "XDEFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x72B886d09C117654aB7dA13A14d603001dE0B777/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x72B886d09C117654aB7dA13A14d603001dE0B777.jpg"
   },
   {
     "chainId": 1,
