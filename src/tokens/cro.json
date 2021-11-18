@@ -105,5 +105,21 @@
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc/logo.png"
+    },
+    {
+      "name": "EMPIRE/CRO",
+      "address": "0x163B890f4892D593945579028Ec44Ef0f20A4633",
+      "symbol": "EMPIRE/CRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
+    },
+    {
+      "name": "EMPIRE/EMPIRE-CRO LP",
+      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "symbol": "EMPIRE/EMPIRE-CRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
     }
   ]
