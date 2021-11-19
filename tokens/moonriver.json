@@ -222,5 +222,13 @@
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x173fd7434B8B50dF08e3298f173487ebDB35FD14/logo.png"
+  },
+  {
+    "name": "Alpha Rome",
+    "address": "0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE",
+    "symbol": "aROME",
+    "decimals": 9,
+    "chainId": 1285,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x3D2D044E8C6dAd46b4F7896418d3d4DFaAD902bE.jpg"
   }
 ]
