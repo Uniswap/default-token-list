@@ -278,5 +278,13 @@
 		"name": "Beefy Finance",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0xdc54046c0451f9269FEe1840aeC808D36015697d",
+		"symbol": "1BTC",
+		"name": "1BTC",
+		"decimals": 8,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xdc54046c0451f9269FEe1840aeC808D36015697d/logo.png"
 	}
 ]
