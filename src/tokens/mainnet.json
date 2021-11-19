@@ -326,5 +326,13 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/bch.svg"
+  },
+  {
+    "name": "LILY FLOWER",
+    "address": "0x5A0C102818d1EE4874d20eE035871bE259E353DD",
+    "symbol": "LILY",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://i.postimg.cc/tCWX32wK/64.png"
   }
 ]
