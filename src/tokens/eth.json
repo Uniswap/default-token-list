@@ -56,14 +56,6 @@
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
   },
   {
-    "name": "ROOTDEX/ROOTDEX-ETH LP",
-    "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
-    "symbol": "ROOTDEX/ROOTDEX-ETH",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
-  },
-  {
     "name": "Elon Tweet Inu",
     "address": "0x78ab567E63f46CB923c5b3be821e26b91acF84aa",
     "symbol": "EMTI",
