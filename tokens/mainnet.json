@@ -77,7 +77,7 @@
     "name": "Alpha Finance",
     "symbol": "ALPHA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/alpha.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xa1faa113cbE53436Df28FF0aEe54275c13B40975/logo.png"
   },
   {
     "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
@@ -3430,5 +3430,13 @@
     "symbol": "INSUR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
+  },
+  {
+    "address": "0x52d87F22192131636F93c5AB18d0127Ea52CB641",
+    "chainId": 1,
+    "name": "renLUNA",
+    "symbol": "renLUNA",
+    "decimals": 8,
+	  "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x52d87F22192131636F93c5AB18d0127Ea52CB641/logo.png"
   }
 ]

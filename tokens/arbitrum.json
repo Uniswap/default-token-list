@@ -440,5 +440,13 @@
     "symbol": "BIFI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c",
+    "name": "Arbys",
+    "symbol": "ARBYS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x86A1012d437BBFf84fbDF62569D12d4FD3396F8c/logo.png"
   }
 ]

@@ -286,5 +286,13 @@
 		"name": "1BTC",
 		"decimals": 8,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xdc54046c0451f9269FEe1840aeC808D36015697d/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x947394294F75D7502977AC6813FD99f77C2931ec",
+		"symbol": "ODAO",
+		"name": "ODAO",
+		"decimals": 9,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x947394294F75D7502977AC6813FD99f77C2931ec/logo.png"
 	}
 ]
