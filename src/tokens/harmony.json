@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Wrapped ONE",
+      "address": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a",
+      "symbol": "WONE",
+      "decimals": 18,
+      "chainId": 1666600000,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/harmony/0xcf664087a5bb0237a0bad6742852ec6c8d69a27a/logo.png"
+    },
+    {
+      "name": "Harmony PRISM Token",
+      "address": "0xd46df541148932690B81092f600f35208AFd4325",
+      "symbol": "haPRISM",
+      "decimals": 18,
+      "chainId": 1666600000,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/harmony/0xd46df541148932690B81092f600f35208AFd4325/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 1666600000,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedETH.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 1666600000,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedBTC.png"
+    },
+    {
+      "name": "Tether",
+      "address": "0x3C2B8Be99c50593081EAA2A724F0B8285F5aba8f",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1666600000,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/TETHER.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xEf977d2f931C1978Db5F6747666fa1eACB0d0339",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1666600000,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DAI.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x44cED87b9F1492Bf2DCf5c16004832569f7f6cBa",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1666600000,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
+    }
+  ]
