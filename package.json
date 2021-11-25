@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "4.1.40",
-  "description": "◦ The Uniswap default token list",
+  "name": "@EmpireDEX/default-token-list",
+  "version": "4.2.2",
+  "description": "◦ The EmpireDEX default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -14,10 +14,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/"
   },
   "keywords": [
-    "uniswap",
     "default",
     "token",
     "list"
