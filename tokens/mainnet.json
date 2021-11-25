@@ -3438,5 +3438,13 @@
     "symbol": "renLUNA",
     "decimals": 8,
 	  "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x52d87F22192131636F93c5AB18d0127Ea52CB641/logo.png"
+  },
+  {
+    "address": "0xe07332FdCf3A8489B752CD86f3FdCD79eE9C373A",
+    "chainId": 1,
+    "name": "Qindo Token",
+    "symbol": "QINDO",
+    "decimals": 18,
+	  "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xe07332FdCf3A8489B752CD86f3FdCD79eE9C373A/logo.png"
   }
 ]
