@@ -240,17 +240,17 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"
   },
   {
-    "name": "Frax",
+    "name": "Poly Frax",
     "address": "0x104592a158490a9228070E0A8e5343B499e125D0",
-    "symbol": "FRAX",
+    "symbol": "polyFRAX",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x104592a158490a9228070E0A8e5343B499e125D0/logo.png"
   },
   {
-    "name": "Frax Share",
+    "name": "Poly Frax Share",
     "address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
-    "symbol": "FXS",
+    "symbol": "polyFXS",
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3e121107F6F22DA4911079845a470757aF4e1A1b/logo.png"
@@ -797,7 +797,7 @@
     "name": "InsurAce",
     "symbol": "INSUR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets//logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8a0e8b4b0903929f47C3ea30973940D4a9702067/logo.png"
   },
   {
     "chainId": 137,
@@ -958,5 +958,29 @@
     "symbol": "NCR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xDA6f726E2088F129D3Ecb2257206AdF7D8537Ba5.jpg"
+  },
+  {
+    "name": "Frax",
+    "address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89/logo.png"
+  },
+  {
+    "name": "Frax Share",
+    "address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
+    "symbol": "FXS",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1a3acf6D19267E2d3e7f898f42803e90C9219062/logo.png"
+  },
+  {
+    "name": "Universal Store of Value",
+    "address": "0xAC63686230f64BDEAF086Fe6764085453ab3023F",
+    "symbol": "USV",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets//logo.png"
   }
 ]
