@@ -3422,5 +3422,13 @@
     "symbol": "GENE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x21413c119b0C11C5d96aE1bD328917bC5C8ED67E/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c",
+    "name": "Neos Credits",
+    "symbol": "NCR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c.jpg"
   }
 ]
