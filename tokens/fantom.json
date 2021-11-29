@@ -294,5 +294,13 @@
     "decimals": 6,
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+    "chainId": 250,
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x82f0B8B456c1A451378467398982d4834b6829c1.jpg"
   }
 ]
