@@ -496,6 +496,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xf5EA626334037a2cf0155D49eA6462fDdC6Eff19/logo.png"
   },
   {
+    "name": "SAND",
+    "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+    "symbol": "SAND",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
+  },
+  {
     "name": "SushiToken",
     "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
     "symbol": "SUSHI",
