@@ -334,5 +334,54 @@
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://i.postimg.cc/tCWX32wK/64.png"
+  },
+  {
+    "name": "MrUSD",
+    "address": "0x048a4811d30089b5AA86e2E711A6A4aa67dbe275",
+    "symbol": "MrUSD",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/mrusd.png"
+  },
+  {
+    "name": "TangoToken",
+    "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+    "symbol": "TANGO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/tango.png"
+  },
+  {
+    "name": "TANGObar",
+    "address": "0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+    "symbol": "xTANGO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/xtango.png"
+  },
+  {
+    "name": "FATCAT",
+    "address": "0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A",
+    "symbol": "$FATCAT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/fatcat.png"
+  },
+  {
+    "name": "SmartIndex",
+    "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+    "symbol": "SIDX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/sidx.png"
+  },
+  {
+    "name": "Decentralized Autonomous Organization",
+    "address": "0xca0235058985fcc1839e9e37c10900a73c126708",
+    "symbol": "DAO",
+    "decimals": 7,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/dao.png"
   }
+
 ]
