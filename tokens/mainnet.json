@@ -3430,7 +3430,7 @@
     "symbol": "NCR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xDB5C3C46E28B53a39C255AA39A411dD64e5fed9c.jpg"
-  }, 
+  },
   {
     "chainId": 1,
     "address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
@@ -3462,5 +3462,21 @@
     "symbol": "TLOS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x7825e833D495F3d1c28872415a4aee339D26AC88.jpg"
+  },
+  {
+    "address": "0xF17e65822b568B3903685a7c9F496CF7656Cc6C2",
+    "chainId": 1,
+    "name": "Biconomy Token",
+    "symbol": "BICO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xF17e65822b568B3903685a7c9F496CF7656Cc6C2/logo.png"
+  },
+  {
+    "address": "0xc6e145421FD494B26dCF2BFeB1b02b7c5721978f",
+    "chainId": 1,
+    "name": "Crypto Perx",
+    "symbol": "CRPX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc6e145421FD494B26dCF2BFeB1b02b7c5721978f/logo.png"
   }
 ]
