@@ -310,5 +310,13 @@
     "symbol": "ENS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/19785/thumb/acatxTm8_400x400.jpg?1635850140"
+  },
+  {
+    "name": "Synth sUSD",
+    "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
   }
 ]
