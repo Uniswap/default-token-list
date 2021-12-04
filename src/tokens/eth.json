@@ -62,5 +62,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x78ab567E63f46CB923c5b3be821e26b91acF84aa/logo.png"
+  },
+  {
+    "name": "Miyazaki Inu",
+    "address": "0xD5e7D22362BCC9881D06512d3189eAe79DD98d70",
+    "symbol": "MIYAZAKI",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0xD5e7D22362BCC9881D06512d3189eAe79DD98d70/logo.png"
   }
 ]
