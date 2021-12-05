@@ -108,7 +108,7 @@
     },
     {
       "name": "EMPIRE/CRO",
-      "address": "0x163B890f4892D593945579028Ec44Ef0f20A4633",
+      "address": "0x80523212e85e7FD850c85CC804263Ad421696d87",
       "symbol": "EMPIRE/CRO",
       "decimals": 18,
       "chainId": 25,
@@ -116,7 +116,7 @@
     },
     {
       "name": "EMPIRE/EMPIRE-CRO LP",
-      "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+      "address": "0xe973711fecc41d6a2d88548dac37b43bbe65c1ed",
       "symbol": "EMPIRE/EMPIRE-CRO",
       "decimals": 18,
       "chainId": 25,
