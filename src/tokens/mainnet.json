@@ -382,6 +382,13 @@
     "decimals": 7,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/dao.png"
+  },
+  {
+    "name": "MoonMoonMoonMoon",
+    "address": "0x2b591190ff951f60cb9424664155e57a402c1ade",
+    "symbol": "MoonMoonMoonMoon",
+    "decimals": 3,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/mmmm.jpeg"
   }
-
 ]
