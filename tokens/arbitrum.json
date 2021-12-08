@@ -456,5 +456,13 @@
     "symbol": "gOHM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2338a5d62E9A766289934e8d2e83a443e8065b83",
+    "name": "Flux Protocol",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x2338a5d62E9A766289934e8d2e83a443e8065b83.jpg"
   }
 ]
