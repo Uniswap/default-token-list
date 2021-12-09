@@ -991,6 +991,14 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195/logo.png"
   },
+    {
+      "name": "ETH 2x Flexible Leverage Index PoS",
+    "address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
+    "symbol": "ETH2x-FLI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A/logo.png"
+  },
   {
     "name": "ETH 2x Flexible Leverage Index",
     "address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
