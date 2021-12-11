@@ -3486,5 +3486,21 @@
     "symbol": "CRE8",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc36b4311B21Fc0c2eAd46f1eA6ce97c9C4D98D3d/logo.png"
+  },
+  {
+    "address": "0x1b890fD37Cd50BeA59346fC2f8ddb7cd9F5Fabd5",
+    "chainId": 1,
+    "name": "New Order",
+    "symbol": "NEWO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1b890fD37Cd50BeA59346fC2f8ddb7cd9F5Fabd5/logo.png"
+  },
+  {
+    "address": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
+    "chainId": 1,
+    "name": "99Starz",
+    "symbol": "STZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654/logo.png"
   }
 ]
