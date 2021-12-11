@@ -1298,8 +1298,8 @@
   {
     "address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
     "chainId": 1,
-    "name": "Olympus",
-    "symbol": "OHM",
+    "name": "Olympus v1",
+    "symbol": "OHMv1",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x383518188C0C6d7730D91b2c03a03C837814a899/logo.png"
   },
@@ -3502,5 +3502,13 @@
     "symbol": "STZ",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654/logo.png"
+  },
+  {
+    "address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
+    "chainId": 1,
+    "name": "Olympus",
+    "symbol": "OHM",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x383518188C0C6d7730D91b2c03a03C837814a899.jpg"
   }
 ]
