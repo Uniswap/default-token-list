@@ -3510,5 +3510,13 @@
     "symbol": "OHM",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x383518188C0C6d7730D91b2c03a03C837814a899.jpg"
+  },
+  {
+    "address": "0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d",
+    "chainId": 1,
+    "name": "Fuse Token",
+    "symbol": "FUSE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x383518188C0C6d7730D91b2c03a03C837814a899.jpg"
   }
 ]
