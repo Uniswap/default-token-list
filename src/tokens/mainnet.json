@@ -390,5 +390,69 @@
     "decimals": 3,
     "chainId": 10000,
     "logoURI": "https://www.marketcap.cash/mmmm.jpeg"
+  },
+  {
+    "name": "Incinerate",
+    "address": "0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E",
+    "symbol": "FIRE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/fire.png"
+  },
+  {
+    "name": "1BCH",
+    "address": "0x77d4b6e44a53bbda9a1d156b32bb53a2d099e53d",
+    "symbol": "1BCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/1bch.png"
+  },
+  {
+    "name": "Game",
+    "address": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+    "symbol": "GAME",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/game.png"
+  },
+  {
+    "name": "rBCH Token",
+    "address": "0xb4602588e5f1f9653b6f234206c91552e457facb",
+    "symbol": "rBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/rbch.png"
+  },
+  {
+    "name": "WOJAK",
+    "address": "0x8d7ea0ec6cab515463121a3c70df541f2f534909",
+    "symbol": "WOJAK",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/wojak.jpeg"
+  },
+  {
+    "name": "CATSLUCK",
+    "address": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+    "symbol": "CLK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/clk.jpg"
+  },
+  {
+    "name": "Bismuth Win Bi",
+    "address": "0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881",
+    "symbol": "BWB",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://www.marketcap.cash/bwb.png"
+  },
+  {
+    "name": "JIM",
+    "address": "0xC46dC3CbDe96577A0E7e0C0221C2304FafEE0F5D",
+    "symbol": "JIM",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://i.imgur.com/SvG0HNL.png"
   }
 ]
