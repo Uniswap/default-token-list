@@ -129,5 +129,13 @@
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x17C00923Ce44f2748DB6A14f979D55C497A267e4/logo.png"
+    },
+    {
+      "name": "ESSO",
+      "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
+      "symbol": "ESSO",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.png"
     }
   ]
