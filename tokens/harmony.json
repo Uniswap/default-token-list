@@ -294,5 +294,13 @@
 		"name": "ODAO",
 		"decimals": 9,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x947394294F75D7502977AC6813FD99f77C2931ec/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0x01A4b054110d57069c1658AFBC46730529A3E326",
+		"symbol": "OpenX",
+		"name": "OpenSwap",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x01A4b054110d57069c1658AFBC46730529A3E326/logo.png"
 	}
 ]

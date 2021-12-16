@@ -472,5 +472,13 @@
     "symbol": "DAI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x9f20de1fc9b161b34089cbEAE888168B44b03461",
+    "name": "Arbis",
+    "symbol": "ARBIS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x9f20de1fc9b161b34089cbEAE888168B44b03461/logo.png"
   }
 ]

@@ -3518,5 +3518,45 @@
     "symbol": "FUSE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x383518188C0C6d7730D91b2c03a03C837814a899.jpg"
+  },
+  {
+    "address": "0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE",
+    "chainId": 1,
+    "name": "DappRadar",
+    "symbol": "RADAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x44709a920fCcF795fbC57BAA433cc3dd53C44DbE/logo.png"
+  },
+  {
+    "address": "0x893700A1a86EE68B92536bf6fd4d3200d7369F7d",
+    "chainId": 1,
+    "name": "Emanate",
+    "symbol": "EMT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x893700A1a86EE68B92536bf6fd4d3200d7369F7d/logo.png"
+  },
+  {
+    "address": "0x88536C9B2C4701b8dB824e6A16829D5B5Eb84440",
+    "chainId": 1,
+    "name": "Universal Store of Value",
+    "symbol": "USV",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x88536C9B2C4701b8dB824e6A16829D5B5Eb84440/logo.png"
+  },
+  {
+    "address": "0xB5e09e6Bf6a5E96934B3fd99a40F7EDACa1173Ed",
+    "chainId": 1,
+    "name": "divinedao",
+    "symbol": "DIVINE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xB5e09e6Bf6a5E96934B3fd99a40F7EDACa1173Ed/logo.png"
+  },
+  {
+    "address": "0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d",
+    "chainId": 1,
+    "name": "Lobi",
+    "symbol": "LOBI",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xDEc41Db0c33F3F6f3cb615449C311ba22D418A8d/logo.png"
   }
 ]

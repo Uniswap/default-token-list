@@ -1006,5 +1006,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x3Ad707dA309f3845cd602059901E39C4dcd66473.jpg"
+  },
+  {
+    "name": "VOXEL Token",
+    "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+    "symbol": "VOXEL",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F/logo.png"
   }
 ]
