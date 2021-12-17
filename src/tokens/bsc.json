@@ -118,5 +118,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xA532cfaA916c465A094DAF29fEa07a13e41E5B36/logo.png"
+  },
+  {
+    "name": "Meta Billionaires Club",
+    "address": "0xe5E33d3fFF677218BE30b33df5906f53B426875c",
+    "symbol": "MetaBC",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xe5E33d3fFF677218BE30b33df5906f53B426875c/logo.png"
   }
 ]
