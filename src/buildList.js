@@ -4,6 +4,7 @@ const ropsten = require("./tokens/ropsten.json");
 const rinkeby = require("./tokens/rinkeby.json");
 const goerli = require("./tokens/goerli.json");
 const kovan = require("./tokens/kovan.json");
+const polygon = require("./tokens/polygon.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -18,7 +19,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["uniswap", "default"],
-    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby]
+    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
