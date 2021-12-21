@@ -1,10 +1,18 @@
 [
-    {
-        "name": "Wrapped Ether",
-        "address": "0xa6fa4fb5f76172d178d61b04b0ecd319c5d1c0aa",
-        "symbol": "WETH",
-        "decimals": 18,
-        "chainId": 80001,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    }
+  {
+    "name": "Wrapped Ether",
+    "address": "0xa6fa4fb5f76172d178d61b04b0ecd319c5d1c0aa",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 80001,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Wrapped Matic",
+    "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+    "symbol": "WMATIC",
+    "decimals": 18,
+    "chainId": 80001,
+    "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+  }
 ]
