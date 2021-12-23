@@ -1014,5 +1014,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F/logo.png"
+  },
+  {
+    "name": "pZUG",
+    "address": "0xeb45921FEDaDF41dF0BfCF5c33453aCedDA32441",
+    "symbol": "pZUG",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xeb45921FEDaDF41dF0BfCF5c33453aCedDA32441/logo.png"
+  },
+  {
+    "name": "Jarvis Reward Token",
+    "address": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5",
+    "symbol": "JRT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x596eBE76e2DB4470966ea395B0d063aC6197A8C5/logo.png"
   }
 ]

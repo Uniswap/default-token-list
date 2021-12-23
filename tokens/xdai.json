@@ -102,5 +102,13 @@
     "decimals": 18,
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
+  },
+  {
+    "name": "Gnosis Token",
+    "address": "0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb",
+    "symbol": "GNO",
+    "decimals": 18,
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x9C58BAcC331c9aa871AFD802DB6379a98e80CEdb/logo.png"
   }
 ]
