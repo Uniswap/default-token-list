@@ -1030,5 +1030,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x596eBE76e2DB4470966ea395B0d063aC6197A8C5/logo.png"
+  },
+  {
+    "address": "0x6811079E3c63ED96Eb005384d7E7ec8810E3D521",
+    "chainId": 137,
+    "name": "SushiBar",
+    "symbol": "xSUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
   }
 ]
