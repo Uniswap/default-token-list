@@ -112,6 +112,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/time.jpg"
   },
   {
+    "address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
+    "chainId": 43114,
+    "name": "Wrapped Memo",
+    "symbol": "wMEMO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/time.jpg"
+  },
+  {
     "chainId": 43114,
     "address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
     "name": "WOWSwap",
