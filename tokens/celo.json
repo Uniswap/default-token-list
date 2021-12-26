@@ -189,7 +189,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1/logo.png"
   },
   {
     "name": "Optics WETH v2",
