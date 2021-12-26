@@ -1038,5 +1038,13 @@
     "symbol": "xSUSHI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
+  },
+  {
+    "address": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
+    "chainId": 137,
+    "name": "IceToken",
+    "symbol": "ICE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
   }
 ]
