@@ -1046,5 +1046,13 @@
     "symbol": "ICE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
+  },
+  {
+    "address": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
+    "chainId": 137,
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
   }
 ]

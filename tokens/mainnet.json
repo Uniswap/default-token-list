@@ -1125,7 +1125,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://abracadabra.money/img/Token_MIM.12c48248.svg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
   },
   {
     "address": "0x4b4D2e899658FB59b1D518b68fe836B100ee8958",
