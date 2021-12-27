@@ -137,5 +137,13 @@
       "decimals": 8,
       "chainId": 25,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xc82eA25896F065cB6E3ae298cD1f23FE58516A35/logo.png"
+    },
+    {
+      "name": "ROOT",
+      "address": "0xF2F9889E797D2aADdc234F4f3027C62C28165AF4",
+      "symbol": "ROOT",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xF2F9889E797D2aADdc234F4f3027C62C28165AF4/logo.png"
     }
   ]
