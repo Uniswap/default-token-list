@@ -3566,5 +3566,13 @@
     "symbol": "SOS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3b484b82567a09e2588A13D54D032153f0c0aEe0/logo.png"
+  },
+  {
+    "address": "0x2DDbFb13677E8Df85F37Aa8E578424E99AF7Cb62",
+    "chainId": 1,
+    "name": "Wrapped",
+    "symbol": "WRAP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2DDbFb13677E8Df85F37Aa8E578424E99AF7Cb62/logo.png"
   }
 ]
