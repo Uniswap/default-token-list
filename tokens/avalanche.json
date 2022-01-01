@@ -166,5 +166,21 @@
     "symbol": "SPELL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/spell.jpg"
+  },
+  {
+    "chainId": 4,
+    "address": "0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4",
+    "decimals": 18,
+    "name": "JoeToken",
+    "symbol": "JOE",
+    "logoURI": "https://snowtrace.io/token/images/traderjoe_32.png"
+  },
+  {
+    "chainId": 4,
+    "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+    "decimals": 18,
+    "name": "JoeBar",
+    "symbol": "xJOE",
+    "logoURI": "https://snowtrace.io/token/images/xjoe_32.png"
   }
 ]
