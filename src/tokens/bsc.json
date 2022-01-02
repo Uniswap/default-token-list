@@ -134,5 +134,14 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xF2F9889E797D2aADdc234F4f3027C62C28165AF4/logo.png"
+  },
+  {
+    "name": "Gangster Finance",
+    "address": "0xe727A157757f2d8400108063E9BF9e29EF725Ba6",
+    "symbol": "GFI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xe727A157757f2d8400108063E9BF9e29EF725Ba6/logo.png"
   }
+
 ]
