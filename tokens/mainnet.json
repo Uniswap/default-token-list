@@ -3574,5 +3574,13 @@
     "symbol": "WRAP",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2DDbFb13677E8Df85F37Aa8E578424E99AF7Cb62/logo.png"
+  },
+  {
+    "address": "0x7f3141c4D6b047fb930991b450f1eD996a51CB26",
+    "chainId": 1,
+    "name": "X",
+    "symbol": "X",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7f3141c4D6b047fb930991b450f1eD996a51CB26/logo.png"
   }
 ]
