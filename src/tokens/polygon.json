@@ -280,6 +280,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765"
   },
   {
+    "name": "Minerva Wallet SuperToken",
+    "address": "0xC0b2983A17573660053BEEED6FDb1053107cf387",
+    "symbol": "MIVA",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://minerva.digital/i/MIVA-Token.svg"
+  },
+  {
     "name": "Wrapped Matic",
     "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
     "symbol": "WMATIC",
