@@ -1,4 +1,4 @@
-name: Publish Package to npmjs
+name: Publishing to NPM
 on:
   push:
     branches:
@@ -18,6 +18,7 @@ jobs:
       - run: yarn
       - run: yarn test
       - run: yarn build
+      - run: yarn version
       - run: yarn publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
