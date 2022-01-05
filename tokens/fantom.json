@@ -285,8 +285,18 @@
     "symbol": "ICE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
   },
+  
+  {
+    "name": "NICE",
+    "address": "0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443",
+    "symbol": "nICE",
+    "decimals": 18,
+    "chainId": 250,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443.png"
+  },
+  
   {
     "name": "Frapped USDT",
     "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
@@ -302,5 +312,21 @@
     "symbol": "MIM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x82f0B8B456c1A451378467398982d4834b6829c1.jpg"
+  },
+  {
+    "address": "0x468003B688943977e6130F4F68F23aad939a1040",
+    "chainId": 250,
+    "name": "Spell",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x468003B688943977e6130F4F68F23aad939a1040.jpg"
+  },
+  {
+    "address": "0xbB29D2A58d880Af8AA5859e30470134dEAf84F2B",
+    "chainId": 250,
+    "name": "Staked Spell",
+    "symbol": "sSPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xbB29D2A58d880Af8AA5859e30470134dEAf84F2B.jpg"
   }
 ]
