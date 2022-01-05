@@ -13,7 +13,7 @@
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg"
   },
   {
     "name": "Ethereum Token",
@@ -21,7 +21,7 @@
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.jpg"
   },
   {
     "name": "BTCB Token",
@@ -29,7 +29,7 @@
     "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg"
   },
   {
     "name": "BAND Protocol Token",
@@ -53,7 +53,7 @@
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg"
   },
   {
     "name": "XRP Token",
@@ -125,7 +125,7 @@
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg"
   },
   {
     "name": "YFII.finance Token",
@@ -341,7 +341,7 @@
     "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg"
   },
   {
     "name": "CertiK Token",
@@ -637,7 +637,7 @@
     "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg"
   },
   {
     "name": "MacaronSwap Token",
