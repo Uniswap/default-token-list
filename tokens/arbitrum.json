@@ -319,7 +319,23 @@
     "name": "Spell Token",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/spell.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xF7428FFCb2581A2804998eFbB036A43255c8A8D3",
+    "name": "Staked Spell Token",
+    "symbol": "sSPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0xF7428FFCb2581A2804998eFbB036A43255c8A8D3.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c",
+    "name": "Ice Token",
+    "symbol": "ICE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0xCB58418Aa51Ba525aEF0FE474109C0354d844b7c.jpg"
   },
   {
     "chainId": 42161,

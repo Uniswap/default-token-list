@@ -168,6 +168,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814"
   },
   {
+    "address": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
+    "chainId": 43114,
+    "name": "Ice Token",
+    "symbol": "ICE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59"
+  },
+  {
     "chainId": 4,
     "address": "0xce347E069B68C53A9ED5e7DA5952529cAF8ACCd4",
     "decimals": 18,
