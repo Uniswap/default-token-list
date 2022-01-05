@@ -1045,7 +1045,7 @@
     "name": "IceToken",
     "symbol": "ICE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg"
   },
   {
     "address": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
@@ -1053,6 +1053,6 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x49a0400587A7F65072c87c4910449fDcC5c47242.jpg"
   }
 ]

@@ -621,7 +621,15 @@
     "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
+  },
+  {
+    "name": "NICE",
+    "symbol": "nICE",
+    "address": "0x8506560320826e459F356CB56cCF721Da8875414",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x8506560320826e459F356CB56cCF721Da8875414.jpg"
   },
   {
     "name": "SushiToken",
@@ -694,5 +702,21 @@
     "symbol": "MIM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg"
+  },
+  {
+    "address": "0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48",
+    "chainId": 56,
+    "name": "Spell",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48.jpg"
+  },
+  {
+    "address": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
+    "chainId": 56,
+    "name": "Staked Spell",
+    "symbol": "sSPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x66eFF5221ca926636224650Fd3B9c497FF828F7D.jpg"
   }
 ]
