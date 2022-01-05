@@ -4,23 +4,41 @@ const { Octokit } = require("@octokit/rest");
 
 const octokit = new Octokit();
 
-const { ChainId } = require("@sushiswap/sdk");
+const { ChainId } = require("@sushiswap/core-sdk");
 
 const fs = require("fs");
 
 const { resolve } = require("path");
 
 const NAME = {
-  [ChainId.MAINNET]: "mainnet",
-  [ChainId.FANTOM]: "fantom",
-  [ChainId.MATIC]: "matic",
-  [ChainId.XDAI]: "xdai",
-  [ChainId.BSC]: "bsc",
+  [ChainId.ARBITRUM]: "arbitrum",
   [ChainId.AVALANCHE]: "avalanche",
-  [ChainId.HECO]: "heco",
-  [ChainId.HARMONY]: "harmony",
-  [ChainId.OKEX]: "okex",
+  [ChainId.AVALANCHE_TESTNET]: "fuji",
+  [ChainId.BSC]: "bsc",
+  [ChainId.BSC_TESTNET]: "bsc-testnet",
+  [ChainId.ETHEREUM]: "mainnet",
   [ChainId.CELO]: "celo",
+  // [ChainId.CLOVER]: "clover",
+  [ChainId.FANTOM]: "fantom",
+  [ChainId.AVALANCHE_TESTNET]: "fuji",
+  [ChainId.FUSE]: "fuse",
+  [ChainId.GÖRLI]: "gorli",
+  [ChainId.HARMONY]: "harmony",
+  [ChainId.HARMONY_TESTNET]: "harmony-testnet",
+  [ChainId.HECO]: "heco",
+  [ChainId.HECO_TESTNET]: "heco-testnet",
+  [ChainId.KOVAN]: "kovan",
+  [ChainId.MATIC]: "matic",
+  [ChainId.MATIC_TESTNET]: "matic-testnet",
+  [ChainId.MOONRIVER]: "moonriver",
+  [ChainId.MOONBEAM_TESTNET]: "moonbase",
+  [ChainId.OKEX]: "okex",
+  [ChainId.OKEX]: "okex-testnet",
+  [ChainId.PALM]: "palm",
+  [ChainId.RINKEBY]: "rinkeby",
+  [ChainId.ROPSTEN]: "ropsten",
+  [ChainId.TELOS]: "telos",
+  [ChainId.XDAI]: "xdai",
 };
 
 (async () => {
