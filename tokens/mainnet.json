@@ -1298,7 +1298,7 @@
   {
     "address": "0x383518188C0C6d7730D91b2c03a03C837814a899",
     "chainId": 1,
-    "name": "Olympus v1",
+    "name": "Olympus v1 OLD",
     "symbol": "OHMv1",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x383518188C0C6d7730D91b2c03a03C837814a899/logo.png"
@@ -3506,7 +3506,7 @@
   {
     "address": "0x64aa3364F17a4D01c6f1751Fd97C2BD3D7e7f1D5",
     "chainId": 1,
-    "name": "Olympus",
+    "name": "Olympus v2 NEW",
     "symbol": "OHM",
     "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x383518188C0C6d7730D91b2c03a03C837814a899.jpg"
