@@ -18,10 +18,6 @@ jobs:
           yarn
           yarn test
           yarn build
-          git config user.name GitHub Actions
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           yarn publish
-          git add .
-          git push
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
