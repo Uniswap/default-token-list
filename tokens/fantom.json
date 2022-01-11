@@ -328,5 +328,13 @@
     "symbol": "sSPELL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xbB29D2A58d880Af8AA5859e30470134dEAf84F2B.jpg"
+  },
+  {
+    "address": "0x5A33869045db8A6a16c9f351293501CFD92cf7ed",
+    "chainId": 250,
+    "name": "Betswap.gg",
+    "symbol": "BSGG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
   }
 ]

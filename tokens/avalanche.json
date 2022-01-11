@@ -190,5 +190,13 @@
     "name": "JoeBar",
     "symbol": "xJOE",
     "logoURI": "https://snowtrace.io/token/images/xjoe_32.png"
+  },
+  {
+    "address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
+    "chainId": 4,
+    "name": "Betswap.gg",
+    "symbol": "BSGG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
   }
 ]
