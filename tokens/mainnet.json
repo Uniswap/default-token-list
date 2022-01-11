@@ -3582,5 +3582,13 @@
     "symbol": "X",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7f3141c4D6b047fb930991b450f1eD996a51CB26/logo.png"
+  },
+  {
+    "address": "0x69570f3E84f51Ea70b7B68055c8d667e77735a25",
+    "chainId": 1,
+    "name": "Betswap.gg",
+    "symbol": "BSGG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
   }
 ]
