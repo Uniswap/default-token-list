@@ -717,7 +717,7 @@
     "name": "Fei",
     "symbol": "FEI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x956F47F50A910163D8BF957Cf5846D573E7f87CA.jpg"
   },
   {
     "address": "0xb05097849BCA421A3f51B249BA6CCa4aF4b97cb9",
@@ -1805,7 +1805,7 @@
     "name": "Tribe",
     "symbol": "TRIBE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B.jpg"
   },
   {
     "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
@@ -1813,7 +1813,7 @@
     "name": "TrueFi",
     "symbol": "TRU",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tru.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784.jpg"
   },
   {
     "address": "0xE1Be5D3f34e89dE342Ee97E6e90D405884dA6c67",
@@ -1821,7 +1821,7 @@
     "name": "TRON",
     "symbol": "TRX",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/1094/small/tron-logo.png?1547035066"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xE1Be5D3f34e89dE342Ee97E6e90D405884dA6c67.jpg"
   },
   {
     "address": "0xc12eCeE46ed65D970EE5C899FCC7AE133AfF9b03",
@@ -1837,7 +1837,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tusd.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x0000000000085d4780B73119b644AE5ecd22b376.jpg"
   },
   {
     "address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
