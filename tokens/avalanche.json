@@ -198,5 +198,13 @@
     "symbol": "BSGG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
+  },
+  {
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "chainId": 43114,
+    "name": "Cerby Token",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
   }
 ]

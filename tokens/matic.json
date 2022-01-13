@@ -1054,5 +1054,45 @@
     "symbol": "MIM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x49a0400587A7F65072c87c4910449fDcC5c47242.jpg"
+  },
+  {
+    "address": "0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df",
+    "chainId": 137,
+    "name": "AthleteX",
+    "symbol": "AX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df/logo.png"
+  },
+  {
+    "address": "0x12a34A6759c871C4C1E8A0A42CFc97e4D7Aaf68d",
+    "chainId": 137,
+    "name": "Tutellus Token",
+    "symbol": "TUT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x12a34A6759c871C4C1E8A0A42CFc97e4D7Aaf68d/logo.png"
+  },
+  {
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "chainId": 137,
+    "name": "Cerby Token",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
+    "address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+    "chainId": 137,
+    "name": "Algebra",
+    "symbol": "ALGB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6/logo.png"
+  },
+  {
+    "address": "0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1",
+    "chainId": 137,
+    "name": "MetaSoccer Universe",
+    "symbol": "MSU",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1/logo.png"
   }
 ]

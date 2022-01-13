@@ -246,5 +246,13 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x73a210637f6F6B7005512677Ba6B3C96bb4AA44B/logo.png"
+  },
+  {
+    "name": "CeloLaunch",
+    "address": "0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F",
+    "symbol": "CLA",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F/logo.png"
   }
 ]

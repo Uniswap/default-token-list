@@ -287,7 +287,7 @@
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
   },
-  
+
   {
     "name": "NICE",
     "address": "0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443",
@@ -296,7 +296,7 @@
     "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0x7f620d7d0b3479b1655cEFB1B0Bc67fB0EF4E443.png"
   },
-  
+
   {
     "name": "Frapped USDT",
     "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
@@ -336,5 +336,21 @@
     "symbol": "BSGG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
+  },
+  {
+    "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+    "chainId": 250,
+    "name": "Hundred Finance",
+    "symbol": "HND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
+  },
+  {
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "chainId": 250,
+    "name": "Cerby Token",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
   }
 ]

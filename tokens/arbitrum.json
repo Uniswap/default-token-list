@@ -496,5 +496,13 @@
     "symbol": "ARBIS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x9f20de1fc9b161b34089cbEAE888168B44b03461/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+    "name": "Hundred Finance",
+    "symbol": "HND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
   }
 ]

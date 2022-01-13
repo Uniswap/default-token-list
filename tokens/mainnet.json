@@ -3576,6 +3576,30 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x2DDbFb13677E8Df85F37Aa8E578424E99AF7Cb62/logo.png"
   },
   {
+    "address": "0x69570f3E84f51Ea70b7B68055c8d667e77735a25",
+    "chainId": 1,
+    "name": "Betswap.gg",
+    "symbol": "BSGG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
+  },
+  {
+    "address": "0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf",
+    "chainId": 1,
+    "name": "Lyra Token",
+    "symbol": "LYRA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x01BA67AAC7f75f647D94220Cc98FB30FCc5105Bf/logo.png"
+  },
+  {
+    "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3",
+    "chainId": 1,
+    "name": "Hundred Finance",
+    "symbol": "HND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
+  },
+  {
     "address": "0x7f3141c4D6b047fb930991b450f1eD996a51CB26",
     "chainId": 1,
     "name": "X",
@@ -3584,11 +3608,19 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7f3141c4D6b047fb930991b450f1eD996a51CB26/logo.png"
   },
   {
-    "address": "0x69570f3E84f51Ea70b7B68055c8d667e77735a25",
+    "address": "0x47110d43175f7f2C2425E7d15792acC5817EB44f",
     "chainId": 1,
-    "name": "Betswap.gg",
-    "symbol": "BSGG",
+    "name": "Bankless DeFi Innovation Index",
+    "symbol": "GMI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x47110d43175f7f2C2425E7d15792acC5817EB44f/logo.png"
+  },
+  {
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "chainId": 1,
+    "name": "Cerby Token",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
   }
 ]
