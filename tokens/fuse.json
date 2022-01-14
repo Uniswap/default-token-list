@@ -5,7 +5,7 @@
     "symbol": "WFUSE",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fuse.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x0BE9e53fd7EDaC9F859882AfdDa116645287C629.jpg"
   },
   {
     "name": "Wrapped BTC",
@@ -13,7 +13,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x33284f95ccb7B948d9D352e1439561CF83d8d00d.jpg"
   },
   {
     "name": "Wrapped Ether",
@@ -21,7 +21,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0xa722c13135930332Eb3d749B2F0906559D2C5b99.jpg"
   },
   {
     "name": "Dai Stablecoin",
@@ -29,7 +29,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg"
   },
   {
     "name": "USD Coin",
@@ -37,7 +37,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x620fd5fa44BE6af63715Ef4E65DDFA0387aD13F5.jpg"
   },
   {
     "name": "Tether USD",
@@ -45,7 +45,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tether.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10.jpg"
   },
   {
     "name": "Kyber Network Crystal",
@@ -109,7 +109,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 122,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78.jpg"
   },
   {
     "name": "Elk",
