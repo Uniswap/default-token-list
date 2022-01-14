@@ -4,20 +4,20 @@ on:
     branches:
       - master
 jobs:
-  release:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      # Setup .npmrc file to publish to npm
       - uses: actions/setup-node@v2
         with:
-          node-version: '16'
-          registry-url: 'https://npm.pkg.github.com'
+          node-version: '16.x'
+          registry-url: 'https://registry.npmjs.org'
           scope: '@sushiswap'
           cache: 'yarn'
-      - run: |
-          yarn
-          yarn test
-          yarn build
-          yarn publish
+      - run: yarn
+      - run: yarn test
+      - run: yarn build
+      - run: yarn publish
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
