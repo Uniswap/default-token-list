@@ -326,5 +326,13 @@
     "symbol": "MATIC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+  },
+  {
+    "chainId": 1,
+    "address": "2EKzQjEbEBqygpy7sqBk7E9Bj7NFsFJp9PDqqxTzVA2E",
+    "name": "lilium",
+    "symbol": "LILI",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/hamdielhamdi/token-list/main/assets/mainnet/2EKzQjEbEBqygpy7sqBk7E9Bj7NFsFJp9PDqqxTzVA2E/lilium.png"
   }
 ]
