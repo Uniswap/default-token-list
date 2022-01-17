@@ -352,5 +352,13 @@
     "symbol": "CERBY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
+    "address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+    "chainId": 250,
+    "name": "Lucidao Token",
+    "symbol": "LCD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a.jpg"
   }
 ]
