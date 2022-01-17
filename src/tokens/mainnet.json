@@ -321,6 +321,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xbBa6C7c7d673c48d90069ad2e9d2fE587fcB6bc3",
+    "name": "LEPASA",
+    "symbol": "LEPA",
+    "decimals": 18,
+    "logoURI": "https://www.lepasa.com/assets/img/logo_256.png"
+  },
+  {
+    "chainId": 1,
     "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
     "name": "Polygon",
     "symbol": "MATIC",
