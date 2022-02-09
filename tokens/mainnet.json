@@ -3638,6 +3638,13 @@
     "symbol": "BENT",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x01597E397605Bf280674Bf292623460b4204C375.jpg"
-    
+  },
+  {
+    "address": "0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d",
+    "chainId": 1,
+    "name": "Ninja Squad Token",
+    "symbol": "NST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d.jpg"
   }
 ]
