@@ -1,0 +1,12 @@
+name: Bumping on bot PR
+on:
+  pull_request:
+    types: [ closed ]
+jobs:
+  run_release:
+    if: github.event.pull_request.merged == true && github.event.pull_request.user.login == 'tokenlistform[bot]'
+    uses: sushiswap/default-token-list/.github/workflows/release.yml@master
+    with:
+      if_bump: true
+    secrets:
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
