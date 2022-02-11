@@ -286,5 +286,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+  },
+  {
+    "chainId": 137,
+    "address": "0x61299774020dA444Af134c82fa83E3810b309991",
+    "name": "Render Token",
+    "symbol": "RNDR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/11636/thumb/rndr.png?1638840934"
   }
 ]
