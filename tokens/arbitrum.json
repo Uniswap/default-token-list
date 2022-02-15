@@ -518,7 +518,7 @@
     "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
     "name": "Umami",
     "symbol": "UMAMI",
-    "decimals": 18,
+    "decimals": 9,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png"
   },
   {
