@@ -3444,7 +3444,7 @@
     "address": "0x52d87F22192131636F93c5AB18d0127Ea52CB641",
     "name": "renLUNA",
     "symbol": "renLUNA",
-    "decimals": 8,
+    "decimals": 6,
 	  "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x52d87F22192131636F93c5AB18d0127Ea52CB641/logo.png"
   },
   {
@@ -3616,14 +3616,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x47110d43175f7f2C2425E7d15792acC5817EB44f/logo.png"
   },
   {
-    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-    "chainId": 1,
-    "name": "Cerby Token",
-    "symbol": "CERBY",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
-  },
-  {
     "address": "0x6Bba316c48b49BD1eAc44573c5c871ff02958469",
     "chainId": 1,
     "name": "Gas Dao",
@@ -3646,5 +3638,53 @@
     "symbol": "NST",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x70Bef3bB2f001dA2fDDb207dAe696cD9FAFf3f5d.jpg"
+  },
+  {
+    "address": "0x108a850856Db3f85d0269a2693D896B394C80325",
+    "chainId": 1,
+    "name": "THORWallet Governance Token",
+    "symbol": "TGT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x108a850856Db3f85d0269a2693D896B394C80325/logo.png"
+  },
+  {
+    "address": "0x0De05F6447ab4D22c8827449EE4bA2D5C288379B",
+    "chainId": 1,
+    "name": "OOKI",
+    "symbol": "OOKI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x0De05F6447ab4D22c8827449EE4bA2D5C288379B/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+    "name": "Fancy Games",
+    "symbol": "FNC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7f280daC515121DcdA3EaC69eB4C13a52392CACE/logo.png"
+  },
+  {
+    "name": "Cerby Token",
+    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+    "symbol": "CERBY",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
+    "address": "0x68CFb82Eacb9f198d508B514d898a403c449533E",
+    "chainId": 1,
+    "name": "Credmark",
+    "symbol": "CMK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x68CFb82Eacb9f198d508B514d898a403c449533E/logo.png"
+  },
+  {
+    "address": "0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629",
+    "chainId": 1,
+    "name": "Cigarette Token",
+    "symbol": "CIG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629/logo.png"
   }
 ]

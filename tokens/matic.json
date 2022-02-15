@@ -1094,5 +1094,61 @@
     "symbol": "MSU",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1/logo.png"
+  },
+  {
+    "address": "0xCd150B1F528F326f5194c012f32Eb30135C7C2c9",
+    "chainId": 137,
+    "name": "OOKI",
+    "symbol": "OOKI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xCd150B1F528F326f5194c012f32Eb30135C7C2c9/logo.png"
+  },
+  {
+    "name": "RIC",
+    "address": "0x263026E7e53DBFDce5ae55Ade22493f828922965",
+    "symbol": "RIC",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x263026E7e53DBFDce5ae55Ade22493f828922965/logo.png"
+  },
+  {
+    "name": "Popcorn",
+    "address": "0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c",
+    "symbol": "POP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c/logo.png"
+  },
+  {
+    "name": "Liquid ICP",
+    "address": "0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64",
+    "symbol": "LICP",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1B43b97094Aa3c6Cc678eDb9e28Ac67dAaa7Cc64/logo.png"
+  },
+  {
+    "name": "Guru",
+    "address": "0x057E0bd9B797f9Eeeb8307B35DbC8c12E534c41E",
+    "symbol": "GURU",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x057E0bd9B797f9Eeeb8307B35DbC8c12E534c41E/logo.png"
+  },
+  {
+    "name": "Raider Aurum",
+    "address": "0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23",
+    "symbol": "AURUM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23/logo.png"
+  },
+  {
+    "name": "Crypto Raider",
+    "address": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
+    "symbol": "RAIDER",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3/logo.png"
   }
 ]

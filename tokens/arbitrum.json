@@ -504,5 +504,29 @@
     "symbol": "HND",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x10010078a54396F62c96dF8532dc2B4847d47ED3/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xB41bd4C99dA73510d9e081C5FADBE7A27Ac1F814",
+    "name": "Ideamarket",
+    "symbol": "IMO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xB41bd4C99dA73510d9e081C5FADBE7A27Ac1F814/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
+    "name": "Umami",
+    "symbol": "UMAMI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0x1622bF67e6e5747b81866fE0b85178a93C7F86e3/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d",
+    "name": "CreDA Protocol Token",
+    "symbol": "CREDA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d/logo.png"
   }
 ]
