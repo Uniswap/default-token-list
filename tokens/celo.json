@@ -262,5 +262,13 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png"
+  },
+  {
+    "name": "impactMarket",
+    "address": "0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58",
+    "symbol": "PACT",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58/logo.png"
   }
 ]

@@ -3488,12 +3488,12 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xc36b4311B21Fc0c2eAd46f1eA6ce97c9C4D98D3d/logo.png"
   },
   {
-    "address": "0x1b890fD37Cd50BeA59346fC2f8ddb7cd9F5Fabd5",
+    "address": "0x98585dFc8d9e7D48F0b1aE47ce33332CF4237D96",
     "chainId": 1,
     "name": "New Order",
     "symbol": "NEWO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x1b890fD37Cd50BeA59346fC2f8ddb7cd9F5Fabd5/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x98585dFc8d9e7D48F0b1aE47ce33332CF4237D96/logo.png"
   },
   {
     "address": "0x3f5294DF68F871241c4B18fcF78ebD8Ac18aB654",
@@ -3686,5 +3686,13 @@
     "symbol": "CIG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xCB56b52316041A62B6b5D0583DcE4A8AE7a3C629/logo.png"
+  },
+  {
+    "address": "0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62",
+    "chainId": 1,
+    "name": "Guild of Guardians",
+    "symbol": "GOG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62/logo.png"
   }
 ]
