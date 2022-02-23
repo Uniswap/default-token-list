@@ -270,5 +270,13 @@
     "decimals": 18,
     "chainId": 42220,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x46c9757C5497c5B1f2eb73aE79b6B67D119B0B58/logo.png"
+  },
+  {
+    "name": "Source",
+    "address": "0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe",
+    "symbol": "SOURCE",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe/logo.png"
   }
 ]

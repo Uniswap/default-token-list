@@ -3694,5 +3694,13 @@
     "symbol": "GOG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x9AB7bb7FdC60f4357ECFef43986818A2A3569c62/logo.png"
+  },
+  {
+    "address": "0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E",
+    "chainId": 1,
+    "name": "Source",
+    "symbol": "SOURCE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E/logo.png"
   }
 ]
