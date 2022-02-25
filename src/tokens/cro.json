@@ -1,5 +1,13 @@
 [
     {
+      "name": "upCRO",
+      "address": "0xb062084aFfDf75b9b494D56B8417F1B981Df790f",
+      "symbol": "upCRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0xb062084aFfDf75b9b494D56B8417F1B981Df790f/logo.png"
+    },  
+    {
       "name": "Wrapped Crypto.com Coin",
       "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
       "symbol": "WCRO",
