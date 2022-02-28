@@ -54,5 +54,13 @@
     "symbol": "UST",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg"
-  }
+  },
+  {
+    "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+    "chainId": 1284,
+    "name": "Sushi",
+    "symbol": "anySUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+  },
 ]
