@@ -206,5 +206,21 @@
     "symbol": "CERBY",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+  },
+  {
+    "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+    "chainId": 43114,
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+  },
+  {
+    "address": "0x214DB107654fF987AD859F34125307783fC8e387",
+    "chainId": 43114,
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
   }
 ]

@@ -224,12 +224,20 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/hegic.jpg"
   },
   {
+    "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355",
+    "chainId": 250,
     "name": "Frax",
-    "address": "0xaf319E5789945197e365E7f7fbFc56B130523B33",
     "symbol": "FRAX",
     "decimals": 18,
-    "chainId": 250,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+  },
+  {
+    "address": "0x7d016eec9c25232b01F23EF992D98ca97fc2AF5a",
+    "chainId": 250,
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
   },
   {
     "name": "Cover",

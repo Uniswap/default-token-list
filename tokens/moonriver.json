@@ -32,14 +32,6 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mim.jpg"
   },
   {
-    "name": "Frax",
-    "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
-    "symbol": "FRAX",
-    "decimals": 18,
-    "chainId": 1285,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x1A93B23281CC1CDE4C4741353F3064709A16197d.jpg"
-  },
-  {
     "name": "Dai Stablecoin - AnySwap",
     "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
     "symbol": "DAI",
@@ -238,5 +230,21 @@
     "decimals": 9,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/moonriver/0x4a436073552044D5f2f49B176853ad3Ad473d9d6.jpg"
+  },
+  {
+    "address": "0x1A93B23281CC1CDE4C4741353F3064709A16197d",
+    "chainId": 1285,
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+  },
+  {
+    "address": "0x6f1D1Ee50846Fcbc3de91723E61cb68CFa6D0E98",
+    "chainId": 1285,
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
   }
 ]

@@ -70,5 +70,13 @@
     "symbol": "FRAX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+  },
+  {
+    "address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
+    "chainId": 1284,
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
   }
 ]

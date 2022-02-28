@@ -200,20 +200,20 @@
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg"
 	},
 	{
-		"chainId": 1666600000,
-		"address": "0xeB6C08ccB4421b6088e581ce04fcFBed15893aC3",
-		"symbol": "FRAX",
-		"name": "Frax",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xeB6C08ccB4421b6088e581ce04fcFBed15893aC3/logo.png"
+	  "address": "0xFa7191D292d5633f702B0bd7E3E3BcCC0e633200",
+	  "chainId": 1666600000,
+	  "name": "Frax",
+	  "symbol": "FRAX",
+	  "decimals": 18,
+	  "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
 	},
 	{
-		"chainId": 1666600000,
-		"address": "0x775d7816afbEf935ea9c21a3aC9972F269A39004",
-		"symbol": "FXS",
-		"name": "Frax Share",
-		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x775d7816afbEf935ea9c21a3aC9972F269A39004/logo.png"
+	  "address": "0x0767D8E1b05eFA8d6A301a65b324B6b66A1CC14c",
+	  "chainId": 1666600000,
+	  "name": "Frax Share",
+	  "symbol": "FXS",
+	  "decimals": 18,
+	  "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
 	},
 	{
 		"chainId": 1666600000,

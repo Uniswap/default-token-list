@@ -528,5 +528,21 @@
     "symbol": "CREDA",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xc136E6B376a9946B156db1ED3A34b08AFdAeD76d/logo.png"
+  },
+  {
+    "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "chainId": 42161,
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+  },
+  {
+    "address": "0x9d2F299715D94d8A7E6F5eaa8E654E8c74a988A7",
+    "chainId": 42161,
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
   }
 ]
