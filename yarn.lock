@@ -439,10 +439,10 @@
   dependencies:
     "@octokit/openapi-types" "^7.3.5"
 
-"@sushiswap/core-sdk@^1.0.0-canary.36":
-  version "1.0.0-canary.65"
-  resolved "https://registry.yarnpkg.com/@sushiswap/core-sdk/-/core-sdk-1.0.0-canary.65.tgz#9577a4bb6200b51b26782ff5724a4a5dfa193286"
-  integrity sha512-sE6cPi9kfvfZ47xdA3P2UxMaEAiZ7IPR+q71wW4kS3AOuugzr+FaPCZoiO+o+mmtSm/AkRC5nO7bamtNa3GXoQ==
+"@sushiswap/core-sdk@^1.0.0-canary.69":
+  version "1.0.0-canary.69"
+  resolved "https://registry.yarnpkg.com/@sushiswap/core-sdk/-/core-sdk-1.0.0-canary.69.tgz#3901461e89a38e6294338347a526cedb0ab7afe4"
+  integrity sha512-L3+P0pIIRX4LBYEzBn+EuJ2PM4PqDcvjYGpruuLMcH772TBpO+REiyzmZvvNClIuXfhgMhDocY5GcAvinVhswA==
   dependencies:
     "@ethersproject/address" "^5.4.0"
     "@ethersproject/bignumber" "^5.4.0"

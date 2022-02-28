@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Wrapped Glimmer",
+      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "symbol": "WGLMR",
+      "decimals": 18,
+      "chainId": 1284,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+        "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+        "chainId": 1284,
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    }
+]
