@@ -1,18 +1,58 @@
 [
-    {
-      "name": "Wrapped Glimmer",
-      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
-      "symbol": "WGLMR",
-      "decimals": 18,
-      "chainId": 1284,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
-    },
-    {
-        "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
-        "chainId": 1284,
-        "name": "USD Coin",
-        "symbol": "USDC",
-        "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
-    }
+  {
+    "name": "Wrapped Glimmer",
+    "chainId": 1284,
+    "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+    "symbol": "WGLMR",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+  },
+  {
+    "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+    "chainId": 1284,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+  },
+  {
+    "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
+    "chainId": 1284,
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+  },
+  {
+    "address": "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594",
+    "chainId": 1284,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+  },
+  {
+    "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
+    "chainId": 1284,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+    "address": "0xc234A67a4F840E61adE794be47de455361b52413",
+    "chainId": 1284,
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+  },
+  {
+    "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
+    "chainId": 1284,
+    "name": "TerraUSD",
+    "symbol": "UST",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg"
+  }
 ]
