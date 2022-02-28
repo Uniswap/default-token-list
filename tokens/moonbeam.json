@@ -24,7 +24,7 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
   },
   {
-    "address": "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594",
+    "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
     "chainId": 1284,
     "name": "Tether USD",
     "symbol": "USDT",
