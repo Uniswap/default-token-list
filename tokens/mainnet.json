@@ -3702,5 +3702,13 @@
     "symbol": "SOURCE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E/logo.png"
+  },
+  {
+    "address": "0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3",
+    "chainId": 1,
+    "name": "JPEGd Governance Token",
+    "symbol": "JPEG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xE80C0cd204D654CEbe8dd64A4857cAb6Be8345a3/logo.png"
   }
 ]
