@@ -1150,5 +1150,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3/logo.png"
+  },
+  {
+    "name": "Nature Carbon Tonne",
+    "address": "0xD838290e877E0188a4A44700463419ED96c16107",
+    "symbol": "NCT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD838290e877E0188a4A44700463419ED96c16107/logo.png"
   }
 ]
