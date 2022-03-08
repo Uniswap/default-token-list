@@ -1158,5 +1158,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD838290e877E0188a4A44700463419ED96c16107/logo.png"
+  },
+  {
+    "name": "pTREAT",
+    "address": "0x5d0915f929FC090fd9c843a53e7e30335dD199bc",
+    "symbol": "pTREAT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5d0915f929FC090fd9c843a53e7e30335dD199bc/logo.png"
   }
 ]
