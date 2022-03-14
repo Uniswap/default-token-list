@@ -368,5 +368,13 @@
     "symbol": "LCD",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/fantom/0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a.jpg"
+  },
+  {
+    "address": "0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8",
+    "chainId": 250,
+    "name": "Pooch",
+    "symbol": "POOCH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8/logo.png"
   }
 ]

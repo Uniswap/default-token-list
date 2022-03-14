@@ -1166,5 +1166,21 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5d0915f929FC090fd9c843a53e7e30335dD199bc/logo.png"
+  },
+  {
+    "name": "Abachi",
+    "address": "0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7",
+    "symbol": "ABI",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7/logo.png"
+  },
+  {
+    "name": "Exchange Genesis Ethlas Medium",
+    "address": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
+    "symbol": "XGEM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x02649C1Ff4296038De4b9bA8F491b42b940A8252/logo.png"
   }
 ]
