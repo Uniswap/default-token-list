@@ -358,5 +358,13 @@
 		"name": "ONEUSD",
 		"decimals": 8,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xc1873199284B4490A4AACbE7CD6710Dc6aA95e08/logo.png"
+	},
+	{
+		"chainId": 1666600000,
+		"address": "0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE",
+		"symbol": "RVRS",
+		"name": "Reverse Protocol",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0xED0B4b0F0E2c17646682fc98ACe09feB99aF3adE/logo.png"
 	}
 ]
