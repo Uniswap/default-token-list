@@ -3718,5 +3718,13 @@
     "symbol": "CNDL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xbc138bD20C98186CC0342C8e380953aF0cb48BA8/logo.png"
+  },
+  {
+    "address": "0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4",
+    "chainId": 1,
+    "name": "Multichain",
+    "symbol": "MULTI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4/logo.png"
   }
 ]
