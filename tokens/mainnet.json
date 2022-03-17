@@ -3726,5 +3726,13 @@
     "symbol": "MULTI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4/logo.png"
+  },
+  {
+    "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+    "chainId": 1,
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png"
   }
 ]
