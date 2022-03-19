@@ -222,5 +222,13 @@
     "symbol": "FXS",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+  },
+  {
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "chainId": 43114,
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
   }
 ]

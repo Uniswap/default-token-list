@@ -1145,10 +1145,18 @@
   },
   {
     "name": "Crypto Raider",
+    "chainId": 137,
     "address": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
     "symbol": "RAIDER",
     "decimals": 18,
-    "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3/logo.png"
+  },
+  {
+    "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+    "chainId": 137,
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
   }
 ]

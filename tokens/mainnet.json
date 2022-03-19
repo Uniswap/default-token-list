@@ -3702,5 +3702,13 @@
     "symbol": "SOURCE",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x7118057ff0F4Fd0994fb9d2D94de8231d5cca79E/logo.png"
+  },
+  {
+    "address": "0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6",
+    "chainId": 1,
+    "name": "StargateToken",
+    "symbol": "STG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xAf5191B0De278C7286d6C7CC6ab6BB8A73bA2Cd6.jpg"
   }
 ]
