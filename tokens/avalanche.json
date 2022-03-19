@@ -230,5 +230,21 @@
     "symbol": "STG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
+  },
+  {
+    "address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
+    "chainId": 43114,
+    "name": "Grape Finance",
+    "symbol": "GRAPE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png"
+  },
+  {
+    "address": "0xC55036B5348CfB45a932481744645985010d3A44",
+    "chainId": 43114,
+    "name": "Wine Shares",
+    "symbol": "WINE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xC55036B5348CfB45a932481744645985010d3A44/logo.png"
   }
 ]

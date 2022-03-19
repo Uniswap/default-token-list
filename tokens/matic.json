@@ -848,14 +848,14 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F/logo.png"
   },
   {
-   "name": "Kommunitas",
-   "address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
-   "symbol": "KOM",
-   "decimals": 8,
-   "chainId": 137,
-   "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC004e2318722EA2b15499D6375905d75Ee5390B8/logo.png"
- },
- {
+    "name": "Kommunitas",
+    "address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+    "symbol": "KOM",
+    "decimals": 8,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xC004e2318722EA2b15499D6375905d75Ee5390B8/logo.png"
+  },
+  {
     "chainId": 137,
     "address": "0x3f717919deF69f81d17b80839bf8af35697ccbFa",
     "name": "Data Exchange Token",
@@ -991,8 +991,8 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195/logo.png"
   },
-    {
-      "name": "ETH 2x Flexible Leverage Index PoS",
+  {
+    "name": "ETH 2x Flexible Leverage Index PoS",
     "address": "0x66d7FDCc7403f18cAE9b0e2e8385649D2AcBC12A",
     "symbol": "ETH2x-FLI",
     "decimals": 18,
@@ -1158,5 +1158,37 @@
     "symbol": "STG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/matic/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.jpg"
+  },
+  {
+    "name": "Nature Carbon Tonne",
+    "address": "0xD838290e877E0188a4A44700463419ED96c16107",
+    "symbol": "NCT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD838290e877E0188a4A44700463419ED96c16107/logo.png"
+  },
+  {
+    "name": "pTREAT",
+    "address": "0x5d0915f929FC090fd9c843a53e7e30335dD199bc",
+    "symbol": "pTREAT",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5d0915f929FC090fd9c843a53e7e30335dD199bc/logo.png"
+  },
+  {
+    "name": "Abachi",
+    "address": "0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7",
+    "symbol": "ABI",
+    "decimals": 9,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7/logo.png"
+  },
+  {
+    "name": "Exchange Genesis Ethlas Medium",
+    "address": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
+    "symbol": "XGEM",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x02649C1Ff4296038De4b9bA8F491b42b940A8252/logo.png"
   }
 ]

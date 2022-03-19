@@ -376,5 +376,13 @@
     "symbol": "STG",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/arbitrum/0x6694340fc020c5E6B96567843da2df01b2CE1eb6.jpg"
+  },
+  {
+    "address": "0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8",
+    "chainId": 250,
+    "name": "Pooch",
+    "symbol": "POOCH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fantom/assets/0x31A47B49b4DBDC54d403b8c4880Ac9BB1A9EbAE8/logo.png"
   }
 ]
