@@ -7,7 +7,8 @@
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node internal/write.js > build/sushiswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build",
-    "sync": "node internal/sync.js"
+    "sync": "node internal/sync.js",
+    "volume": "ts-node ./internal/tokenVolumes.ts"
   },
   "files": [
     "build/sushiswap-default.tokenlist.json"
@@ -40,12 +41,14 @@
     "@uniswap/token-lists": "1.0.0-beta.25",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
+    "graphql": "^16.3.0",
+    "graphql-request": "^4.1.0",
     "lodash": "^4.17.21",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2",
-    "xlsx": "^0.17.0"
-  },
-  "dependencies": {
-    "raise-version": "^0.5.0"
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2",
+    "xlsx": "^0.17.0",
+    "@types/node": "^17.0.21"
   }
 }
