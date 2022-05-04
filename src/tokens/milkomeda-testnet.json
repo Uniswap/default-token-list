@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Wrapped ADA",
+    "address": "0x4938c027E924b67d174327910FFDeF9bC2823Fa3",
+    "symbol": "WADA",
+    "decimals": 18,
+    "chainId": 200101,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+    "chainId": 200101,
+    "address": "0x1Fbf7756A31976e8ad552162d476a0c3649165d5",
+    "symbol": "TK1",
+    "name": "Token 1",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+    "chainId": 200101,
+    "address": "0x4D3E9560900eA56287126b6d2d6bbCEb36E96EBC",
+    "symbol": "TK2",
+    "name": "Token 2",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+  },
+  {
+		"chainId": 200101,
+		"address": "0xA4d374C75557c27108d4fE6570E1D3514C9eDFF9",
+		"symbol": "DAI",
+		"name": "Dai Stablecoin",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+	},
+  {
+		"chainId": 200101,
+		"address": "0xCCE1c3FF33A5D6F6B8C8c17de756d80410A924AC",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+	},
+  {
+		"chainId": 200101,
+		"address": "0x13e08311E2b9bef731DF1dB2320aC351aB843933",
+		"symbol": "USDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+	},
+  {
+		"chainId": 200101,
+		"address": "0x2371Db6F819E407494c948E4cB73C9c8Af20d6ac",
+		"symbol": "UNIC",
+		"name": "UniC Token",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/unicardano/logos/main/token/tokenpic2.jpg"
+	}
+]
