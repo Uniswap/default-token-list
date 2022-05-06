@@ -49,10 +49,10 @@
 	},
   {
 		"chainId": 200101,
-		"address": "0x2371Db6F819E407494c948E4cB73C9c8Af20d6ac",
+		"address": "0xC1E400a8Ef3f97e4dc597eb1Aa1c7872fcd7F5dB",
 		"symbol": "UNIC",
 		"name": "UniC Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/unicardano/logos/main/token/tokenpic2.jpg"
+		"logoURI": "https://raw.githubusercontent.com/unicardano/logos/main/token/unic128.png"
 	}
 ]
