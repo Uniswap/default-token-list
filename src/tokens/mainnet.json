@@ -1374,5 +1374,13 @@
     "symbol": "POWR",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/1104/thumb/power-ledger.png?1547035082"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+    "name": "Celo",
+    "symbol": "CELO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
   }
 ]

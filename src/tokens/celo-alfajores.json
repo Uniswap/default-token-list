@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Poof Governance Token",
+    "address": "0x00400FcbF0816bebB94654259de7273f4A05c762",
+    "symbol": "POOF",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_POOF.png"
+  },
+  {
+    "name": "Moola cEUR",
+    "address": "0x0D9B4311657003251d1eFa085e74f761185F271c",
+    "symbol": "mcEUR",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcEUR.png"
+  },
+  {
+    "name": "Celo Euro",
+    "address": "0x10c892A6EC43a53E45D0B916B4b7D383B1b78C0F",
+    "symbol": "cEUR",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cEUR.png"
+  },
+  {
+    "name": "NetM Token",
+    "address": "0x123ED050805E0998EBEf43671327139224218e50",
+    "symbol": "NTMX",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_NTMX.png"
+  },
+  {
+    "name": "Moola",
+    "address": "0x17700282592D6917F6A73D0bF8AcCf4D578c131e",
+    "symbol": "MOO",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MOO.png"
+  },
+  {
+    "name": "Moola cUSD",
+    "address": "0x3a0EA4e0806805527C750AB9b34382642448468D",
+    "symbol": "mcUSD",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSD.png"
+  },
+  {
+    "name": "Moola cREAL",
+    "address": "0x3D0EDA535ca4b15c739D46761d24E42e37664Ad7",
+    "symbol": "mcREAL",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcREAL.png"
+  },
+  {
+    "name": "Marzipan Finance",
+    "address": "0x4d8BF8347600f5207bfdad57363fBa802C9C2031",
+    "symbol": "MZPN",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_MZPN.png"
+  },
+  {
+    "name": "Moola CELO",
+    "address": "0x653cC2Cc0Be398614BAd5d5328336dc79281e246",
+    "symbol": "mCELO",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELO.png"
+  },
+  {
+    "name": "Moola cUSD DEPRECATED",
+    "address": "0x71DB38719f9113A36e14F409bAD4F07B58b4730b",
+    "symbol": "mcUSDxOLD",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mcUSDxOLD.png"
+  },
+  {
+    "name": "Moola CELO DEPRECATED",
+    "address": "0x86f61EB83e10e914fc6F321F5dD3c2dD4860a003",
+    "symbol": "mCELOxOLD",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_mCELOxOLD.png"
+  },
+  {
+    "name": "Celo Dollar",
+    "address": "0x874069Fa1Eb16D44d622F2e0Ca25eeA172369bC1",
+    "symbol": "cUSD",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cUSD.png"
+  },
+  {
+    "name": "Savings CELO",
+    "address": "0xb9B532e99DfEeb0ffB4D3EDB499f09375CF9Bf07",
+    "symbol": "sCELO",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_sCELO.png"
+  },
+  {
+    "name": "Rewards CELO",
+    "address": "0xBDeedCDA79BAbc4Eb509aB689895a3054461691e",
+    "symbol": "rCELO",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_rCELO.png"
+  },
+  {
+    "name": "Celo",
+    "address": "0xF194afDf50B03e69Bd7D057c1Aa9e10c9954E4C9",
+    "symbol": "CELO",
+    "decimals": 18,
+    "chainId": 44787,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+  }
+]
