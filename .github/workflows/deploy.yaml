@@ -17,10 +17,13 @@ jobs:
           node-version: '12'
 
       - name: Install dependencies
-        run: npm install
+        run: yarn install --frozen-lockfile
 
       - name: Tests pass
-        run: npm test
+        run: yarn test
+
+      - name: Build list
+        run: yarn build
 
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
@@ -31,7 +34,7 @@ jobs:
         id: upload
         uses: anantaramdas/ipfs-pinata-deploy-action@v1.6.3
         with:
-          pin-name: Uniswap Default Token List ${{ needs.bump_version.outputs.new_tag }}
+          pin-name: Uniswap Default Token List
           path: 'build/uniswap-default.tokenlist.json'
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
