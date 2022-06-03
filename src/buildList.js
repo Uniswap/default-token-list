@@ -10,7 +10,7 @@ const mumbai = require("./tokens/mumbai.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Labs List",
+    name: "Uniswap Labs Default List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
