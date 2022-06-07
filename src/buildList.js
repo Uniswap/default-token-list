@@ -6,10 +6,11 @@ const goerli = require("./tokens/goerli.json");
 const kovan = require("./tokens/kovan.json");
 const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
+const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
-module.exports = function buildList() {
+module.exports = async function buildList() {
   const parsed = version.split(".");
-  return {
+  const l1List = {
     name: "Uniswap Labs Default List",
     timestamp: new Date().toISOString(),
     version: {
@@ -29,4 +30,5 @@ module.exports = function buildList() {
         return t1.chainId < t2.chainId ? -1 : 1;
       }),
   };
+  return await bridgeUtils.chainify(l1List)
 };

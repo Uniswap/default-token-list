@@ -7,9 +7,13 @@ const buildList = require('../src/buildList');
 
 const ajv = new Ajv({ allErrors: true, format: 'full' });
 const validator = ajv.compile(schema);
+let defaultTokenList;
+
+before(async function () {
+  defaultTokenList = await buildList();
+});
 
 describe('buildList', () => {
-  const defaultTokenList = buildList();
 
   it('validates', () => {
     expect(validator(defaultTokenList)).to.equal(true);

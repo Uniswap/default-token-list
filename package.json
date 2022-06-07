@@ -4,7 +4,7 @@
   "description": "◦ The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --timeout 10000",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
@@ -34,5 +34,8 @@
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2"
+  },
+  "dependencies": {
+    "@uniswap/token-list-bridge-utils": "^1.0.7"
   }
 }
