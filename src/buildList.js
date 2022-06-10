@@ -8,7 +8,7 @@ const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
-module.exports = async function buildList() {
+module.exports = function buildList() {
   const parsed = version.split(".");
   const l1List = {
     name: "Uniswap Labs Default List",
@@ -30,5 +30,5 @@ module.exports = async function buildList() {
         return t1.chainId < t2.chainId ? -1 : 1;
       }),
   };
-  return await bridgeUtils.chainify(l1List)
+  return bridgeUtils.chainify(l1List);
 };

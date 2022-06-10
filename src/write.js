@@ -1,5 +1,3 @@
 const buildList = require('./buildList');
 
-(async () => {
-  console.log(JSON.stringify(await buildList(), null, 2));
-})();
+buildList().then(data => console.log(JSON.stringify(data, null, 2)));
