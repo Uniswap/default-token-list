@@ -4,7 +4,7 @@
   "description": "◦ The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
-    "test": "mocha --timeout 10000",
+    "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
@@ -30,12 +30,10 @@
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.29",
+    "@uniswap/token-list-bridge-utils": "^1.0.7",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2"
-  },
-  "dependencies": {
-    "@uniswap/token-list-bridge-utils": "^1.0.7"
   }
 }
