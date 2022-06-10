@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Wrapped KAVA",
+      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+      "symbol": "WKAVA",
+      "decimals": 18,
+      "chainId": 2222,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/kava/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
+    }
+  ]
