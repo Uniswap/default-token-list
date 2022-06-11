@@ -321,6 +321,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3D97EdB1c1D87C0cBf098a0D2230d7380d4b1432",
+    "name": "Candle",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/23958/large/candleenlargedicon.png?1653552548"
+  },
+  {
+    "chainId": 1,
     "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
     "name": "Polygon",
     "symbol": "MATIC",
