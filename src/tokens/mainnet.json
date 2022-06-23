@@ -625,22 +625,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
-    "name": "Wrapped UST",
-    "symbol": "UST",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/15462/thumb/ust.png?1620910058"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa693B19d2931d498c5B318dF961919BB4aee87a5",
-    "name": "TerraUSD Wormhole ",
-    "symbol": "UST",
-    "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/21150/thumb/UST_wh_small.png?1644223065"
-  },
-  {
-    "chainId": 1,
     "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
     "name": "TrueFi",
     "symbol": "TRU",
@@ -1150,14 +1134,6 @@
     "symbol": "TRIBE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14575/thumb/tribe.PNG?1617487954"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd2877702675e6cEb975b4A1dFf9fb7BAF4C91ea9",
-    "name": "Wrapped LUNA Token",
-    "symbol": "WLUNA",
-    "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11178.png"
   },
   {
     "chainId": 1,
