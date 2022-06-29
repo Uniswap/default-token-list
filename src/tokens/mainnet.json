@@ -1350,5 +1350,13 @@
     "symbol": "POWR",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/1104/thumb/power-ledger.png?1547035082"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+    "name": "Euro Coin",
+    "symbol": "EUROC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
   }
 ]
