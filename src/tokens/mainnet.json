@@ -1358,5 +1358,13 @@
     "symbol": "EUROC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
+  },
+  {
+    "chainId": 1,
+    "address": "0x333a4823466879eef910a04d473505da62142069",
+    "name": "Nation3",
+    "symbol": "NATION",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19619.png"
   }
 ]
