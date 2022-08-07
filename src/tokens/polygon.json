@@ -286,5 +286,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+  },
+  {
+    "name": "ISLAMICOIN",
+    "address": "0x9c891326fd8b1a713974f73bb604677e1e63396d",
+    "symbol": "ISLAMI",
+    "decimals": 7,
+    "chainId": 137,
+    "logoURI": "https://assets.coingecko.com/coins/images/24749/small/3100-x-3100-px-e1632233028219.png?1648786180"
   }
 ]
