@@ -1358,5 +1358,13 @@
     "symbol": "EUROC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
-  }
+  },
+  {
+      "chainId": 1,
+      "address": "0x691c25C461DaFC47792b6E4d674FBB637bca1C6F",
+      "name": "iBBT Utility",
+      "symbol": "iBBT",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreigbeue22op5nwqko3sbfjbi3vcl7omabhooiklsr6ojbr4cvc23re"
+    }
 ]
