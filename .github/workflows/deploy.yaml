@@ -1,9 +1,11 @@
-name: Deploy
-on:
+name: yaml-schema
+on: create
   # manual trigger
   workflow_dispatch:
 
 jobs:
+#https://help.github.com/en/articles/virtual-environments-for-github-actions\
+# This job only runs for pull request comments
   deploy:
     name: Deploy
     runs-on: ubuntu-latest
