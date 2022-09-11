@@ -1358,5 +1358,13 @@
     "symbol": "EUROC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7b4328c127b85369d9f82ca0503b000d09cf9180",
+    "name": "Dogechain Token",
+    "symbol": "DC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26828/small/dogechain.jpeg?1660292741"
   }
 ]
