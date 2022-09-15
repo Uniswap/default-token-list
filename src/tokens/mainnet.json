@@ -1,5 +1,13 @@
 [
   {
+    "name": "Powswap",
+    "address": "0x02Cc78362D8124A17d3F884Dbd7476c4ec534Cdb",
+    "symbol": "POW",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://github.com/powswap/powswap-ui/blob/main/public/images/android-chrome-192x192.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "symbol": "WETH",
