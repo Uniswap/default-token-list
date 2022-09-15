@@ -5,7 +5,7 @@
     "symbol": "POW",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://github.com/powswap/powswap-ui/blob/main/public/images/android-chrome-192x192.png"
+    "logoURI": "https://raw.githubusercontent.com/powswap/powswap-ui/main/public/images/android-chrome-192x192.png"
   },
   {
     "name": "Wrapped Ether",
