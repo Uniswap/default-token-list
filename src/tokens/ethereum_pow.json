@@ -1366,5 +1366,13 @@
       "symbol": "EUROC",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
-    }
+    },
+    {
+        "chainId": 10001,
+        "address": "0xDe2983780C9EDE59Ad72dfb1aF38367f08254b08",
+        "name": "CrypDough",
+        "symbol": "DOUGH",
+        "decimals": 18,
+        "logoURI": "https://i.imgur.com/ooSeceZ.jpeg"
+      }
   ]
