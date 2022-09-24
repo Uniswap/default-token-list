@@ -4,14 +4,13 @@ const ropsten = require("./tokens/ropsten.json");
 const rinkeby = require("./tokens/rinkeby.json");
 const goerli = require("./tokens/goerli.json");
 const kovan = require("./tokens/kovan.json");
-const polygon = require("./tokens/polygon.json");
-const mumbai = require("./tokens/mumbai.json");
-const bridgeUtils = require('@uniswap/token-list-bridge-utils');
+const xdc = require("./tokens/xdc.json");
+const apothem = require("./tokens/apothem.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
-  const l1List = {
-    name: "Uniswap Labs Default",
+  return {
+    name: "Uniswap Default List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -21,7 +20,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["uniswap", "default"],
-    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon, ...mumbai]
+    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...xdc, ...apothem]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
@@ -30,5 +29,4 @@ module.exports = function buildList() {
         return t1.chainId < t2.chainId ? -1 : 1;
       }),
   };
-  return bridgeUtils.chainify(l1List);
 };

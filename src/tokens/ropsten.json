@@ -1,5 +1,29 @@
 [
   {
+    "name": "Fathom",
+    "address": "0xE48bE22Fc8b2B5BeB16264B60729e5D0a2083EcB",
+    "symbol": "FTHM",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/ztshort/default-token-list/main/assets/fthm-token.svg"
+  },
+  {
+    "name": "FXD",
+    "address": "0xa65cE860764B731D6BdB91ceB1F3E65d5B463462",
+    "symbol": "FXD",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/ztshort/default-token-list/main/assets/fthm-token.svg"
+  },
+  {
+    "name": "USDT",
+    "address": "0xe48c5813fBAf76e94751E3053f46Dac20a7A1272",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 3,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "symbol": "WETH",

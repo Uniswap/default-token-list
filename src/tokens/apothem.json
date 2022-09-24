@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Fathom",
+    "address": "0x9E50E77b499b3DEd6Ff9155DbDfd3ae0b4C93f62",
+    "symbol": "FTHM",
+    "decimals": 18,
+    "chainId": 51,
+    "logoURI": "https://raw.githubusercontent.com/ztshort/default-token-list/main/assets/fthm-token.svg"
+  },
+  {
+    "name": "FXD",
+    "address": "0x7F423a0b9d189081A09ceDE3ec27fAB247f458a8",
+    "symbol": "FXD",
+    "decimals": 18,
+    "chainId": 51,
+    "logoURI": "https://raw.githubusercontent.com/ztshort/default-token-list/main/assets/fthm-token.svg"
+  },
+  {
+    "name": "USDT",
+    "address": "0x95bFc555EF6C66cf2ecB142AFbEF15dA9CF016B1",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 51,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Wrapped XDC",
+    "address": "0xc039850F937C623024DA66D6dF370022E6F16e30",
+    "symbol": "WXDC",
+    "decimals": 18,
+    "chainId": 51,
+    "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
+  },
+  {
+    "name": "STORX",
+    "address": "0xeA888cf7610842ef69E1B47D5cCda38b6f49b21D",
+    "symbol": "StorX",
+    "decimals": 18,
+    "chainId": 51,
+    "logoURI": "https://cdn.xinfinscan.com/tokens/SRX.png"
+  },
+  {
+    "name": "Xswap",
+    "address": "0x0b0B2599D9E2d4EA8288b1Ec317283df5880Ef1E",
+    "symbol": "XSP2",
+    "decimals": 18,
+    "chainId": 51,
+    "logoURI": "https://cdn.xinfinscan.com/tokens/XSP2.png"
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "4.1.0",
-  "description": "◦ The Uniswap default token list",
+  "name": "fathomswap-default-token-list",
+  "version": "0.7.0",
+  "description": "◦ The Fathomswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Into-the-Fathom/default-token-list.git"
   },
   "keywords": [
     "uniswap",
@@ -24,13 +24,12 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/Into-the-Fathom/default-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/Into-the-Fathom/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.29",
-    "@uniswap/token-list-bridge-utils": "^1.0.8",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
