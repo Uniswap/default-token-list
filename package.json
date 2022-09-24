@@ -1,6 +1,6 @@
 {
   "name": "fathomswap-default-token-list",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "◦ The Fathomswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
