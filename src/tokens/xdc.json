@@ -1,0 +1,82 @@
+[
+    {
+        "name": "xUSDT",
+        "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+        "symbol": "xUSDT",
+        "decimals": 6,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/xUSDT.png"
+    },
+    {
+        "name": "xBTC",
+        "address": "0x71F7F49fF81E9Be77C9175611212ECB199BA0824",
+        "symbol": "xBTC",
+        "decimals": 8,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/xBTC.png"
+    },
+    {
+        "name": "xXRP",
+        "address": "0x4E35a02b12D7bD010E235Da055B6d03E89601264",
+        "symbol": "xXRP",
+        "decimals": 6,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/xXRP.png"
+    },
+    {
+        "name": "xUSDC",
+        "address": "0xC6Ae1Db6C66d909F7bFEeEb24F9adb8620bf9dbf",
+        "symbol": "xUSDC",
+        "decimals": 6,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/xUSDC.png"
+    },
+    {
+        "name": "Wrapped XDC",
+        "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+        "symbol": "WXDC",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
+    },
+    {
+        "name": "Comtech Gold",
+        "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
+        "symbol": "CGO",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/CGO.png"
+    },
+    {
+        "name": "xOKT",
+        "address": "0xF1080029DB591c013F4177F9289c1D85D73F601d",
+        "symbol": "OKT",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/OKT.png"
+    },
+    {
+        "name": "WAN",
+        "address": "0xBe5187C2A7eb776c1CaEeD2C37E7599fb05000D3",
+        "symbol": "WAN",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/WAN.png"
+    },
+    {
+        "name": "WadzPay Token",
+        "address": "0xB3f18b584263191A33169f6393487E43e9586329",
+        "symbol": "WTK",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/WTK.png"
+    },
+    {
+        "name": "Plugin",
+        "address": "0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391",
+        "symbol": "PLI",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://cdn.xinfinscan.com/tokens/PLI.png"
+    }
+]

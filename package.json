@@ -1,36 +1,36 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "4.1.0",
-  "description": "◦ The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "name": "fathom-swap-standard-token-list",
+  "version": "1.0.0",
+  "description": "◦ The Fathom Swap standard token list",
+  "main": "build/fathom-swap-standard.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/fathom-swap-standard.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/fathom-swap-standard.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Into-the-Fathom/fathom-swap-standard-token-list.git"
   },
   "keywords": [
-    "uniswap",
-    "default",
+    "fathom",
+    "fathomswap",
+    "standard",
     "token",
     "list"
   ],
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/Into-the-Fathom/fathom-swap-standard-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/Into-the-Fathom/fathom-swap-standard-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-lists": "^1.0.0-beta.29",
-    "@uniswap/token-list-bridge-utils": "^1.0.8",
+    "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
