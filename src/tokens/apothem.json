@@ -5,7 +5,7 @@
     "symbol": "FTHM",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/fathom-swap-default-token-list/xdc-integration-z/assets/fthm-token.svg"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/fathom-swap-standard-token-list/main/assets/fthm-token.svg"
   },
   {
     "name": "FXD",
@@ -13,7 +13,7 @@
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/fathom-swap-default-token-list/xdc-integration-z/assets/fthm-token.svg"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/fathom-swap-standard-token-list/main/assets/fthm-token.svg"
   },
   {
     "name": "USDT",
