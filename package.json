@@ -1,6 +1,6 @@
 {
   "name": "fathom-swap-standard-token-list",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "◦ The Fathom Swap standard token list",
   "main": "build/fathom-swap-standard.tokenlist.json",
   "scripts": {
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Into-the-Fathom/fathom-swap-standard-token-list#readme",
   "devDependencies": {
-    "@into-the-fathom/address": "^1.0.0",
+    "@into-the-fathom/address": "^1.1.0",
     "@uniswap/token-lists": "^1.0.0-beta.8",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
