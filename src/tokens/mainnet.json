@@ -1745,14 +1745,6 @@
   },
   {
     "chainId": 1,
-    "name": "Oasis Network",
-    "symbol": "ROSE",
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7653.png",
-    "address": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
-    "decimals": 18
-  },
-  {
-    "chainId": 1,
     "name": "Stargate Finance",
     "symbol": "STG",
     "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1647654518",
@@ -1769,7 +1761,7 @@
   },
   {
     "chainId": 1,
-    "name": "SXP",
+    "name": "Swipe",
     "symbol": "SXP",
     "logoURI": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1566792311",
     "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
@@ -1793,7 +1785,7 @@
   },
   {
     "chainId": 1,
-    "name": "chrono tech",
+    "name": "ChronoTech",
     "symbol": "TIME",
     "logoURI": "https://assets.coingecko.com/coins/images/604/thumb/time-32x32.png?1627130666",
     "address": "0x485d17A6f1B8780392d53D64751824253011A260",
