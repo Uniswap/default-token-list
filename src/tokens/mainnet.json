@@ -1358,5 +1358,13 @@
     "symbol": "EUROC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "name": "Wrapped liquid staked Ether",
+    "symbol": "WSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443"
   }
 ]

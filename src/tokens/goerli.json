@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 5,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "chainId": 5,
+    "address": "0x4942BBAf745f235e525BAff49D31450810EDed5b",
+    "name": "Wrapped liquid staked Ether",
+    "symbol": "WSTETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1633565443"
   }
 ]
