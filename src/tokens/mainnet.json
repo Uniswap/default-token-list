@@ -272,7 +272,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
   },
   {
-    "name": "Aragon Network Token",
+    "name": "Aragon",
     "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
     "symbol": "ANT",
     "decimals": 18,
