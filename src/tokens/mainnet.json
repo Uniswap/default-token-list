@@ -1854,5 +1854,13 @@
     "logoURI": "https://assets.coingecko.com/coins/images/17358/thumb/le1nzlO6_400x400.jpg?1632465691",
     "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "name": "BOB Token",
+    "symbol": "BOB",
+    "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030",
+    "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+    "decimals": 18
   }
 ]
