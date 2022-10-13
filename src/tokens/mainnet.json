@@ -1854,5 +1854,13 @@
     "logoURI": "https://assets.coingecko.com/coins/images/17358/thumb/le1nzlO6_400x400.jpg?1632465691",
     "address": "0x25f8087EAD173b73D6e8B84329989A8eEA16CF73",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x23B608675a2B2fB1890d3ABBd85c5775c51691d5",
+    "name": "Unisocks",
+    "symbol": "SOCKS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244"
   }
 ]
