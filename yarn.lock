@@ -534,10 +534,10 @@
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
 
-"@uniswap/token-list-bridge-utils@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@uniswap/token-list-bridge-utils/-/token-list-bridge-utils-1.0.8.tgz#cf3e79a009a80e42808360d13c79125ec6492df6"
-  integrity sha512-W6HR2N40IJK5Td7yqm7JguydT0iv2CAUws5eMaPTEurAl/LFBsaLPD/XAhyPfG6ShucQGWDWXuzEq9WG4vv+1Q==
+"@uniswap/token-list-bridge-utils@1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/token-list-bridge-utils/-/token-list-bridge-utils-1.1.0.tgz#24bb12464f19106278260ab78612cc6a83ebaf5f"
+  integrity sha512-eJrPMLiMjd4NHJxMwdADw2Vhi2/qnJDJg8j+o5BjNsebINv0v8IjhntKh48jMm4+UNxKSAZe8qcaT+uq0Dv+5A==
   dependencies:
     "@arbitrum/sdk" "^1.1.4"
     "@uniswap/sdk-core" "^3.0.1"
@@ -545,6 +545,7 @@
     dotenv "^16.0.1"
     ethers "^5.6.5"
     lodash "^4.17.21"
+    prettier "^2.7.1"
     web3 "^1.7.3"
 
 "@uniswap/token-lists@^1.0.0-beta.29":
@@ -2866,6 +2867,11 @@ prettier@^2.1.2:
   version "2.6.2"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.6.2.tgz#e26d71a18a74c3d0f0597f55f01fb6c06c206032"
   integrity sha512-PkUpF+qoXTqhOeWL9fu7As8LXsIUZ1WYaJiY/a7McAQzxjk82OF0tibkFXVCDImZtWxbvojFjerkiLb0/q8mew==
+
+prettier@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
+  integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
 
 process@^0.11.10:
   version "0.11.10"
