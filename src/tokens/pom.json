@@ -6,5 +6,13 @@
       "decimals": 18,
       "chainId": 18159,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
-    }
+    },
+    {
+        "name": "Pom USD",
+        "address": "0x21F460c10972A311E8026D3d6a9470A18A704090",
+        "symbol": "PUSD",
+        "decimals": 18,
+        "chainId": 18159,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x21F460c10972A311E8026D3d6a9470A18A704090/logo.png"
+      }
   ]
