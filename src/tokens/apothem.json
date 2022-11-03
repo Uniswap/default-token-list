@@ -1,7 +1,7 @@
 [
   {
     "name": "Fathom",
-    "address": "0x9E50E77b499b3DEd6Ff9155DbDfd3ae0b4C93f62",
+    "address": "0x4c52500DdC18EE0C6CB6155961347076E43ABb99",
     "symbol": "FTHM",
     "decimals": 18,
     "chainId": 51,
@@ -9,7 +9,7 @@
   },
   {
     "name": "FXD",
-    "address": "0x7F423a0b9d189081A09ceDE3ec27fAB247f458a8",
+    "address": "0x32333d7d5aE3Ea3bee41618838842EdA5581576c",
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 51,
@@ -17,7 +17,7 @@
   },
   {
     "name": "USDT",
-    "address": "0x95bFc555EF6C66cf2ecB142AFbEF15dA9CF016B1",
+    "address": "0xCcdC0653935A251B6839F30359917977f994b5d9",
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 51,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Wrapped XDC",
-    "address": "0xc039850F937C623024DA66D6dF370022E6F16e30",
+    "address": "0xcEc1609Efd3f12d0Da63250eF6761A7482Dda3BF",
     "symbol": "WXDC",
     "decimals": 18,
     "chainId": 51,
