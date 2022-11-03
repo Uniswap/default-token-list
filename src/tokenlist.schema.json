@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://uniswap.org/tokenlist.schema.json",
+  "$id": "https://composer.mypinata.cloud/ipfs/QmSFZQA6orzMMxj2y7Rw3oxiLbvUSRmfnV3t2HksKwwAjF",
   "title": "Fathomswap Token List",
   "description": "Schema for lists of tokens compatible with the Fathomswap Interface",
   "definitions": {
