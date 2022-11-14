@@ -8,9 +8,9 @@
         "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
     },
     {
-        "name": "Pom USD.e",
+        "name": "Pom USDe",
         "address": "0x27d789b89a441ccb6fcdb92650f1e667c965df7a",
-        "symbol": "PUSD.e",
+        "symbol": "PUSDe",
         "decimals": 18,
         "chainId": 18159,
         "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x27d789b89a441ccb6fcdb92650f1e667c965df7a/logo.png"
