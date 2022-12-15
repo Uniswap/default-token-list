@@ -1,74 +1,82 @@
 [
-  {
-    "name": "Wrapped Ether",
-    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "symbol": "WETH",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-  },
-  {
-    "name": "Prism",
-    "address": "0xd46df541148932690B81092f600f35208AFd4325",
-    "symbol": "PRISM",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/prism.png"
-  },
-  {
-    "name": "Dai Stablecoin",
-    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-    "symbol": "DAI",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
-  },
-  {
-    "name": "Tether USD",
-    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "symbol": "USDT",
-    "decimals": 6,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-  },
-  {
-    "name": "USDCoin",
-    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "symbol": "USDC",
-    "decimals": 6,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-  },
-  {
-    "name": "Rootdex",
-    "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
-    "symbol": "ROOTDEX",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x10998e74f5d33c8ccb46d4f8d8e2711b8a857b57/logo.png"
-  },
-  {
-    "name": "ROOTDEX/ETH",
-    "address": "0x163B890f4892D593945579028Ec44Ef0f20A4633",
-    "symbol": "ROOTDEX/ETH",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
-  },
-  {
-    "name": "Elon Tweet Inu",
-    "address": "0x78ab567E63f46CB923c5b3be821e26b91acF84aa",
-    "symbol": "EMTI",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x78ab567E63f46CB923c5b3be821e26b91acF84aa/logo.png"
-  },
-  {
-    "name": "Miyazaki Inu",
-    "address": "0xD5e7D22362BCC9881D06512d3189eAe79DD98d70",
-    "symbol": "MIYAZAKI",
-    "decimals": 9,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0xD5e7D22362BCC9881D06512d3189eAe79DD98d70/logo.png"
-  }
+    {
+        "name": "Wrapped Ether",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+        "name": "Prism",
+        "address": "0xd46df541148932690B81092f600f35208AFd4325",
+        "symbol": "PRISM",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/prism.png"
+    },
+    {
+        "name": "Dai Stablecoin",
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+        "name": "Tether USD",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+        "name": "USDCoin",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+        "name": "Rootdex",
+        "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
+        "symbol": "ROOTDEX",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x10998e74f5d33c8ccb46d4f8d8e2711b8a857b57/logo.png"
+    },
+    {
+        "name": "ROOTDEX/ETH",
+        "address": "0x163B890f4892D593945579028Ec44Ef0f20A4633",
+        "symbol": "ROOTDEX/ETH",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
+    },
+    {
+        "name": "Elon Tweet Inu",
+        "address": "0x78ab567E63f46CB923c5b3be821e26b91acF84aa",
+        "symbol": "EMTI",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x78ab567E63f46CB923c5b3be821e26b91acF84aa/logo.png"
+    },
+    {
+        "name": "Miyazaki Inu",
+        "address": "0xD5e7D22362BCC9881D06512d3189eAe79DD98d70",
+        "symbol": "MIYAZAKI",
+        "decimals": 9,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0xD5e7D22362BCC9881D06512d3189eAe79DD98d70/logo.png"
+    },
+    {
+        "name": "Wrapped BTC",
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "symbol": "BTC",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedBTC.png"
+    }
 ]
