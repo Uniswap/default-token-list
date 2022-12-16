@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Wrapped Empire",
+        "address": "0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55",
+        "symbol": "WEMPIRE",
+        "decimals": 18,
+        "chainId": 3693,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
+    },
+    {
+        "name": "USDC",
+        "address": "0xc61a71c75ed4742dCaE74B8CAc27A37D46FC6751",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 3693,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+]
