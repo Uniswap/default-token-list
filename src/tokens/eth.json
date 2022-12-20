@@ -78,5 +78,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x59c6900949aD1835f07a04321f4d9934a054E114/logo.png"
-  }
+  },
+  {
+        "name": "Wrapped BTC",
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "symbol": "BTC",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedBTC.png"
+   }
 ]

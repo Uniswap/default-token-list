@@ -24,14 +24,6 @@
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
     },
     {
-      "name": "FDEX/FDEX-FTM LP",
-      "address": "0xC1aF6ef77f2C1Cab3C22B196f37D442284B62195",
-      "symbol": "FDEX/FDEX-FTM",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
-    },
-    {
       "name": "Fantom PRISM Token",
       "address": "0xd46df541148932690B81092f600f35208AFd4325",
       "symbol": "fPRISM",
