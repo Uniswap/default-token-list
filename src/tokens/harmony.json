@@ -8,14 +8,6 @@
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/harmony/0xcf664087a5bb0237a0bad6742852ec6c8d69a27a/logo.png"
     },
     {
-      "name": "Harmony PRISM Token",
-      "address": "0xd46df541148932690B81092f600f35208AFd4325",
-      "symbol": "haPRISM",
-      "decimals": 18,
-      "chainId": 1666600000,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/harmony/0xd46df541148932690B81092f600f35208AFd4325/logo.png"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0x6983d1e6def3690c4d616b13597a09e6193ea013",
       "symbol": "ETH",

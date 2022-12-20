@@ -8,38 +8,6 @@
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ftm/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
     },
     {
-      "name": "EmpireDEX Fantom",
-      "address": "0xc83859C413a6bA5ca1620cD876c7E33a232c1C34",
-      "symbol": "FDEX",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ftm/0xc83859C413a6bA5ca1620cD876c7E33a232c1C34/logo.png"
-    },
-    {
-      "name": "FDEX/FTM",
-      "address": "0xC12a874065b52926F89F29253744c15Bc37eAf0B",
-      "symbol": "FDEX/FTM",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
-    },
-    {
-      "name": "FDEX/FDEX-FTM LP",
-      "address": "0xC1aF6ef77f2C1Cab3C22B196f37D442284B62195",
-      "symbol": "FDEX/FDEX-FTM",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
-    },
-    {
-      "name": "Fantom PRISM Token",
-      "address": "0xd46df541148932690B81092f600f35208AFd4325",
-      "symbol": "fPRISM",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ftm/0xd46df541148932690B81092f600f35208AFd4325/logo.png"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
       "symbol": "ETH",

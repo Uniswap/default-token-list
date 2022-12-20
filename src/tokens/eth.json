@@ -8,14 +8,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
-    "name": "Prism",
-    "address": "0xd46df541148932690B81092f600f35208AFd4325",
-    "symbol": "PRISM",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/prism.png"
-  },
-  {
     "name": "Dai Stablecoin",
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "symbol": "DAI",
@@ -40,22 +32,6 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
-    "name": "Rootdex",
-    "address": "0x2302f393690487a4Fc5927bBeF63ff113E0c479d",
-    "symbol": "ROOTDEX",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x10998e74f5d33c8ccb46d4f8d8e2711b8a857b57/logo.png"
-  },
-  {
-    "name": "ROOTDEX/ETH",
-    "address": "0x163B890f4892D593945579028Ec44Ef0f20A4633",
-    "symbol": "ROOTDEX/ETH",
-    "decimals": 18,
-    "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
-  },
-  {
     "name": "Elon Tweet Inu",
     "address": "0x78ab567E63f46CB923c5b3be821e26b91acF84aa",
     "symbol": "EMTI",
@@ -78,5 +54,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/eth/0x59c6900949aD1835f07a04321f4d9934a054E114/logo.png"
+  },
+  {
+    "name": "Empire Network",
+    "address": "0xf124eD9Ec309907808b1FBc6BEdB2a76927B3665",
+    "symbol": "EMPIRE",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png"
   }
 ]

@@ -11,7 +11,7 @@
       "name": "USDC",
       "address": "0xc61a71c75ed4742dCaE74B8CAc27A37D46FC6751",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 3693,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
     },

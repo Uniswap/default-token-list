@@ -8,22 +8,6 @@
     "logoURI": "https://assets.trustwalletapp.com/blockchains/binance/info/logo.png"
   },
   {
-    "name": "Binance PRISM Token",
-    "address": "0x4Cf12Dd46baB9afC94e049342FD75a9eaFF5d096",
-    "symbol": "bPRISM",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/prism.png"
-  },
-  {
-    "name": "EmpireDEX",
-    "address": "0xc83859C413a6bA5ca1620cD876c7E33a232c1C34",
-    "symbol": "EMPIRE",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png"
-  },
-  {
     "name": "Binance-Pegged BUSD",
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "symbol": "BUSD",
@@ -78,22 +62,6 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bsc/0xD6ca9451bba47e26706A701aE05bE45A712D4B1B/logo.png"
-  },
-  {
-    "name": "EMPIRE/BNB",
-    "address": "0xF3114cB351F38f8e8fF17f8313FF91ceC4FF196f",
-    "symbol": "EMPIRE/BNB",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
-  },
-  {
-    "name": "EMPIRE/EMPIRE-BNB LP",
-    "address": "0x6688349f8E74c03C422F79254e8126280BE5E484",
-    "symbol": "EMPIRE/EMPIRE-BNB",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
   },
   {
     "name": "Adamant",
