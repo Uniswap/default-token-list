@@ -1,18 +1,50 @@
 [
     {
-        "name": "Wrapped Empire",
-        "address": "0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55",
-        "symbol": "WEMPIRE",
-        "decimals": 18,
-        "chainId": 3693,
-        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
+      "name": "Wrapped EMPIRE",
+      "address": "0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55",
+      "symbol": "WEMPIRE",
+      "decimals": 18,
+      "chainId": 3693,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/empire/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
     },
     {
-        "name": "USDC",
-        "address": "0xc61a71c75ed4742dCaE74B8CAc27A37D46FC6751",
-        "symbol": "USDC",
-        "decimals": 6,
-        "chainId": 3693,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      "name": "USDC",
+      "address": "0xc61a71c75ed4742dCaE74B8CAc27A37D46FC6751",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 3693,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0x6fE155870Da67738ED25AFD93E09Df090A3398B4",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 3693,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/BITCOIN.png"
+    },
+    {
+      "name": "ETH",
+      "address": "0xDd284e7e3873F1Cfd0df6D243E0354E37431139e",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 3693,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/ETHEREUM.png"
+    },
+    {
+      "name": "MATIC",
+      "address": "0x0c1F6edb11FAdF168060a30872FCb53B436F2dC7",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 3693,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0xBf9f851EC90DC6144B0745cB4C762b7dBA3f4d12",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 3693,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/bnb/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
     }
 ]
