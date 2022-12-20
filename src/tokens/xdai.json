@@ -8,14 +8,6 @@
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/logo.png"
     },
     {
-      "name": "xDai PRISM Token",
-      "address": "0xd46df541148932690B81092f600f35208AFd4325",
-      "symbol": "xPRISM",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xd46df541148932690B81092f600f35208AFd4325/logo.png"
-    },
-    {
       "name": "USD Coin",
       "address": "0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83",
       "symbol": "USDC",
@@ -38,29 +30,5 @@
       "decimals": 18,
       "chainId": 100,
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/wrappedETH.png"
-    },
-    {
-      "name": "STAKE",
-      "address": "0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e",
-      "symbol": "STAKE",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/logo.png"
-    },
-    {
-      "name": "EmpireDEX xDAI",
-      "address": "0xc83859C413a6bA5ca1620cD876c7E33a232c1C34",
-      "symbol": "XDEX",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/xdai/0xc83859C413a6bA5ca1620cD876c7E33a232c1C34/logo.png"
-    },
-    {
-      "name": "XDEX/XDEX-XDAI",
-      "address": "0xd70a028b42132e55d1c3c6a1890e9c478d559c24",
-      "symbol": "XDEX/XDEX-XDAI",
-      "decimals": 18,
-      "chainId": 100,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
     }
   ]
