@@ -99,38 +99,6 @@
       "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x6B66fCB66Dba37F99876a15303b759c73fc54ed0/logo.png"
     },
     {
-      "name": "Cronos PRISM Token",
-      "address": "0x611EB023EDcca8f4aC40260d90A27ba7A7539DB1",
-      "symbol": "croPRISM",
-      "decimals": 18,
-      "chainId": 25,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x611EB023EDcca8f4aC40260d90A27ba7A7539DB1/logo.png"
-    },
-    {
-      "name": "EmpireDEX Cronos",
-      "address": "0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc",
-      "symbol": "EMPIRE",
-      "decimals": 18,
-      "chainId": 25,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/cro/0x0001DF70E9cDC0C1C6b24E2172b89b105C879DDc/logo.png"
-    },
-    {
-      "name": "EMPIRE/CRO",
-      "address": "0x80523212e85e7FD850c85CC804263Ad421696d87",
-      "symbol": "EMPIRE/CRO",
-      "decimals": 18,
-      "chainId": 25,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/DEXLP.png"
-    },
-    {
-      "name": "EMPIRE/EMPIRE-CRO LP",
-      "address": "0xe973711fecc41d6a2d88548dac37b43bbe65c1ed",
-      "symbol": "EMPIRE/EMPIRE-CRO",
-      "decimals": 18,
-      "chainId": 25,
-      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/COINDEXLP.png"
-    },
-    {
       "name": "CrO cRo",
       "address": "0x17C00923Ce44f2748DB6A14f979D55C497A267e4",
       "symbol": "CROCRO",

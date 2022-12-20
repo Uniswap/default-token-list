@@ -1,10 +1,18 @@
 [
     {
-        "name": "Wrapped MATIC",
-        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-        "symbol": "WMATIC",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+      "name": "Wrapped MATIC",
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/matic/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
+    },
+    {
+      "name": "Empire Network",
+      "address": "0xf124eD9Ec309907808b1FBc6BEdB2a76927B3665",
+      "symbol": "EMPIRE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png"
     }
 ]
