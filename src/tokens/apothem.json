@@ -1,7 +1,7 @@
 [
   {
     "name": "Fathom",
-    "address": "0x9624167f18d3989304F793f40266ae0B005e663F",
+    "address": "0xe81e44165c179F958399127277E1FB3D00256E6f",
     "symbol": "FTHM",
     "decimals": 18,
     "chainId": 51,
@@ -9,11 +9,11 @@
   },
   {
     "name": "FXD",
-    "address": "0x322742814990Bf0b075fc2B33186ca63122FFB08",
+    "address": "0x2db58E5850f4F9BA63ff4306Cf1F6426C7a6B9b7",
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/apothem/assets/0x322742814990Bf0b075fc2B33186ca63122FFB08/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/dev/blockchains/apothem/assets/0x2db58E5850f4F9BA63ff4306Cf1F6426C7a6B9b7/logo.png"
   },
   {
     "name": "USDT",
