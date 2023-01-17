@@ -30,5 +30,14 @@
         "decimals": 18,
         "chainId": 18159,
         "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x58843CB63012e7C2Ad643857977efD32147a3C23/logo.png"
-    }
+    },
+    {
+        "name": "Quack",
+        "address": "0x673f16d069aeF3BBE949B73904f8d4aa9E348dd3",
+        "symbol": "QUACK",
+        "decimals": 18,
+        "chainId": 18159,
+        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x673f16d069aeF3BBE949B73904f8d4aa9E348dd3/logo.png"
+    },
+
 ]
