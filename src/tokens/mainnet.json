@@ -312,11 +312,11 @@
   },
   {
     "chainId": 1,
-    "address": "0x8dAEBADE922dF735c38C80C7eBD708Af50815fAa",
+    "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
     "name": "tBTC",
-    "symbol": "TBTC",
+    "symbol": "tBTC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11224/thumb/tBTC.png?1589620754"
+    "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png"
   },
   {
     "chainId": 1,

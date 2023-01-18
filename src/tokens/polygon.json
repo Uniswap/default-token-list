@@ -257,14 +257,6 @@
   },
   {
     "chainId": 137,
-    "address": "0x50a4a434247089848991DD8f09b889D4e2870aB6",
-    "name": "tBTC",
-    "symbol": "TBTC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/11224/thumb/tBTC.png?1589620754"
-  },
-  {
-    "chainId": 137,
     "address": "0xbD7A5Cf51d22930B8B3Df6d834F9BCEf90EE7c4f",
     "name": "Ethereum Name Service",
     "symbol": "ENS",
