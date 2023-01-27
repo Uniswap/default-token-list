@@ -11,11 +11,11 @@
         "10": {
           "tokenAddress": "0x4200000000000000000000000000000000000006"
         },
-        "42161": {
-          "tokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
-        },
         "137": {
           "tokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+        },
+        "42161": {
+          "tokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
         },
         "42220": {
           "tokenAddress": "0x2DEf4285787d58a2f811AF24755A8150622f4361"
@@ -1892,5 +1892,12 @@
     "symbol": "SOCKS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244"
+  },
+  {
+    "address": "0x44885a24d90512851cbfa5a8ae08cb7b3c759d44",
+    "chainId": "1",
+    "logoURI": "test",
+    "name": "test",
+    "symbol": "test"
   }
 ]
