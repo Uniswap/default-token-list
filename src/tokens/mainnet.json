@@ -375,14 +375,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
-    "name": "Aergo",
-    "symbol": "AERGO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4490/thumb/aergo.png?1647696770"
-  },
-  {
-    "chainId": 1,
     "address": "0x626E8036dEB333b408Be468F951bdB42433cBF18",
     "name": "AIOZ Network",
     "symbol": "AIOZ",
@@ -1392,7 +1384,7 @@
   {
     "chainId": 1,
     "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
-    "name": "Arcblock",
+    "name": "Arcblock token",
     "symbol": "ABT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543"
@@ -1892,5 +1884,13 @@
     "symbol": "SOCKS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244"
+  },
+  {
+    "decimals": 18,
+    "address": "0x710aa623c2c881b0d7357bcf9aeedf660e606c22",
+    "chainId": "1",
+    "logoURI": "test",
+    "name": "test",
+    "symbol": "test"
   }
 ]
