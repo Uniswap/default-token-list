@@ -1892,5 +1892,13 @@
     "symbol": "SOCKS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244"
+  },
+  {
+    "decimals": 18,
+    "address": "0x710aa623c2c881b0d7357bcf9aeedf660e606c22",
+    "chainId": "1",
+    "logoURI": "test",
+    "name": "test",
+    "symbol": "test"
   }
 ]
