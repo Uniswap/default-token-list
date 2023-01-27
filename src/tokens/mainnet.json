@@ -5,23 +5,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-    "extensions": {
-      "bridgeInfo": {
-        "10": {
-          "tokenAddress": "0x4200000000000000000000000000000000000006"
-        },
-        "137": {
-          "tokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
-        },
-        "42161": {
-          "tokenAddress": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
-        },
-        "42220": {
-          "tokenAddress": "0x2DEf4285787d58a2f811AF24755A8150622f4361"
-        }
-      }
-    }
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "name": "Dai Stablecoin",
@@ -205,14 +189,7 @@
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
-    "extensions": {
-      "bridgeInfo": {
-        "10": {
-          "tokenAddress": "0x76FB31fb4af56892A25e32cFC43De717950c9278"
-        }
-      }
-    }
+    "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
   },
   {
     "chainId": 1,
@@ -348,14 +325,7 @@
     "name": "Polygon",
     "symbol": "MATIC",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
-    "extensions": {
-      "bridgeInfo": {
-        "137": {
-          "tokenAddress": "0x0000000000000000000000000000000000001010"
-        }
-      }
-    }
+    "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
   },
   {
     "chainId": 1,
@@ -363,7 +333,17 @@
     "name": "ApeCoin",
     "symbol": "APE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455"
+    "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1647476455",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xB7b31a6BC18e48888545CE79e83E06003bE70930"
+        },
+        "42161": {
+          "tokenAddress": "0x74885b4D524d497261259B38900f54e6dbAd2210"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
