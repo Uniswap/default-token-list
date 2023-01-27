@@ -368,7 +368,7 @@
   {
     "chainId": 1,
     "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-    "name": "1inch",
+    "name": "1inchyyyy",
     "symbol": "1INCH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
@@ -1391,14 +1391,6 @@
   },
   {
     "chainId": 1,
-    "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
-    "name": "Arcblock",
-    "symbol": "ABT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543"
-  },
-  {
-    "chainId": 1,
     "address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
     "name": "Ambire AdEx",
     "symbol": "ADX",
@@ -1892,5 +1884,12 @@
     "symbol": "SOCKS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244"
+  },
+  {
+    "decimals": 18,
+    "address": "0x44885a24d90512851cbfa5a8ae08cb7b3c759d44",
+    "chainId": "1",
+    "name": "test",
+    "symbol": "TEST"
   }
 ]
