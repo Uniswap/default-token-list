@@ -363,7 +363,17 @@
     "name": "ApeCoin",
     "symbol": "APE",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455"
+    "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1647476455",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xB7b31a6BC18e48888545CE79e83E06003bE70930"
+        },
+        "42161": {
+          "tokenAddress": "0x74885b4D524d497261259B38900f54e6dbAd2210"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
