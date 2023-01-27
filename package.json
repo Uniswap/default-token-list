@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/default-token-list",
-  "version": "7.0.0",
-  "description": "◦ The Uniswap default token list",
+  "version": "7.1.0",
+  "description": "â¦ The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
