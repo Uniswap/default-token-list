@@ -278,5 +278,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+  },
+  {
+    "decimals": 18,
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "chainId": "137",
+    "logoURI": "test",
+    "name": "test",
+    "symbol": "test"
   }
 ]
