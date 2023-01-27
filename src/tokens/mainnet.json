@@ -368,7 +368,7 @@
   {
     "chainId": 1,
     "address": "0x111111111117dC0aa78b770fA6A738034120C302",
-    "name": "1inch",
+    "name": "1inch token",
     "symbol": "1INCH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
@@ -1388,14 +1388,6 @@
     "symbol": "EUROC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
-  },
-  {
-    "chainId": 1,
-    "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
-    "name": "Arcblock",
-    "symbol": "ABT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543"
   },
   {
     "chainId": 1,
