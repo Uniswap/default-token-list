@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
+    "name": "Pleasure Coin",
+    "address": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
+    "symbol": "NSFW",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19/logo.png"
+  },
+  {
     "name": "0x Protocol Token",
     "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
     "symbol": "ZRX",
