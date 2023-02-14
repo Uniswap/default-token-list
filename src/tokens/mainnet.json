@@ -1892,5 +1892,13 @@
     "symbol": "SOCKS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/10717/thumb/qFrcoiM.png?1582525244"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5283D291DBCF85356A21bA090E6db59121208b44",
+    "name": "Blur",
+    "symbol": "BLUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921"
   }
 ]
