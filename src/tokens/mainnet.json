@@ -1390,6 +1390,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/26045/thumb/euro-coin.png?1655394420"
   },
   {
+     "name": "BOB Token",
+     "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
+     "symbol": "BOB",
+     "decimals": 18,
+     "chainId": 1,
+     "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030"
+  },
+  {
     "chainId": 1,
     "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
     "name": "Arcblock",
