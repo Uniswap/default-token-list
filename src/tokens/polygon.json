@@ -278,5 +278,13 @@
     "decimals": 18,
     "chainId": 137,
     "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+  },
+  {
+    "chainId": 137,
+    "address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+    "name": "Voxies",
+    "symbol": "VOXEL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/21260/large/voxies.png"
   }
 ]
