@@ -1900,5 +1900,29 @@
     "symbol": "BLUR",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1670745921"
+  },
+  {
+    "chainId": 1,
+    "address": "0x467719aD09025FcC6cF6F8311755809d45a5E5f3",
+    "name": "Axelar",
+    "symbol": "AXL",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+    "name": "Illuvium",
+    "symbol": "ILV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14468/large/ILV.JPG"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb3999F658C0391d94A37f7FF328F3feC942BcADC",
+    "name": "Hashflow",
+    "symbol": "HFT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26136/large/hashflow-icon-cmc.png"
   }
 ]
