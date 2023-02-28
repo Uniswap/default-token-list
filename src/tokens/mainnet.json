@@ -1924,5 +1924,13 @@
     "symbol": "HFT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26136/large/hashflow-icon-cmc.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+    "name": "Flex Coin",
+    "symbol": "FLEX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9108/large/coinflex_logo.png"
   }
 ]
