@@ -10,6 +10,7 @@ const harmony = require("./tokens/harmony.json");
 const kava = require("./tokens/kava.json");
 const pom = require("./tokens/pom.json");
 const empire = require("./tokens/empire.json");
+const arb = require("./tokens/arb.json");
 
 module.exports = function buildList() {
     const parsed = version.split(".");
@@ -24,7 +25,7 @@ module.exports = function buildList() {
         tags: {},
         logoURI: "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/empire.png",
         keywords: ["empire", "default"],
-        tokens: [...eth, ...bsc, ...ftm, ...avax, ...matic, ...xdai, ...cro, ...harmony, ...kava, ...pom, ...empire]
+        tokens: [...eth, ...bsc, ...ftm, ...avax, ...matic, ...xdai, ...cro, ...harmony, ...kava, ...pom, ...empire, ...arb]
             // sort them by symbol for easy readability
             .sort((t1, t2) => {
                 if (t1.chainId === t2.chainId) {
