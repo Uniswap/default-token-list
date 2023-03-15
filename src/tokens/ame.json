@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Wrapped AME",
+      "address": "0xfba33D254648a77Fced1D1624d2DDb63a540F2E8",
+      "symbol": "WAME",
+      "decimals": 18,
+      "chainId": 180,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/ame/0xfba33D254648a77Fced1D1624d2DDb63a540F2E8/logo.png"
+    },
+    {
+      "name": "USDC",
+      "address": "0x389354D20e83C128caE2B4c0A2E239913573e0C9",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 180,
+      "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/shared/USDC.png"
+    }
+  ]
