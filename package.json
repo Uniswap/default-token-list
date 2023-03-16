@@ -1,6 +1,6 @@
 {
   "name": "@EmpireDEX/default-token-list",
-  "version": "5.0.13",
+  "version": "5.0.14",
   "description": "◦ The EmpireDEX default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
