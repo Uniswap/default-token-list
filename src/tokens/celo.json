@@ -6,5 +6,13 @@
     "symbol": "CELO",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
+  },
+  {
+    "name": "Ethix",
+    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+    "symbol": "ETHIX",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": ""https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164"
   }
 ]
