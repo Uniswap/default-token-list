@@ -4,39 +4,7 @@
         "address": "0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55",
         "symbol": "WPOM",
         "decimals": 18,
-        "chainId": 18159,
+        "chainId": 801921,
         "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0xC84D8d03aA41EF941721A4D77b24bB44D7C7Ac55/logo.png"
-    },
-    {
-        "name": "Pom USDe",
-        "address": "0x27d789b89a441ccb6fcdb92650f1e667c965df7a",
-        "symbol": "PUSDe",
-        "decimals": 6,
-        "chainId": 18159,
-        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x27d789b89a441ccb6fcdb92650f1e667c965df7a/logo.png"
-    },
-    {
-        "name": "POM GOVERNANCE",
-        "address": "0x8BB07ad76ADdE952e83f2876c9bDeA9cc5B3a51E",
-        "symbol": "POMG",
-        "decimals": 18,
-        "chainId": 18159,
-        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x8BB07ad76ADdE952e83f2876c9bDeA9cc5B3a51E/logo.png"
-    },
-    {
-        "name": "Pomeranian",
-        "address": "0x58843CB63012e7C2Ad643857977efD32147a3C23",
-        "symbol": "POMD",
-        "decimals": 18,
-        "chainId": 18159,
-        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x58843CB63012e7C2Ad643857977efD32147a3C23/logo.png"
-    },
-    {
-        "name": "Quack",
-        "address": "0x673f16d069aeF3BBE949B73904f8d4aa9E348dd3",
-        "symbol": "QUACK",
-        "decimals": 18,
-        "chainId": 18159,
-        "logoURI": "https://raw.githubusercontent.com/Prism-Network-io/default-token-list/master/logos/pom/0x673f16d069aeF3BBE949B73904f8d4aa9E348dd3/logo.png"
     }
 ]
