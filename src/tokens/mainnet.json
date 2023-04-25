@@ -1467,7 +1467,14 @@
     "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
