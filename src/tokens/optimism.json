@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 10,
+    "address": "0x4200000000000000000000000000000000000042",
+    "name": "Optimism",
+    "symbol": "OP",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png"
+  }
+]
