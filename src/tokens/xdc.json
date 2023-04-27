@@ -3,7 +3,7 @@
       "name": "USDTx",
       "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
       "symbol": "USDTx",
-      "decimals": 18,
+      "decimals": 6,
       "chainId": 50,
       "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png"
     },
