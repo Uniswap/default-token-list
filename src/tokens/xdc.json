@@ -1,8 +1,8 @@
 [
     {
-      "name": "USDTx",
+      "name": "xUSDT",
       "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
-      "symbol": "USDTx",
+      "symbol": "xUSDT",
       "decimals": 6,
       "chainId": 50,
       "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png"
@@ -14,5 +14,21 @@
       "decimals": 18,
       "chainId": 50,
       "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
+    },
+    {
+      "name": "FTHM",
+      "address": "0x5fb8Ae050A8C313EE442f8F3A37B7340ad4D12cd",
+      "symbol": "FTHM",
+      "decimals": 18,
+      "chainId": 50,
+      "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x5fb8Ae050A8C313EE442f8F3A37B7340ad4D12cd/logo.png"
+    },
+    {
+      "name": "Fathom USD",
+      "address": "0xF536f5139C36a7d7023Eb06C9F34d90F3AF0F95b",
+      "symbol": "FXD",
+      "decimals": 18,
+      "chainId": 50,
+      "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0xF536f5139C36a7d7023Eb06C9F34d90F3AF0F95b/logo.png"
     }
   ]
