@@ -22,5 +22,13 @@
     "decimals": 18,
     "chainId": 50,
     "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x49d3f7543335cf38Fa10889CCFF10207e22110B5/logo.png"
+  },
+  {
+    "name": "FTHM",
+    "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
+    "symbol": "FTHM",
+    "decimals": 18,
+    "chainId": 50,
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png"
   }
 ]
