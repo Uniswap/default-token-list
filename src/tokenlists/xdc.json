@@ -1,0 +1,50 @@
+{
+    "name": "Xinfin Tokens",
+    "logoURI": "https://xinfin.org/assets/images/brand-assets/xdc-icon.png",
+    "keywords": [
+        "xdc",
+        "xinfin",
+        "fathom",
+        "defi"
+    ],
+    "timestamp": "2023-04-29T10:01:51.032Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+          "name": "xUSDT",
+          "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+          "symbol": "xUSDT",
+          "decimals": 6,
+          "chainId": 50,
+          "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png"
+        },
+        {
+          "name": "Wrapped XDC",
+          "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+          "symbol": "WXDC",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/xinfin/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png"
+        },
+        {
+          "name": "Fathom USD",
+          "address": "0x49d3f7543335cf38Fa10889CCFF10207e22110B5",
+          "symbol": "FXD",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x49d3f7543335cf38Fa10889CCFF10207e22110B5/logo.png"
+        },
+        {
+          "name": "FTHM",
+          "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
+          "symbol": "FTHM",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png"
+        }
+      ]
+}

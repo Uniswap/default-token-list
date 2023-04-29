@@ -1,50 +1,34 @@
 [
   {
     "name": "Fathom",
-    "address": "0x4c52500DdC18EE0C6CB6155961347076E43ABb99",
+    "address": "0x764687eA66dCaf68Fb5246C29739221cfef3Bb46",
     "symbol": "FTHM",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/fathom-swap-default-token-list/main/assets/fthm-token.svg"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/apothem/assets/0x764687eA66dCaf68Fb5246C29739221cfef3Bb46/logo.png"
   },
   {
     "name": "FXD",
-    "address": "0x32333d7d5aE3Ea3bee41618838842EdA5581576c",
+    "address": "0xa585BF9418C6Aca0a46d308Cea3b2EC85046C88F",
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/fathom-swap-default-token-list/main/assets/fthm-token.svg"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/apothem/assets/0xa585BF9418C6Aca0a46d308Cea3b2EC85046C88F/logo.png"
   },
   {
-    "name": "USDT",
-    "address": "0xCcdC0653935A251B6839F30359917977f994b5d9",
-    "symbol": "USDT",
+    "name": "US+",
+    "address": "0x82b4334F5CD8385f55969BAE0A863a0C6eA9F63f",
+    "symbol": "US+",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/apothem/assets/0x82b4334F5CD8385f55969BAE0A863a0C6eA9F63f/logo.png"
   },
   {
     "name": "Wrapped XDC",
-    "address": "0xcEc1609Efd3f12d0Da63250eF6761A7482Dda3BF",
+    "address": "0xE99500AB4A413164DA49Af83B9824749059b46ce",
     "symbol": "WXDC",
     "decimals": 18,
     "chainId": 51,
     "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
-  },
-  {
-    "name": "STORX",
-    "address": "0xeA888cf7610842ef69E1B47D5cCda38b6f49b21D",
-    "symbol": "StorX",
-    "decimals": 18,
-    "chainId": 51,
-    "logoURI": "https://cdn.xinfinscan.com/tokens/SRX.png"
-  },
-  {
-    "name": "Xswap",
-    "address": "0x0b0B2599D9E2d4EA8288b1Ec317283df5880Ef1E",
-    "symbol": "XSP2",
-    "decimals": 18,
-    "chainId": 51,
-    "logoURI": "https://cdn.xinfinscan.com/tokens/XSP2.png"
   }
 ]
