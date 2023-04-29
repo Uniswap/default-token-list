@@ -28,7 +28,7 @@
           "symbol": "WXDC",
           "decimals": 18,
           "chainId": 50,
-          "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
+          "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/xinfin/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png"
         },
         {
           "name": "Fathom USD",

@@ -5,7 +5,7 @@
     "symbol": "xUSDT",
     "decimals": 6,
     "chainId": 50,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/xinfin/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png"
   },
   {
     "name": "Wrapped XDC",
@@ -13,7 +13,7 @@
     "symbol": "WXDC",
     "decimals": 18,
     "chainId": 50,
-    "logoURI": "https://cdn.xinfinscan.com/tokens/WXDC.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/xinfin/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png"
   },
   {
     "name": "Fathom USD",
@@ -21,7 +21,7 @@
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 50,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x49d3f7543335cf38Fa10889CCFF10207e22110B5/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/xinfin/0x49d3f7543335cf38Fa10889CCFF10207e22110B5/logo.png"
   },
   {
     "name": "FTHM",
@@ -29,6 +29,6 @@
     "symbol": "FTHM",
     "decimals": 18,
     "chainId": 50,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/xinfin/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png"
   }
 ]

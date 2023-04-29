@@ -5,7 +5,7 @@
     "symbol": "FTHM",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/apothem/assets/0x764687eA66dCaf68Fb5246C29739221cfef3Bb46/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/apothem/assets/0x764687eA66dCaf68Fb5246C29739221cfef3Bb46/logo.png"
   },
   {
     "name": "FXD",
@@ -13,7 +13,7 @@
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 51,
-    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/apothem/assets/0xa585BF9418C6Aca0a46d308Cea3b2EC85046C88F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/apothem/assets/0xa585BF9418C6Aca0a46d308Cea3b2EC85046C88F/logo.png"
   },
   {
     "name": "US+",
