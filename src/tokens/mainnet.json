@@ -1947,5 +1947,13 @@
     "symbol": "cbETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
+    "name": "Prime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222"
   }
 ]
