@@ -1950,6 +1950,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725"
+  },
+  {
+    "chainId": 1,
     "address": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
     "name": "Prime",
     "symbol": "PRIME",
