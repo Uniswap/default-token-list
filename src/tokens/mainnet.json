@@ -1947,5 +1947,13 @@
     "symbol": "cbETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725"
   }
 ]
