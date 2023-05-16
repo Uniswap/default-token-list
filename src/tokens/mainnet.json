@@ -1467,7 +1467,14 @@
     "name": "Binance USD",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766"
+    "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
@@ -1948,5 +1955,21 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164"
+  {
+  },
+    "chainId": 1,
+    "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1682922725"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb23d80f5FefcDDaa212212F028021B41DEd428CF",
+    "name": "Prime",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222"
   }
 ]
