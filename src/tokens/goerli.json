@@ -1,18 +1,30 @@
 [
   {
-    "name": "Wrapped Ether",
-    "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-    "symbol": "WETH",
+    "name": "Tent",
+    "address": "0x47f21f6f961891A80cFd84DF7F9c88B5745BFbBB",
+    "symbol": "TEN",
     "decimals": 18,
-    "chainId": 5,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+    "chainId": 5
   },
   {
-    "name": "Uniswap",
-    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
-    "symbol": "UNI",
+    "name": "pigtail",
+    "address": "0x75f902C06AC93C344C5569Bc2Ad46ce308fBC5E7",
+    "symbol": "PIG",
     "decimals": 18,
-    "chainId": 5,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    "chainId": 5
+  },
+  {
+    "name": "test listener",
+    "address": "0x644d76127ae1D83cc0d5c20011d5Af99Eb19914E",
+    "symbol": "TLST",
+    "decimals": 18,
+    "chainId": 5
+  },
+  {
+    "name": "test with uni",
+    "address": "0x7B6b3da6EFfCD993ddB30e9E599cd7A8D7511421",
+    "symbol": "TEST2",
+    "decimals": 18,
+    "chainId": 5
   }
 ]

@@ -1,10 +1,30 @@
 [
   {
     "chainId": 10,
-    "address": "0x4200000000000000000000000000000000000042",
-    "name": "Optimism",
-    "symbol": "OP",
-    "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png"
+    "address": "0xd13E13C43c476217813A8E250Ba5E5ACec86C50a",
+    "name": "Plasma Strategies",
+    "symbol": "PLA",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xc56DAa880BC5a3DA6029249e0E6f61d7c1FD3f0f",
+    "name": "pool n swap",
+    "symbol": "PLS",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0x1aa46c48894028819f3f7636FADfd71F3a8F106C",
+    "name": "defixplorer",
+    "symbol": "DFX",
+    "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xEfa4bDf566aE50537A507863612638680420645C",
+    "name": "alcyoneus",
+    "symbol": "ALC",
+    "decimals": 18
   }
 ]

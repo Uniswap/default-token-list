@@ -1,10 +1,30 @@
 [
   {
     "chainId": 56,
-    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-    "name": "Wrapped BNB",
-    "symbol": "WBNB",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+    "address": "0x130BB248C0BF22Fc246F17D7864776782155848D",
+    "name": "tangent",
+    "symbol": "TAN",
+    "decimals": 18
+  },
+  {
+    "chainId": 56,
+    "address": "0x3772aE4421C1e61De1209036AC9669226134BB3A",
+    "name": "propeller",
+    "symbol": "PRO",
+    "decimals": 18
+  },
+  {
+    "chainId": 56,
+    "address": "0xEfa4bDf566aE50537A507863612638680420645C",
+    "name": "alcyoneus",
+    "symbol": "ALC",
+    "decimals": 18
+  },
+  {
+    "chainId": 56,
+    "address": "0x1aa46c48894028819f3f7636FADfd71F3a8F106C",
+    "name": "defixplorer",
+    "symbol": "DFX",
+    "decimals": 18
   }
 ]
