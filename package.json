@@ -1,5 +1,5 @@
 {
-  "name": "@rigoblock/pool-list",
+  "name": "@rgbk/pool-list",
   "version": "1.0.0",
   "description": "The Rigoblock smart pool list",
   "main": "build/rigoblock.poollist.json",
