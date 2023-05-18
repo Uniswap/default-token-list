@@ -11,12 +11,12 @@ jobs:
       name: release
     steps:
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v3
 
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
         with:
-          node-version: "12"
+          node-version: "16"
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
@@ -36,11 +36,12 @@ jobs:
         id: upload
         uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
         with:
-          pin-name: Uniswap Default Token List
-          path: "build/uniswap-default.tokenlist.json"
+          pin-name: Rigoblock Pool List
+          path: "build/rigoblock.poollist.json"
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
 
+      # TODO: create new gateway for pool list
       - name: Update DNS with new IPFS hash
         env:
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}

@@ -1,32 +1,32 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "9.5.0",
-  "description": "The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "name": "@rigoblock/pool-list",
+  "version": "1.0.0",
+  "description": "The Rigoblock smart pool list",
+  "main": "build/rigoblock.poollist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/rigoblock.poollist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/rigoblock.poollist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Rigoblock/pool-list.git"
   },
   "keywords": [
-    "uniswap",
-    "default",
-    "token",
+    "rigoblock",
+    "smart",
+    "pool",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": ["Gabriele Rigo", "Moody Salem"],
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/Rigoblock/pool-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/Rigoblock/pool-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.29",

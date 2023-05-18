@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "chainId": 42161,
+    "address": "0x0Ec1b7c270dBDaa5D72A250566f9f320c1A92C77",
+    "name": "Bubba",
+    "symbol": "BBB",
+    "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf3121684d7291488685478836f384890D2589B50",
+    "name": "classe E",
+    "symbol": "NXTE",
+    "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0xEfa4bDf566aE50537A507863612638680420645C",
+    "name": "alcyoneus",
+    "symbol": "ALC",
+    "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1aa46c48894028819f3f7636FADfd71F3a8F106C",
+    "name": "defixplorer",
+    "symbol": "DFX",
+    "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc56DAa880BC5a3DA6029249e0E6f61d7c1FD3f0f",
+    "name": "pool n swap",
+    "symbol": "PLS",
+    "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0xFBA9E81030154d0815C7eD2E7c584ab98FB3119A",
+    "name": "andromeda",
+    "symbol": "AND",
+    "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0xeCdDaB58AABee63e69aeCCDf8908e74a29D5cf88",
+    "name": "arbitrageur",
+    "symbol": "ARB",
+    "decimals": 18
+  }
+]

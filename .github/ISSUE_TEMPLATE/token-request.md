@@ -1,22 +1,18 @@
 ---
-name: Token Request
-about: Request a token addition
-title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
-labels: token request
+name: Pool Request
+about: Request a smart pool addition
+title: 'Add {POOL_SYMBOL}: {POOL_NAME}'
+labels: pool request
 assignees: ''
 ---
 
-- [ ] I understand that token listing is not required to use the Uniswap Interface with a token.
-- [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the Uniswap default token list.
+- [ ] I understand that pool listing is not required to use the Rigoblock Interface with a pool.
+- [ ] I understand that filing an issue or minting pool does not guarantee addition to the Rigoblock pool list.
 - [ ] I will not ping the Discord about this listing request.
 
-**Please provide the following information for your token.**
+**Please provide the following information for your pool.**
 
-Token Address: 
-Token Name (from contract): 
-Token Decimals (from contract): 
-Token Symbol (from contract): 
-Uniswap V2 Pair Address of Token: 
-
-Link to the official homepage of token:
-Link to CoinMarketCap or CoinGecko page of token: 
+Pool Address:
+Pool Name (from contract):
+Pool Decimals (from contract):
+Pool Symbol (from contract):
