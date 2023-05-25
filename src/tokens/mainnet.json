@@ -1914,7 +1914,14 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg"
+    "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
