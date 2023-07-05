@@ -15,7 +15,20 @@ const avalanche = require("./tokens/avalanche.json");
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
-module.exports = function buildList() {
+function buildTokenMap(tokens) {
+  const tokenMap = {};
+  console.log('tokens length', tokens.length)
+  if (tokens && tokens.length > 0) {
+    tokens.forEach((token) => {
+      tokenMap[`${token.chainId}_${token.address}`] = token;
+    });
+  }
+  console.log('tokenMap', tokenMap)
+  console.log('tokenMap length', Object.keys(tokenMap).length)
+  return tokenMap;
+}
+
+async function buildList() {
   const parsed = version.split(".");
   const l1List = {
     name: "Uniswap Labs Default",
@@ -37,5 +50,12 @@ module.exports = function buildList() {
         return t1.chainId < t2.chainId ? -1 : 1;
       }),
   };
-  return bridgeUtils.chainify(l1List);
+  const chainifiedList = await bridgeUtils.chainify(l1List);
+  const tokenMap = buildTokenMap(chainifiedList.tokens);
+  chainifiedList['tokenMap'] = tokenMap;
+
+  return chainifiedList;
 };
+
+
+module.exports = buildList;

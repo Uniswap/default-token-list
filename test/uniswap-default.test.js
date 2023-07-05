@@ -64,6 +64,18 @@ describe('buildList', () => {
     }
   });
 
+  it('has token map object containing all tokens', () => {
+    expect(typeof defaultTokenList.tokenMap).to.equal('object');
+    for (let token of defaultTokenList.tokens) {
+      const tokenKey = `${token.chainId}_${token.address}`;
+      const tokenObject = defaultTokenList.tokenMap[tokenKey];
+      if (!tokenObject) {
+        console.log('missing key', tokenKey)
+      }
+      expect(typeof tokenObject).to.equal('object');
+    }
+  })
+
   it('version matches package.json', () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
     expect(packageJson.version).to.equal(`${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`);
