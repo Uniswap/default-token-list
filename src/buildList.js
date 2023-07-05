@@ -17,14 +17,11 @@ const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
 function buildTokenMap(tokens) {
   const tokenMap = {};
-  console.log('tokens length', tokens.length)
   if (tokens && tokens.length > 0) {
     tokens.forEach((token) => {
       tokenMap[`${token.chainId}_${token.address}`] = token;
     });
   }
-  console.log('tokenMap', tokenMap)
-  console.log('tokenMap length', Object.keys(tokenMap).length)
   return tokenMap;
 }
 

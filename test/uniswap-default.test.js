@@ -69,9 +69,6 @@ describe('buildList', () => {
     for (let token of defaultTokenList.tokens) {
       const tokenKey = `${token.chainId}_${token.address}`;
       const tokenObject = defaultTokenList.tokenMap[tokenKey];
-      if (!tokenObject) {
-        console.log('missing key', tokenKey)
-      }
       expect(typeof tokenObject).to.equal('object');
     }
   })
