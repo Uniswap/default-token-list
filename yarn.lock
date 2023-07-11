@@ -534,10 +534,9 @@
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
 
-"@uniswap/token-list-bridge-utils@^2.0.0":
+"@uniswap/token-list-bridge-utils@file:../../../../../tmp/uniswap-token-list-bridge-utils-v2.0.0.tgz":
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/token-list-bridge-utils/-/token-list-bridge-utils-2.0.0.tgz#786fd2c0c029ecf2ccb20d0c045787856d4fa8be"
-  integrity sha512-QF9Q7DWRO6UWWnMo8R5BQ4THqMHTWRLm9o/BzoPvWRc+8UQxNsR42znbK/iegNYEMEbOWWWwPRNinwN2d84Zjg==
+  resolved "file:../../../../../tmp/uniswap-token-list-bridge-utils-v2.0.0.tgz#24373aed74ea3f014fd1f1cdec2c091389d53618"
   dependencies:
     "@arbitrum/sdk" "^1.1.4"
     "@uniswap/sdk-core" "^3.0.1"
@@ -548,10 +547,10 @@
     prettier "^2.7.1"
     web3 "^1.7.3"
 
-"@uniswap/token-lists@^1.0.0-beta.29":
-  version "1.0.0-beta.29"
-  resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.29.tgz#7be3b62aeab84c710a153a115df3bb8480027684"
-  integrity sha512-b19mDY5G94GW9tKjvoNEbdApWM1GNahh5EFYs7LsBE7J3r7qNsJ6MqZYoPg73KS6GOrp8/2XdcSXRBUt6NHjZg==
+"@uniswap/token-lists@^1.0.0-beta.33":
+  version "1.0.0-beta.33"
+  resolved "https://registry.yarnpkg.com/@uniswap/token-lists/-/token-lists-1.0.0-beta.33.tgz#966ba96c9ccc8f0e9e09809890b438203f2b1911"
+  integrity sha512-JQkXcpRI3jFG8y3/CGC4TS8NkDgcxXaOQuYW8Qdvd6DcDiIyg2vVYCG9igFEzF0G6UvxgHkBKC7cWCgzZNYvQg==
 
 accepts@~1.3.8:
   version "1.3.8"
