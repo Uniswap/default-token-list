@@ -1,0 +1,10 @@
+[
+    {
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 84531,
+      "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png"
+    }
+  ]
