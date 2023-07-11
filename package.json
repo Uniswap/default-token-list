@@ -1,32 +1,32 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "11.2.0",
-  "description": "The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "name": "@berachain/default-token-list",
+  "version": "0.0.1",
+  "description": "The Berachain default token list",
+  "main": "build/berachain-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/berachain-default.tokenlist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [
-    "build/uniswap-default.tokenlist.json"
+    "build/berachain-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
+    "url": "git+https://github.com/Berachain/default-token-list.git"
   },
   "keywords": [
-    "uniswap",
+    "berachain",
     "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "reeeee",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+    "url": "https://github.com/Berachain/default-token-list/issues"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "homepage": "https://github.com/Berachain/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.29",
