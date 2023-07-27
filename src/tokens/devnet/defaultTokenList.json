@@ -18,7 +18,7 @@
         "symbol": "WBERA",
         "name": "Wrapped Bera",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/tree/main/src/assets/bera.png",
+        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
         "tags": []
       },
       {
@@ -38,7 +38,7 @@
         "symbol": "WBERA",
         "name": "Wrapped Bera",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/tree/main/src/assets/bera.png",
+        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
         "tags": []
       },
       "2061_0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95":  {
