@@ -167,6 +167,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
   },
   {
+    "name": "Ducks",
+    "address": "0xF60E413CBcA3D206875601074ae2A3D68A6D174d",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://i.imgur.com/Su3rLrc.png"
+  },
+  {
     "chainId": 1,
     "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
     "name": "yearn finance",
