@@ -11,6 +11,26 @@
       }
     },
     "timestamp": "2020-06-12T00:00:00+00:00",
+    "featuredTokens": [
+      {
+        "chainId": 2061,
+        "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
+        "symbol": "WBERA",
+        "name": "Wrapped Bera",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+        "tags": []
+      },
+      {
+        "chainId": 2061,
+        "address": "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95",
+        "symbol": "DEEZ",
+        "name": "Deez Nuts",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
+        "tags": []
+      }
+    ],
     "tokens": [
       {
         "chainId": 2061,
