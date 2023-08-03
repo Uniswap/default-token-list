@@ -1,79 +1,99 @@
 {
-    "name": "Devnet Default Token List",
-    "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-    "keywords": [
-      "devnet"
-    ],
-    "tags": {
-      "stablecoin": {
-        "name": "Stablecoin",
-        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
-      }
+  "name": "Devnet Default Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": ["devnet"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
     },
-    "timestamp": "2020-06-12T00:00:00+00:00",
-    "featuredTokens": [
-      {
-        "chainId": 2061,
-        "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
-        "symbol": "WBERA",
-        "name": "Wrapped Bera",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
-        "tags": []
-      },
-      {
-        "chainId": 2061,
-        "address": "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95",
-        "symbol": "DEEZ",
-        "name": "Deez Nuts",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
-        "tags": []
-      }
-    ],
-    "tokens": [
-      {
-        "chainId": 2061,
-        "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
-        "symbol": "WBERA",
-        "name": "Wrapped Bera",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
-        "tags": []
-      },
-      {
-        "chainId": 2061,
-        "address": "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95",
-        "symbol": "DEEZ",
-        "name": "Deez Nuts",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
-        "tags": []
-      }
-    ],
-    "tokenMap": {
-      "2061_0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd": {
-        "chainId": 2061,
-        "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
-        "symbol": "WBERA",
-        "name": "Wrapped Bera",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
-        "tags": []
-      },
-      "2061_0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95":  {
-        "chainId": 2061,
-        "address": "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95",
-        "symbol": "DEEZ",
-        "name": "Deez Nuts",
-        "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
-        "tags": []
-      }
-    }, 
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
+    "collateral": {
+      "name": "Collateral",
+      "description": "Tokens that are used to mint Honey"
     }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "featuredTokens": [
+    {
+      "chainId": 2061,
+      "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
+      "symbol": "WBERA",
+      "name": "Wrapped Bera",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "tags": []
+    },
+    {
+      "chainId": 2061,
+      "address": "0xa85579e75a7ba99d00cce02441a5e21661b63a98",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["stablecoin"]
+    }
+  ],
+  "tokens": [
+    {
+      "chainId": 2061,
+      "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
+      "symbol": "WBERA",
+      "name": "Wrapped Bera",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "tags": []
+    },
+    {
+      "chainId": 2061,
+      "address": "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95",
+      "symbol": "DEEZ",
+      "name": "Deez Nuts",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
+      "tags": []
+    },
+    {
+      "chainId": 2061,
+      "address": "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4",
+      "symbol": "STGUSDC",
+      "name": "Stable Collateral USD Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "tags": ["stablecoin", "collateral"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0xa85579e75a7ba99d00cce02441a5e21661b63a98",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["stablecoin"]
+    }
+  ],
+  "tokenMap": {
+    "2061_0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd": {
+      "chainId": 2061,
+      "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
+      "symbol": "WBERA",
+      "name": "Wrapped Bera",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "tags": []
+    },
+    "2061_0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95": {
+      "chainId": 2061,
+      "address": "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95",
+      "symbol": "DEEZ",
+      "name": "Deez Nuts",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
+      "tags": []
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
+}
