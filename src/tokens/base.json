@@ -1,0 +1,50 @@
+[
+    {
+        "chainId": 8453,
+        "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+        "name": "USD Base Coin",
+        "symbol": "USDbC",
+        "decimals": 6,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+        "name": "Coinbase Wrapped Staked ETH",
+        "symbol": "cbETH",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/WETH/logo.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "name": "Compound",
+        "symbol": "COMP",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/COMP/logo.svg"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+        "name": "0x Protocol Token",
+        "symbol": "ZRX",
+        "decimals": 18,
+        "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
+    }
+]
