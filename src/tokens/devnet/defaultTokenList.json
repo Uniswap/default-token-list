@@ -17,26 +17,6 @@
     }
   },
   "timestamp": "2020-06-12T00:00:00+00:00",
-  "featuredTokens": [
-    {
-      "chainId": 2061,
-      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
-      "symbol": "WBERA",
-      "name": "Wrapped Bera",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
-      "tags": ["featured"]
-    },
-    {
-      "chainId": 2061,
-      "address": "0xa85579e75a7ba99d00cce02441a5e21661b63a98",
-      "symbol": "HONEY",
-      "name": "Honey",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
-      "tags": ["stablecoin", "featured"]
-    }
-  ],
   "tokens": [
     {
       "chainId": 2061,
@@ -63,7 +43,7 @@
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "tags": ["stablecoin", "collateral"]
+      "tags": ["stablecoin", "collateral", "featured"]
     },
     {
       "chainId": 2061,
@@ -72,27 +52,45 @@
       "name": "Honey",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
-      "tags": ["stablecoin"]
+      "tags": ["stablecoin", "featured"]
     }
   ],
   "tokenMap": {
-    "2061_0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd": {
+    "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd": {
       "chainId": 2061,
-      "address": "0x9AaDD801144A825B1Dc45fb110DeB96F3E6CdAfd",
+      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
       "symbol": "WBERA",
       "name": "Wrapped Bera",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
-      "tags": []
+      "tags": ["featured"]
     },
-    "2061_0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95": {
+    "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95": {
       "chainId": 2061,
-      "address": "0xA51fc80a8Ec5Cd9181F8917D74D11Bd2c95e4F95",
+      "address": "0x124363b6D0866118A8b6899F2674856618E0Ea4c",
       "symbol": "DEEZ",
       "name": "Deez Nuts",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
       "tags": []
+    },
+    "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4": {
+      "chainId": 2061,
+      "address": "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4",
+      "symbol": "STGUSDC",
+      "name": "Stable Collateral USD Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "tags": ["stablecoin", "collateral", "featured"]
+    },
+    "0xa85579e75a7ba99d00cce02441a5e21661b63a98": {
+      "chainId": 2061,
+      "address": "0xa85579e75a7ba99d00cce02441a5e21661b63a98",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["stablecoin", "featured"]
     }
   },
   "version": {
