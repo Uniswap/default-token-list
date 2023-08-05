@@ -1977,5 +1977,20 @@
     "symbol": "PRIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222"
+  },
+  {
+    "chainId": 1,
+    "address": "0x163f8C2467924be0ae7B5347228CABF260318753",
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/13502.png",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1"
+        }
+      }
+    }
   }
 ]
