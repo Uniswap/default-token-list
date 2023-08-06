@@ -1977,5 +1977,13 @@
     "symbol": "PRIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
+    "name": "Across",
+    "symbol": "ACX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28161/small/across-200x200.png?1668168201"
   }
 ]
