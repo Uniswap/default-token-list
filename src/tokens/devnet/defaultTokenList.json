@@ -34,7 +34,7 @@
       "name": "EVMOS",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/24023/small/evmos.png?1653958927",
-      "tags": []
+      "tags": ["featured"]
     },
     {
       "chainId": 2061,
@@ -71,8 +71,8 @@
       "symbol": "EVMOS",
       "name": "EVMOS",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15967/small/deeznuts200x200.png?1622520597",
-      "tags": []
+      "logoURI": "https://assets.coingecko.com/coins/images/24023/small/evmos.png?1653958927",
+      "tags": ["featured"]
     },
     "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4": {
       "chainId": 2061,
