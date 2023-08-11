@@ -20,7 +20,7 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
+      "address": "0x459C653FaAE6E13b59cf8E005F5f709C7b2c2EB4",
       "symbol": "WBERA",
       "name": "Wrapped Bera",
       "decimals": 18,
@@ -29,7 +29,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x124363b6D0866118A8b6899F2674856618E0Ea4c",
+      "address": "0x5793a71D3eF074f71dCC21216Dbfd5C0e780132c",
       "symbol": "DEEZ",
       "name": "Deez Nuts",
       "decimals": 18,
@@ -65,18 +65,18 @@
     }  
   ],
   "tokenMap": {
-    "0x5C59C83c099F72FcE832208f96a23a1E43737a14": {
+    "0x459C653FaAE6E13b59cf8E005F5f709C7b2c2EB4": {
       "chainId": 2061,
-      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
+      "address": "0x459C653FaAE6E13b59cf8E005F5f709C7b2c2EB4",
       "symbol": "WBERA",
       "name": "Wrapped Bera",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
-    "0x124363b6D0866118A8b6899F2674856618E0Ea4c": {
+    "0x5793a71D3eF074f71dCC21216Dbfd5C0e780132c": {
       "chainId": 2061,
-      "address": "0x124363b6D0866118A8b6899F2674856618E0Ea4c",
+      "address": "0x5793a71D3eF074f71dCC21216Dbfd5C0e780132c",
       "symbol": "DEEZ",
       "name": "Deez Nuts",
       "decimals": 18,
@@ -100,15 +100,6 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
-    },
-    "0x0422409A87E116bB59f317B4A9e3e87a09E3D8Cc": {
-      "chainId": 2061,
-      "address": "0x0422409A87E116bB59f317B4A9e3e87a09E3D8Cc",
-      "symbol": "EVMOS",
-      "name": "EVMOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24023/small/evmos.png?1653958927",
-      "tags": ["featured"]
     }
   },
   "version": {
