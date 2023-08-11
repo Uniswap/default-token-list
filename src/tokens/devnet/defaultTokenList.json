@@ -29,7 +29,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x124363b6D0866118A8b6899F2674856618E0Ea4c",
+      "address": "0x5793a71D3eF074f71dCC21216Dbfd5C0e780132c",
       "symbol": "DEEZ",
       "name": "Deez Nuts",
       "decimals": 18,
@@ -74,7 +74,7 @@
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
-    "0x124363b6D0866118A8b6899F2674856618E0Ea4c": {
+    "0x5793a71D3eF074f71dCC21216Dbfd5C0e780132c": {
       "chainId": 2061,
       "address": "0x5793a71D3eF074f71dCC21216Dbfd5C0e780132c",
       "symbol": "DEEZ",
