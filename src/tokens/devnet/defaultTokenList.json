@@ -1,3 +1,4 @@
+
 {
   "name": "Devnet Default Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
@@ -20,20 +21,11 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0x3ec00748B5849013011618D42Ed7F3024736E2b5",
-      "symbol": "WBERA",
-      "name": "Wrapped Bera",
+      "address": "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929",
+      "symbol": "ABERA",
+      "name": "atto bera",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
-      "tags": ["featured"]
-    },
-    {
-      "chainId": 2061,
-      "address": "0x0EFa8dc7BbAf439095fc690b723c242c3CA36BB1",
-      "symbol": "EVMOS",
-      "name": "EVMOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24023/small/evmos.png?1653958927",
       "tags": ["featured"]
     },
     {
@@ -56,22 +48,13 @@
     }
   ],
   "tokenMap": {
-    "0x3ec00748B5849013011618D42Ed7F3024736E2b5": {
+    "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929": {
       "chainId": 2061,
-      "address": "0x3ec00748B5849013011618D42Ed7F3024736E2b5",
-      "symbol": "WBERA",
-      "name": "Wrapped Bera",
+      "address": "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929",
+      "symbol": "ABERA",
+      "name": "atto bera",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
-      "tags": ["featured"]
-    },
-    "0x0EFa8dc7BbAf439095fc690b723c242c3CA36BB1": {
-      "chainId": 2061,
-      "address": "0x0EFa8dc7BbAf439095fc690b723c242c3CA36BB1",
-      "symbol": "EVMOS",
-      "name": "EVMOS",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24023/small/evmos.png?1653958927",
       "tags": ["featured"]
     },
     "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4": {
