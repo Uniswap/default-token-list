@@ -1,0 +1,16 @@
+[
+  {
+    "chainId": 8453,
+    "address": "0x1aa46c48894028819f3f7636FADfd71F3a8F106C",
+    "name": "defixplorer",
+    "symbol": "DFX",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xEfa4bDf566aE50537A507863612638680420645C",
+    "name": "alcyoneus",
+    "symbol": "ALC",
+    "decimals": 18
+  }
+]
