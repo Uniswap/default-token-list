@@ -5,6 +5,7 @@ const polygon = require("./tokens/polygon.json");
 const optimism = require("./tokens/optimism.json");
 const arbitrum = require("./tokens/arbitrum.json");
 const bnb = require("./tokens/bnb.json");
+const base = require("./tokens/base.json");
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
@@ -21,7 +22,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["rigoblock", "smart pools"],
-    tokens: [...mainnet, ...goerli, ...polygon, ...optimism, ...arbitrum, ...bnb]
+    tokens: [...mainnet, ...goerli, ...polygon, ...optimism, ...arbitrum, ...bnb, ...base]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
