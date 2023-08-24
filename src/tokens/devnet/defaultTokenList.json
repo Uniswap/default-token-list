@@ -17,7 +17,7 @@
       "description": "Tokens that are featured"
     }
   },
-  "timestamp": "2020-06-12T00:00:00+00:00",
+
   "tokens": [
     {
       "chainId": 2061,
@@ -74,6 +74,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
+    }
+  },
+  "gaugeMap": {
+    "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929": {
+      "address": "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929",
+      "name": "BERA-HONEY",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "tokens": [
+        "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929",
+        "0xa85579e75a7ba99d00cce02441a5e21661b63a98"
+      ]
     }
   },
   "version": {
