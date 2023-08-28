@@ -30,7 +30,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4",
+      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
@@ -57,9 +57,9 @@
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
-    "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4": {
+    "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4": {
       "chainId": 2061,
-      "address": "0x1d0f659ff50d1830e449dd88e533cb11fb7a25e4",
+      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
@@ -86,8 +86,8 @@
         "0xa85579e75a7ba99d00cce02441a5e21661b63a98"
       ]
     },
-    "0x0000746573745F5f5f5f5f726563656976657231": {
-      "address":"0x0000746573745F5f5f5f5f726563656976657231",
+    "0x0000746573745F5F5F5F5f726563656976657231": {
+      "address":"0x0000746573745F5F5F5F5f726563656976657231",
       "name": "DEFAULT GAUGE 2",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tokens": [
