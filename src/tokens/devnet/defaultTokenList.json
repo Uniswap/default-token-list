@@ -12,6 +12,10 @@
       "name": "Collateral",
       "description": "Tokens that are used to mint Honey"
     },
+    "defaultCollateral": {
+      "name": "Default Collateral",
+      "description": "default token used in Honey"
+    },
     "featured": {
       "name": "Featured",
       "description": "Tokens that are featured"
@@ -35,7 +39,7 @@
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "tags": ["stablecoin", "collateral", "featured"]
+      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
     },
     {
       "chainId": 2061,
