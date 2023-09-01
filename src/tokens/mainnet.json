@@ -48,5 +48,12 @@
     "symbol": "LCA",
     "decimals": 18,
     "chainId": 1
+  },
+  {
+    "name": "BANANARAMA",
+    "address": "0xc05928AFA45086410823AD42F75FD592471ac605",
+    "symbol": "BNR",
+    "decimals": 18,
+    "chainId": 1
   }
 ]
