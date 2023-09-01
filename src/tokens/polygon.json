@@ -12,5 +12,12 @@
     "symbol": "WISE",
     "decimals": 18,
     "chainId": 137
+  },
+  {
+    "name": "nunzio",
+    "address": "0x54c8DbA018CCc1d0D64631c512CC689e21A30D0f",
+    "symbol": "NUN",
+    "decimals": 18,
+    "chainId": 137
   }
 ]
