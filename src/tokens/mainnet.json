@@ -1977,5 +1977,13 @@
     "symbol": "PRIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314"
   }
 ]
