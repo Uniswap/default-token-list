@@ -29,6 +29,15 @@
       "symbol": "ABERA",
       "name": "atto bera",
       "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BERA",
+      "name": "Berachain Token",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
