@@ -93,12 +93,12 @@
     "0x0000746573745F5f5f5f5f726563656976657232": {
       "address":"0x0000746573745F5f5f5f5f726563656976657232",
       "name": "DEFAULT GAUGE 1",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
     },
     "0x0000746573745F5F5F5F5f726563656976657231": {
       "address":"0x0000746573745F5F5F5F5f726563656976657231",
       "name": "DEFAULT GAUGE 2",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
     }
   },
   "version": {
