@@ -61,9 +61,9 @@
     }
   ],
   "tokenMap": {
-    "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929": {
+    "0xc70c2FD8f8E3DBbb6f73502C70952f115Bb93929": {
       "chainId": 2061,
-      "address": "0xc70c2fd8f8e3dbbb6f73502c70952f115bb93929",
+      "address": "0xc70c2FD8f8E3DBbb6f73502C70952f115Bb93929",
       "symbol": "ABERA",
       "name": "atto bera",
       "decimals": 18,
