@@ -25,9 +25,9 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0xc70c2FD8f8E3DBbb6f73502C70952f115Bb93929",
-      "symbol": "ABERA",
-      "name": "atto bera",
+      "address": "0xC043e33F042aE27A6AAAA8f5c9D1b4447888da0B",
+      "symbol": "WBERA",
+      "name": "Wrapped Berachain Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png",
       "tags": ["featured"]
@@ -61,11 +61,11 @@
     }
   ],
   "tokenMap": {
-    "0xc70c2FD8f8E3DBbb6f73502C70952f115Bb93929": {
+    "0xC043e33F042aE27A6AAAA8f5c9D1b4447888da0B": {
       "chainId": 2061,
-      "address": "0xc70c2FD8f8E3DBbb6f73502C70952f115Bb93929",
-      "symbol": "ABERA",
-      "name": "atto bera",
+      "address": "0xC043e33F042aE27A6AAAA8f5c9D1b4447888da0B",
+      "symbol": "WBERA",
+      "name": "Wrapped Berachain Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
