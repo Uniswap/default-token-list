@@ -286,5 +286,45 @@
     "symbol": "VOXEL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21260/large/voxies.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x48777A9ff1B703d3d29EDd6E4DC0DcfcFa0533e5",
+    "name": "MOSH Token",
+    "symbol": "MOSH",
+    "decimals": 18,
+    "logoURI": "https://tokens-assets.prod.p00ls.io/MOSH/token.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xa057521169c9c10aae0e2036b586cf68ff8241c5",
+    "name": "KURO Token",
+    "symbol": "KURO",
+    "decimals": 18,
+    "logoURI": "https://tokens-assets.prod.p00ls.io/KURO/token.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3881c079958cc8c89543c1199de7b714e26a9cf7",
+    "name": "POOR Token",
+    "symbol": "POOR",
+    "decimals": 18,
+    "logoURI": "https://tokens-assets.prod.p00ls.io/POOR/token.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x3223af86fcf0d2c7deacd8fa7702e387ae996620",
+    "name": "SHELLZ Token",
+    "symbol": "SHELLZ",
+    "decimals": 18,
+    "logoURI": "https://tokens-assets.prod.p00ls.io/SHELLZ/token.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x004fd37b5797158495c07d062d82969dcf3482c6",
+    "name": "00 Token",
+    "symbol": "00",
+    "decimals": 18,
+    "logoURI": "https://tokens-assets.prod.p00ls.io/00/token.png"
   }
 ]
