@@ -52,7 +52,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x3a995543a9c6a9c5fe56d2d9024195ae7f3373e8",
+      "address": "0x3a995543A9c6a9c5FE56d2d9024195aE7f3373e8",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -79,9 +79,9 @@
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "tags": ["stablecoin", "collateral", "featured"]
     },
-    "0x3a995543a9c6a9c5fe56d2d9024195ae7f3373e8": {
+    "0x3a995543A9c6a9c5FE56d2d9024195aE7f3373e8": {
       "chainId": 2061,
-      "address": "0x3a995543a9c6a9c5fe56d2d9024195ae7f3373e8",
+      "address": "0x3a995543A9c6a9c5FE56d2d9024195aE7f3373e8",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
