@@ -1985,5 +1985,45 @@
     "symbol": "PYUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314"
+  },
+  {
+    "chainId": 1,
+    "address": "0x53805A76E1f5ebbFE7115F16f9c87C2f7e633726",
+    "name": "Fractional ETH",
+    "symbol": "fETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32166/large/0x53805a76e1f5ebbfe7115f16f9c87c2f7e633726.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe063f04f280c60aeca68b38341c2eecbec703ae2",
+    "name": "Leveraged ETH",
+    "symbol": "xETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32165/large/0xe063f04f280c60aeca68b38341c2eecbec703ae2.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x365accfca291e7d3914637abf1f7635db165bb09",
+    "name": "FXN Token",
+    "symbol": "FXN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31889/large/FXN_200x200.png?1696530700"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72953a5C32413614d24C29c84a66AE4B59581Bbf",
+    "name": "CLever Token",
+    "symbol": "CLEV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/ff4ca843c55becff45e23278ef05b116c5e287ef/images/assets/0x72953a5c32413614d24c29c84a66ae4b59581bbf.svg"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb3Ad645dB386D7F6D753B2b9C3F4B853DA6890B8",
+    "name": "Concentrator Token",
+    "symbol": "CTR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/AladdinDAO/aladdin-assets/main/images/assets/0xb3ad645db386d7f6d753b2b9c3f4b853da6890b8.png"
   }
 ]
