@@ -1885,9 +1885,9 @@
   },
   {
     "chainId": 1,
-    "name": "Chain",
+    "name": "Onyx Protocol",
     "symbol": "XCN",
-    "logoURI": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
+    "logoURI": "https://assets.coingecko.com/coins/images/24210/thumb/onyxlogo.jpg",
     "address": "0xA2cd3D43c775978A96BdBf12d733D5A1ED94fb18",
     "decimals": 18
   },
