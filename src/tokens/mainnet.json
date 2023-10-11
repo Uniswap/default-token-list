@@ -1985,5 +1985,13 @@
     "symbol": "PYUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
+    "name": "CELO Native Asset",
+    "symbol": "CELO",
+    "decimals": 18,
+    "logoURI": "https://github.com/wormhole-foundation/wormhole-token-list/blob/main/assets/celo_wh.png"
   }
 ]
