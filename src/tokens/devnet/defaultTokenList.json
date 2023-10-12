@@ -43,6 +43,15 @@
     },
     {
       "chainId": 2061,
+      "address": "0x0000000000000000000000000000000000000001",
+      "symbol": "BGT",
+      "name": "Bera Governance Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bgt.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
       "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
