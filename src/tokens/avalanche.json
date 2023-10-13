@@ -38,5 +38,13 @@
       "symbol": "GMX",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+      "name": "Euro Coin",
+      "symbol": "EURC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125"
     }
   ]

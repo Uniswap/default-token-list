@@ -1992,6 +1992,45 @@
     "name": "CELO Native Asset",
     "symbol": "CELO",
     "decimals": 18,
-    "logoURI": "https://github.com/wormhole-foundation/wormhole-token-list/blob/main/assets/celo_wh.png"
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "name": "agEur",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4"
+        },
+        "42161": {
+          "tokenAddress": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7"
+        },
+        "43114": {
+          "tokenAddress": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57"
+        },
+        "56": {
+          "tokenAddress": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/12832/standard/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xDC3326e71D45186F113a2F448984CA0e8D201995"
+        }
+      }
+    }
   }
 ]
