@@ -46,5 +46,13 @@
         "symbol": "ZRX",
         "decimals": 18,
         "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
     }
 ]

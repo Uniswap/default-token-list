@@ -286,5 +286,21 @@
     "symbol": "VOXEL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/21260/large/voxies.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+    "name": "agEur",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915"
+  },
+  {
+    "chainId": 137,
+    "address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/12832/standard/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623"
   }
 ]
