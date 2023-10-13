@@ -40,7 +40,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
     },
     {
-      "chainId": 56,
+      "chainId": 43114,
       "address": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57",
       "name": "agEur",
       "symbol": "agEUR",
@@ -48,7 +48,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915"
     },
     {
-      "chainId": 56,
+      "chainId": 43114,
       "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
       "name": "Euro Coin",
       "symbol": "EURC",
