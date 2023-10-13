@@ -6,13 +6,5 @@
     "symbol": "WBNB",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
-  },
-  {
-    "chainId": 56,
-    "address": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89",
-    "name": "agEur",
-    "symbol": "agEUR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915"
   }
 ]
