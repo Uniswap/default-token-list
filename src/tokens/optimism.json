@@ -14,5 +14,13 @@
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+    "name": "USDCoin (Bridged from Ethereum)",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
   }
 ]
