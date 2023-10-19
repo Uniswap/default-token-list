@@ -2032,5 +2032,13 @@
         }
       }
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
+    "name": "Big Time",
+    "symbol": "BIGTIME",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png"
   }
 ]
