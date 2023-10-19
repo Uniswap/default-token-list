@@ -25,7 +25,7 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0xfb692E8B0638C9e1E165d751355B0b4Ac04A5b03",
+      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
@@ -61,7 +61,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x3a995543A9c6a9c5FE56d2d9024195aE7f3373e8",
+      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -70,9 +70,9 @@
     }
   ],
   "tokenMap": {
-    "0xfb692E8B0638C9e1E165d751355B0b4Ac04A5b03": {
+    "0x5806E416dA447b267cEA759358cF22Cc41FAE80F": {
       "chainId": 2061,
-      "address": "0xfb692E8B0638C9e1E165d751355B0b4Ac04A5b03",
+      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
@@ -88,9 +88,9 @@
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "tags": ["stablecoin", "collateral", "featured"]
     },
-    "0x3a995543A9c6a9c5FE56d2d9024195aE7f3373e8": {
+    "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B": {
       "chainId": 2061,
-      "address": "0x3a995543A9c6a9c5FE56d2d9024195aE7f3373e8",
+      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
