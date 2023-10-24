@@ -2040,5 +2040,13 @@
     "symbol": "BIGTIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1",
+    "name": "Beefy",
+    "symbol": "BIFI",
+    "decimals": 18,
+    "logoURI": "https://beefy.com/icons/32/BIFI.png"
   }
 ]
