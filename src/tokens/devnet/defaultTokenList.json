@@ -1,4 +1,3 @@
-
 {
   "name": "Devnet Default Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
@@ -67,6 +66,24 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x3D9cFB282B6D3Bb66eD73248b55efec7809f15d1",
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0xc134bD6B702FD961366E61a4AC1Dd2395B6336C7",
+      "symbol": "WETH",
+      "name": "Wrapped Ethereum",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+      "tags": ["featured"]
     }
   ],
   "tokenMap": {
@@ -96,16 +113,34 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
+    },
+    "0x3D9cFB282B6D3Bb66eD73248b55efec7809f15d1": {
+      "chainId": 2061,
+      "address": "0x3D9cFB282B6D3Bb66eD73248b55efec7809f15d1",
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+      "tags": ["featured"]
+    },
+    "0xc134bD6B702FD961366E61a4AC1Dd2395B6336C7": {
+      "chainId": 2061,
+      "address": "0xc134bD6B702FD961366E61a4AC1Dd2395B6336C7",
+      "symbol": "WETH",
+      "name": "Wrapped Ethereum",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+      "tags": ["featured"]
     }
   },
   "gaugeMap": {
     "0x0000746573745F5f5f5f5f726563656976657232": {
-      "address":"0x0000746573745F5f5f5f5f726563656976657232",
+      "address": "0x0000746573745F5f5f5f5f726563656976657232",
       "name": "DEFAULT GAUGE 1",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
     },
     "0x0000746573745F5F5F5F5f726563656976657231": {
-      "address":"0x0000746573745F5F5F5F5f726563656976657231",
+      "address": "0x0000746573745F5F5F5F5f726563656976657231",
       "name": "DEFAULT GAUGE 2",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
     }
