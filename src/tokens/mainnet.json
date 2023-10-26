@@ -2042,3 +2042,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
   }
 ]
+{
+  "chainId": 1,
+"address": "F6ZyzgtCU37NgFGTKYfdBy7BKwzxNZVBDkB68v9Qp1ch",
+"name": "CrazyCoin",
+"symbol": "Crazy",
+"decimals": 9,
+"logoURI": "https://raw.githubusercontent.com/Ob1iviou5/CrazyCoin/main/logo.png"
+  },
+}
