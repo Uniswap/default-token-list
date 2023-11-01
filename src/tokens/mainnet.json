@@ -2040,5 +2040,20 @@
     "symbol": "BIGTIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
+  },
+  {
+    "chainId": 1,
+    "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logoURI": "https://ipfs.io/ipfs/QmaKRLxXPdeTsLx7MFLS3CJbhpSbResgoeL4fCgHB1mTsF",
+    "extensions": {
+      "bridgeInfo": {
+        "56": {
+          "tokenAddress": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce"
+        }
+      }
+    }
   }
 ]
