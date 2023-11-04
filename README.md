@@ -15,3 +15,9 @@ To request that we add a pool to the list,
 Note filing an issue does not guarantee addition to this pool list.
 We do not review pool addition requests in any particular order, and we do not
 guarantee that we will review your request to add the pool to the list.
+
+### Notice
+The automatic deployment script requires a specific bump version:
+- patch for modifications to existing tokens
+- minor for additions of new tokens
+- major for removal of tokens
