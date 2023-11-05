@@ -143,6 +143,16 @@
       "address": "0x0000746573745F5F5F5F5f726563656976657231",
       "name": "DEFAULT GAUGE 2",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+    },
+    "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8": {
+      "address": "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8",
+      "name": "BERPS GAUGE",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+    },
+    "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434": {
+      "address": "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434",
+      "name": "Honey-USDC Gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     }
   },
   "version": {
