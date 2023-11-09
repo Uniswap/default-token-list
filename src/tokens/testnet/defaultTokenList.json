@@ -1,0 +1,118 @@
+
+{
+  "name": "Devnet Default Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": ["devnet"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "collateral": {
+      "name": "Collateral",
+      "description": "Tokens that are used to mint Honey"
+    },
+    "defaultCollateral": {
+      "name": "Default Collateral",
+      "description": "default token used in Honey"
+    },
+    "featured": {
+      "name": "Featured",
+      "description": "Tokens that are featured"
+    }
+  },
+
+  "tokens": [
+    {
+      "chainId": 2061,
+      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
+      "symbol": "WBERA",
+      "name": "Wrapped Berachain Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BERA",
+      "name": "Berachain Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x0000000000000000000000000000000000000001",
+      "symbol": "BGT",
+      "name": "Bera Governance Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bgt.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
+      "symbol": "STGUSDC",
+      "name": "Stable Collateral USD Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["stablecoin", "featured"]
+    }
+  ],
+  "tokenMap": {
+    "0x5806E416dA447b267cEA759358cF22Cc41FAE80F": {
+      "chainId": 2061,
+      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
+      "symbol": "WBERA",
+      "name": "Wrapped Berachain Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "tags": ["featured"]
+    },
+    "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4": {
+      "chainId": 2061,
+      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
+      "symbol": "STGUSDC",
+      "name": "Stable Collateral USD Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "tags": ["stablecoin", "collateral", "featured"]
+    },
+    "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B": {
+      "chainId": 2061,
+      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["stablecoin", "featured"]
+    }
+  },
+  "gaugeMap": {
+    "0x0000746573745F5f5f5f5f726563656976657232": {
+      "address":"0x0000746573745F5f5f5f5f726563656976657232",
+      "name": "DEFAULT GAUGE 1",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+    },
+    "0x0000746573745F5F5F5F5f726563656976657231": {
+      "address":"0x0000746573745F5F5F5F5f726563656976657231",
+      "name": "DEFAULT GAUGE 2",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
