@@ -1989,10 +1989,20 @@
   {
     "chainId": 1,
     "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
-    "name": "CELO Native Asset",
+    "name": "Celo native asset (Wormhole)",
     "symbol": "CELO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png"
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349"
+        },
+        "42161": {
+          "tokenAddress": "0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
