@@ -69,7 +69,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0xE33351004d427262341859aC164a8e4C617A3f80",
+      "address": "0x47a02487463fCb41F72a750a20FE58f34e3ee371",
       "symbol": "WBTC",
       "name": "Wrapped Bitcoin",
       "decimals": 8,
@@ -78,7 +78,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x6da63c0D9b4AfeA7506312c05273D434D5AFf0c7",
+      "address": "0x76a676420b0C710F9d96dbd6ebfc735f23F6Bf25",
       "symbol": "WETH",
       "name": "Wrapped Ethereum",
       "decimals": 18,
@@ -114,18 +114,18 @@
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     },
-    "0xE33351004d427262341859aC164a8e4C617A3f80": {
+    "0x47a02487463fCb41F72a750a20FE58f34e3ee371": {
       "chainId": 2061,
-      "address": "0xE33351004d427262341859aC164a8e4C617A3f80",
+      "address": "0x47a02487463fCb41F72a750a20FE58f34e3ee371",
       "symbol": "WBTC",
       "name": "Wrapped Bitcoin",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
       "tags": ["featured"]
     },
-    "0x6da63c0D9b4AfeA7506312c05273D434D5AFf0c7": {
+    "0x76a676420b0C710F9d96dbd6ebfc735f23F6Bf25": {
       "chainId": 2061,
-      "address": "0x6da63c0D9b4AfeA7506312c05273D434D5AFf0c7",
+      "address": "0x76a676420b0C710F9d96dbd6ebfc735f23F6Bf25",
       "symbol": "WETH",
       "name": "Wrapped Ethereum",
       "decimals": 18,
