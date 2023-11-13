@@ -67,6 +67,24 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0xB64D1c4E2EC0ae631869c731b733bf9D49B9AbE1",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x43B1db7F1C8d2bbE6290F44Bef3A0B1FbcEEcaf1",
+      "symbol": "WETH",
+      "name": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+      "tags": ["featured"]
     }
   ],
   "tokenMap": {
@@ -96,6 +114,24 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
+    },
+    "0xB64D1c4E2EC0ae631869c731b733bf9D49B9AbE1": {
+      "chainId": 2061,
+      "address": "0xB64D1c4E2EC0ae631869c731b733bf9D49B9AbE1",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+      "tags": ["featured"]
+    },
+    "0x43B1db7F1C8d2bbE6290F44Bef3A0B1FbcEEcaf1": {
+      "chainId": 2061,
+      "address": "0x43B1db7F1C8d2bbE6290F44Bef3A0B1FbcEEcaf1",
+      "symbol": "WETH",
+      "name": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+      "tags": ["featured"]
     }
   },
   "gaugeMap": {
