@@ -160,23 +160,23 @@
       "name": "WETH-HONEY",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png"
     },
-    "0xaf569d6049651cf8bf804d28b7cd2f29de7f9cb0": {
-      "address":"0xaf569d6049651cf8bf804d28b7cd2f29de7f9cb0",
+    "0xAF569D6049651Cf8bF804d28b7cD2f29dE7f9Cb0": {
+      "address":"0xAF569D6049651Cf8bF804d28b7cD2f29dE7f9Cb0",
       "name": "aHONEY",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bend.png"
     },
-    "0x605fd73b339b82413b862966428ed8ac52ec4227": {
-      "address":"0x605fd73b339b82413b862966428ed8ac52ec4227",
+    "0x605fD73B339b82413B862966428eD8Ac52eC4227": {
+      "address":"0x605fD73B339b82413B862966428eD8Ac52eC4227",
       "name": "aWBTC",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bend.png"
     },
-    "0xd4d3d26a30718090d523bd10c05f566837026cd7": {
-      "address":"0xd4d3d26a30718090d523bd10c05f566837026cd7",
+    "0xd4D3d26A30718090d523BD10c05F566837026cd7": {
+      "address":"0xd4D3d26A30718090d523BD10c05F566837026cd7",
       "name": "aWETH",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bend.png"
     },
-    "0xc510a3c994f93e28395f4e371b6a9d4bcef1663a": {
-      "address":"0xc510a3c994f93e28395f4e371b6a9d4bcef1663a",
+    "0xC510A3c994f93e28395f4E371B6a9D4bcEF1663a": {
+      "address":"0xC510A3c994f93e28395f4E371B6a9D4bcEF1663a",
       "name": "bHONEY",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bend.png"
     }
