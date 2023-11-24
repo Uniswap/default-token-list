@@ -2050,5 +2050,29 @@
     "symbol": "BIGTIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
+  },
+  {
+    "chainId": 1,
+    "name": "ARYZE eUSD",
+    "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+    "symbol": "eUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32422/large/ARYZE_eUSD.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ARYZE eEUR",
+    "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+    "symbol": "eEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32421/large/ARYZE_eEUR.png"
+  },
+  {
+    "chainId": 1,
+    "name": "ARYZE eGBP",
+    "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+    "symbol": "eGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32989/large/ARYZE_eGBP.png"
   }
 ]
