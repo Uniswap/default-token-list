@@ -19,5 +19,12 @@
     "symbol": "NUN",
     "decimals": 18,
     "chainId": 137
+  },
+  {
+    "name": "pacman",
+    "address": "0x4887303Af6E61237E6330B0c1105c584f4E4e8b6",
+    "symbol": "PAC",
+    "decimals": 18,
+    "chainId": 137
   }
 ]
