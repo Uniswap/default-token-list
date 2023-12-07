@@ -1,7 +1,7 @@
 [
   {
     "name": "xUSDT",
-    "address": "0x9dD4761Bd68169478a06156c0C1416fB9506BE78",
+    "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
     "symbol": "xUSDT",
     "decimals": 6,
     "chainId": 50,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Wrapped XDC",
-    "address": "0xE99500AB4A413164DA49Af83B9824749059b46ce",
+    "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
     "symbol": "WXDC",
     "decimals": 18,
     "chainId": 50,
@@ -17,7 +17,7 @@
   },
   {
     "name": "Fathom Dollar",
-    "address": "0xDf29cB40Cb92a1b8E8337F542E3846E185DefF96",
+    "address": "0x49d3f7543335cf38Fa10889CCFF10207e22110B5",
     "symbol": "FXD",
     "decimals": 18,
     "chainId": 50,
@@ -25,7 +25,7 @@
   },
   {
     "name": "FTHM",
-    "address": "0x916D9BFa4480418bE7b653f4808106709a38b4fc",
+    "address": "0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c",
     "symbol": "FTHM",
     "decimals": 18,
     "chainId": 50,
