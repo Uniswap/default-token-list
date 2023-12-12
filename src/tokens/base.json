@@ -54,5 +54,13 @@
         "symbol": "USDC",
         "decimals": 6,
         "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+        "name": "Seamlesss",
+        "symbol": "SEAM",
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/seamless_32.png"
     }
 ]
