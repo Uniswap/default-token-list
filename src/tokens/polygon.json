@@ -26,5 +26,12 @@
     "symbol": "PAC",
     "decimals": 18,
     "chainId": 137
+  },
+  {
+    "name": "kenect3d",
+    "address": "0x43366fcce5403fb857a92dc311d35DdfAc6FB31C",
+    "symbol": "K3D",
+    "decimals": 18,
+    "chainId": 137
   }
 ]
