@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 42161,
     "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
+  },
+  {
+    "name": "MAGIC",
+    "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
   }
 ]
