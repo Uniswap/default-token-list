@@ -47,5 +47,12 @@
     "name": "arbitrageur",
     "symbol": "ARB",
     "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0x57BA4e774F3819bE5f8073526cdBdb2d644b789b",
+    "name": "Z1 Capital",
+    "symbol": "ZONE",
+    "decimals": 18
   }
 ]
