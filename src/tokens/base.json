@@ -12,5 +12,12 @@
     "name": "alcyoneus",
     "symbol": "ALC",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6f2D9BB9897bBa40B0794Dd1Ad7EA0E4Db3B44d9",
+    "name": "grig",
+    "symbol": "GRILL",
+    "decimals": 18
   }
 ]
