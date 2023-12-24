@@ -294,5 +294,29 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 137,
+    "name": "ARYZE eUSD",
+    "address": "0xa4335da338ec4C07C391Fc1A9bF75F306adadc08",
+    "symbol": "eUSD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32422/large/ARYZE_eUSD.png"
+  },
+  {
+    "chainId": 137,
+    "name": "ARYZE eEUR",
+    "address": "0x735fa792e731a2e8F83F32eb539841b7B72e6d8f",
+    "symbol": "eEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32421/large/ARYZE_eEUR.png"
+  },
+  {
+    "chainId": 137,
+    "name": "ARYZE eGBP",
+    "address": "0xD711D7D893de57dc13Ff465763218770Bd42DB1D",
+    "symbol": "eGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32989/large/ARYZE_eGBP.png"
   }
 ]
