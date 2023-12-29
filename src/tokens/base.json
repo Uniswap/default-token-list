@@ -19,5 +19,12 @@
     "name": "grig",
     "symbol": "GRILL",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xEe350321b5f5610Fe77Cb52111301dD103e0B46E",
+    "name": "BasedPool",
+    "symbol": "BPOOL",
+    "decimals": 18
   }
 ]
