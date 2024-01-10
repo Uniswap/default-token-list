@@ -52,7 +52,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
+      "address": "0x6581e59A1C8dA66eD0D313a0d4029DcE2F746Cc5",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
@@ -97,14 +97,14 @@
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
-    "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4": {
+    "0x6581e59A1C8dA66eD0D313a0d4029DcE2F746Cc5": {
       "chainId": 2061,
-      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
+      "address": "0x6581e59A1C8dA66eD0D313a0d4029DcE2F746Cc5",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "tags": ["stablecoin", "collateral", "featured"]
+      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
     },
     "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B": {
       "chainId": 2061,
