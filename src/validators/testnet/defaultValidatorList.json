@@ -1,7 +1,8 @@
 {
     "name": "Devnet Default Validator List",
-    "validators": [
-    ],
     "validatorMap": {
+        "0x7BC2D01C25d0d53b79Cba0B286FF685DDDA3c01c": {
+            "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/validator-assets/thj.png"
+        }
     }
 }
