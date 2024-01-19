@@ -1,8 +1,11 @@
 {
-    "name": "Devnet Default Validator List",
-    "validatorMap": {
-        "0x7BC2D01C25d0d53b79Cba0B286FF685DDDA3c01c": {
-            "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/validator-assets/thj.jpg"
-        }
+  "name": "Testnet Default Validator List",
+  "validatorMap": {
+    "0x0cf633F3a7478EAAbd73B7287B997D609B12A11a": {
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/validator-assets/infrared.jpg"
+    },
+    "0x7BC2D01C25d0d53b79Cba0B286FF685DDDA3c01c": {
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/validator-assets/thj.jpg"
     }
+  }
 }
