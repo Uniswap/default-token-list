@@ -2050,5 +2050,13 @@
     "symbol": "BIGTIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+    "name": "GALA",
+    "symbol": "GALA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310"
   }
 ]
