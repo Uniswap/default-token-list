@@ -1,4 +1,3 @@
-
 {
   "name": "Devnet Default Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
@@ -19,6 +18,10 @@
     "featured": {
       "name": "Featured",
       "description": "Tokens that are featured"
+    },
+    "debt": {
+      "name": "Debt Token",
+      "description": "Tokens that are representing debt"
     }
   },
 
@@ -85,6 +88,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0xA64BdDd2b601c2E90613c1a95c5d93ebB7501c5B",
+      "symbol": "vdHONEY",
+      "name": "Honey Variable Debt Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["debt"]
     }
   ],
   "tokenMap": {
@@ -132,10 +144,18 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
       "tags": ["featured"]
+    },
+    "0xA64BdDd2b601c2E90613c1a95c5d93ebB7501c5B": {
+      "chainId": 2061,
+      "address": "0xA64BdDd2b601c2E90613c1a95c5d93ebB7501c5B",
+      "symbol": "vdHONEY",
+      "name": "Honey Variable Debt Token",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["debt"]
     }
   },
-  "gaugeMap": {
-  },
+  "gaugeMap": {},
   "version": {
     "major": 1,
     "minor": 0,
