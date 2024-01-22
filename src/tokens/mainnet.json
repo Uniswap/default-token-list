@@ -1358,14 +1358,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
-    "name": "Gala",
-    "symbol": "GALA",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/12493/thumb/GALA-COINGECKO.png?1600233435"
-  },
-  {
-    "chainId": 1,
     "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
     "name": "Somnium Space CUBEs",
     "symbol": "CUBE",
@@ -2050,5 +2042,13 @@
     "symbol": "BIGTIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+    "name": "GALA",
+    "symbol": "GALA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310"
   }
 ]
