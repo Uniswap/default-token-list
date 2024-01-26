@@ -22,6 +22,10 @@
     "debt": {
       "name": "Debt Token",
       "description": "Tokens that are representing debt"
+    },
+    "aToken": {
+      "name": "Supply Token",
+      "description": "Tokens that are representing supply"
     }
   },
 
@@ -97,6 +101,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["debt"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0xB74285805B9eb4Dad384431C51F64C71fB786523",
+      "symbol": "aHONEY",
+      "name": "Honey aToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["aToken"]
     }
   ],
   "tokenMap": {
@@ -153,6 +166,15 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["debt"]
+    },
+    "0xB74285805B9eb4Dad384431C51F64C71fB786523": {
+      "chainId": 2061,
+      "address": "0xB74285805B9eb4Dad384431C51F64C71fB786523",
+      "symbol": "aHONEY",
+      "name": "Honey aToken",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "tags": ["aToken"]
     }
   },
   "gaugeMap": {},
