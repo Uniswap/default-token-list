@@ -62,5 +62,13 @@
         "symbol": "SEAM",
         "decimals": 18,
         "logoURI": "https://basescan.org/token/images/seamless_32.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+        "name": "Aerodrome Finance",
+        "symbol": "AERO",
+        "decimals": 18,
+        "logoURI": "https://basescan.org/token/images/aerodrome_32.png"
     }
 ]

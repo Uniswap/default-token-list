@@ -2050,5 +2050,13 @@
     "symbol": "GALA",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "name": "Ondo Finance",
+    "symbol": "ONDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
   }
 ]
