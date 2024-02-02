@@ -45,6 +45,14 @@
           "decimals": 18,
           "chainId": 50,
           "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png"
+        },
+        {
+          "name": "EURS",
+          "address": "0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F",
+          "symbol": "EURS",
+          "decimals": 2,
+          "chainId": 50,
+          "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F/logo.png"
         }
       ]
 }
