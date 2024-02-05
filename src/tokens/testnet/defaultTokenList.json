@@ -95,7 +95,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x7f8E75356015fECfafF66e2B34F181A093Dc4519",
+      "address": "0x843E39CD8F6F22A34214F50a865653C0F40c5422",
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
@@ -158,9 +158,9 @@
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
       "tags": ["featured"]
     },
-    "0x7f8E75356015fECfafF66e2B34F181A093Dc4519": {
+    "0x843E39CD8F6F22A34214F50a865653C0F40c5422": {
       "chainId": 2061,
-      "address": "0x7f8E75356015fECfafF66e2B34F181A093Dc4519",
+      "address": "0x843E39CD8F6F22A34214F50a865653C0F40c5422",
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
