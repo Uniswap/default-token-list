@@ -1,11 +1,95 @@
-[
+{
+    "name": "Test Tokens",
+    "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png",
+    "keywords": [
+        "metis",
+        "defi",
+        "ethereum",
+        "bridge",
+        "stardust",
+        "testnet"
+    ],
+    "version": {
+        "major": 4,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+           "chainId": 11155111,
+           "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+           "decimals": 18,
+           "name": "Wrapped Ether",
+           "symbol": "WETH",
+           
+           "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0x3bB4445D30AC020a84c1b5A8A2C6248ebC9779D0",
+            "decimals": 18,
+            "name": "Test AAVE",
+            "symbol": "AAVE",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/AAVE/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+            "decimals": 18,
+            "name": "Test METIS",
+            "symbol": "METIS",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/METIS/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0xdE89C3A592FBcd9c34A0329919F2904d4114Bc83",
+            "decimals": 18,
+            "name": "Netswap Token",
+            "symbol": "NETT",
+            "logoURI": "https://raw.githubusercontent.com/Netswap/tokens/master/assets/0x90fe084f877c65e1b577c7b2ea64b8d8dd1ab278/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0xf8F06e6fdb132D99BD8f91b54dBFe77073dA5bcC",
+            "decimals": 6,
+            "name": "Test USDT",
+            "symbol": "TUSDT",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDT/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0xb1d8270f19351328CF3DC4FC9FF3c75d5c770Ca4",
+            "decimals": 6,
+            "name": "Test USDC",
+            "symbol": "TUSDC",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/USDC/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0x31D7095Ff509272D28D7Fb3aFEE1EFFf2E61fA43",
+            "decimals": 8,
+            "name": "Test WBTC",
+            "symbol": "TWBTC",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/WBTC/logo.png"
+        },
+        {
+            "chainId": 59901,
+            "address": "0x6a72bc6332e7252F2A696DB16Fe0186051325526",
+            "decimals": 18,
+            "name": "Test LINK",
+            "symbol": "TLINK",
+            "logoURI": "https://raw.githubusercontent.com/MetisProtocol/metis-bridge-resources/master/tokens/LINK/logo.png"
+        }
+    ],
+    "timestamp": "2021-11-30T12:00:00+00:00"
+}[
   {
-    "name": "Wrapped Ether",
-    "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
-    "symbol": "WETH",
-    "decimals": 18,
-    "chainId": 11155111,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+           "name": "Wrapped Ether",
+           "address": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+           "symbol": "WETH",
+           "decimals": 18,
+           "chainId": 11155111,
+          "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
     "name": "Uniswap",
