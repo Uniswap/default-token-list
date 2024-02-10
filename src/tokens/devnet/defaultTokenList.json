@@ -24,7 +24,7 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
+      "address": "0x3945f611Fe77A51C7F3e1f84709C1a2fDcDfAC5B",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
@@ -42,96 +42,33 @@
     },
     {
       "chainId": 2061,
-      "address": "0x6925d7b4Df7807963C8fA2f1dE1e07EbF0049824",
-      "symbol": "BGT",
-      "name": "Bera Governance Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bgt.png",
-      "tags": ["featured"]
-    },
-    {
-      "chainId": 2061,
-      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
-      "symbol": "STGUSDC",
-      "name": "Stable Collateral USD Coin",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
-    },
-    {
-      "chainId": 2061,
-      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
+      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
-    },
-    {
-      "chainId": 2061,
-      "address": "0x47a02487463fCb41F72a750a20FE58f34e3ee371",
-      "symbol": "WBTC",
-      "name": "Wrapped Bitcoin",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
-      "tags": ["featured"]
-    },
-    {
-      "chainId": 2061,
-      "address": "0x76a676420b0C710F9d96dbd6ebfc735f23F6Bf25",
-      "symbol": "WETH",
-      "name": "Wrapped Ethereum",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
-      "tags": ["featured"]
     }
   ],
   "tokenMap": {
-    "0x5806E416dA447b267cEA759358cF22Cc41FAE80F": {
+    "0x3945f611Fe77A51C7F3e1f84709C1a2fDcDfAC5B": {
       "chainId": 2061,
-      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
+      "address": "0x3945f611Fe77A51C7F3e1f84709C1a2fDcDfAC5B",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
-    "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4": {
+    "0x5C59C83c099F72FcE832208f96a23a1E43737a14": {
       "chainId": 2061,
-      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
-      "symbol": "STGUSDC",
-      "name": "Stable Collateral USD Coin",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "tags": ["stablecoin", "collateral", "featured"]
-    },
-    "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B": {
-      "chainId": 2061,
-      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
+      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     },
-    "0x47a02487463fCb41F72a750a20FE58f34e3ee371": {
-      "chainId": 2061,
-      "address": "0x47a02487463fCb41F72a750a20FE58f34e3ee371",
-      "symbol": "WBTC",
-      "name": "Wrapped Bitcoin",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
-      "tags": ["featured"]
-    },
-    "0x76a676420b0C710F9d96dbd6ebfc735f23F6Bf25": {
-      "chainId": 2061,
-      "address": "0x76a676420b0C710F9d96dbd6ebfc735f23F6Bf25",
-      "symbol": "WETH",
-      "name": "Wrapped Ethereum",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
-      "tags": ["featured"]
-    }
   },
   "gaugeMap": {
     "0x0000746573745F5f5f5f5f726563656976657232": {
