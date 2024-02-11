@@ -68,7 +68,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
-    },
+    }
   },
   "gaugeMap": {
     "0x0000746573745F5f5f5f5f726563656976657232": {
