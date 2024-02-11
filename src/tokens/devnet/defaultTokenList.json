@@ -42,7 +42,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
+      "address": "0xa51fc80a8ec5cd9181f8917d74d11bd2c95e4f95",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -60,9 +60,9 @@
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
-    "0x5C59C83c099F72FcE832208f96a23a1E43737a14": {
+    "0xa51fc80a8ec5cd9181f8917d74d11bd2c95e4f95": {
       "chainId": 2061,
-      "address": "0x5C59C83c099F72FcE832208f96a23a1E43737a14",
+      "address": "0xa51fc80a8ec5cd9181f8917d74d11bd2c95e4f95",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
