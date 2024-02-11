@@ -26,5 +26,19 @@
     "name": "BasedPool",
     "symbol": "BPOOL",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb49cB6e1B2cA822E4D27e3b5c7475e0Cdfd8A4ea",
+    "name": "Onsidechain",
+    "symbol": "CASH",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xffB6E34C0574d0426B4ce8D577f3E733Bfd0e7B6",
+    "name": "sonic",
+    "symbol": "ZKBTC",
+    "decimals": 18
   }
 ]
