@@ -1,14 +1,10 @@
 const packageJson = require("../package.json");
 const { expect } = require("chai");
 const { getAddress } = require("@ethersproject/address");
-const Ajv = require("ajv");
-const buildList = require("../src/buildList");
-
-let defaultTokenList;
+const defaultTokenList = require("../src/tokens/testnet/defaultTokenList.json");
 
 before(async function () {
   this.timeout(120000);
-  defaultTokenList = await buildList();
 });
 
 describe("buildList", () => {
