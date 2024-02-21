@@ -2066,5 +2066,13 @@
     "symbol": "Zeta",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEeee2A2E650697d2A8e8BC990C2f3d04203bE06f",
+    "name": "Forgotten Playland",
+    "symbol": "FP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35339/standard/200.png?1708515043"
   }
 ]
