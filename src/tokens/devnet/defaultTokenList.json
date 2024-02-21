@@ -24,7 +24,7 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0x4F1e4684A890908680019F0C508048F6c60F6EfF",
+      "address": "0xD57E9ed47952eaF08eaFc4853AED350cEBf63A10",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
@@ -51,9 +51,9 @@
     }
   ],
   "tokenMap": {
-    "0x4F1e4684A890908680019F0C508048F6c60F6EfF": {
+    "0xD57E9ed47952eaF08eaFc4853AED350cEBf63A10": {
       "chainId": 2061,
-      "address": "0x4F1e4684A890908680019F0C508048F6c60F6EfF",
+      "address": "0xD57E9ed47952eaF08eaFc4853AED350cEBf63A10",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
