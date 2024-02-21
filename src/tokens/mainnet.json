@@ -2045,6 +2045,18 @@
   },
   {
     "chainId": 1,
+    "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logoURI": "https://ipfs.io/ipfs/QmaKRLxXPdeTsLx7MFLS3CJbhpSbResgoeL4fCgHB1mTsF",
+    "extensions": {
+      "bridgeInfo": {
+        "56": {
+          "tokenAddress": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE"
+        }
+      }
+    }
     "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
     "name": "GALA",
     "symbol": "GALA",
@@ -2066,5 +2078,6 @@
     "symbol": "Zeta",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788"
+
   }
 ]
