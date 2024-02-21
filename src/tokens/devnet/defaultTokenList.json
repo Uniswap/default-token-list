@@ -24,7 +24,7 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0x459C653FaAE6E13b59cf8E005F5f709C7b2c2EB4",
+      "address": "0x4F1e4684A890908680019F0C508048F6c60F6EfF",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
@@ -42,7 +42,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x3945f611Fe77A51C7F3e1f84709C1a2fDcDfAC5B",
+      "address": "0xF4959c2346AA29F9682d9E698A60Ebab6356d0De",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -51,18 +51,18 @@
     }
   ],
   "tokenMap": {
-    "0x459C653FaAE6E13b59cf8E005F5f709C7b2c2EB4": {
+    "0x4F1e4684A890908680019F0C508048F6c60F6EfF": {
       "chainId": 2061,
-      "address": "0x459C653FaAE6E13b59cf8E005F5f709C7b2c2EB4",
+      "address": "0x4F1e4684A890908680019F0C508048F6c60F6EfF",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
       "tags": ["featured"]
     },
-    "0x3945f611Fe77A51C7F3e1f84709C1a2fDcDfAC5B": {
+    "0xF4959c2346AA29F9682d9E698A60Ebab6356d0De": {
       "chainId": 2061,
-      "address": "0x3945f611Fe77A51C7F3e1f84709C1a2fDcDfAC5B",
+      "address": "0xF4959c2346AA29F9682d9E698A60Ebab6356d0De",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
