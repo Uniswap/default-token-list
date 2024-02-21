@@ -1358,14 +1358,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
-    "name": "Gala",
-    "symbol": "GALA",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/12493/thumb/GALA-COINGECKO.png?1600233435"
-  },
-  {
-    "chainId": 1,
     "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
     "name": "Somnium Space CUBEs",
     "symbol": "CUBE",
@@ -1989,10 +1981,20 @@
   {
     "chainId": 1,
     "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
-    "name": "CELO Native Asset",
+    "name": "Celo native asset (Wormhole)",
     "symbol": "CELO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png"
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349"
+        },
+        "42161": {
+          "tokenAddress": "0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
@@ -2043,7 +2045,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce",
+    "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
     "name": "Beam",
     "symbol": "BEAM",
     "decimals": 18,
@@ -2051,9 +2053,31 @@
     "extensions": {
       "bridgeInfo": {
         "56": {
-          "tokenAddress": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce"
+          "tokenAddress": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE"
         }
       }
     }
+    "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+    "name": "GALA",
+    "symbol": "GALA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "name": "Ondo Finance",
+    "symbol": "ONDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+    "name": "Zetachain",
+    "symbol": "Zeta",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788"
+
   }
 ]
