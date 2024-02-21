@@ -7,7 +7,7 @@ before(async function () {
   this.timeout(120000);
 });
 
-describe("buildList", () => {
+describe("token list test suite", () => {
   it("contains no duplicate addresses", () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
