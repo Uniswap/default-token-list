@@ -1,8 +1,8 @@
-# @berachain/default-token-list🐻
+# 🐻@berachain/default-token-list🐻
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/Berachain/default-token-list/actions?query=workflow%3ATests)
 
-This NPM module and GitHub repo contains the default token list used in the Berachain interface.
+This GitHub repo contains the default token list and gauge list used in the Berachain interface.
 
 ## Adding a token
 
