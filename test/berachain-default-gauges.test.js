@@ -1,5 +1,6 @@
 const packageJson = require("../package.json");
 const { expect } = require("chai");
+const { getAddress } = require("@ethersproject/address");
 const defaultGaugeList = require("../src/gauges/testnet/defaultGaugeList.json");
 
 before(async function () {
@@ -25,6 +26,12 @@ describe("gauge list test suite", () => {
         `duplicate name: ${gauge.name}`
       );
       map[key] = true;
+    }
+  });
+
+  it("all addresses are valid and checksummed", () => {
+    for (let gauge of defaultGaugeList.gauges) {
+      expect(getAddress(gauge.address)).to.eq(gauge.address);
     }
   });
 
