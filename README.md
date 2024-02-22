@@ -12,7 +12,7 @@ To request that we add a token to the list,
 ## Adding a gauge
 
 To request that we add a gauge to the list,
-[file an issue](https://github.com/Berachain/default-token-list/issues/new?assignees=&labels=gauge+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+[file an issue](https://github.com/Berachain/default-token-list/issues/new?assignees=&labels=gauge+request&template=gauge-request.md&title=Add+%7BGAUGE_NAME%7D).
 
 ### Disclaimer
 
