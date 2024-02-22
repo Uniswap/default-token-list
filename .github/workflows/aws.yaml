@@ -23,6 +23,5 @@ jobs:
       - name: Deploy to S3
         run: |
           set -e # Ensure the script fails on error
-          aws s3 sync ${GITHUB_WORKSPACE}/src/tokens/testnet/ s3://artio-static-asset-public /tokens --delete
-          aws s3 sync ${GITHUB_WORKSPACE}/src/gauges/testnet/ s3://artio-static-asset-public /gauges --delete
+          aws s3 sync ${GITHUB_WORKSPACE}/src/ s3://artio-static-asset-public --delete
           echo "Deployment to S3 completed successfully."
