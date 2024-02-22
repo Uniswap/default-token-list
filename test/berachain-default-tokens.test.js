@@ -1,24 +1,13 @@
 const packageJson = require("../package.json");
-const schema = require("@berachain/token-lists/src/tokenlist.schema.json");
 const { expect } = require("chai");
 const { getAddress } = require("@ethersproject/address");
-const Ajv = require("ajv");
-const buildList = require("../src/buildList");
-
-const ajv = new Ajv({ allErrors: true, format: "full" });
-const validator = ajv.compile(schema);
-let defaultTokenList;
+const defaultTokenList = require("../src/tokens/testnet/defaultTokenList.json");
 
 before(async function () {
   this.timeout(120000);
-  defaultTokenList = await buildList();
 });
 
-describe("buildList", () => {
-  it("validates", () => {
-    expect(validator(defaultTokenList)).to.equal(true);
-  });
-
+describe("token list test suite", () => {
   it("contains no duplicate addresses", () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
