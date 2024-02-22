@@ -1,7 +1,7 @@
 {
-  "name": "Devnet Default Token List",
+  "name": "Testnet Default Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-  "keywords": ["devnet"],
+  "keywords": ["testnet"],
   "tags": {
     "stablecoin": {
       "name": "Stablecoin",
