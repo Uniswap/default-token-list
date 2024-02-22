@@ -1,8 +1,5 @@
-{
-  "name": "Testnet Default Gauge List",
-  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
-  "keywords": ["testnet"],
-  "gaugeMap": {
+[
+  {
     "0x0000746573745F5f5f5f5f726563656976657232": {
       "address": "0x0000746573745F5f5f5f5f726563656976657232",
       "name": "DEFAULT GAUGE 1",
@@ -48,10 +45,5 @@
       "name": "bHONEY",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/berps.png"
     }
-  },
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
   }
-}
+]
