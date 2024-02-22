@@ -13,5 +13,5 @@ assignees: ""
 **Please provide the following information for your token.**
 
 Gauge Address:
-Gauge Name (from contract):
+Gauge Name:
 Gauge Logo:
