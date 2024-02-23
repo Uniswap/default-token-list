@@ -1,5 +1,6 @@
 const packageJson = require("../package.json");
 const { expect } = require("chai");
+const fetch = require("node-fetch");
 const { getAddress } = require("@ethersproject/address");
 const defaultTokenList = require("../src/tokens/testnet/defaultTokenList.json");
 

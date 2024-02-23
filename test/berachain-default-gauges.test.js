@@ -1,5 +1,6 @@
 const packageJson = require("../package.json");
 const { expect } = require("chai");
+const fetch = require("node-fetch");
 const { getAddress } = require("@ethersproject/address");
 const defaultGaugeList = require("../src/gauges/testnet/defaultGaugeList.json");
 
