@@ -28,7 +28,7 @@
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/wbera.png",
       "tags": ["featured"]
     },
     {
@@ -37,7 +37,7 @@
       "symbol": "BERA",
       "name": "Berachain Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
       "tags": ["featured"]
     },
     {
@@ -46,7 +46,7 @@
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     }
   ],
@@ -57,7 +57,7 @@
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
       "tags": ["featured"]
     },
     "0xF4959c2346AA29F9682d9E698A60Ebab6356d0De": {
@@ -66,7 +66,7 @@
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     }
   },
@@ -74,17 +74,17 @@
     "0x0000746573745F5f5f5f5f726563656976657232": {
       "address": "0x0000746573745F5f5f5f5f726563656976657232",
       "name": "DEFAULT GAUGE 1",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
     },
     "0x0000746573745F5F5F5F5f726563656976657231": {
       "address": "0x0000746573745F5F5F5F5f726563656976657231",
       "name": "DEFAULT GAUGE 2",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
     },
     "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8": {
       "address": "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8",
       "name": "BERPS GAUGE",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
     },
     "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434": {
       "address": "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434",

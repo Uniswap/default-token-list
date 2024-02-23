@@ -36,7 +36,7 @@
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/wbera.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/wbera.png",
       "tags": ["featured"]
     },
     {
@@ -45,7 +45,7 @@
       "symbol": "BERA",
       "name": "Berachain Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
       "tags": ["featured"]
     },
     {
@@ -54,7 +54,7 @@
       "symbol": "BGT",
       "name": "Bera Governance Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bgt.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bgt.png",
       "tags": ["featured"]
     },
     {
@@ -72,7 +72,7 @@
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     },
     {
@@ -81,7 +81,7 @@
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
       "tags": ["featured"]
     },
     {
@@ -90,7 +90,7 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
       "tags": ["featured"]
     },
     {
@@ -99,7 +99,7 @@
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["debt"]
     },
     {
@@ -108,7 +108,7 @@
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["aToken"]
     }
   ],
@@ -119,7 +119,7 @@
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
       "tags": ["featured"]
     },
     "0x6581e59A1C8dA66eD0D313a0d4029DcE2F746Cc5": {
@@ -137,7 +137,7 @@
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     },
     "0x9DAD8A1F64692adeB74ACa26129e0F16897fF4BB": {
@@ -146,7 +146,7 @@
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/btc.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
       "tags": ["featured"]
     },
     "0x8239FBb3e3D0C2cDFd7888D8aF7701240Ac4DcA4": {
@@ -155,7 +155,7 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/eth.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
       "tags": ["featured"]
     },
     "0x7f8E75356015fECfafF66e2B34F181A093Dc4519": {
@@ -164,7 +164,7 @@
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["debt"]
     },
     "0xc63FAb87Cb00249190577937Ab6E04dA0AE69633": {
@@ -173,7 +173,7 @@
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/honey.png",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["aToken"]
     }
   },

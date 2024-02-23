@@ -2,8 +2,8 @@ name: Deploy to AWS S3
 
 on:
   push:
-    tags:
-      - "*"
+    branches:
+      - main
 
 jobs:
   deploy:

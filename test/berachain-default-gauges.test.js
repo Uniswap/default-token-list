@@ -35,6 +35,14 @@ describe("gauge list test suite", () => {
     }
   });
 
+  it("all logo links are valid", async () => {
+    await defaultGaugeList.gauges.map((gauge) =>
+      fetch(gauge.logoURI).then((response) => {
+        expect(response.status).to.equal(200);
+      })
+    );
+  }, 30000);
+
   it("version matches package.json", () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
     expect(packageJson.version).to.equal(

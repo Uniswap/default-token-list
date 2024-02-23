@@ -1,31 +1,31 @@
 {
-    "name": "Devnet Default Validator List",
-    "validators": [
-        {
-            "address": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-            "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
-        },
-        {
-            "address": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
-            "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
-        },
-        {
-            "address": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
-            "logoURI": ""
-        }
-    ],
-    "validatorMap": {
-        "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe": {
-            "address": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-            "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
-        },
-        "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef": {
-            "address": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
-            "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/assets/bera.png"
-        },
-        "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b": {
-            "address": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
-            "logoURI": ""
-        }
+  "name": "Devnet Default Validator List",
+  "validators": [
+    {
+      "address": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    },
+    {
+      "address": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    },
+    {
+      "address": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
+      "logoURI": ""
     }
+  ],
+  "validatorMap": {
+    "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe": {
+      "address": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    },
+    "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef": {
+      "address": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    },
+    "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b": {
+      "address": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
+      "logoURI": ""
+    }
+  }
 }
