@@ -1,5 +1,6 @@
 const packageJson = require("../package.json");
 const { expect } = require("chai");
+const fetch = require("node-fetch");
 const { getAddress } = require("@ethersproject/address");
 const defaultGaugeList = require("../src/gauges/testnet/defaultGaugeList.json");
 
@@ -34,6 +35,14 @@ describe("gauge list test suite", () => {
       expect(getAddress(gauge.address)).to.eq(gauge.address);
     }
   });
+
+  it("all logo links are valid", async () => {
+    await defaultGaugeList.gauges.map((gauge) =>
+      fetch(gauge.logoURI).then((response) => {
+        expect(response.status).to.equal(200);
+      })
+    );
+  }, 30000);
 
   it("version matches package.json", () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
