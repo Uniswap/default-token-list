@@ -50,26 +50,6 @@
       "tags": ["stablecoin", "featured"]
     }
   ],
-  "tokenMap": {
-    "0xD57E9ed47952eaF08eaFc4853AED350cEBf63A10": {
-      "chainId": 2061,
-      "address": "0xD57E9ed47952eaF08eaFc4853AED350cEBf63A10",
-      "symbol": "WBERA",
-      "name": "Wrapped Berachain Token",
-      "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
-      "tags": ["featured"]
-    },
-    "0xF4959c2346AA29F9682d9E698A60Ebab6356d0De": {
-      "chainId": 2061,
-      "address": "0xF4959c2346AA29F9682d9E698A60Ebab6356d0De",
-      "symbol": "HONEY",
-      "name": "Honey",
-      "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
-      "tags": ["stablecoin", "featured"]
-    }
-  },
   "gaugeMap": {
     "0x0000746573745F5f5f5f5f726563656976657232": {
       "address": "0x0000746573745F5f5f5f5f726563656976657232",

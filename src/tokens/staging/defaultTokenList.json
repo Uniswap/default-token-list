@@ -86,53 +86,6 @@
       "tags": ["featured"]
     }
   ],
-  "tokenMap": {
-    "0x5806E416dA447b267cEA759358cF22Cc41FAE80F": {
-      "chainId": 2061,
-      "address": "0x5806E416dA447b267cEA759358cF22Cc41FAE80F",
-      "symbol": "WBERA",
-      "name": "Wrapped Berachain Token",
-      "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
-      "tags": ["featured"]
-    },
-    "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4": {
-      "chainId": 2061,
-      "address": "0x1d0f659fF50d1830e449dD88E533cb11FB7a25E4",
-      "symbol": "STGUSDC",
-      "name": "Stable Collateral USD Coin",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
-      "tags": ["stablecoin", "collateral", "featured"]
-    },
-    "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B": {
-      "chainId": 2061,
-      "address": "0x7EeCA4205fF31f947EdBd49195a7A88E6A91161B",
-      "symbol": "HONEY",
-      "name": "Honey",
-      "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
-      "tags": ["stablecoin", "featured"]
-    },
-    "0xB64D1c4E2EC0ae631869c731b733bf9D49B9AbE1": {
-      "chainId": 2061,
-      "address": "0xB64D1c4E2EC0ae631869c731b733bf9D49B9AbE1",
-      "symbol": "WBTC",
-      "name": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
-      "tags": ["featured"]
-    },
-    "0x43B1db7F1C8d2bbE6290F44Bef3A0B1FbcEEcaf1": {
-      "chainId": 2061,
-      "address": "0x43B1db7F1C8d2bbE6290F44Bef3A0B1FbcEEcaf1",
-      "symbol": "WETH",
-      "name": "WETH",
-      "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
-      "tags": ["featured"]
-    }
-  },
   "gaugeMap": {
     "0x0000746573745F5f5f5f5f726563656976657232": {
       "address": "0x0000746573745F5f5f5f5f726563656976657232",
