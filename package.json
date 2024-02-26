@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/default-token-list",
-  "version": "11.14.0",
+  "version": "11.15.0",
   "description": "The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
