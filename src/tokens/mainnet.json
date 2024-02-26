@@ -2069,5 +2069,13 @@
     "symbol": "Zeta",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+    "name": "Starknet",
+    "symbol": "STRK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png?1696525507"
   }
 ]
