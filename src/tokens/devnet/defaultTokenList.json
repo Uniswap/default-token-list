@@ -48,6 +48,15 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["stablecoin", "featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x79DCfc0b30C79223641738F7a8629881D96d3335",
+      "symbol": "STGUSDC",
+      "name": "Stable Collateral USD Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
     }
   ],
   "gaugeMap": {
