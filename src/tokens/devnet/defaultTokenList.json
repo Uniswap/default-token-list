@@ -51,7 +51,7 @@
     },
     {
       "chainId": 80086,
-      "address": "0x311bf872AbB14c634404B975041CF49214be0E0f",
+      "address": "0x79DCfc0b30C79223641738F7a8629881D96d3335",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
