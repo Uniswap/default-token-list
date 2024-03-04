@@ -24,7 +24,7 @@
   "tokens": [
     {
       "chainId": 2061,
-      "address": "0x3945f611Fe77A51C7F3e1f84709C1a2fDcDfAC5B",
+      "address": "0xdFAF990f415d415DE870Af741eFd28c5cC432475",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
@@ -42,7 +42,7 @@
     },
     {
       "chainId": 2061,
-      "address": "0x459C653FaAE6E13b59cf8E005F5f709C7b2c2EB4",
+      "address": "0xED231a159a217858e4C4a78a79e4Bc4E18E0AD3b",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
