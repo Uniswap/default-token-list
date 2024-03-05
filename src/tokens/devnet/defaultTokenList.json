@@ -86,7 +86,7 @@
     },
     {
       "chainId": 80086,
-      "address": "0x08F30B50162fD8294a495ed282C597d7b5887a91",
+      "address": "0x54A519C0C54a5eAa019e72720EA18969224DDc56",
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
@@ -95,7 +95,7 @@
     },
     {
       "chainId": 80086,
-      "address": "0x9eEFA6947d3BCFfd158f56dB39f2ad6547A0d861",
+      "address": "0xCdFECE68563708230FbA65B25B749576875174F2",
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "decimals": 18,
