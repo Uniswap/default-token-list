@@ -18,6 +18,14 @@
     "featured": {
       "name": "Featured",
       "description": "Tokens that are featured"
+    },
+    "debt": {
+      "name": "Debt Token",
+      "description": "Tokens that are representing debt"
+    },
+    "aToken": {
+      "name": "Supply Token",
+      "description": "Tokens that are representing supply"
     }
   },
 
@@ -57,6 +65,42 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0xd6CBd3ACf5dC527bAB67916F4EEd054d6035023C",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0xD408F43Eebb57937A80964F5D7909Ac8EBa84418",
+      "symbol": "WETH",
+      "name": "WETH",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x08F30B50162fD8294a495ed282C597d7b5887a91",
+      "symbol": "vdHONEY",
+      "name": "Honey Variable Debt Token",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
+      "tags": ["debt"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x9eEFA6947d3BCFfd158f56dB39f2ad6547A0d861",
+      "symbol": "aHONEY",
+      "name": "Honey aToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
+      "tags": ["aToken"]
     }
   ],
   "gaugeMap": {
