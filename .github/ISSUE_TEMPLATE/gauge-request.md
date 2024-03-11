@@ -15,3 +15,4 @@ assignees: ""
 Gauge Address:
 Gauge Name:
 Gauge Logo:
+Gauge URL:
