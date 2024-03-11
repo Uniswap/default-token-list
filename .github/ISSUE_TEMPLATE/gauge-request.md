@@ -16,3 +16,5 @@ Gauge Address:
 Gauge Name:
 Gauge Logo:
 Gauge URL:
+Gauge Category Name (i.e. BEX Liquidity Pool):
+Gauge Category Icon:
