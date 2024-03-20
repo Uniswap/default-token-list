@@ -31,7 +31,7 @@
 
   "tokens": [
     {
-      "chainId": 80086,
+      "chainId": 80088,
       "address": "0xdFAF990f415d415DE870Af741eFd28c5cC432475",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
@@ -40,7 +40,7 @@
       "tags": ["featured"]
     },
     {
-      "chainId": 80086,
+      "chainId": 80088,
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "BERA",
       "name": "Berachain Token",
@@ -49,8 +49,8 @@
       "tags": ["featured"]
     },
     {
-      "chainId": 80086,
-      "address": "0x30D701E6e1Da64f0443A1CE69Ee2402ebD662d5F",
+      "chainId": 80088,
+      "address": "0x82B132ce2899040Fd0a0818d83a3fa0213aC350A",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -58,8 +58,8 @@
       "tags": ["stablecoin", "featured"]
     },
     {
-      "chainId": 80086,
-      "address": "0x79DCfc0b30C79223641738F7a8629881D96d3335",
+      "chainId": 80088,
+      "address": "0xa6045CD079b56CF35dCe932A6Ccd4b2668286B9E",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
@@ -67,7 +67,7 @@
       "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
     },
     {
-      "chainId": 80086,
+      "chainId": 80088,
       "address": "0xd6CBd3ACf5dC527bAB67916F4EEd054d6035023C",
       "symbol": "WBTC",
       "name": "WBTC",
@@ -76,7 +76,7 @@
       "tags": ["featured"]
     },
     {
-      "chainId": 80086,
+      "chainId": 80088,
       "address": "0xD408F43Eebb57937A80964F5D7909Ac8EBa84418",
       "symbol": "WETH",
       "name": "WETH",
@@ -85,7 +85,7 @@
       "tags": ["featured"]
     },
     {
-      "chainId": 80086,
+      "chainId": 80088,
       "address": "0x54A519C0C54a5eAa019e72720EA18969224DDc56",
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
@@ -94,7 +94,7 @@
       "tags": ["debt"]
     },
     {
-      "chainId": 80086,
+      "chainId": 80088,
       "address": "0xCdFECE68563708230FbA65B25B749576875174F2",
       "symbol": "aHONEY",
       "name": "Honey aToken",
