@@ -31,8 +31,13 @@
 
   "tokens": [
     {
+<<<<<<< Updated upstream
       "chainId": 80088,
       "address": "0xdFAF990f415d415DE870Af741eFd28c5cC432475",
+=======
+      "chainId": 80086,
+      "address": "0xd8691C32dE91E204103cBB6fF6138BBEe453565f",
+>>>>>>> Stashed changes
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
