@@ -15,5 +15,10 @@
       "twitter": "https://twitter.com/TheHoneyJar1",
       "website": "https://thehoneyjar.io"
     }
-  ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
