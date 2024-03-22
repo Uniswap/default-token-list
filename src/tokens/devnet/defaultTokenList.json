@@ -68,7 +68,7 @@
     },
     {
       "chainId": 80088,
-      "address": "0xd6CBd3ACf5dC527bAB67916F4EEd054d6035023C",
+      "address": "0x286F1C3f0323dB9c91D1E8f45c8DF2d065AB5fae",
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
@@ -77,7 +77,7 @@
     },
     {
       "chainId": 80088,
-      "address": "0xD408F43Eebb57937A80964F5D7909Ac8EBa84418",
+      "address": "0x6E1E9896e93F7A71ECB33d4386b49DeeD67a231A",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
@@ -86,7 +86,7 @@
     },
     {
       "chainId": 80088,
-      "address": "0x54A519C0C54a5eAa019e72720EA18969224DDc56",
+      "address": "0x0bF0Eb9aE016A624E2149D4C5F47fD9276285C82",
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
@@ -95,7 +95,7 @@
     },
     {
       "chainId": 80088,
-      "address": "0xCdFECE68563708230FbA65B25B749576875174F2",
+      "address": "0xD08391c5977ebF1a09bB5915908EF5cd95Edb7E0",
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "decimals": 18,
