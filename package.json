@@ -29,8 +29,8 @@
   "homepage": "https://github.com/Rigoblock/pool-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-list-bridge-utils": "^2.3.0",
     "@uniswap/token-lists": "^1.0.0-beta.29",
-    "@uniswap/token-list-bridge-utils": "^1.3.2",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
