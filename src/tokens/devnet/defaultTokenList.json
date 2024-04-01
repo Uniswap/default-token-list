@@ -23,7 +23,7 @@
       "name": "Debt Token",
       "description": "Tokens that are representing debt"
     },
-    "aToken": {
+    "supply": {
       "name": "Supply Token",
       "description": "Tokens that are representing supply"
     }
@@ -100,7 +100,16 @@
       "name": "Honey aToken",
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
-      "tags": ["aToken"]
+      "tags": ["supply"]
+    },
+    {
+      "chainId": 80088,
+      "address": "0x0715b2af01f6c68b1ad243cfa14b707eaaed7aed",
+      "symbol": "bHONEY",
+      "name": "Honey bToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
+      "tags": ["supply"]
     }
   ],
   "gaugeMap": {
