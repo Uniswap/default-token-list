@@ -61,7 +61,7 @@
     "symbol": "BTCx",
     "decimals": 8,
     "chainId": 50,
-    "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xb6E57fBB2D44092f75d9da2769FFc788ce931320/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xb6E57fBB2D44092f75d9da2769FFc788ce931320/logo.png"
   },
   {
     "name": "Plugin",
@@ -69,7 +69,7 @@
     "symbol": "PLI",
     "decimals": 18,
     "chainId": 50,
-    "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391/logo.png"
   },
   {
     "name": "Law Block token",
@@ -77,7 +77,7 @@
     "symbol": "LBT",
     "decimals": 18,
     "chainId": 50,
-    "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0x05940B2dF33D6371201e7Ae099CeD4C363855dFE/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x05940B2dF33D6371201e7Ae099CeD4C363855dFE/logo.png"
   },
   {
     "name": "WadzPay Token",
@@ -85,7 +85,7 @@
     "symbol": "WTK",
     "decimals": 18,
     "chainId": 50,
-    "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xB3f18b584263191A33169f6393487E43e9586329/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xB3f18b584263191A33169f6393487E43e9586329/logo.png"
   },
   {
     "name": "ShibaInuXDC",
@@ -93,7 +93,7 @@
     "symbol": "ShibaX",
     "decimals": 10,
     "chainId": 50,
-    "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xD9c714a2D98dF7b3EABc3627B124Ffb2d811098d/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xD9c714a2D98dF7b3EABc3627B124Ffb2d811098d/logo.png"
   },
   {
     "name": "PEPE",
@@ -109,6 +109,6 @@
     "symbol": "BIC",
     "decimals": 12,
     "chainId": 50,
-    "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a/logo.png"
   }
 ]
