@@ -109,6 +109,30 @@
           "decimals": 18,
           "chainId": 50,
           "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xB3f18b584263191A33169f6393487E43e9586329/logo.png"
+        },
+        {
+          "name": "ShibaInuXDC",
+          "address": "0xd9c714a2d98df7b3eabc3627b124ffb2d811098d",
+          "symbol": "ShibaX",
+          "decimals": 10,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xD9c714a2D98dF7b3EABc3627B124Ffb2d811098d/logo.png"
+        },
+        {
+          "name": "PEPE",
+          "address": "0x9ca227280599d31845dd21449b5a6acfb285b1fc",
+          "symbol": "PEPE",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://cdn.xinfinscan.com/tokens/PEPE.png"
+        },
+        {
+          "name": "Blue Phoenix Investments Coin",
+          "address": "0x11f4b2ae467020fb7bce8631bac27f62b869d49a",
+          "symbol": "BIC",
+          "decimals": 12,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a/logo.png"
         }
-      ]
+    ]
 }
