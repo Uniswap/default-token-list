@@ -53,6 +53,86 @@
           "decimals": 2,
           "chainId": 50,
           "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F/logo.png"
+        },
+        {
+          "name": "RIPPLERICH",
+          "address": "0x4e3037297830c8023d1646937a3d44c018d1a5c3",
+          "symbol": "RR",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://cdn.xinfinscan.com/tokens/RR.png"
+        },
+        {
+          "name": "Cat On XDC",
+          "address": "0xb80b43412b8990f65dfbbaf411d30a07919a2e4a",
+          "symbol": "CATX",
+          "decimals": 8,
+          "chainId": 50,
+          "logoURI": "https://cdn.xinfinscan.com/tokens/CATX.png"
+        },
+        {
+          "name": "Diamondium Private Currency",
+          "address": "0xb2b2aab80f9fcd8f2bca8a404cbbf72a618897c0",
+          "symbol": "PWM3",
+          "decimals": 8,
+          "chainId": 50,
+          "logoURI": ""
+        },
+        {
+          "name": "BitcoinX",
+          "address": "0xb6e57fbb2d44092f75d9da2769ffc788ce931320",
+          "symbol": "BTCx",
+          "decimals": 8,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xb6E57fBB2D44092f75d9da2769FFc788ce931320/logo.png"
+        },
+        {
+          "name": "Plugin",
+          "address": "0xff7412ea7c8445c46a8254dfb557ac1e48094391",
+          "symbol": "PLI",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391/logo.png"
+        },
+        {
+          "name": "Law Block token",
+          "address": "0x05940b2df33d6371201e7ae099ced4c363855dfe",
+          "symbol": "LBT",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0x05940B2dF33D6371201e7Ae099CeD4C363855dFE/logo.png"
+        },
+        {
+          "name": "WadzPay Token",
+          "address": "0xb3f18b584263191a33169f6393487e43e9586329",
+          "symbol": "WTK",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xB3f18b584263191A33169f6393487E43e9586329/logo.png"
+        },
+        {
+          "name": "ShibaInuXDC",
+          "address": "0xd9c714a2d98df7b3eabc3627b124ffb2d811098d",
+          "symbol": "ShibaX",
+          "decimals": 10,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0xD9c714a2D98dF7b3EABc3627B124Ffb2d811098d/logo.png"
+        },
+        {
+          "name": "PEPE",
+          "address": "0x9ca227280599d31845dd21449b5a6acfb285b1fc",
+          "symbol": "PEPE",
+          "decimals": 18,
+          "chainId": 50,
+          "logoURI": "https://cdn.xinfinscan.com/tokens/PEPE.png"
+        },
+        {
+          "name": "Blue Phoenix Investments Coin",
+          "address": "0x11f4b2ae467020fb7bce8631bac27f62b869d49a",
+          "symbol": "BIC",
+          "decimals": 12,
+          "chainId": 50,
+          "logoURI": "https://github.com/pro100skm/xdc-token-list/blob/master/assets/0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a/logo.png"
         }
-      ]
+    ]
 }
