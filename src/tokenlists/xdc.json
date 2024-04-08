@@ -71,14 +71,6 @@
           "logoURI": "https://cdn.xinfinscan.com/tokens/CATX.png"
         },
         {
-          "name": "Diamondium Private Currency",
-          "address": "0xb2b2aab80f9fcd8f2bca8a404cbbf72a618897c0",
-          "symbol": "PWM3",
-          "decimals": 8,
-          "chainId": 50,
-          "logoURI": ""
-        },
-        {
           "name": "BitcoinX",
           "address": "0xb6e57fbb2d44092f75d9da2769ffc788ce931320",
           "symbol": "BTCx",
