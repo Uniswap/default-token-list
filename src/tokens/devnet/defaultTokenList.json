@@ -25,7 +25,11 @@
     },
     "supply": {
       "name": "Supply Token",
-      "description": "Tokens that are representing supply"
+      "description": "Tokens that are representing honey supply"
+    },
+    "deposit": {
+      "name": "Deposit Token",
+      "description": "Tokens that can be deposited in Bend"
     }
   },
 
@@ -73,7 +77,7 @@
       "name": "WBTC",
       "decimals": 8,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
-      "tags": ["featured"]
+      "tags": ["featured", "deposit"]
     },
     {
       "chainId": 80088,
@@ -82,7 +86,7 @@
       "name": "WETH",
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
-      "tags": ["featured"]
+      "tags": ["featured", "deposit"]
     },
     {
       "chainId": 80088,
