@@ -105,6 +105,23 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["supply"]
+    },{
+      "chainId": 80088,
+      "address": "0x8Ce5C1c42CD58B7aE61512790e514a82d84375Ed",
+      "symbol": "aWETH",
+      "name": "WETH aToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
+      "tags": ["aToken"]
+    },
+    {
+      "chainId": 80088,
+      "address": "0x0ddb38F7D473e8040985Fa3B4116FDeEF89778bc",
+      "symbol": "aWBTC",
+      "name": "WBTC aToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
+      "tags": ["aToken"]
     },
     {
       "chainId": 80088,
