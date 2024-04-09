@@ -125,7 +125,7 @@
     },
     {
       "chainId": 80088,
-      "address": "0x0715b2af01f6c68b1ad243cfa14b707eaaed7aed",
+      "address": "0x0715B2aF01F6C68B1AD243CFa14B707EaAEd7aeD",
       "symbol": "bHONEY",
       "name": "Honey bToken",
       "decimals": 18,
