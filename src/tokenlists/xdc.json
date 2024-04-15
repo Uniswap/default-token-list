@@ -47,7 +47,7 @@
           "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png"
         },
         {
-          "name": "EURS",
+          "name": "STASIS EURO",
           "address": "0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F",
           "symbol": "EURS",
           "decimals": 2,
@@ -125,6 +125,30 @@
           "decimals": 12,
           "chainId": 50,
           "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a/logo.png"
-        }
+        },
+      {
+        "name": "PrimeNumbers Token",
+        "address": "0x0E11710AAd67E7427CfbC12c353284C2e335F62c",
+        "symbol": "PRNT",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x0E11710AAd67E7427CfbC12c353284C2e335F62c/logo.png"
+      },
+      {
+        "name": "STORX",
+        "address": "0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd",
+        "symbol": "SRX",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd/logo.png"
+      },
+      {
+        "name": "ChupaCabraV2",
+        "address": "0xCF071288cC70D737105c97485F9820668EAcCa51",
+        "symbol": "CHUPA",
+        "decimals": 18,
+        "chainId": 50,
+        "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xCF071288cC70D737105c97485F9820668EAcCa51/logo.png"
+      }
     ]
 }
