@@ -63,14 +63,6 @@
           "logoURI": "https://cdn.xinfinscan.com/tokens/RR.png"
         },
         {
-          "name": "Cat On XDC",
-          "address": "0xB80b43412B8990f65DFbBaf411d30a07919A2e4A",
-          "symbol": "CATX",
-          "decimals": 8,
-          "chainId": 50,
-          "logoURI": "https://cdn.xinfinscan.com/tokens/CATX.png"
-        },
-        {
           "name": "BitcoinX",
           "address": "0xb6E57fBB2D44092f75d9da2769FFc788ce931320",
           "symbol": "BTCx",
