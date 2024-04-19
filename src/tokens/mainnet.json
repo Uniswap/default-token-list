@@ -2092,5 +2092,21 @@
     "symbol": "ARKM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30929/standard/Arkham_Logo_CG.png?1696529771"
+  },
+  {
+    "chainId": 1,
+    "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384"
+  },
+  {
+    "chainId": 1,
+    "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
+    "name": "Omni Network",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png?1711511095"
   }
 ]
