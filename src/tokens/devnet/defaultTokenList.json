@@ -119,7 +119,7 @@
       "address": "0x0ddb38F7D473e8040985Fa3B4116FDeEF89778bc",
       "symbol": "aWBTC",
       "name": "WBTC aToken",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
       "tags": ["aToken"]
     },
