@@ -2108,5 +2108,13 @@
     "symbol": "OMNI",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png?1711511095"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+    "name": "Safe",
+    "symbol": "SAFE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27032/standard/Artboard_1_copy_8circle-1.png?1696526084"
   }
 ]
