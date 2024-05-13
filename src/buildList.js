@@ -2,6 +2,7 @@ const { version } = require("../package.json");
 
 const xdc = require("./tokens/xdc.json");
 const apothem = require("./tokens/apothem.json");
+const sepolia = require("./tokens/sepolia.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -16,7 +17,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["fathomswap", "default"],
-    tokens: [...xdc, ...apothem]
+    tokens: [...xdc, ...apothem, ...sepolia]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
