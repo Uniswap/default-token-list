@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: "12"
+          node-version: "16"
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
@@ -27,10 +27,19 @@ jobs:
       - name: Build list
         run: yarn build
 
+      - name: Load secret
+        uses: 1password/load-secrets-action@581a835fb51b8e7ec56b71cf2ffddd7e68bb25e0
+        with:
+          # Export loaded secrets as environment variables
+          export-env: true
+        env:
+          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
+          NPM_TOKEN: op://npm-deploy/npm-token/secret 
+
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
         with:
-          token: ${{ secrets.NPM_TOKEN }}
+          token: ${{ env.NPM_TOKEN }}
 
       - name: Pin to IPFS
         id: upload

@@ -61,7 +61,14 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "42220": {
+          "tokenAddress": "0x48065fbBE25f71C9282ddf5e1cD6D6A887483D5e"
+        }
+      }
+    }
   },
   {
     "name": "USDCoin",
@@ -69,7 +76,17 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+        },
+        "42220": {
+          "tokenAddress": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C"
+        }
+      }
+    }
   },
   {
     "name": "Orchid",
@@ -1351,14 +1368,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA",
-    "name": "Gala",
-    "symbol": "GALA",
-    "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/12493/thumb/GALA-COINGECKO.png?1600233435"
-  },
-  {
-    "chainId": 1,
     "address": "0xDf801468a808a32656D2eD2D2d80B72A129739f4",
     "name": "Somnium Space CUBEs",
     "symbol": "CUBE",
@@ -1599,7 +1608,7 @@
   {
     "chainId": 1,
     "address": "0x5fAa989Af96Af85384b8a938c2EdE4A7378D9875",
-    "name": "Project Galaxy",
+    "name": "Galxe",
     "symbol": "GAL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24530/thumb/GAL-Token-Icon.png?1651483533"
@@ -1914,7 +1923,14 @@
     "name": "Axelar",
     "symbol": "AXL",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg"
+    "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
@@ -1971,5 +1987,142 @@
     "symbol": "PRIME",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/29053/large/PRIMELOGOOO.png?1676976222"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1691458314"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3294395e62F4eB6aF3f1Fcf89f5602D90Fb3Ef69",
+    "name": "Celo native asset (Wormhole)",
+    "symbol": "CELO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x9b88D293b7a791E40d36A39765FFd5A1B9b5c349"
+        },
+        "42161": {
+          "tokenAddress": "0x4E51aC49bC5e2d87e0EF713E9e5AB2D71EF4F336"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
+    "name": "agEur",
+    "symbol": "agEUR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4"
+        },
+        "42161": {
+          "tokenAddress": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7"
+        },
+        "43114": {
+          "tokenAddress": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57"
+        },
+        "56": {
+          "tokenAddress": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x70e8dE73cE538DA2bEEd35d14187F6959a8ecA96",
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/12832/standard/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1696512623",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0xDC3326e71D45186F113a2F448984CA0e8D201995"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x64Bc2cA1Be492bE7185FAA2c8835d9b824c8a194",
+    "name": "Big Time",
+    "symbol": "BIGTIME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32251/standard/-6136155493475923781_121.jpg?1696998691"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+    "name": "GALA",
+    "symbol": "GALA",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/12493/standard/GALA-COINGECKO.png?1696512310"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3",
+    "name": "Ondo Finance",
+    "symbol": "ONDO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf091867EC603A6628eD83D274E835539D82e9cc8",
+    "name": "Zetachain",
+    "symbol": "Zeta",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26718/standard/Twitter_icon.png?1696525788"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCa14007Eff0dB1f8135f4C25B34De49AB0d42766",
+    "name": "Starknet",
+    "symbol": "STRK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png?1696525507"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6E2a43be0B1d33b726f0CA3b8de60b3482b8b050",
+    "name": "Arkham",
+    "symbol": "ARKM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30929/standard/Arkham_Logo_CG.png?1696529771"
+  },
+  {
+    "chainId": 1,
+    "address": "0x62D0A8458eD7719FDAF978fe5929C6D342B0bFcE",
+    "name": "Beam",
+    "symbol": "BEAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32417/standard/chain-logo.png?1698114384"
+  },
+  {
+    "chainId": 1,
+    "address": "0x36E66fbBce51e4cD5bd3C62B637Eb411b18949D4",
+    "name": "Omni Network",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36465/standard/Symbol-Color.png?1711511095"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+    "name": "Safe",
+    "symbol": "SAFE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/27032/standard/Artboard_1_copy_8circle-1.png?1696526084"
   }
 ]

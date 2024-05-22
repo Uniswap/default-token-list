@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Bridged USDC",
+    "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "GMX",
+    "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+    "symbol": "GMX",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
+  },
+  {
+    "name": "MAGIC",
+    "address": "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+    "symbol": "MAGIC",
+    "decimals": 18,
+    "chainId": 42161,
+    "logoURI": "https://dynamic-assets.coinbase.com/30320a63f6038b944c9c0202fcb2392e6a1bd333814f74b4674774dd87f2d06d64fdd74c2f1ab4639917c75b749c323450408bec7a2737af8ae0c17871aa90de/asset_icons/98d278cda11639ed7449a0a3086cd2c83937ce71baf4ee43bb5b777423c00a75.png"
+  }
+]
