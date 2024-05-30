@@ -11,8 +11,7 @@ assignees: ""
 
 **Please provide the following information for your validator.**
 
-Validator Index:
+Validator ID:
 Validator Name:
 Validator Logo URI:
-Link to Twitter:
 Link to website:
