@@ -15,18 +15,18 @@ jobs:
 
       # Install Cloudinary CLI locally
       - name: Install Cloudinary CLI
-        run: |
-          npm install cloudinary-cli
+        run: npm install cloudinary-cli
 
       # Configure Cloudinary Environment Variables
       - name: Configure Cloudinary Environment
         run: |
           echo "CLOUDINARY_URL=cloudinary://${{ secrets.CLOUDINARY_API_KEY }}:${{ secrets.CLOUDINARY_API_SECRET }}@${{ secrets.CLOUDINARY_CLOUD_NAME }}" >> $GITHUB_ENV
 
-      # Upload to Cloudinary
+      # Export Path and Upload to Cloudinary
       - name: Upload to Cloudinary
         run: |
           set -e # Ensure the script fails on error
+          export PATH=$PATH:$(npm bin)
           cld auth
           cld upload_folder ${GITHUB_WORKSPACE}/src/ --recursive true
           echo "Upload to Cloudinary completed successfully."
