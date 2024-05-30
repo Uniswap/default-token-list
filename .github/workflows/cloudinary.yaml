@@ -16,7 +16,7 @@ jobs:
       # Install Cloudinary CLI
       - name: Install Cloudinary CLI
         run: |
-          npm install -g @cloudinary-cli
+          npm install -g cloudinary-cli
 
       # Configure Cloudinary Environment Variables
       - name: Configure Cloudinary Environment
