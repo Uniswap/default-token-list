@@ -16,7 +16,7 @@ jobs:
       # Install Cloudinary CLI
       - name: Install Cloudinary CLI
         run: |
-          npm install -g cloudinary-cli
+          npm install -g @cloudinary-cli
 
       # Configure Cloudinary Environment Variables
       - name: Configure Cloudinary Environment
@@ -31,5 +31,8 @@ jobs:
       - name: Upload to Cloudinary
         run: |
           set -e # Ensure the script fails on error
+          cld auth
           cld upload_folder ${GITHUB_WORKSPACE}/src/ --recursive true
           echo "Upload to Cloudinary completed successfully."
+        env:
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
