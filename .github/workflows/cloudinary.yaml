@@ -3,7 +3,7 @@ name: Deploy to Cloudinary
 on:
   push:
     branches:
-      - main
+      - action
 
 jobs:
   deploy:
@@ -13,26 +13,22 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      # Install Cloudinary CLI
+      # Install Cloudinary CLI locally
       - name: Install Cloudinary CLI
         run: |
-          npm install -g cloudinary-cli
+          npm install cloudinary-cli
 
       # Configure Cloudinary Environment Variables
       - name: Configure Cloudinary Environment
         run: |
-          echo "CLOUDINARY_URL=cloudinary://$CLOUDINARY_API_KEY:$CLOUDINARY_API_SECRET@$CLOUDINARY_CLOUD_NAME" > $GITHUB_ENV
-        env:
-          CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
-          CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
-          CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
+          echo "CLOUDINARY_URL=cloudinary://${{ secrets.CLOUDINARY_API_KEY }}:${{ secrets.CLOUDINARY_API_SECRET }}@${{ secrets.CLOUDINARY_CLOUD_NAME }}" >> $GITHUB_ENV
 
       # Upload to Cloudinary
       - name: Upload to Cloudinary
         run: |
           set -e # Ensure the script fails on error
-          cld auth
-          cld upload_folder ${GITHUB_WORKSPACE}/src/ --recursive true
+          ./node_modules/.bin/cld auth
+          ./node_modules/.bin/cld upload_folder ${GITHUB_WORKSPACE}/src/ --recursive true
           echo "Upload to Cloudinary completed successfully."
         env:
           CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
