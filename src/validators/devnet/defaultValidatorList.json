@@ -2,30 +2,44 @@
   "name": "Devnet Default Validator List",
   "validators": [
     {
-      "address": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator One",
+      "description": "ooga booga validator one",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
     },
     {
-      "address": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Two",
+      "description": "ooga booga validator two",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
     },
     {
-      "address": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
-      "logoURI": ""
-    }
-  ],
-  "validatorMap": {
-    "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe": {
-      "address": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Three",
+      "description": "ooga booga validator three",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
     },
-    "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef": {
-      "address": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    {
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Four",
+      "description": "ooga booga validator four",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
     },
-    "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b": {
-      "address": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
-      "logoURI": ""
+    {
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Five",
+      "description": "ooga booga validator five",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
     }
-  }
+  ]
 }
