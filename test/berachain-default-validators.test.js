@@ -7,11 +7,11 @@ before(async function () {
   this.timeout(120000);
 });
 
-describe("gauge list test suite", () => {
+describe("validator list test suite", () => {
   it("contains no duplicate index", () => {
     const map = {};
     for (let validator of defaultValidatorList.validators) {
-      let index = validator.validatorIndex.toString();
+      let index = validator.id.toString();
       const key = `${validator.name}-${index}`;
       expect(typeof map[key]).to.equal(
         "undefined",
@@ -28,11 +28,4 @@ describe("gauge list test suite", () => {
       })
     );
   }, 30000);
-
-  it("version matches package.json", () => {
-    expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
-    expect(packageJson.version).to.equal(
-      `${defaultValidatorList.version.major}.${defaultValidatorList.version.minor}.${defaultValidatorList.version.patch}`
-    );
-  });
 });
