@@ -1,4 +1,4 @@
-# 🐻@berachain/default-token-list🐻
+# 🐻@berachain/default-lists🐻
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/Berachain/default-token-list/actions?query=workflow%3ATests)
 
