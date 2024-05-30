@@ -27,8 +27,8 @@ jobs:
       - name: Upload to Cloudinary
         run: |
           set -e # Ensure the script fails on error
-          ./node_modules/.bin/cld auth
-          ./node_modules/.bin/cld upload_folder ${GITHUB_WORKSPACE}/src/ --recursive true
+          cld auth
+          cld upload_folder ${GITHUB_WORKSPACE}/src/ --recursive true
           echo "Upload to Cloudinary completed successfully."
         env:
           CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
