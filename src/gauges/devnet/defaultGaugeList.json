@@ -1,59 +1,32 @@
 {
-  "name": "Testnet Default Gauge List",
+  "name": "Devnet Default Gauge List",
+  "products": [
+    {
+      "name": "BEX",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "url": "https://bera.exchange",
+      "description": "its da bex"
+    },
+    {
+      "name": "BEND",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "url": "https://bera.exchange",
+      "description": "is da bend"
+    },
+    {
+      "name": "BERPS",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "url": "https://bera.exchange",
+      "description": "its da berps"
+    }
+  ],
   "gauges": [
     {
-      "address": "0x0000746573745F5f5f5f5f726563656976657232",
-      "name": "DEFAULT GAUGE 1",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
-      "url": ""
-    },
-    {
-      "address": "0x0000746573745F5F5F5F5f726563656976657231",
-      "name": "DEFAULT GAUGE 2",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
-      "url": ""
-    },
-    {
-      "address": "0xa88572F08f79D28b8f864350f122c1CC0AbB0d96",
-      "name": "BERA-HONEY",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
-      "url": ""
-    },
-    {
-      "address": "0x751524E7bAdd31d018A4CAF4e4924a21b0c13CD0",
-      "name": "WBTC-HONEY",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
-      "url": ""
-    },
-    {
-      "address": "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434",
-      "name": "WETH-HONEY",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
-      "url": ""
-    },
-    {
-      "address": "0xAF569D6049651Cf8bF804d28b7cD2f29dE7f9Cb0",
-      "name": "aHONEY",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bend.png",
-      "url": ""
-    },
-    {
-      "address": "0x605fD73B339b82413B862966428eD8Ac52eC4227",
-      "name": "aWBTC",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bend.png",
-      "url": ""
-    },
-    {
-      "address": "0xd4D3d26A30718090d523BD10c05F566837026cd7",
-      "name": "aWETH",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bend.png",
-      "url": ""
-    },
-    {
-      "address": "0xC510A3c994f93e28395f4E371B6a9D4bcEF1663a",
-      "name": "bHONEY",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/berps.png",
-      "url": ""
+      "name": "BERA/HONEY",
+      "product": "BEX",
+      "url": "https://bera.exchange",
+      "gaugeId": "BEX",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
     }
   ],
   "version": {

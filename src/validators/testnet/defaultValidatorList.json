@@ -2,23 +2,25 @@
   "name": "Testnet Default Validator List",
   "validators": [
     {
-      "validatorIndex": 0,
-      "name": "Infrared",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.jpg",
-      "twitter": "https://twitter.com/InfraredCrypto",
-      "website": "https://infraredcrypto.io"
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "name": "Validator One",
+      "description": "A reliable and efficient validator.",
+      "website": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "imageUri": "http://example.com/validator1.png"
     },
     {
-      "validatorIndex": 0,
-      "name": "The Honey Jar",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/thj.jpg",
-      "twitter": "https://twitter.com/TheHoneyJar1",
-      "website": "https://thehoneyjar.io"
+      "id": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
+      "name": "Validator two",
+      "description": "A reliable and efficient validator.",
+      "website": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bgt.png",
+      "imageUri": "http://example.com/validator1.png"
+    },
+    {
+      "id": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
+      "name": "Validator three",
+      "description": "A reliable and efficient validator.",
+      "website": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
+      "imageUri": "http://example.com/validator1.png"
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }

@@ -2,23 +2,44 @@
   "name": "Devnet Default Validator List",
   "validators": [
     {
-      "validatorIndex": 0,
-      "name": "Infrared",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.jpg",
-      "twitter": "https://twitter.com/InfraredCrypto",
-      "website": "https://infraredcrypto.io"
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator One",
+      "description": "ooga booga validator one",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
     },
     {
-      "validatorIndex": 0,
-      "name": "The Honey Jar",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/thj.jpg",
-      "twitter": "https://twitter.com/TheHoneyJar1",
-      "website": "https://thehoneyjar.io"
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Two",
+      "description": "ooga booga validator two",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
+    },
+    {
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Three",
+      "description": "ooga booga validator three",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
+    },
+    {
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Four",
+      "description": "ooga booga validator four",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
+    },
+    {
+      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "name": "Validator Five",
+      "description": "ooga booga validator five",
+      "website": "https://www.google.com",
+      "twitter": "https://www.twitter.com"
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+  ]
 }

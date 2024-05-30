@@ -23,9 +23,13 @@
       "name": "Debt Token",
       "description": "Tokens that are representing debt"
     },
-    "aToken": {
+    "supply": {
       "name": "Supply Token",
-      "description": "Tokens that are representing supply"
+      "description": "Tokens that are representing honey supply"
+    },
+    "deposit": {
+      "name": "Deposit Token",
+      "description": "Tokens that can be deposited in Bend"
     }
   },
 
@@ -68,25 +72,25 @@
     },
     {
       "chainId": 80088,
-      "address": "0xd6CBd3ACf5dC527bAB67916F4EEd054d6035023C",
+      "address": "0x286F1C3f0323dB9c91D1E8f45c8DF2d065AB5fae",
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
-      "tags": ["featured"]
+      "tags": ["featured", "deposit"]
     },
     {
       "chainId": 80088,
-      "address": "0xD408F43Eebb57937A80964F5D7909Ac8EBa84418",
+      "address": "0x6E1E9896e93F7A71ECB33d4386b49DeeD67a231A",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
-      "tags": ["featured"]
+      "tags": ["featured", "deposit"]
     },
     {
       "chainId": 80088,
-      "address": "0x54A519C0C54a5eAa019e72720EA18969224DDc56",
+      "address": "0x0bF0Eb9aE016A624E2149D4C5F47fD9276285C82",
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
@@ -95,12 +99,38 @@
     },
     {
       "chainId": 80088,
-      "address": "0xCdFECE68563708230FbA65B25B749576875174F2",
+      "address": "0xD08391c5977ebF1a09bB5915908EF5cd95Edb7E0",
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
+      "tags": ["supply"]
+    },{
+      "chainId": 80088,
+      "address": "0x8Ce5C1c42CD58B7aE61512790e514a82d84375Ed",
+      "symbol": "aWETH",
+      "name": "WETH aToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
       "tags": ["aToken"]
+    },
+    {
+      "chainId": 80088,
+      "address": "0x0ddb38F7D473e8040985Fa3B4116FDeEF89778bc",
+      "symbol": "aWBTC",
+      "name": "WBTC aToken",
+      "decimals": 8,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
+      "tags": ["aToken"]
+    },
+    {
+      "chainId": 80088,
+      "address": "0x0715B2aF01F6C68B1AD243CFa14B707EaAEd7aeD",
+      "symbol": "bHONEY",
+      "name": "Honey bToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
+      "tags": ["supply"]
     }
   ],
   "gaugeMap": {
