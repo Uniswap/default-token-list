@@ -3,7 +3,7 @@ name: Deploy to Cloudinary
 on:
   push:
     branches:
-      - action
+      - main
 
 jobs:
   deploy:
