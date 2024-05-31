@@ -35,7 +35,7 @@
 
   "tokens": [
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0xC1707a37BDa254D5B54eDeE18b0a5eb2354B3Aa0",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
@@ -44,7 +44,7 @@
       "tags": ["featured"]
     },
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "BERA",
       "name": "Berachain Token",
@@ -53,8 +53,8 @@
       "tags": ["featured"]
     },
     {
-      "chainId": 80088,
-      "address": "0x124363b6D0866118A8b6899F2674856618E0Ea4c",
+      "chainId": 80086,
+      "address": "0x09f1f426481F50d704FFEd89B41b3138E4ba53db",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -62,8 +62,8 @@
       "tags": ["stablecoin", "featured"]
     },
     {
-      "chainId": 80088,
-      "address": "0x0EFa8dc7BbAf439095fc690b723c242c3CA36BB1",
+      "chainId": 80086,
+      "address": "0xA2e76F5aCf428cd4d5ddDD0BADD05D5AC4FA1C95",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
@@ -71,7 +71,7 @@
       "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
     },
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0x286F1C3f0323dB9c91D1E8f45c8DF2d065AB5fae",
       "symbol": "WBTC",
       "name": "WBTC",
@@ -80,7 +80,7 @@
       "tags": ["featured", "deposit"]
     },
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0x6E1E9896e93F7A71ECB33d4386b49DeeD67a231A",
       "symbol": "WETH",
       "name": "WETH",
@@ -89,7 +89,7 @@
       "tags": ["featured", "deposit"]
     },
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0x0bF0Eb9aE016A624E2149D4C5F47fD9276285C82",
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
@@ -98,7 +98,7 @@
       "tags": ["debt"]
     },
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0xD08391c5977ebF1a09bB5915908EF5cd95Edb7E0",
       "symbol": "aHONEY",
       "name": "Honey aToken",
@@ -106,7 +106,7 @@
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["supply"]
     },{
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0x8Ce5C1c42CD58B7aE61512790e514a82d84375Ed",
       "symbol": "aWETH",
       "name": "WETH aToken",
@@ -115,7 +115,7 @@
       "tags": ["aToken"]
     },
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0x0ddb38F7D473e8040985Fa3B4116FDeEF89778bc",
       "symbol": "aWBTC",
       "name": "WBTC aToken",
@@ -124,7 +124,7 @@
       "tags": ["aToken"]
     },
     {
-      "chainId": 80088,
+      "chainId": 80086,
       "address": "0x0715B2aF01F6C68B1AD243CFa14B707EaAEd7aeD",
       "symbol": "bHONEY",
       "name": "Honey bToken",
