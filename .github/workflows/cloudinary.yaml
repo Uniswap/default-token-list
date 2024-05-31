@@ -17,7 +17,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Ensure the required Python version is installed
+          python-version: "3.x" # Ensure the required Python version is installed
 
       # Install Cloudinary CLI using pip3
       - name: Install Cloudinary CLI
@@ -32,7 +32,6 @@ jobs:
       - name: Upload to Cloudinary
         run: |
           set -e # Ensure the script fails on error
-          cld auth
           cld upload_folder ${GITHUB_WORKSPACE}/src/ --recursive true
           echo "Upload to Cloudinary completed successfully."
         env:
