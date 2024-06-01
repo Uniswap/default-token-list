@@ -2,20 +2,26 @@
   "name": "Devnet Default Gauge List",
   "products": [
     {
+      "name": "HONEY",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/honey.png",
+      "url": "https://bera.exchange",
+      "description": "its da honey"
+    },
+    {
       "name": "BEX",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/bex.png",
       "url": "https://bera.exchange",
       "description": "its da bex"
     },
     {
       "name": "BEND",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/bend.png",
       "url": "https://bera.exchange",
       "description": "is da bend"
     },
     {
       "name": "BERPS",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/berps.png",
       "url": "https://bera.exchange",
       "description": "its da berps"
     }
