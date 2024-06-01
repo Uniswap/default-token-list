@@ -21,12 +21,13 @@
     }
   ],
   "gauges": [
-    {
+    { 
+      "id":"0xc1cc17c027f3bddfd708bfd6e77c6e13df80bf10",
+      "gaugeAddress": "0xc1cc17c027f3bddfd708bfd6e77c6e13df80bf10",
       "name": "BERA/HONEY",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
       "product": "BEX",
-      "url": "https://bera.exchange",
-      "gaugeId": "BEX",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+      "url": "https://bera.exchange"
     }
   ],
   "version": {
