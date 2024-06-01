@@ -53,6 +53,15 @@
       "tags": ["featured"]
     },
     {
+      "chainId": 2061,
+      "address": "0x697277B0F681ca67ef3cEFae2021aD3151A67452",
+      "symbol": "BGT",
+      "name": "Bera Governance Token",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bgt.png",
+      "tags": ["featured"]
+    },
+    {
       "chainId": 80086,
       "address": "0x09f1f426481F50d704FFEd89B41b3138E4ba53db",
       "symbol": "HONEY",
