@@ -63,7 +63,7 @@
     },
     {
       "chainId": 80086,
-      "address": "0x09f1f426481F50d704FFEd89B41b3138E4ba53db",
+      "address": "0xB2563AA0adaC10e4d4feFB52D10De45C6D1B8136",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -72,7 +72,7 @@
     },
     {
       "chainId": 80086,
-      "address": "0xA2e76F5aCf428cd4d5ddDD0BADD05D5AC4FA1C95",
+      "address": "0x72794392eb4Ae78b1bdEECB26cF38ddCD9DEAC55",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
