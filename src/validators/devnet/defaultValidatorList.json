@@ -3,7 +3,7 @@
   "validators": [
     {
       "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/infrared.jpg",
       "name": "Validator One",
       "description": "ooga booga validator one",
       "website": "https://www.google.com",
@@ -11,7 +11,7 @@
     },
     {
       "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/infrared.jpg",
       "name": "Validator Two",
       "description": "ooga booga validator two",
       "website": "https://www.google.com",
@@ -19,7 +19,7 @@
     },
     {
       "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/infrared.jpg",
       "name": "Validator Three",
       "description": "ooga booga validator three",
       "website": "https://www.google.com",
@@ -27,7 +27,7 @@
     },
     {
       "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/thj.jpg",
       "name": "Validator Four",
       "description": "ooga booga validator four",
       "website": "https://www.google.com",
@@ -35,7 +35,7 @@
     },
     {
       "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/thj.jpg",
       "name": "Validator Five",
       "description": "ooga booga validator five",
       "website": "https://www.google.com",
