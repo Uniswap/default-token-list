@@ -6,21 +6,21 @@
       "name": "Validator One",
       "description": "A reliable and efficient validator.",
       "website": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
-      "imageUri": "http://example.com/validator1.png"
+      "imageUri": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/infrared.jpg"
     },
     {
       "id": "0x82Cf147a9aC43A84D30f71f8a627492D08e485Ef",
       "name": "Validator two",
       "description": "A reliable and efficient validator.",
       "website": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bgt.png",
-      "imageUri": "http://example.com/validator1.png"
+      "imageUri": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/thj.jpg"
     },
     {
       "id": "0xE7E474C22Ea47EbD5212B310F2E7Ae8c7ce70b4b",
       "name": "Validator three",
       "description": "A reliable and efficient validator.",
       "website": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
-      "imageUri": "http://example.com/validator1.png"
+      "imageUri": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/validator-assets/thj.jpg"
     }
   ]
 }

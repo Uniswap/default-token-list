@@ -32,7 +32,7 @@ jobs:
       - name: Upload to Cloudinary
         run: |
           set -e # Ensure the script fails on error
-          cld upload_dir -e ${GITHUB_WORKSPACE}/src/
+          cld upload_dir ${GITHUB_WORKSPACE}/src/ -o overwrite true -o use_filename true -o unique_filename false
           echo "Upload to Cloudinary completed successfully."
         env:
           CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
