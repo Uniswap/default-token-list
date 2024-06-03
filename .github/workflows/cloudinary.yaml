@@ -3,7 +3,7 @@ name: Deploy to Cloudinary
 on:
   push:
     branches:
-      - main
+      - action
 
 jobs:
   deploy:
@@ -32,7 +32,7 @@ jobs:
       - name: Upload to Cloudinary
         run: |
           set -e # Ensure the script fails on error
-          cld upload_dir -e ${GITHUB_WORKSPACE}/src/
+          cld upload_dir -e --overwrite true --use_filename true --unique_filename false ${GITHUB_WORKSPACE}/src/
           echo "Upload to Cloudinary completed successfully."
         env:
           CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
