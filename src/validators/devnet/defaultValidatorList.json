@@ -2,7 +2,7 @@
   "name": "Devnet Default Validator List",
   "validators": [
     {
-      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "id": "0xB32C788C293e7779DB63bb3342F3dF59BdF7D6e5",
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
       "name": "Validator One",
       "description": "ooga booga validator one",
@@ -10,7 +10,7 @@
       "twitter": "https://www.twitter.com"
     },
     {
-      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "id": "0xd3Ae0e18e61CF9469b2d182f290bD16faF64E91D",
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
       "name": "Validator Two",
       "description": "ooga booga validator two",
@@ -18,7 +18,7 @@
       "twitter": "https://www.twitter.com"
     },
     {
-      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "id": "0x8c1DB3F893604C5398495A6d1E8Bc7DF18497803",
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
       "name": "Validator Three",
       "description": "ooga booga validator three",
@@ -26,7 +26,7 @@
       "twitter": "https://www.twitter.com"
     },
     {
-      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "id": "0xc900E813ff49DD72356C8BE79065ee055Ec1C80b",
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
       "name": "Validator Four",
       "description": "ooga booga validator four",
@@ -34,7 +34,7 @@
       "twitter": "https://www.twitter.com"
     },
     {
-      "id": "0x6B7C3B5c0928cf8D0B516b358a1e3aecf5E9AFBe",
+      "id": "0x06df557293c192c202A5f44372C302a145bb6cb6",
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/validator-assets/infrared.png",
       "name": "Validator Five",
       "description": "ooga booga validator five",
