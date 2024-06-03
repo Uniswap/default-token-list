@@ -4,36 +4,36 @@
     {
       "name": "HONEY",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/honey.png",
-      "url": "https://bera.exchange",
-      "description": "its da honey"
+      "url": "https://honey.app",
+      "description": "A stablecoin that's integral to the Berachain ecosystem. Utilize HONEY for seamless trading, ensuring value consistency."
     },
     {
       "name": "BEX",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/bex.png",
-      "url": "https://bera.exchange",
-      "description": "its da bex"
+      "url": "https://bex.app",
+      "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
     },
     {
       "name": "BEND",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/bend.png",
-      "url": "https://bera.exchange",
-      "description": "is da bend"
+      "url": "https://bend.app",
+      "description": "Supply assets and unlock the potential to borrow HONEY. Earn BGT rewards while you supply and borrow."
     },
     {
       "name": "BERPS",
       "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/berps.png",
-      "url": "https://bera.exchange",
-      "description": "its da berps"
+      "url": "https://perp.app",
+      "description": "Experience the thrill of high leverage trading, tailored for both novices and seasoned traders. With an impressive 100x leverage."
     }
   ],
   "gauges": [
     { 
-      "id":"0xc1cc17c027f3bddfd708bfd6e77c6e13df80bf10",
-      "gaugeAddress": "0xc1cc17c027f3bddfd708bfd6e77c6e13df80bf10",
+      "id":"0x1ce693737c65f958bc0875014b0412fdbe25ab03",
+      "gaugeAddress": "0x1ce693737c65f958bc0875014b0412fdbe25ab03",
       "name": "BERA/HONEY",
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
       "product": "BEX",
-      "url": "https://bera.exchange"
+      "url": "https://dex.app/pool/0x1ce693737c65f958bc0875014b0412fdbe25ab03"
     }
   ],
   "version": {
