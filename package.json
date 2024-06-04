@@ -1,6 +1,6 @@
 {
   "name": "fathom-swap-standard-token-list",
-  "version": "1.7.9",
+  "version": "1.8.0",
   "description": "◦ The Fathom Swap default token list",
   "main": "build/fathom-swap-default.tokenlist.json",
   "scripts": {

@@ -19,7 +19,7 @@
     "name": "xUSDT",
     "address": "0x9dD4761Bd68169478a06156c0C1416fB9506BE78",
     "symbol": "xUSDT",
-    "decimals": 18,
+    "decimals": 6,
     "chainId": 51,
     "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/apothem/assets/0x82b4334F5CD8385f55969BAE0A863a0C6eA9F63f/logo.png"
   },
