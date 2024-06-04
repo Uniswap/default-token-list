@@ -28,8 +28,8 @@
   ],
   "gauges": [
     { 
-      "receiptTokenAddress":"0x1ce693737c65f958bc0875014b0412fdbe25ab03",
-      "vaultAddress": "0x6c893f63e72ad939a2b67f1ee5137efa92b4b7c3",
+      "receiptTokenAddress":"0x6C893F63e72Ad939a2b67f1EE5137Efa92B4B7C3",
+      "vaultAddress": "0x1cE693737c65f958bC0875014B0412FDBE25Ab03",
       "name": "BERA/HONEY",
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
       "product": "BEX",
