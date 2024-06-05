@@ -23,13 +23,12 @@ assignees: ''
     "categoryIcon": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bera.png"
 },
 ```
-
-Gauge Address:
-Gauge Name:
-Gauge Logo:
-Gauge URL:
-Gauge Category Name (i.e. BEX Liquidity Pool):
-Gauge Category Icon:
+- Gauge Address:
+- Gauge Name:
+- Gauge Logo:
+- Gauge URL:
+- Gauge Category Name (i.e. BEX Liquidity Pool):
+- Gauge Category Icon:
 
 this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827`.
 
