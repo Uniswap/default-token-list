@@ -1,9 +1,10 @@
 ---
 name: Token Request
 about: Request a token addition
-title: "Add {TOKEN_SYMBOL}: {TOKEN_NAME}"
+title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
 labels: token request
-assignees: ""
+assignees: ''
+
 ---
 
 - [ ] I understand that token listing is not required to use the Berachain DEX with a token.
@@ -30,4 +31,8 @@ Token Decimals (from contract):
 Token Symbol (from contract):
 Token Logo URI:
 Tags:
-Please add your token icon to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${token_name}.png`.
+
+this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827`.
+
+an example :
+`https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${asset_file_name}`

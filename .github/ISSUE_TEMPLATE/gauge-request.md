@@ -1,9 +1,10 @@
 ---
 name: Gauge Request
 about: Request a gauge addition
-title: "Add {GAUGE_NAME}"
+title: Add {GAUGE_NAME}
 labels: gauge request
-assignees: ""
+assignees: ''
+
 ---
 
 - [ ] I understand that gauge listing is not required to use the Berachain DEX.
@@ -29,4 +30,8 @@ Gauge Logo:
 Gauge URL:
 Gauge Category Name (i.e. BEX Liquidity Pool):
 Gauge Category Icon:
-Please add your gauge logo to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${gauge_name}.png`.
+
+this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827`.
+
+an example :
+`https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${asset_file_name}`
