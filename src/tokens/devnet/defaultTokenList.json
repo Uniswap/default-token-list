@@ -30,6 +30,10 @@
     "deposit": {
       "name": "Deposit Token",
       "description": "Tokens that can be deposited in Bend"
+    }, 
+    "rewardToken": {
+      "name": "Reward Token",
+      "description": "Tokens that are used for vault deposits to earn BGT rewards"
     }
   },
 
@@ -140,6 +144,14 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
       "tags": ["supply"]
+    }, {
+      "chainId": 80086,
+      "address": "0x1cE693737c65f958bC0875014B0412FDBE25Ab03",
+      "symbol": "BERA-HONEY",
+      "name": "BERA-HONEY",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "tags": ["rewardToken"]
     }
   ],
   "gaugeMap": {
