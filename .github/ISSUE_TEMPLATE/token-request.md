@@ -10,13 +10,24 @@ assignees: ""
 - [ ] I understand that filing an issue or adding liquidity does not guarantee addition to the Berachain default token list.
 - [ ] I will not ping the Discord about this listing request.
 
-**Please provide the following information for your token.**
+**Please follow the format for adding your token.**
+
+```json
+{
+    "chainId": 80086,
+    "address": "0x0D4cfB3dF14Cf9eC9A2B56551d3d6b1b9d21AeB0",
+    "symbol": "WBERA",
+    "name": "Wrapped Berachain Token",
+    "decimals": 18,
+    "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/wbera.png",
+    "tags": ["featured"]
+},
+```
 
 Token Address:
 Token Name (from contract):
 Token Decimals (from contract):
 Token Symbol (from contract):
-Uniswap V2 Pair Address of Token:
-
-Link to the official homepage of token:
-Link to CoinMarketCap or CoinGecko page of token:
+Token Logo URI:
+Tags:
+Please add your token icon to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${token_name}.png`.
