@@ -25,12 +25,13 @@ assignees: ''
 },
 ```
 
-Token Address:
-Token Name (from contract):
-Token Decimals (from contract):
-Token Symbol (from contract):
-Token Logo URI:
-Tags:
+chainId: chainId of the chain 
+address: token address
+symbol: token symbol
+name: token name
+decimals: token decimals
+logoURI: path to token icon in default-list repo
+tags: [(optional)] leave empty array if not tags
 
 this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827`.
 
