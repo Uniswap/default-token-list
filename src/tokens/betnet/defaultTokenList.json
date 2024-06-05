@@ -1,0 +1,184 @@
+{
+  "name": "Devnet Default Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": ["devnet"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "collateral": {
+      "name": "Collateral",
+      "description": "Tokens that are used to mint Honey"
+    },
+    "defaultCollateral": {
+      "name": "Default Collateral",
+      "description": "default token used in Honey"
+    },
+    "featured": {
+      "name": "Featured",
+      "description": "Tokens that are featured"
+    },
+    "debt": {
+      "name": "Debt Token",
+      "description": "Tokens that are representing debt"
+    },
+    "supply": {
+      "name": "Supply Token",
+      "description": "Tokens that are representing honey supply"
+    },
+    "deposit": {
+      "name": "Deposit Token",
+      "description": "Tokens that can be deposited in Bend"
+    }, 
+    "rewardToken": {
+      "name": "Reward Token",
+      "description": "Tokens that are used for vault deposits to earn BGT rewards"
+    }
+  },
+
+  "tokens": [
+    {
+      "chainId": 80086,
+      "address": "0x0D4cfB3dF14Cf9eC9A2B56551d3d6b1b9d21AeB0",
+      "symbol": "WBERA",
+      "name": "Wrapped Berachain Token",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/wbera.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BERA",
+      "name": "Berachain Token",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 2061,
+      "address": "0x5903ebb4012750FC020D9729ad310B4f5766bCB3",
+      "symbol": "BGT",
+      "name": "Bera Governance Token",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bgt.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0xE956cc564E2Ca8AcB89Ed138044d691E83377839",
+      "symbol": "HONEY",
+      "name": "Honey",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
+      "tags": ["stablecoin", "featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x72794392eb4Ae78b1bdEECB26cF38ddCD9DEAC55",
+      "symbol": "STGUSDC",
+      "name": "Stable Collateral USD Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
+      "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x286F1C3f0323dB9c91D1E8f45c8DF2d065AB5fae",
+      "symbol": "WBTC",
+      "name": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
+      "tags": ["featured", "deposit"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x6E1E9896e93F7A71ECB33d4386b49DeeD67a231A",
+      "symbol": "WETH",
+      "name": "WETH",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
+      "tags": ["featured", "deposit"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x0bF0Eb9aE016A624E2149D4C5F47fD9276285C82",
+      "symbol": "vdHONEY",
+      "name": "Honey Variable Debt Token",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
+      "tags": ["debt"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0xD08391c5977ebF1a09bB5915908EF5cd95Edb7E0",
+      "symbol": "aHONEY",
+      "name": "Honey aToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
+      "tags": ["supply"]
+    },{
+      "chainId": 80086,
+      "address": "0x8Ce5C1c42CD58B7aE61512790e514a82d84375Ed",
+      "symbol": "aWETH",
+      "name": "WETH aToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/eth.png",
+      "tags": ["aToken"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x0ddb38F7D473e8040985Fa3B4116FDeEF89778bc",
+      "symbol": "aWBTC",
+      "name": "WBTC aToken",
+      "decimals": 8,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/btc.png",
+      "tags": ["aToken"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x0715B2aF01F6C68B1AD243CFa14B707EaAEd7aeD",
+      "symbol": "bHONEY",
+      "name": "Honey bToken",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
+      "tags": ["supply"]
+    }, {
+      "chainId": 80086,
+      "address": "0x1cE693737c65f958bC0875014B0412FDBE25Ab03",
+      "symbol": "BERA-HONEY",
+      "name": "BERA-HONEY",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "tags": ["rewardToken"]
+    }
+  ],
+  "gaugeMap": {
+    "0x0000746573745F5f5f5f5f726563656976657232": {
+      "address": "0x0000746573745F5f5f5f5f726563656976657232",
+      "name": "DEFAULT GAUGE 1",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    },
+    "0x0000746573745F5F5F5F5f726563656976657231": {
+      "address": "0x0000746573745F5F5F5F5f726563656976657231",
+      "name": "DEFAULT GAUGE 2",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    },
+    "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8": {
+      "address": "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8",
+      "name": "BERPS GAUGE",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png"
+    },
+    "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434": {
+      "address": "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434",
+      "name": "Honey-USDC Gauge",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+    }
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
