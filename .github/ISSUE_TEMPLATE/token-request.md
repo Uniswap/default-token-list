@@ -24,10 +24,10 @@ assignees: ""
 },
 ```
 
-Token Address:
-Token Name (from contract):
-Token Decimals (from contract):
-Token Symbol (from contract):
-Token Logo URI:
-Tags:
-Please add your token icon to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${token_name}.png`.
+- Token Address:
+- Token Name (from contract):
+- Token Decimals (from contract):
+- Token Symbol (from contract):
+- Token Logo URI:
+- Tags:
+  Please add your token icon to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${token_name}.png`.

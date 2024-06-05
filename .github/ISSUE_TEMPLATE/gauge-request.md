@@ -23,10 +23,10 @@ assignees: ""
 },
 ```
 
-Gauge Address:
-Gauge Name:
-Gauge Logo:
-Gauge URL:
-Gauge Category Name (i.e. BEX Liquidity Pool):
-Gauge Category Icon:
-Please add your gauge logo to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${gauge_name}.png`.
+- Gauge Address:
+- Gauge Name:
+- Gauge Logo:
+- Gauge URL:
+- Gauge Category Name (i.e. BEX Liquidity Pool):
+- Gauge Category Icon:
+  Please add your gauge logo to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${gauge_name}.png`.

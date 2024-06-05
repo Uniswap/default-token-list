@@ -22,10 +22,10 @@ assignees: ""
 },
 ```
 
-Validator ID:
-Validator Name:
-Validator Logo URI:
-Validator Description:
-Link to website:
-Link to twitter:
-Please add your validator icon to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${validator_name}.png`.
+- Validator ID:
+- Validator Name:
+- Validator Logo URI:
+- Validator Description:
+- Link to website:
+- Link to twitter:
+  Please add your validator icon to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${validator_name}.png`.
