@@ -1,9 +1,10 @@
 ---
 name: Token Request
 about: Request a token addition
-title: "Add {TOKEN_SYMBOL}: {TOKEN_NAME}"
+title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
 labels: token request
-assignees: ""
+assignees: ''
+
 ---
 
 - [ ] I understand that token listing is not required to use the Berachain DEX with a token.
@@ -23,11 +24,17 @@ assignees: ""
     "tags": ["featured"]
 },
 ```
+- chainId: chainId of the chain 
+- address: token address
+- symbol: token symbol
+- name: token name
+- decimals: token decimals
+- logoURI: path to token icon in default-list repo
+- tags: [(optional)] leave empty array if not tags
 
-- Token Address:
-- Token Name (from contract):
-- Token Decimals (from contract):
-- Token Symbol (from contract):
-- Token Logo URI:
-- Tags:
-  Please add your token icon to the src/assets folder and structure the logoURI field in the format of `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${token_name}.png`.
+this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827`.
+
+an example :
+`https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${asset_file_name}`
+
+ℹ️ AFTER OPENING AN ISSUE, CREATE A BRANCH AND ADD YOUR CHANGES. WHEN READY, CREATE A PR AND LINK YOUR ISSUE IN THE PR 🚀
