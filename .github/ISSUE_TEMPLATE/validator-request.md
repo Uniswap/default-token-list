@@ -22,13 +22,12 @@ assignees: ''
     "twitter": "https://www.twitter.com"
 },
 ```
-
-Validator ID:
-Validator Name:
-Validator Logo URI:
-Validator Description:
-Link to website:
-Link to twitter:
+id: validator fee recipient
+logoURI: path to validator icon in default-list repo
+name: validator name
+description (optional): a short description for the validator
+website (optional): a validator's website
+twitter (optiona): a validator's twitter account url 
 
 this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827`.
 
