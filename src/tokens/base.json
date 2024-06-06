@@ -70,5 +70,13 @@
         "symbol": "AERO",
         "decimals": 18,
         "logoURI": "https://basescan.org/token/images/aerodrome_32.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x7c627562844C7A424EfE9485198eff4FBbD883c6",
+        "name": "BullDog",
+        "symbol": "BOG",
+        "decimals": 18,
+        "logoURI": "https://static.wixstatic.com/media/739f77_21e1f270b0844bb4b641e8e4d17d4e15~mv2.png"
     }
 ]
