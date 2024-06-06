@@ -2116,5 +2116,37 @@
     "symbol": "SAFE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/27032/standard/Artboard_1_copy_8circle-1.png?1696526084"
+  },
+  {
+    "chainId": 1,
+    "address": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+    "name": "Ethena",
+    "symbol": "ENA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36530/standard/ethena.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xFe0c30065B384F05761f15d0CC899D4F9F9Cc0eB",
+    "name": "Ether.fi",
+    "symbol": "ETHFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35958/standard/etherfi.jpeg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8457CA5040ad67fdebbCC8EdCE889A335Bc0fbFB",
+    "name": "AltLayer",
+    "symbol": "ALT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34608/standard/Logomark_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB528edBef013aff855ac3c50b381f253aF13b997",
+    "name": "Aevo",
+    "symbol": "AEVO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35893/standard/aevo.png"
   }
 ]
