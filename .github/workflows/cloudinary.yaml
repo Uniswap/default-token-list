@@ -3,7 +3,7 @@ name: Deploy to Cloudinary
 on:
   push:
     branches:
-      - uniqName
+      - main
 
 jobs:
   deploy:
