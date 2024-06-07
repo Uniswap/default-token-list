@@ -40,7 +40,7 @@
   "tokens": [
     {
       "chainId": 80084,
-      "address": "0x0D4cfB3dF14Cf9eC9A2B56551d3d6b1b9d21AeB0",
+      "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
@@ -67,7 +67,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0xE956cc564E2Ca8AcB89Ed138044d691E83377839",
+      "address": "0x0E4aaF1351de4c0264C5c7056Ef3777b41BD8e03",
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
@@ -76,7 +76,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x72794392eb4Ae78b1bdEECB26cF38ddCD9DEAC55",
+      "address": "0xd6D83aF58a19Cd14eF3CF6fe848C9A4d21e5727c",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
       "decimals": 18,
