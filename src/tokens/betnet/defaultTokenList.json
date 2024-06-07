@@ -44,7 +44,7 @@
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/wbera.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/wbera.png",
       "tags": ["featured"]
     },
     {
@@ -53,7 +53,7 @@
       "symbol": "BERA",
       "name": "Berachain Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bera.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png",
       "tags": ["featured"]
     },
     {
@@ -62,7 +62,7 @@
       "symbol": "BGT",
       "name": "Bera Governance Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bgt.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bgt.png",
       "tags": ["featured"]
     },
     {
@@ -71,7 +71,7 @@
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/honey.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     },
     {
@@ -89,7 +89,7 @@
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/btc.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/btc.png",
       "tags": ["featured", "deposit"]
     },
     {
@@ -98,7 +98,7 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/eth.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/eth.png",
       "tags": ["featured", "deposit"]
     },
     {
@@ -107,7 +107,7 @@
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/honey.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "tags": ["debt"]
     },
     {
@@ -116,7 +116,7 @@
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/honey.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "tags": ["supply"]
     },
     {
@@ -125,7 +125,7 @@
       "symbol": "aWETH",
       "name": "WETH aToken",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/eth.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/eth.png",
       "tags": ["aToken"]
     },
     {
@@ -134,7 +134,7 @@
       "symbol": "aWBTC",
       "name": "WBTC aToken",
       "decimals": 8,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/btc.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/btc.png",
       "tags": ["aToken"]
     },
     {
@@ -143,7 +143,7 @@
       "symbol": "bHONEY",
       "name": "Honey bToken",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bhoney.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bhoney.png",
       "tags": ["supply"]
     },
     {
@@ -152,7 +152,7 @@
       "symbol": "BERA-HONEY",
       "name": "BERA-HONEY",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bera.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png",
       "tags": ["rewardToken"]
     }
   ],
@@ -160,17 +160,17 @@
     "0x0000746573745F5f5f5f5f726563656976657232": {
       "address": "0x0000746573745F5f5f5f5f726563656976657232",
       "name": "DEFAULT GAUGE 1",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bera.png"
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png"
     },
     "0x0000746573745F5F5F5F5f726563656976657231": {
       "address": "0x0000746573745F5F5F5F5f726563656976657231",
       "name": "DEFAULT GAUGE 2",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bera.png"
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png"
     },
     "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8": {
       "address": "0x24A1d1aDB141cAC4Cd85e72FC16513891554Aaf8",
       "name": "BERPS GAUGE",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bera.png"
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png"
     },
     "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434": {
       "address": "0x101f52c804C1C02c0A1D33442ecA30ecb6fB2434",
