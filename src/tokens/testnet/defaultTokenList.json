@@ -36,7 +36,7 @@
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/wbera.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/wbera.png",
       "tags": ["featured"]
     },
     {
@@ -45,7 +45,7 @@
       "symbol": "BERA",
       "name": "Berachain Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bera.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png",
       "tags": ["featured"]
     },
     {
@@ -54,7 +54,7 @@
       "symbol": "BGT",
       "name": "Bera Governance Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/bgt.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bgt.png",
       "tags": ["featured"]
     },
     {
@@ -72,7 +72,7 @@
       "symbol": "HONEY",
       "name": "Honey",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/honey.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "tags": ["stablecoin", "featured"]
     },
     {
@@ -81,7 +81,7 @@
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/btc.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/btc.png",
       "tags": ["featured"]
     },
     {
@@ -90,7 +90,7 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/eth.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/eth.png",
       "tags": ["featured"]
     },
     {
@@ -99,7 +99,7 @@
       "symbol": "vdHONEY",
       "name": "Honey Variable Debt Token",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/honey.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "tags": ["debt"]
     },
     {
@@ -108,7 +108,7 @@
       "symbol": "aHONEY",
       "name": "Honey aToken",
       "decimals": 18,
-      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/honey.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "tags": ["aToken"]
     }
   ],

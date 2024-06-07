@@ -3,43 +3,43 @@
   "products": [
     {
       "name": "HONEY",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/honey.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "url": "https://honey.app",
       "description": "A stablecoin that's integral to the Berachain ecosystem. Utilize HONEY for seamless trading, ensuring value consistency."
     },
     {
       "name": "BEX",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/bex.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bex.png",
       "url": "https://bex.app",
       "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
     },
     {
       "name": "BEND",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/bend.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bend.png",
       "url": "https://bend.app",
       "description": "Supply assets and unlock the potential to borrow HONEY. Earn BGT rewards while you supply and borrow."
     },
     {
       "name": "BERPS",
-      "logoURI": "https://raw.githubusercontent.com/berachain/default-token-list/main/src/gauge-assets/berps.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/berps.png",
       "url": "https://perp.app",
       "description": "Experience the thrill of high leverage trading, tailored for both novices and seasoned traders. With an impressive 100x leverage."
     }
   ],
   "gauges": [
-    { 
-      "receiptTokenAddress":"0x80b249cb0e0a7029ebd703af3f500305a9d46f05",
+    {
+      "receiptTokenAddress": "0x80b249cb0e0a7029ebd703af3f500305a9d46f05",
       "vaultAddress": "0x80b249cb0e0a7029ebd703af3f500305a9d46f05",
       "name": "BERA/HONEY",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png",
       "product": "BEX",
       "url": "https://dex.app/pool/0x1ce693737c65f958bc0875014b0412fdbe25ab03"
     },
-    { 
-      "receiptTokenAddress":"0x1cE693737c65f958bC0875014B0412FDBE25Ab03",
+    {
+      "receiptTokenAddress": "0x1cE693737c65f958bC0875014B0412FDBE25Ab03",
       "vaultAddress": "0x6C893F63e72Ad939a2b67f1EE5137Efa92B4B7C3",
       "name": "BERA/HONEY",
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png",
       "product": "BEX",
       "url": "https://dex.app/pool/0x1ce693737c65f958bc0875014b0412fdbe25ab03"
     }

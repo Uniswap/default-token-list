@@ -1,10 +1,9 @@
 ---
 name: Token Request
 about: Request a token addition
-title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
+title: "Add {TOKEN_SYMBOL}: {TOKEN_NAME}"
 labels: token request
-assignees: ''
-
+assignees: ""
 ---
 
 - [ ] I understand that token listing is not required to use the Berachain DEX with a token.
@@ -20,11 +19,12 @@ assignees: ''
     "symbol": "WBERA",
     "name": "Wrapped Berachain Token",
     "decimals": 18,
-    "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/wbera.png",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/wbera.png",
     "tags": ["featured"]
 },
 ```
-- chainId: chainId of the chain 
+
+- chainId: chainId of the chain
 - address: token address
 - symbol: token symbol
 - name: token name
@@ -32,9 +32,9 @@ assignees: ''
 - logoURI: path to token icon in default-list repo
 - tags: [(optional)] leave empty array if not tags
 
-this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/image/upload/v1717433827`.
+this repository is uploaded to cloudinary for improved availability. Please upload your relevant assets under the `assets/` folder and prefix the path in this json file with `https://res.cloudinary.com/duv0g402y/raw/upload/`.
 
 an example :
-`https://res.cloudinary.com/duv0g402y/image/upload/v1717433827/src/assets/${asset_file_name}`
+`https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/${asset_file_name}`
 
 ℹ️ AFTER OPENING AN ISSUE, CREATE A BRANCH AND ADD YOUR CHANGES. WHEN READY, CREATE A PR AND LINK YOUR ISSUE IN THE PR 🚀
