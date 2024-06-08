@@ -2,44 +2,132 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
-      "id": "0xB32C788C293e7779DB63bb3342F3dF59BdF7D6e5",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/validator-assets/infrared.jpg",
-      "name": "Validator One",
-      "description": "ooga booga validator one",
-      "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "id": "0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01",
+      "logoURI": "",
+      "name": "Quantum Labs",
+      "description": "Quantum Labs staking validator for secure transactions.",
+      "website": "",
+      "twitter": ""
     },
     {
-      "id": "0xd3Ae0e18e61CF9469b2d182f290bD16faF64E91D",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/validator-assets/infrared.jpg",
-      "name": "Validator Two",
-      "description": "ooga booga validator two",
-      "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "id": "0x3bd0E8f1B1E8Ec99a4E1762F4058F9884C93af31",
+      "logoURI": "",
+      "name": "Nexa Solutions",
+      "description": "Nexa Solutions staking validator for efficient blockchain operations.",
+      "website": "",
+      "twitter": ""
     },
     {
-      "id": "0x8c1DB3F893604C5398495A6d1E8Bc7DF18497803",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/validator-assets/infrared.jpg",
-      "name": "Validator Three",
-      "description": "ooga booga validator three",
-      "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "id": "0xD073a84e2ccDF91a9025179330438485E886D206",
+      "logoURI": "",
+      "name": "Hyperion Inc.",
+      "description": "Hyperion Inc. staking validator with top-notch security.",
+      "website": "",
+      "twitter": ""
     },
     {
-      "id": "0xc900E813ff49DD72356C8BE79065ee055Ec1C80b",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/validator-assets/infrared.jpg",
-      "name": "Validator Four",
-      "description": "ooga booga validator four",
-      "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
+      "id": "0x8a88215ae882dfA519730c40109556c1C235729f",
+      "logoURI": "",
+      "name": "Vortex Dog",
+      "description": "Vortex Dog staking validator for rapid transaction validation.",
+      "website": "",
+      "twitter": ""
     },
     {
-      "id": "0x06df557293c192c202A5f44372C302a145bb6cb6",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/validator-assets/infrared.jpg",
-      "name": "Validator Five",
-      "description": "ooga booga validator five",
-      "website": "https://www.google.com",
-      "twitter": "https://www.twitter.com"
-    }
+      "id": "0x1a0A57e5e6a66aD732295ddAF0aed286a4e64310",
+      "logoURI": "",
+      "name": "Synapse Labs",
+      "description": "Synapse Labs staking validator for reliable and fast transactions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x185F4Eebd01614aE3d12a5E49b184B054C46d37B",
+      "logoURI": "",
+      "name": "Cypher Inc.",
+      "description": "Cypher Inc. staking validator for secure and private transactions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xdb96E9cDD1e457b602f97d33e51736D7a5216496",
+      "logoURI": "",
+      "name": "Aether Solutions",
+      "description": "Aether Solutions staking validator for seamless blockchain integration.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x44a5FBfa7d6f3Fd92cca01f6764509f8Fc33dfa5",
+      "logoURI": "",
+      "name": "Fluxion Labs",
+      "description": "Fluxion Labs staking validator for high-speed transaction processing.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x3649839562C8dA64E6215EB0f5371629Ead9729D",
+      "logoURI": "",
+      "name": "Zenith Inc.",
+      "description": "Zenith Inc. staking validator for maximum reliability and uptime.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x51e15e71c865FE702C9347610667f83658A20e00",
+      "logoURI": "",
+      "name": "Innovix Dog",
+      "description": "Innovix Dog staking validator for innovative blockchain solutions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xBC9BC89b295a14F3976234Cc37C73e3D286f3a49",
+      "logoURI": "",
+      "name": "OmniCore Labs",
+      "description": "OmniCore Labs staking validator for comprehensive blockchain support.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x12De044207a90709Ef2602D3D9D945d64dAe6147",
+      "logoURI": "",
+      "name": "Aero Solutions",
+      "description": "Aero Solutions staking validator for lightweight and fast transactions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0x4Afe0DFDAcc91F0fA2AEe39F9eAd66b64d03EbD6",
+      "logoURI": "",
+      "name": "Helix Inc.",
+      "description": "Helix Inc. staking validator for robust and scalable solutions.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xBC3c03b4185A6F10618CC4E7B9f4AdD59AB5FbbA",
+      "logoURI": "",
+      "name": "Vertex Dog",
+      "description": "Vertex Dog staking validator for pinnacle performance.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xDc6De65f6070b409125217a12Cf576A208Cc1998",
+      "logoURI": "",
+      "name": "Lumina Labs",
+      "description": "Lumina Labs staking validator for bright and efficient operations.",
+      "website": "",
+      "twitter": ""
+    },
+    {
+      "id": "0xF60fD8632Fc77E19b3A0637d115d0fdd06F36968",
+      "logoURI": "",
+      "name": "Aether Labs",
+      "description": "Aether Labs staking validator for seamless blockchain integration.",
+      "website": "",
+      "twitter": ""
+    }    
   ]
 }
