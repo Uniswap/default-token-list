@@ -79,7 +79,7 @@
       "address": "0xd6D83aF58a19Cd14eF3CF6fe848C9A4d21e5727c",
       "symbol": "STGUSDC",
       "name": "Stable Collateral USD Coin",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "tags": ["stablecoin", "collateral", "featured", "defaultCollateral"]
     },
