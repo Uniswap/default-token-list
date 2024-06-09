@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x72cA77Dc5ef7C251e1fc84A74DDE580c0452A3b6",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nocturnal.jpg",
+      "name": "Nocturnal Labs",
+      "description": "Drinks for all the Beras!",
+      "website": "https://www.nocturnallabs.org/",
+      "twitter": "https://twitter.com/nct_labs"
+    },
+    {
       "id": "0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01",
       "logoURI": "",
       "name": "Quantum Labs",
@@ -136,6 +144,14 @@
     "description": "Informal Systems x Cephalopod Equipment - infrastructure for decentralized intelligence",
     "website": "https://www.informal.systems",
     "twitter": "https://x.com/informalinc"
+    },
+    {
+    "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+    "name": "Provalidator",
+    "description": "Supporting Blockchain Infrastructure",
+    "website": "https://provalidator.com",
+    "twitter": "https://x.com/Provalidator"
     }
   ]
 }
