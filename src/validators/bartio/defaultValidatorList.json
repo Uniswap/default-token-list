@@ -327,6 +327,14 @@
       "description": "SenseiNode is the first institutional-level blockchain infrastructure provider in Latin America",
       "website": "https://www.senseinode.com",
       "twitter": "https://x.com/SenseiNode"
+    },
+    {
+      "id": "0x1Cc335D9c67a71C777282fdb28b0a2d5eBf42AF4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/flipside.png",
+      "name": "Flipside",
+      "description": "Explore the best data and insights in Web3.",
+      "website": "https://flipsidecrypto.xyz",
+      "twitter": "https://www.twitter.com/flipsidecrypto"
     }
   ]
 }
