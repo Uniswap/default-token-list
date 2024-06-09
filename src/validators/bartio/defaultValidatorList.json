@@ -194,6 +194,14 @@
       "twitter": ""
     },
     {
+      "id": "0xC5b889a28950e7F8c1F279f758d8a0ab1C89cC38",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/StakeLab.png",
+      "name": "StakeLab",
+      "description": "Staking and relaying Hub for Cosmos ecosystem",
+      "website": "https://www.stakelab.zone",
+      "twitter": "https://x.com/StakeLab"
+    },   
+    {
       "id": "0x4AfB6199d1A92D1236cAa74b8dFE99F1EA3A8fF2",
       "logoURI": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/main/logo-no-background.png",
       "name": "StakeUs",
