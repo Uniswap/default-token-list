@@ -138,6 +138,14 @@
       "twitter": ""
     },
     {
+      "id": "0xd1e53f65434838c6DCeC6c9112a30BA57E753E77",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/republic-crypto.png",
+      "name": "Republic Crypto",
+      "description": "Republic Crypto provides infrastructure for institutional staking on networks like Avalanche, Aptos and Sui with tailored services to meet your needs",
+      "website": "https://republic.com",
+      "twitter": "https://www.twitter.com/RepublicCrypto"
+    },
+    {
       "id": "0xF60fD8632Fc77E19b3A0637d115d0fdd06F36968",
       "logoURI": "",
       "name": "Aether Labs",
