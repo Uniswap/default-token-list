@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0xC5b889a28950e7F8c1F279f758d8a0ab1C89cC38",
+      "logoURI": "https://postimg.cc/6yQXT58v",
+      "name": "StakeLab",
+      "description": "Staking and relaying Hub for Cosmos ecosystem",
+      "website": "https://www.stakelab.zone",
+      "twitter": "https://x.com/StakeLab"
     }    
   ]
 }
