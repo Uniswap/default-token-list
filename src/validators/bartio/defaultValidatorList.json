@@ -385,6 +385,14 @@
       "twitter": "https://x.com/SenseiNode"
     },
     {
+      "id": "0xc1E61E119D4710c7ED90bad431812d30aEBbA091",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakingcabin.png",
+      "name": "StakingCabin",
+      "description": "Trusted infrastructure and validator service provider for over 50 networks. Dedicated to delivering reliable and secure solutions. ",
+      "website": "https://stakingcabin.com",
+      "twitter": "https://twitter.com/StakingCabin"
+    },    
+    {
       "id": "0x1Cc335D9c67a71C777282fdb28b0a2d5eBf42AF4",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/flipside.png",
       "name": "Flipside",
