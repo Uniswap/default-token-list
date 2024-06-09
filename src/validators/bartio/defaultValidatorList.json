@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
-    }    
+    },
+      {
+      "id": "0x83288B99CE00064724D65579AB90A9415ED2C914",
+      "logoURI": "",
+      "name": "BCW",
+      "description": "BCW Group is an enterprise technology firm & venture studio dedicated to building Web3 infrastructure & applications that connect and interact with the on-demand digital universe.",
+      "website": "",
+      "twitter": ""
+    } 
   ]
 }
