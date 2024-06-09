@@ -168,6 +168,14 @@
     "description": "Supporting Blockchain Infrastructure",
     "website": "https://provalidator.com",
     "twitter": "https://x.com/Provalidator"
+    },
+    {
+    "id": "0xfcD12865282a86124Ac53E9eE9ef5B806C229948",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NodeStake.png",
+    "name": "NodeStake",
+    "description": "NodeStake is the professional validator, infrastructure provider and IBC relayer.",
+    "website": "https://nodestake.org",
+    "twitter": "https://x.com/NodeStake_top"
     }
   ]
 }
