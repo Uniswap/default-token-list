@@ -130,12 +130,12 @@
       "twitter": ""
     },
     {
-    "id": "0x9357cc9ba2660459ef9bb52e69cd64fe379ff1d5",
-    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/imperator.png",
-    "name": "Imperator.co",
-    "description": "Imperator empowers investors and token holders to effortlessly secure blockchain networks through non custodial staking",
-    "website": "https://www.imperator.co",
-    "twitter": "https://x.com/imperator_co"
+      "id": "0x9357cc9ba2660459ef9bb52e69cd64fe379ff1d5",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/imperator.png",
+      "name": "Imperator.co",
+      "description": "Imperator empowers investors and token holders to effortlessly secure blockchain networks through non custodial staking",
+      "website": "https://www.imperator.co",
+      "twitter": "https://x.com/imperator_co"
     }
   ]
 }
