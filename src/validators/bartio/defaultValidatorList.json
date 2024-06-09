@@ -168,6 +168,14 @@
     "description": "Supporting Blockchain Infrastructure",
     "website": "https://provalidator.com",
     "twitter": "https://x.com/Provalidator"
-    }
+    },
+    {
+      "id": "0x6Ae5c02469F78E04e5dB3f03AeAc639797578fbe",
+      "logoURI": "https://drive.google.com/file/d/1rsQUNcBK7BEvGKmex_ZRd5qIYv0pXPNF/view?usp=sharing",
+      "name": "node101",
+      "description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products for you to make the most of distributed value. Building klein.run",
+      "website": "https://node101.io",
+      "twitter": "https://x.com/node_101"
+  }
   ]
 }
