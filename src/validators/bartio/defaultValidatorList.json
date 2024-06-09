@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
-    }    
+    },
+    {
+    "id": "0x19Bfe7b58D3D2C63Ee082A1C1db33F970Ca1fA44",
+    "logoURI": "https://github.com/cosmostation/cosmostation_token_resource/blob/master/moniker/juno/junovaloper10wxn2lv29yqnw2uf4jf439kwy5ef00qdelfp7r.png?raw=true",
+    "name": "kingnodes 👑",
+    "description": "ooga booga Professional PoS validator securing only the best interchain networks. Join our community of delegators Telegram: https://t.me/kingnodes Twitter: https://twitter.com/kingnodes",
+    "website": "https://www.kingnodes.com",
+    "twitter": "https://x.com/kingnodes"
+    }
   ]
 }
