@@ -351,6 +351,14 @@
       "description": "Explore the best data and insights in Web3.",
       "website": "https://flipsidecrypto.xyz",
       "twitter": "https://www.twitter.com/flipsidecrypto"
+    },
+    {
+    "id": "0x93F64bA2948914d65Cd227c3501E22C93EBee19f",
+    "logoURI": "https://brightlystake.com/.well-known/Brightlystake-logo.svg",
+    "name": "Brightlystake",
+    "description": "Stake with Confidence",
+    "website": "https://www.brightlystake.com",
+    "twitter": "https://twitter.com/brightlystake"
     }
   ]
 }
