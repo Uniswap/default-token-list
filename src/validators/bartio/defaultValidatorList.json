@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0xF050996f46b752a29D0d65Bf6348BDD37883ee83",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Synergy_Nodes_Logo.png",
+      "name": "Synergy_Nodes",
+      "description": "We are operating a secure, stable Validator Node for 26 mainnet chains. We provide infrastructure support - public RPC, LCD endpoints, daily snapshots, operate multiple IBC Relayers, Blockchain Explorers, Youtube tutorials, etc. All info on our website.",
+      "website": "https://www.synergynodes.com",
+      "twitter": "https://x.com/SynergyNodes"
     }    
   ]
 }
