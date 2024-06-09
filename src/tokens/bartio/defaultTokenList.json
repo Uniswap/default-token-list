@@ -144,15 +144,6 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
       "tags": ["supply"]
-    },
-      {
-      "chainId": 80084,
-      "address": "0x83288B99CE00064724D65579AB90A9415ED2C914",
-      "symbol": "BCW",
-      "name": "BCW BToken",
-      "decimals": 18,
-      "logoURI": "https://www.bcw.group/wp-content/uploads/2021/08/bcw_logo_glyph_font.CLR_.svg",
-      "tags": ["BToken"]
     }
   ],
   "version": {
