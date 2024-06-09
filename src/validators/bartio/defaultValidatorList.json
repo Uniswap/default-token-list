@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+    "id": "0xD26d9aC83558268F5f71Fd48AF2078718E43E762",
+    "logoURI": "https://raw.githubusercontent.com/TesodeAll/berachain/main/icon.png",
+    "name": "Allnodes",
+    "description": "Reliable non-custodial Validator run by the industry leader - Allnodes.",
+    "website": "https://www.allnodes.com",
+    "twitter": "https://x.com/allnodes"
+    },
+    {
       "id": "0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01",
       "logoURI": "",
       "name": "Quantum Labs",
