@@ -58,7 +58,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x5903ebb4012750FC020D9729ad310B4f5766bCB3",
+      "address": "0xbDa130737BDd9618301681329bF2e46A016ff9Ad",
       "symbol": "BGT",
       "name": "Bera Governance Token",
       "decimals": 18,
@@ -144,6 +144,15 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
       "tags": ["supply"]
+    },
+      {
+      "chainId": 80084,
+      "address": "0x83288B99CE00064724D65579AB90A9415ED2C914",
+      "symbol": "BCW",
+      "name": "BCW BToken",
+      "decimals": 18,
+      "logoURI": "https://www.bcw.group/wp-content/uploads/2021/08/bcw_logo_glyph_font.CLR_.svg",
+      "tags": ["BToken"]
     }
   ],
   "version": {
