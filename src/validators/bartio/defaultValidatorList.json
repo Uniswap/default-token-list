@@ -170,6 +170,14 @@
       "twitter": ""
     },
     {
+      "id": "0xCA3bb216aB963b8B7890A449Bb796369967838DF",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nodesguru.png",
+      "name": "Nodes.Guru",
+      "description": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support.",
+      "website": "https://nodes.guru",
+      "twitter": "https://x.com/NodesGuru"
+    },
+    {
       "id": "0x388FF9FDB11A22AD78E9C5977CC4ED130CE5E88B",
       "logoURI": "https://github.com/cosmostation/logo/blob/master/cosmostation_logo_1024.png",
       "name": "Cosmostation",
