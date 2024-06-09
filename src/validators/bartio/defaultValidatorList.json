@@ -2,6 +2,30 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xD26d9aC83558268F5f71Fd48AF2078718E43E762",
+      "logoURI": "https://raw.githubusercontent.com/TesodeAll/berachain/main/icon.png",
+      "name": "Allnodes",
+      "description": "Reliable non-custodial Validator run by the industry leader - Allnodes.",
+      "website": "https://www.allnodes.com",
+      "twitter": "https://x.com/allnodes"
+    },
+    {
+      "id": "0x3Ab20D8fC60bDEddC1195C82eFD971024E7f90f4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staketab.png",
+      "name": "Staketab",
+      "description": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem.",
+      "website": "https://staketab.com/",
+      "twitter": "https://x.com/staketab"
+    },
+    {
+      "id": "0x72cA77Dc5ef7C251e1fc84A74DDE580c0452A3b6",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nocturnal.jpg",
+      "name": "Nocturnal Labs",
+      "description": "Drinks for all the Beras!",
+      "website": "https://www.nocturnallabs.org/",
+      "twitter": "https://twitter.com/nct_labs"
+    },
+    {
       "id": "0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01",
       "logoURI": "",
       "name": "Quantum Labs",
@@ -16,6 +40,14 @@
       "description": "Nexa Solutions staking validator for efficient blockchain operations.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0x7d0f205f4a7F10B7B1c6282193aA202dC16fBbbe",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/noders.png",
+      "name": "[NODERS]TEAM",
+      "description": "Professional blockchain validator and web3 developer team",
+      "website": "https://nodersteam.com/",
+      "twitter": "https://twitter.com/NODERS_TEAM"
     },
     {
       "id": "0xD073a84e2ccDF91a9025179330438485E886D206",
@@ -122,6 +154,14 @@
       "twitter": ""
     },
     {
+      "id": "0xd1e53f65434838c6DCeC6c9112a30BA57E753E77",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/republic-crypto.png",
+      "name": "Republic Crypto",
+      "description": "Republic Crypto provides infrastructure for institutional staking on networks like Avalanche, Aptos and Sui with tailored services to meet your needs",
+      "website": "https://republic.com",
+      "twitter": "https://www.twitter.com/RepublicCrypto"
+    },
+    {
       "id": "0xF60fD8632Fc77E19b3A0637d115d0fdd06F36968",
       "logoURI": "",
       "name": "Aether Labs",
@@ -136,6 +176,93 @@
       "description": "Safe & Easy2Use Staking Provider. Supporting networks at early stage",
       "website": "https://quantnode.tech",
       "twitter": "https://x.com/quantnodetech"
-    }    
+    },
+    {
+      "id": "0x388FF9FDB11A22AD78E9C5977CC4ED130CE5E88B",
+      "logoURI": "https://github.com/cosmostation/logo/blob/master/cosmostation_logo_1024.png",
+      "name": "Cosmostation",
+      "description": "Cosmostation validator node. Delegate your tokens and Start Earning Staking Rewards",
+      "website": "https://www.cosmostation.io",
+      "twitter": "https://x.com/CosmostationVD"
+    },
+    {
+      "id": "0xC653E9188532238A36Dd2c02d63eE1931F3E46F0",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/polkachu.png",
+      "name": "polkachu.com",
+      "description": "Polkachu is the trusted staking service provider for blockchain projects. 100% refund for downtime slash. Contact us at hello@polkachu.com",
+      "website": "https://polkachu.com",
+      "twitter": "https://www.twitter.com/polka_chu"
+    },
+    {
+      "id": "0x19Bfe7b58D3D2C63Ee082A1C1db33F970Ca1fA44",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kingnodes.jpg",
+      "name": "kingnodes 👑",
+      "description": "ooga booga Professional PoS validator securing only the best interchain networks. Join our community of delegators Telegram: https://t.me/kingnodes Twitter: https://twitter.com/kingnodes",
+      "website": "https://www.kingnodes.com",
+      "twitter": "https://x.com/kingnodes"
+    },
+    {
+      "id": "0xEe38E1CE4CEafF9f419518135Bcf827D15f698D2",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kysenpool.png",
+      "name": "KysenPool",
+      "description": "Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services",
+      "website": "https://www.kysenpool.io",
+      "twitter": "https://x.com/@kysenpool"
+    },
+    {
+      "id": "0x7760D27dB62acf2699ea0A58fB7D2DC0b72d4e83",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/informal-systems.png",
+      "name": "Informal Systems",
+      "description": "Informal Systems x Cephalopod Equipment - infrastructure for decentralized intelligence",
+      "website": "https://www.informal.systems",
+      "twitter": "https://x.com/informalinc"
+    },
+    {
+      "id": "0x35c1e9C7803b47aF738f37Beada3C7c35Eed73d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beralandlogo.png",
+      "name": "BeraLand",
+      "description": "BeraLand is the community hub for all things bera. Run by beras, for beras!",
+      "website": "https://beraland.xyz",
+      "twitter": "https://x.com/Bera_Land"
+    },
+    {
+      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+      "name": "Provalidator",
+      "description": "Supporting Blockchain Infrastructure",
+      "website": "https://provalidator.com",
+      "twitter": "https://x.com/Provalidator"
+    },
+    {
+      "id": "0x6Ae5c02469F78E04e5dB3f03AeAc639797578fbe",
+      "logoURI": "https://drive.google.com/file/d/1rsQUNcBK7BEvGKmex_ZRd5qIYv0pXPNF/view?usp=sharing",
+      "name": "node101",
+      "description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products for you to make the most of distributed value. Building klein.run",
+      "website": "https://node101.io",
+      "twitter": "https://x.com/node_101"
+    },
+    {
+      "id": "0xfcD12865282a86124Ac53E9eE9ef5B806C229948",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NodeStake.png",
+      "name": "NodeStake",
+      "description": "NodeStake is the professional validator, infrastructure provider and IBC relayer.",
+      "website": "https://nodestake.org",
+      "twitter": "https://x.com/NodeStake_top"
+    },
+    {
+      "id": "0x6fc5e7b9afE7b9538b2c7c0bD7652E782a6e945D",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/laminated.png",
+      "name": "Laminated Labs",
+      "description": "Flaky, buttery validators just taste better.",
+      "website": "https://laminatedlabs.com"
+    },
+    {
+      "id": "0xeC6d3f350BcdCe0F451D52e69f61Bf3630240B66",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/whispernode.png",
+      "name": "WhisperNode 🤐",
+      "description": "WhisperNode is a premier web3 infrastructure provider renowned for powering the backbone of blockchain ecosystems with our state-of-the-art validation services, RPC endpoints, and IBC relayers. Our commitment to reliability is showcased through our deployment of robust, geographically dispersed validators ensuring maximal uptime and unparalleled security.",
+      "website": "https://www.whispernode.com",
+      "twitter": "https://www.twitter.com/whispernode"
+    }
   ]
 }
