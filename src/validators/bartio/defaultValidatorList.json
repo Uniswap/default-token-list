@@ -535,6 +535,14 @@
       "description": "Highly secure professional validator across 40+ chains - offering a full refund for any downtime slashing - Reach out to us at contact@enigma-validator.com",
       "website": "https://enigma-validator.com/",
       "twitter": "https://x.com/EnigmaValidator"
+    },
+    {
+      "id": "0x2aBCffD5bd93947FD7ddb7A3ecd4e914442B1AA6",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/shinlabs.png",
+      "name": "Shinlabs",
+      "description": "Thesis-driven, crypto-native venture studio",
+      "website": "https://www.shinlabs.xyz",
+      "twitter": ""
     }
   ]
 }
