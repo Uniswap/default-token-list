@@ -223,6 +223,14 @@
       "name": "Laminated Labs",
       "description": "Flaky, buttery validators just taste better.",
       "website": "https://laminatedlabs.com"
+    },
+    {
+      "id": "0xeC6d3f350BcdCe0F451D52e69f61Bf3630240B66",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/whispernode.png",
+      "name": "WhisperNode 🤐",
+      "description": "WhisperNode is a premier web3 infrastructure provider renowned for powering the backbone of blockchain ecosystems with our state-of-the-art validation services, RPC endpoints, and IBC relayers. Our commitment to reliability is showcased through our deployment of robust, geographically dispersed validators ensuring maximal uptime and unparalleled security.",
+      "website": "https://www.whispernode.com",
+      "twitter": "https://www.twitter.com/whispernode"
     }
   ]
 }
