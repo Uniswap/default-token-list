@@ -465,6 +465,14 @@
       "twitter": "https://x.com/genznodes"
     },
     {
+        "id": "0x462f0560e473e1545Fd4d0680C02c499aaf01711",
+        "logoURI": "https://i0.wp.com/h2o-nodes.com/wp-content/uploads/2022/05/H2O-Nodes-logo-A1-4095064980-1653758705955.jpg",
+        "name": "H2O Nodes",
+        "description": "On Prem Validators from Austria",
+        "website": "https://www.h2o-nodes.com",
+        "twitter": "https://www.twitter.com/H2oNodes"
+    },
+    {
       "id": "0x93F64bA2948914d65Cd227c3501E22C93EBee19f",
       "logoURI": "https://brightlystake.com/.well-known/Brightlystake-logo.svg",
       "name": "Brightlystake",
