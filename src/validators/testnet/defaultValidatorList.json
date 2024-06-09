@@ -7,6 +7,14 @@
       "description": "A reliable and efficient validator.",
       "website": "https://www.google.com",
       "imageUri": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/infrared.jpg"
+    },
+    {
+      "id": "0x83288B99CE00064724D65579AB90A9415ED2C914",
+      "name": "BCW ",
+      "description": "",
+      "website": "https://www.bcw.group/",
+      "imageUri": "https://res.cloudinary.com/dwvpzdry4/image/upload/v1717922723/BCW.png"
     }
+
   ]
 }
