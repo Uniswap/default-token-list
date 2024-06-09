@@ -513,6 +513,14 @@
         "twitter": "https://www.twitter.com/H2oNodes"
     },
     {
+      "id": "0x201c74de018aa34214BEEFFaF717e1d5F36261a7",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nodeinfra.png",
+      "name": "Nodeinfra",
+      "description": "We run nodes for blockchain protocols",
+      "website": "https://nodeinfra.com",
+      "twitter": "https://x.com/nodeinfra"
+    },
+    {
       "id": "0x93F64bA2948914d65Cd227c3501E22C93EBee19f",
       "logoURI": "https://brightlystake.com/.well-known/Brightlystake-logo.svg",
       "name": "Brightlystake",
