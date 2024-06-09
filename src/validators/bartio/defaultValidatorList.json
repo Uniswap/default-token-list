@@ -367,6 +367,14 @@
     "description": "Stake with Confidence",
     "website": "https://www.brightlystake.com",
     "twitter": "https://twitter.com/brightlystake"
-    }
+    },
+    {
+      "id": "0xE066B88A5c17180c0A774683363a2C69A4F54c1f",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/daic_cng.png",
+      "name": "Coinage x DAIC",
+      "description": "The official validator node from Coinage (Coinage.Media) and DAIC (https://daic.capital/telegram)",
+      "website": "https://daic.capital",
+      "twitter": "https://x.com/coinage_x_daic"
+    },
   ]
 }
