@@ -40,6 +40,14 @@
       "description": "ooga booga validator five",
       "website": "https://www.google.com",
       "twitter": "https://www.twitter.com"
+    },
+    {
+      "id": "0x83288B99CE00064724D65579AB90A9415ED2C914",
+      "logoURI": "https://res.cloudinary.com/dwvpzdry4/image/upload/v1717922723/BCW.png",
+      "name": "BCW",
+      "description": "BCW Group is an enterprise technology firm & venture studio dedicated to building Web3 infrastructure & applications that connect and interact with the on-demand digital universe.",
+      "website": "https://www.bcw.group/",
+      "twitter": "https://x.com/bcw_llc"
     }
   ]
 }
