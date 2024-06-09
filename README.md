@@ -19,7 +19,9 @@ To request that we add a gauge to the list,
 To request that we add a validator to the list,
 [file an issue](https://github.com/berachain/default-lists/issues/new?assignees=&labels=validator+request&projects=&template=validator-request.md&title=Add+%7BVALIDATOR_NAME%7D).
 
-ℹ️ AFTER OPENING AN ISSUE, CREATE A BRANCH AND ADD YOUR CHANGES. WHEN READY, CREATE A PR AND LINK YOUR ISSUE IN THE PR 🚀
+## Contributing
+- ℹ️ PLEASE ADD YOUR NEW ITEM TO THE TOP OF THE LIST TO AVOID JSON TRAILING COMMA ISSUE 🚀
+- ℹ️ AFTER OPENING AN ISSUE, CREATE A BRANCH AND ADD YOUR CHANGES. WHEN READY, CREATE A PR AND LINK YOUR ISSUE IN THE PR 🚀
 
 ### Disclaimer
 
