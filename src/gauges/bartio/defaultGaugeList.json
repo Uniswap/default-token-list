@@ -4,25 +4,25 @@
     {
       "name": "HONEY",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
-      "url": "https://honey.app",
+      "url": "https://bartio.honey.berachain.com",
       "description": "A stablecoin that's integral to the Berachain ecosystem. Utilize HONEY for seamless trading, ensuring value consistency."
     },
     {
       "name": "BEX",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bex.png",
-      "url": "https://bex.app",
+      "url": "https://bartio.bex.berachain.com",
       "description": "Swap a variety of tokens effortlessly on our decentralized platform. Provide liquidity to pools and earn BGT rewards."
     },
     {
       "name": "BEND",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bend.png",
-      "url": "https://bend.app",
+      "url": "https://bartio.bend.berachain.com",
       "description": "Supply assets and unlock the potential to borrow HONEY. Earn BGT rewards while you supply and borrow."
     },
     {
       "name": "BERPS",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/berps.png",
-      "url": "https://perp.app",
+      "url": "https://bartio.berps.berachain.com",
       "description": "Experience the thrill of high leverage trading, tailored for both novices and seasoned traders. With an impressive 100x leverage."
     }
   ],
@@ -33,7 +33,7 @@
       "name": "VDHONEY",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ahoney.png",
       "product": "BEND",
-      "url": "",
+      "url": "https://bartio.bend.berachain.com/dashboard",
       "support": false
     },
     {
@@ -42,7 +42,7 @@
       "name": "BHONEY",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bhoneyg.png",
       "product": "BERPS",
-      "url": ""
+      "url": "https://bartio.berps.berachain.com/vault"
     },
     {
       "receiptTokenAddress": "0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7",
@@ -50,7 +50,7 @@
       "name": "HONEY-WBERA",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honeybera.png",
       "product": "BEX",
-      "url": ""
+      "url": "https://bartio.bex.berachain.com/pool/0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7"
     }
   ],
   "version": {
