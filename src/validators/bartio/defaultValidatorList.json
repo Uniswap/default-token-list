@@ -168,6 +168,14 @@
     "description": "Supporting Blockchain Infrastructure",
     "website": "https://provalidator.com",
     "twitter": "https://x.com/Provalidator"
+    },
+    {
+    "id": "0x35c1e9C7803b47aF738f37Beada3C7c35Eed73d4",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beralandlogo.png",
+    "name": "BeraLand",
+    "description": "BeraLand is the community hub for all things bera. Run by beras, for beras!",
+    "website": "https://beraland.xyz",
+    "twitter": "https://x.com/Bera_Land"
     }
   ]
 }
