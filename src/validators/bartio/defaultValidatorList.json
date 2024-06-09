@@ -2,6 +2,46 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x2D764DFeaAc00390c69985631aAA7Cc3fcfaFAfF",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/infrared.jpg",
+      "name": "Infrared",
+      "description": "Proof of Liquidity in one click 🐻⛓️",
+      "website": "https://infrared.finance",
+      "twitter": "https://x.com/infraredfinance"
+    },
+    {
+      "id": "0xD26d9aC83558268F5f71Fd48AF2078718E43E762",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/allnodes.png",
+      "name": "Allnodes",
+      "description": "Reliable non-custodial Validator run by the industry leader - Allnodes.",
+      "website": "https://www.allnodes.com",
+      "twitter": "https://x.com/allnodes"
+    },
+    {
+    "id": "0xA7B927Cc85bFB997765aC86a86e46d36413e9B57",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nodemeister.png",
+    "name": "nodemeister",
+    "description": "freedom through decentralization",
+    "website": "",
+    "twitter": "https://x.com/nodemeister"
+    },
+    {
+      "id": "0x3Ab20D8fC60bDEddC1195C82eFD971024E7f90f4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staketab.png",
+      "name": "Staketab",
+      "description": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem.",
+      "website": "https://staketab.com/",
+      "twitter": "https://x.com/staketab"
+    },
+    {
+      "id": "0x72cA77Dc5ef7C251e1fc84A74DDE580c0452A3b6",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nocturnal.jpg",
+      "name": "Nocturnal Labs",
+      "description": "Drinks for all the Beras!",
+      "website": "https://www.nocturnallabs.org/",
+      "twitter": "https://twitter.com/nct_labs"
+    },
+    {
       "id": "0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01",
       "logoURI": "",
       "name": "Quantum Labs",
@@ -16,6 +56,14 @@
       "description": "Nexa Solutions staking validator for efficient blockchain operations.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0x7d0f205f4a7F10B7B1c6282193aA202dC16fBbbe",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/noders.png",
+      "name": "[NODERS]TEAM",
+      "description": "Professional blockchain validator and web3 developer team",
+      "website": "https://nodersteam.com/",
+      "twitter": "https://twitter.com/NODERS_TEAM"
     },
     {
       "id": "0xD073a84e2ccDF91a9025179330438485E886D206",
@@ -122,6 +170,22 @@
       "twitter": ""
     },
     {
+      "id": "0x7F1d8CD8120722F937338208412318d9c5d35E1f",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakecito_logo.png",
+      "name": "Stakecito",
+      "description": "Securing & Decentralizing PoS Networks.",
+      "website": "https://www.stakecito.com",
+      "twitter": "https://x.com/stakecito"
+    },
+    {
+      "id": "0xd1e53f65434838c6DCeC6c9112a30BA57E753E77",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/republic-crypto.png",
+      "name": "Republic Crypto",
+      "description": "Republic Crypto provides infrastructure for institutional staking on networks like Avalanche, Aptos and Sui with tailored services to meet your needs",
+      "website": "https://republic.com",
+      "twitter": "https://www.twitter.com/RepublicCrypto"
+    },
+    {
       "id": "0xF60fD8632Fc77E19b3A0637d115d0fdd06F36968",
       "logoURI": "",
       "name": "Aether Labs",
@@ -130,12 +194,211 @@
       "twitter": ""
     },
     {
-    "id": "0x4AfB6199d1A92D1236cAa74b8dFE99F1EA3A8fF2",
-    "logoURI": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/main/logo-no-background.png",
-    "name": "StakeUs",
-    "description": "TRUST US STAKE US",
-    "website": "https://stakeus.xyz",
-    "twitter": "https://www.twitter.com/StakeusXyz"
+      "id": "0x4AfB6199d1A92D1236cAa74b8dFE99F1EA3A8fF2",
+      "logoURI": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/main/logo-no-background.png",
+      "name": "StakeUs",
+      "description": "TRUST US STAKE US",
+      "website": "https://stakeus.xyz",
+      "twitter": "https://www.twitter.com/StakeusXyz"
+    },
+    {
+      "id": "0xFc81ADDEE6D47B1EFba13E4e2268064D4a3cD065",
+      "logoURI": "https://raw.githubusercontent.com/OriginStake/ogs-media/main/Logo/PNG/OriginStake_Logo_1.png",
+      "name": "OriginStake",
+      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Berachain.",
+      "website": "https://originstake.com",
+      "twitter": "https://x.com/originstake"
+    },  
+    {
+      "id": "0x73B969ADE706e89469134f3b78b4E74FC16477bE",
+      "logoURI": "https://raw.githubusercontent.com/blacknodes/logos/main/logo-no-background.png",
+      "name": "BlackNodes",
+      "description": " Blacknodes is an Enterprise-Level Validator and staking platform based out of INDIA, provides reliable nodes and diverse geolocations for a truly decentralized network. We provide high APR and no downtime.",
+      "website": "https://blacknodes.net",
+      "twitter": "https://www.twitter.com/BlackNodesHQ"
+    },
+    {
+      "id": "0x4790ECe0447C45D4037bea8eb166cB5eee396d58",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/despread.png",
+      "name": "DeSpread",
+      "description": "We provide refined perspective for Web3 pioneers. Founded in 2019, DeSpread is a consulting firm specializing in Web3 & blockchain. It actively contributes to Web3’s mass adoption by supporting the growth of various startups and protocols.",
+      "website": "https://despread.io/",
+      "twitter": "https://x.com/DeSpreadLabs"
+    },
+    {
+      "id": "0xF050996f46b752a29D0d65Bf6348BDD37883ee83",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Synergy_Nodes_Logo.png",
+      "name": "Synergy_Nodes",
+      "description": "We are operating a secure, stable Validator Node for 26 mainnet chains. We provide infrastructure support - public RPC, LCD endpoints, daily snapshots, operate multiple IBC Relayers, Blockchain Explorers, Youtube tutorials, etc. All info on our website.",
+      "website": "https://www.synergynodes.com",
+      "twitter": "https://x.com/SynergyNodes"
+    },
+    {
+      "id": "0xCA3bb216aB963b8B7890A449Bb796369967838DF",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nodesguru.png",
+      "name": "Nodes.Guru",
+      "description": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support.",
+      "website": "https://nodes.guru",
+      "twitter": "https://x.com/NodesGuru"
+    },
+    {
+      "id": "0x388FF9FDB11A22AD78E9C5977CC4ED130CE5E88B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/cosmostation.png",
+      "name": "Cosmostation",
+      "description": "Cosmostation validator node. Delegate your tokens and Start Earning Staking Rewards",
+      "website": "https://www.cosmostation.io",
+      "twitter": "https://x.com/CosmostationVD"
+    },
+    {
+      "id": "0xC653E9188532238A36Dd2c02d63eE1931F3E46F0",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/polkachu.png",
+      "name": "polkachu.com",
+      "description": "Polkachu is the trusted staking service provider for blockchain projects. 100% refund for downtime slash. Contact us at hello@polkachu.com",
+      "website": "https://polkachu.com",
+      "twitter": "https://www.twitter.com/polka_chu"
+    },
+    {
+      "id": "0x19Bfe7b58D3D2C63Ee082A1C1db33F970Ca1fA44",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kingnodes.jpg",
+      "name": "kingnodes 👑",
+      "description": "ooga booga Professional PoS validator securing only the best interchain networks. Join our community of delegators Telegram: https://t.me/kingnodes Twitter: https://twitter.com/kingnodes",
+      "website": "https://www.kingnodes.com",
+      "twitter": "https://x.com/kingnodes"
+    },
+    {
+      "id": "0xEe38E1CE4CEafF9f419518135Bcf827D15f698D2",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kysenpool.png",
+      "name": "KysenPool",
+      "description": "Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services",
+      "website": "https://www.kysenpool.io",
+      "twitter": "https://x.com/@kysenpool"
+    },
+    {
+      "id": "0x7760D27dB62acf2699ea0A58fB7D2DC0b72d4e83",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/informal-systems.png",
+      "name": "Informal Systems",
+      "description": "Informal Systems x Cephalopod Equipment - infrastructure for decentralized intelligence",
+      "website": "https://www.informal.systems",
+      "twitter": "https://x.com/informalinc"
+    },
+    {
+      "id": "0x35c1e9C7803b47aF738f37Beada3C7c35Eed73d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beralandlogo.png",
+      "name": "BeraLand",
+      "description": "BeraLand is the community hub for all things bera. Run by beras, for beras!",
+      "website": "https://beraland.xyz",
+      "twitter": "https://x.com/Bera_Land"
+    },
+    {
+      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+      "name": "Provalidator",
+      "description": "Supporting Blockchain Infrastructure",
+      "website": "https://provalidator.com",
+      "twitter": "https://x.com/Provalidator"
+    },
+    {
+      "id": "0x6Ae5c02469F78E04e5dB3f03AeAc639797578fbe",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/node101.png",
+      "name": "node101",
+      "description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products for you to make the most of distributed value. Building klein.run",
+      "website": "https://node101.io",
+      "twitter": "https://x.com/node_101"
+    },
+    {
+      "id": "0xfcD12865282a86124Ac53E9eE9ef5B806C229948",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NodeStake.png",
+      "name": "NodeStake",
+      "description": "NodeStake is the professional validator, infrastructure provider and IBC relayer.",
+      "website": "https://nodestake.org",
+      "twitter": "https://x.com/NodeStake_top"
+    },
+    {
+      "id": "0xAD5FAc408dC3cDaf42b0394B09C661d43137C5Ed",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blockhunters.png",
+      "name": "BlockHunters 🎯",
+      "description": "Hunt for the best ooga booga",
+      "website": "https://www.blockhunters.org",
+      "twitter": "https://www.x.com/blockhuntersOrg"
+    },
+    {
+      "id": "0x6fc5e7b9afE7b9538b2c7c0bD7652E782a6e945D",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/laminated.png",
+      "name": "Laminated Labs",
+      "description": "Flaky, buttery validators just taste better.",
+      "website": "https://laminatedlabs.com"
+    },
+    {
+      "id": "0x9a3B94371A1b524A7963D10A015d053d5E7d2989",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/01node.png",
+      "name": "01node",
+      "description": "Securely validating one block at a time since 2019",
+      "website": "https://01node.com",
+      "twitter": "https://twitter.com/01node"
+    },
+    {
+      "id": "0xeC6d3f350BcdCe0F451D52e69f61Bf3630240B66",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/whispernode.png",
+      "name": "WhisperNode 🤐",
+      "description": "WhisperNode is a premier web3 infrastructure provider renowned for powering the backbone of blockchain ecosystems with our state-of-the-art validation services, RPC endpoints, and IBC relayers. Our commitment to reliability is showcased through our deployment of robust, geographically dispersed validators ensuring maximal uptime and unparalleled security.",
+      "website": "https://www.whispernode.com",
+      "twitter": "https://www.twitter.com/whispernode"
+    },
+    {
+      "id": "0x64FE2F0C072858A9742917e48e29BD939EeBB179",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kiln.png",
+      "name": "Kiln",
+      "description": "Enterprise-grade staking made easy",
+      "website": "https://www.kiln.fi",
+      "twitter": "https://x.com/Kiln_Finance"
+    },
+    {
+      "id": "0xE485B0DC584432CDE20CA95724A4CFAA1A94218B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/lavenderfive.png",
+      "name": " Lavender.Five Nodes 🐝",
+      "description": "Fortifying crypto networks with Horcrux security, slash insurance, and open source contributions. Connect with us at https://linktr.ee/lavenderfive.",
+      "website": "https://www.lavenderfive.com/",
+      "twitter": "https://twitter.com/lavender_five"
+    },
+    {
+      "id": "0x849a5C52e1CA4AB0407E5BE3030cC420E7222F13",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/restake.jpg",
+      "name": "Restake",
+      "description": "Effortless staking with institutional standards",
+      "website": "https://restake.net",
+      "twitter": "https://x.com/restakestaking"
+    },
+    {
+      "id": "0x34D68dFFa8cFe02Dd9C480b8bfB7C3A9ED3fc24a",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/rhino.png",
+      "name": " RHINO 🦏",
+      "description": "An Active, Independent and Secure Blockchain Validator. We deliver redundant and geo-distributed infrastructure at-scale for Aptos, Sei, Chainlink, Ethereum, and Cosmos",
+      "website": "https://rhinostake.com",
+      "twitter": "https://twitter.com/rhinostake"
+    },
+    {
+      "id": "0x96071f45BF4273DCA93fc781B28adC2D9a01315B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/senseinode.png",
+      "name": "SenseiNode",
+      "description": "SenseiNode is the first institutional-level blockchain infrastructure provider in Latin America",
+      "website": "https://www.senseinode.com",
+      "twitter": "https://x.com/SenseiNode"
+    },
+    {
+      "id": "0x1Cc335D9c67a71C777282fdb28b0a2d5eBf42AF4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/flipside.png",
+      "name": "Flipside",
+      "description": "Explore the best data and insights in Web3.",
+      "website": "https://flipsidecrypto.xyz",
+      "twitter": "https://www.twitter.com/flipsidecrypto"
+    },
+    {
+      "id": "0x93F64bA2948914d65Cd227c3501E22C93EBee19f",
+      "logoURI": "https://brightlystake.com/.well-known/Brightlystake-logo.svg",
+      "name": "Brightlystake",
+      "description": "Stake with Confidence",
+      "website": "https://www.brightlystake.com",
+      "twitter": "https://twitter.com/brightlystake"
     }
   ]
 }
