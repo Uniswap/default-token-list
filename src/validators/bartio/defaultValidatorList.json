@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
+    }
+    {
+      "id": "0xFc81ADDEE6D47B1EFba13E4e2268064D4a3cD065",
+      "logoURI": "https://raw.githubusercontent.com/OriginStake/ogs-media/main/Logo/PNG/OriginStake_Logo_1.png",
+      "name": "OriginStake",
+      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Berachain.",
+      "website": "https://originstake.com",
+      "twitter": "https://x.com/originstake"
     }    
   ]
 }
