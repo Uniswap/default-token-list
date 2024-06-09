@@ -168,6 +168,14 @@
     "description": "Supporting Blockchain Infrastructure",
     "website": "https://provalidator.com",
     "twitter": "https://x.com/Provalidator"
+    },
+    {
+      "id": "0x4BF8E1E54E50E3b64E9c486D4230Ee4F9e7dE792",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/genznodes.png",
+      "name": "genznodes",
+      "description": "Committed to helping build a more inclusive and decentralized Web3 ecosystem.",
+      "website": "https://genznodes.dev",
+      "twitter": "https://x.com/genznodes"
     }
   ]
 }
