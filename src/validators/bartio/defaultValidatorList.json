@@ -519,6 +519,14 @@
         "description": "Swiss-Operated Institutional Grade Staking Provider",
         "website": "https://luganodes.com",
         "twitter": "https://x.com/luganodes"
+    },
+    {
+      "id": "0x2C8D3b794c5FC05Fe6A91AD4C4F3a66620ff9aa5",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/enigma.png",
+      "name": "Enigma",
+      "description": "Highly secure professional validator across 40+ chains - offering a full refund for any downtime slashing - Reach out to us at contact@enigma-validator.com",
+      "website": "https://enigma-validator.com/",
+      "twitter": "https://x.com/EnigmaValidator"
     }
   ]
 }
