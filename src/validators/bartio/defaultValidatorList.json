@@ -543,6 +543,14 @@
       "description": "Thesis-driven, crypto-native venture studio",
       "website": "https://www.shinlabs.xyz",
       "twitter": ""
+    },
+    {
+      "id": "0x20FB4a3366bC54a981F7E6173e52EA645C825679",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/verse2.png",
+      "name": "verse2",
+      "description": "Starting as a builder, Verse2 has expanded its business to node validators, crypto investors, and advisors for web3 projects, growing its influence in the Asian crypto scene. Verse2 has an outstanding and professional track record in running nodes for Layer 1 Mainnets. The team has been a node operator for major chains both locally and globally.",
+      "website": "https://verse2.io",
+      "twitter": "https://x.com/verse2official"
     }
   ]
 }
