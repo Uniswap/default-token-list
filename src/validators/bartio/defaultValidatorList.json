@@ -194,6 +194,14 @@
       "twitter": ""
     },
     {
+      "id": "0xFc81ADDEE6D47B1EFba13E4e2268064D4a3cD065",
+      "logoURI": "https://raw.githubusercontent.com/OriginStake/ogs-media/main/Logo/PNG/OriginStake_Logo_1.png",
+      "name": "OriginStake",
+      "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Berachain.",
+      "website": "https://originstake.com",
+      "twitter": "https://x.com/originstake"
+    },  
+    {
       "id": "0x73B969ADE706e89469134f3b78b4E74FC16477bE",
       "logoURI": "https://raw.githubusercontent.com/blacknodes/logos/main/logo-no-background.png",
       "name": "BlackNodes",
