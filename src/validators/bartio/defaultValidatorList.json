@@ -11,7 +11,7 @@
     },
     {
       "id": "0xD26d9aC83558268F5f71Fd48AF2078718E43E762",
-      "logoURI": "https://raw.githubusercontent.com/TesodeAll/berachain/main/icon.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/allnodes.png",
       "name": "Allnodes",
       "description": "Reliable non-custodial Validator run by the industry leader - Allnodes.",
       "website": "https://www.allnodes.com",
@@ -195,7 +195,7 @@
     },
     {
       "id": "0x388FF9FDB11A22AD78E9C5977CC4ED130CE5E88B",
-      "logoURI": "https://github.com/cosmostation/logo/blob/master/cosmostation_logo_1024.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/cosmostation.png",
       "name": "Cosmostation",
       "description": "Cosmostation validator node. Delegate your tokens and Start Earning Staking Rewards",
       "website": "https://www.cosmostation.io",
@@ -251,7 +251,7 @@
     },
     {
       "id": "0x6Ae5c02469F78E04e5dB3f03AeAc639797578fbe",
-      "logoURI": "https://drive.google.com/file/d/1rsQUNcBK7BEvGKmex_ZRd5qIYv0pXPNF/view?usp=sharing",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/node101.png",
       "name": "node101",
       "description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products for you to make the most of distributed value. Building klein.run",
       "website": "https://node101.io",
@@ -282,7 +282,7 @@
     },
     {
       "id": "0x9a3B94371A1b524A7963D10A015d053d5E7d2989",
-      "logoURI": "https://raw.githubusercontent.com/01node/logo/main/01node-logo.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/01node.png",
       "name": "01node",
       "description": "Securely validating one block at a time since 2019",
       "website": "https://01node.com",
