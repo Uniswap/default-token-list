@@ -255,6 +255,14 @@
       "description": "WhisperNode is a premier web3 infrastructure provider renowned for powering the backbone of blockchain ecosystems with our state-of-the-art validation services, RPC endpoints, and IBC relayers. Our commitment to reliability is showcased through our deployment of robust, geographically dispersed validators ensuring maximal uptime and unparalleled security.",
       "website": "https://www.whispernode.com",
       "twitter": "https://www.twitter.com/whispernode"
+    },
+    {
+    "id": "0x8BC9CB4C51A7AC47DEB10AE309DDB14709B124B8",
+    "logoURI": "https://res.cloudinary.com/djnmpf3kk/image/upload/v1717965916/infstones_nwtmp7.png",
+    "name": "InfStones",
+    "description": "Easily launch and manage nodes, stake PoS tokens, use our API, and more.",
+    "website": "https://infstones.com/",
+    "twitter": "https://x.com/infstones"
     }
   ]
 }
