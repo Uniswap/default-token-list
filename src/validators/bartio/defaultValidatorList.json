@@ -210,6 +210,14 @@
       "twitter": "https://x.com/node_101"
     },
     {
+      "id": "0xfcD12865282a86124Ac53E9eE9ef5B806C229948",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NodeStake.png",
+      "name": "NodeStake",
+      "description": "NodeStake is the professional validator, infrastructure provider and IBC relayer.",
+      "website": "https://nodestake.org",
+      "twitter": "https://x.com/NodeStake_top"
+    },
+    {
       "id": "0x6fc5e7b9afE7b9538b2c7c0bD7652E782a6e945D",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/laminated.png",
       "name": "Laminated Labs",
