@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
-    }    
+    },
+    {
+    "id": "0x73B969ADE706e89469134f3b78b4E74FC16477bE",
+    "logoURI": "https://raw.githubusercontent.com/blacknodes/logos/main/logo-no-background.png",
+    "name": "BlackNodes",
+    "description": " Blacknodes is an Enterprise-Level Validator and staking platform based out of INDIA, provides reliable nodes and diverse geolocations for a truly decentralized network. We provide high APR and no downtime.",
+    "website": "https://blacknodes.net",
+    "twitter": "https://www.twitter.com/BlackNodesHQ"
+    }
   ]
 }
