@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
-    }    
+    },
+    {
+    "id": "0x4AfB6199d1A92D1236cAa74b8dFE99F1EA3A8fF2",
+    "logoURI": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/main/logo-no-background.png",
+    "name": "StakeUs",
+    "description": "TRUST US STAKE US",
+    "website": "https://stakeus.xyz",
+    "twitter": "https://www.twitter.com/StakeusXyz"
+    }
   ]
 }
