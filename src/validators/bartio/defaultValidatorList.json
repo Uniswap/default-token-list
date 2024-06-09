@@ -2,6 +2,22 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x3Ab20D8fC60bDEddC1195C82eFD971024E7f90f4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staketab.png",
+      "name": "Staketab",
+      "description": "Professional staking provider offering infrastructure solutions for the Web3 ecosystem.",
+      "website": "https://staketab.com/",
+      "twitter": "https://x.com/staketab"
+    },
+    {
+      "id": "0x72cA77Dc5ef7C251e1fc84A74DDE580c0452A3b6",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nocturnal.jpg",
+      "name": "Nocturnal Labs",
+      "description": "Drinks for all the Beras!",
+      "website": "https://www.nocturnallabs.org/",
+      "twitter": "https://twitter.com/nct_labs"
+    },
+    {
       "id": "0x1e2e53c2451d0f9ED4B7952991BE0c95165D5c01",
       "logoURI": "",
       "name": "Quantum Labs",
@@ -16,6 +32,14 @@
       "description": "Nexa Solutions staking validator for efficient blockchain operations.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0x7d0f205f4a7F10B7B1c6282193aA202dC16fBbbe",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/noders.png",
+      "name": "[NODERS]TEAM",
+      "description": "Professional blockchain validator and web3 developer team",
+      "website": "https://nodersteam.com/",
+      "twitter": "https://twitter.com/NODERS_TEAM"
     },
     {
       "id": "0xD073a84e2ccDF91a9025179330438485E886D206",
@@ -122,6 +146,14 @@
       "twitter": ""
     },
     {
+      "id": "0xd1e53f65434838c6DCeC6c9112a30BA57E753E77",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/republic-crypto.png",
+      "name": "Republic Crypto",
+      "description": "Republic Crypto provides infrastructure for institutional staking on networks like Avalanche, Aptos and Sui with tailored services to meet your needs",
+      "website": "https://republic.com",
+      "twitter": "https://www.twitter.com/RepublicCrypto"
+    },
+    {
       "id": "0xF60fD8632Fc77E19b3A0637d115d0fdd06F36968",
       "logoURI": "",
       "name": "Aether Labs",
@@ -136,6 +168,22 @@
       "description": "Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services",
       "website": "https://www.kysenpool.io",
       "twitter": "https://x.com/@kysenpool"
+    },
+    {
+      "id": "0x7760D27dB62acf2699ea0A58fB7D2DC0b72d4e83",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/informal-systems.png",
+      "name": "Informal Systems",
+      "description": "Informal Systems x Cephalopod Equipment - infrastructure for decentralized intelligence",
+      "website": "https://www.informal.systems",
+      "twitter": "https://x.com/informalinc"
+    },
+    {
+      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+      "name": "Provalidator",
+      "description": "Supporting Blockchain Infrastructure",
+      "website": "https://provalidator.com",
+      "twitter": "https://x.com/Provalidator"
     }
   ]
 }
