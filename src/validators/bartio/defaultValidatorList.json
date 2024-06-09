@@ -128,6 +128,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
-    }    
+    },
+    {
+    "id": "0x40495A781095932e2FC8dccA69F5e358711Fdd41",
+    "logoURI": "https://github.com/berachain/default-lists/blob/main/src/assets/thj.jpg",
+    "name": "The-Honey-Jar",
+    "description": "Henlo! Based community gateway to the berachain ecosystem",
+    "website": "https://www.0xhoneyjar.xyz/",
+    "twitter": "https://twitter.com/0xhoneyjar"
+    }
   ]
 }
