@@ -28,20 +28,29 @@
   ],
   "gauges": [
     {
-      "receiptTokenAddress": "0x80b249cb0e0a7029ebd703af3f500305a9d46f05",
-      "vaultAddress": "0x80b249cb0e0a7029ebd703af3f500305a9d46f05",
-      "name": "BERA/HONEY",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png",
-      "product": "BEX",
-      "url": "https://dex.app/pool/0x1ce693737c65f958bc0875014b0412fdbe25ab03"
+      "receiptTokenAddress": "0x1339503343be5626B40Ee3Aee12a4DF50Aa4C0B9",
+      "vaultAddress": "0x2E8410239bB4b099EE2d5683e3EF9d6f04E321CC",
+      "name": "BEND-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
+      "product": "BEND",
+      "url": "",
+      "support": false
     },
     {
-      "receiptTokenAddress": "0x1cE693737c65f958bC0875014B0412FDBE25Ab03",
-      "vaultAddress": "0x6C893F63e72Ad939a2b67f1EE5137Efa92B4B7C3",
-      "name": "BERA/HONEY",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera.png",
+      "receiptTokenAddress": "0x874545db2C8809baB99FD235D23Fe302e3a0A9Be",
+      "vaultAddress": "0xc80d9250f76afd0a7beff61d5cce0198b6e2c708",
+      "name": "BERPS-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
+      "product": "BERPS",
+      "url": ""
+    },
+    {
+      "receiptTokenAddress": "0xd28d852cbcc68DCEC922f6d5C7a8185dBaa104B7",
+      "vaultAddress": "0xad57d7d39a487c04a44d3522b910421888fb9c6d",
+      "name": "HONEY-WBERA",
+      "logoURI": "",
       "product": "BEX",
-      "url": "https://dex.app/pool/0x1ce693737c65f958bc0875014b0412fdbe25ab03"
+      "url": ""
     }
   ],
   "version": {
