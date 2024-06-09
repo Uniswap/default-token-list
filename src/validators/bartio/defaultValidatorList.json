@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xD26d9aC83558268F5f71Fd48AF2078718E43E762",
+      "logoURI": "https://raw.githubusercontent.com/TesodeAll/berachain/main/icon.png",
+      "name": "Allnodes",
+      "description": "Reliable non-custodial Validator run by the industry leader - Allnodes.",
+      "website": "https://www.allnodes.com",
+      "twitter": "https://x.com/allnodes"
+    },
+    {
       "id": "0x3Ab20D8fC60bDEddC1195C82eFD971024E7f90f4",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staketab.png",
       "name": "Staketab",
@@ -32,6 +40,14 @@
       "description": "Nexa Solutions staking validator for efficient blockchain operations.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0x7d0f205f4a7F10B7B1c6282193aA202dC16fBbbe",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/noders.png",
+      "name": "[NODERS]TEAM",
+      "description": "Professional blockchain validator and web3 developer team",
+      "website": "https://nodersteam.com/",
+      "twitter": "https://twitter.com/NODERS_TEAM"
     },
     {
       "id": "0xD073a84e2ccDF91a9025179330438485E886D206",
@@ -154,20 +170,36 @@
       "twitter": ""
     },
     {
-    "id": "0x7760D27dB62acf2699ea0A58fB7D2DC0b72d4e83",
-    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/informal-systems.png",
-    "name": "Informal Systems",
-    "description": "Informal Systems x Cephalopod Equipment - infrastructure for decentralized intelligence",
-    "website": "https://www.informal.systems",
-    "twitter": "https://x.com/informalinc"
+      "id": "0xEe38E1CE4CEafF9f419518135Bcf827D15f698D2",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kysenpool.png",
+      "name": "KysenPool",
+      "description": "Unlock the Power of Staking with Our Trusted Blockchain Infrastructure Services",
+      "website": "https://www.kysenpool.io",
+      "twitter": "https://x.com/@kysenpool"
     },
     {
-    "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
-    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
-    "name": "Provalidator",
-    "description": "Supporting Blockchain Infrastructure",
-    "website": "https://provalidator.com",
-    "twitter": "https://x.com/Provalidator"
+      "id": "0x7760D27dB62acf2699ea0A58fB7D2DC0b72d4e83",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/informal-systems.png",
+      "name": "Informal Systems",
+      "description": "Informal Systems x Cephalopod Equipment - infrastructure for decentralized intelligence",
+      "website": "https://www.informal.systems",
+      "twitter": "https://x.com/informalinc"
+    },
+    {
+      "id": "0x35c1e9C7803b47aF738f37Beada3C7c35Eed73d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beralandlogo.png",
+      "name": "BeraLand",
+      "description": "BeraLand is the community hub for all things bera. Run by beras, for beras!",
+      "website": "https://beraland.xyz",
+      "twitter": "https://x.com/Bera_Land"
+    },
+    {
+      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+      "name": "Provalidator",
+      "description": "Supporting Blockchain Infrastructure",
+      "website": "https://provalidator.com",
+      "twitter": "https://x.com/Provalidator"
     },
     {
       "id": "0x6Ae5c02469F78E04e5dB3f03AeAc639797578fbe",
@@ -176,6 +208,13 @@
       "description": "We provide infrastructure services, host non-profit developer-focused events, and offer user-friendly products for you to make the most of distributed value. Building klein.run",
       "website": "https://node101.io",
       "twitter": "https://x.com/node_101"
-  }
+    },
+    {
+      "id": "0x6fc5e7b9afE7b9538b2c7c0bD7652E782a6e945D",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/laminated.png",
+      "name": "Laminated Labs",
+      "description": "Flaky, buttery validators just taste better.",
+      "website": "https://laminatedlabs.com"
+    }
   ]
 }
