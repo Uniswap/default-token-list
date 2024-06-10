@@ -631,6 +631,13 @@
       "description": "Others Trust, We Validate ! Your Stake is Important to Us. Secure Networks while You Earn Rewards.",
       "website": "https://kingsuper.org",
       "twitter": "https://twitter.com/_KingSuper_"
+    },
+    {
+      "id": "0xBd44230DE8a458e5355Ed390F125F11848053bDc",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staked.png",
+      "name": "Staked",
+      "description": "Staked is the leading provider of validation technology and services.",
+      "website": "https://staked.us"
     }
   ]
 }
