@@ -256,7 +256,7 @@
       "description": "Staking and relaying Hub for Cosmos ecosystem",
       "website": "https://www.stakelab.zone",
       "twitter": "https://x.com/StakeLab"
-    },   
+    },
     {
       "id": "0x4AfB6199d1A92D1236cAa74b8dFE99F1EA3A8fF2",
       "logoURI": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/main/logo-no-background.png",
@@ -272,7 +272,7 @@
       "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Berachain.",
       "website": "https://originstake.com",
       "twitter": "https://x.com/originstake"
-    },  
+    },
     {
       "id": "0x73B969ADE706e89469134f3b78b4E74FC16477bE",
       "logoURI": "https://raw.githubusercontent.com/blacknodes/logos/main/logo-no-background.png",
@@ -320,6 +320,14 @@
       "description": "Polkachu is the trusted staking service provider for blockchain projects. 100% refund for downtime slash. Contact us at hello@polkachu.com",
       "website": "https://polkachu.com",
       "twitter": "https://www.twitter.com/polka_chu"
+    },
+    {
+      "id": "0xDcCE0cB56b5a94bD6A5A889b324342981C3c16d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pops.png",
+      "name": "P-OPS Team",
+      "description": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects.",
+      "website": "https://pops.one",
+      "twitter": "https://twitter.com/POpsTeam1"
     },
     {
       "id": "0x19Bfe7b58D3D2C63Ee082A1C1db33F970Ca1fA44",
@@ -463,7 +471,7 @@
       "description": "Trusted infrastructure and validator service provider for over 50 networks. Dedicated to delivering reliable and secure solutions. ",
       "website": "https://stakingcabin.com",
       "twitter": "https://twitter.com/StakingCabin"
-    },    
+    },
     {
       "id": "0x1Cc335D9c67a71C777282fdb28b0a2d5eBf42AF4",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/flipside.png",
