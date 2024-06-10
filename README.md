@@ -1,6 +1,7 @@
 # 🐻@berachain/default-lists🐻
 
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/Berachain/default-token-list/actions?query=workflow%3ATests)
+[![Lint Check](https://github.com/berachain/default-lists/actions/workflows/prettier.yaml/badge.svg)](https://github.com/berachain/default-lists/actions/workflows/prettier.yaml)
 
 This GitHub repo contains default lists for configuring Berachain interfaces.
 
