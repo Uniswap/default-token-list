@@ -552,5 +552,14 @@
       "website": "https://verse2.io",
       "twitter": "https://x.com/verse2official"
     }
+    ,
+    {
+      "id": "0x6f06dd615817886e8e1c3cb837bf69f94e903472",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Everstake.png",
+      "name": "Everstake",
+      "description": "Everstake is a staking-as-a-service company. We help institutional investors and regular token holders to profit off their crypto assets. Choose the most promising projects, delegate with Everstake, and make a stable passive income.",
+      "website": "https://everstake.one",
+      "twitter": "https://twitter.com/everstake_pool"
+    }
   ]
 }
