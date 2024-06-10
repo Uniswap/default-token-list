@@ -617,6 +617,14 @@
       "twitter": "https://x.com/SimplyStaking"
     },
     {
+      "id": "0xE13456C1De1E04a5F7dE5Db6757eb9239Ab9BE56",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakin-logo-square.png",
+      "name": "Stakin",
+      "description": "Institutional staking service providers with nearly $2bn in Assets under Delegation, and support for more than 40 blockchain networks",
+      "website": "https://stakin.com",
+      "twitter": "https://twitter.com/StakinOfficial"
+    },
+    {
       "id": "0x0c6571537D0275Dbc6C93E00f4cA19500fa9c835",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/KingSuper.png",
       "name": "KingSuper",
