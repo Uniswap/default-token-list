@@ -545,6 +545,14 @@
       "twitter": ""
     },
     {
+      "id": "0xDcb7DE385dA16c69284351C9fAfEda1Bfeee6ceE",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kintsugi.png",
+      "name": "Kintsugi Nodes",
+      "description": "Your professional, global PoS validator. Delegate, earn, and join our journey to a golden blockchain.",
+      "website": "https://www.kintsugi.tech",
+      "twitter": "https://x.com/kintsugi_tech"
+    },
+    {
       "id": "0x20FB4a3366bC54a981F7E6173e52EA645C825679",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/verse2.png",
       "name": "verse2",
