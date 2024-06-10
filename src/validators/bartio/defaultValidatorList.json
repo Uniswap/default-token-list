@@ -551,6 +551,14 @@
       "description": "Starting as a builder, Verse2 has expanded its business to node validators, crypto investors, and advisors for web3 projects, growing its influence in the Asian crypto scene. Verse2 has an outstanding and professional track record in running nodes for Layer 1 Mainnets. The team has been a node operator for major chains both locally and globally.",
       "website": "https://verse2.io",
       "twitter": "https://x.com/verse2official"
+    },
+    {
+      "id": "0x7276365135e103C622c991De0bc7fD600F2eB577",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/node-guardians.png",
+      "name": "Node Guardians",
+      "description": "Berachain Testnet Network is under the watchful eyes of the Node Guardians - nodeguardians.io",
+      "website": "https://infra.nodeguardians.io",
+      "twitter": "https://x.com/nodeguardians"
     }
   ]
 }
