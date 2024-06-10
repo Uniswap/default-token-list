@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x447B00FF9F40725C91BBb159068Be136F1dbb434",
+      "logoURI": "https://www.meria.com/images/branding/logo-line-color.svg",
+      "name": "Meria",
+      "description": "Meria is an institutional-grade staking service provider running blockchain infrastructure on more than +35 networks.",
+      "website": "https://meria.com",
+      "twitter": "https://x.com/Meria_Finance"
+    },
+    {
       "id": "0x2D764DFeaAc00390c69985631aAA7Cc3fcfaFAfF",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/infrared.jpg",
       "name": "Infrared",
