@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x7A9Ba30e544d2b6F1cD11709e9F0a5C57A779e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/1xp.png",
+      "name": "1XP",
+      "description": "We always ensure that our actions are transparent and can be verified as truthful.",
+      "website": "https://www.1xp.com",
+      "twitter": "https://x.com/1XP_Inc"
+    },
+    {
       "id": "0x447B00FF9F40725C91BBb159068Be136F1dbb434",
       "logoURI": "https://www.meria.com/images/branding/logo-line-color.svg",
       "name": "Meria",
