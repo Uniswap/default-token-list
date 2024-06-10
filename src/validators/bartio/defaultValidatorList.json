@@ -551,6 +551,14 @@
       "description": "Starting as a builder, Verse2 has expanded its business to node validators, crypto investors, and advisors for web3 projects, growing its influence in the Asian crypto scene. Verse2 has an outstanding and professional track record in running nodes for Layer 1 Mainnets. The team has been a node operator for major chains both locally and globally.",
       "website": "https://verse2.io",
       "twitter": "https://x.com/verse2official"
+    },
+    {
+    "id": "0xec528cbc848e674e7787E376c3a836F0FA801e4A",
+    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/dsrv.png",
+    "name": "DSRV",
+    "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
+    "website": "https://dsrvlabs.com",
+    "twitter": "https://www.twitter.com/dsrvlabs"
     }
   ]
 }
