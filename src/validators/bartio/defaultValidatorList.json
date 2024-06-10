@@ -551,6 +551,14 @@
       "description": "Starting as a builder, Verse2 has expanded its business to node validators, crypto investors, and advisors for web3 projects, growing its influence in the Asian crypto scene. Verse2 has an outstanding and professional track record in running nodes for Layer 1 Mainnets. The team has been a node operator for major chains both locally and globally.",
       "website": "https://verse2.io",
       "twitter": "https://x.com/verse2official"
+    },
+    {
+        "id": "0x450f6A64c1DB2e8EF127a6F1b5a5EE2c0414D793",
+        "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/A41.png",
+        "name": "A41",
+        "description": "A41 is a blockchain infrastructure company. We provide staking service on multichain. Stake your token with us now and earn rewards!",
+        "website": "https://a41.io",
+        "twitter": "https://x.com/a41_allforone"
     }
   ]
 }
