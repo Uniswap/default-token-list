@@ -551,6 +551,14 @@
       "description": "Starting as a builder, Verse2 has expanded its business to node validators, crypto investors, and advisors for web3 projects, growing its influence in the Asian crypto scene. Verse2 has an outstanding and professional track record in running nodes for Layer 1 Mainnets. The team has been a node operator for major chains both locally and globally.",
       "website": "https://verse2.io",
       "twitter": "https://x.com/verse2official"
+    },
+    {
+      "id": "0x24A6EE555CD835C43992008C35DFAAB3323BAB21",
+      "logoURI": "chorus_one.svg",
+      "name": "Chorus One",
+      "description": "Secure Berachain and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
+      "website": "https://chorus.one",
+      "twitter": "https://twitter.com/chorusone/"
     }
   ]
 }
