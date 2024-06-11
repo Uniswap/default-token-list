@@ -1,0 +1,16 @@
+name: Lint Check
+on: [push, pull_request, merge_group]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Lint Check
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 18
+      - name: Install prettier
+        run: npm install -g prettier
+      - name: Check linting
+        run: prettier --check src/
