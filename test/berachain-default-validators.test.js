@@ -15,7 +15,7 @@ describe("validator list test suite", () => {
       const key = `${validator.name}-${index}`;
       expect(typeof map[key]).to.equal(
         "undefined",
-        `duplicate symbol: ${index}`
+        `duplicate symbol: ${index}`,
       );
       map[key] = true;
     }
@@ -25,7 +25,7 @@ describe("validator list test suite", () => {
     await defaultValidatorList.validators.map((validator) =>
       fetch(validator.logoURI).then((response) => {
         expect(response.status).to.equal(200);
-      })
+      }),
     );
   }, 30000);
 });

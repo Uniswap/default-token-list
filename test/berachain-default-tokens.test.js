@@ -31,7 +31,7 @@ describe("token list test suite", () => {
         const key = `${token.chainId}-${symbol}`;
         expect(typeof map[key]).to.equal(
           "undefined",
-          `duplicate symbol: ${symbol}`
+          `duplicate symbol: ${symbol}`,
         );
         map[key] = true;
       }
@@ -44,7 +44,7 @@ describe("token list test suite", () => {
       const key = `${token.chainId}-${token.name.toLowerCase()}`;
       expect(typeof map[key]).to.equal(
         "undefined",
-        `duplicate name: ${token.name}`
+        `duplicate name: ${token.name}`,
       );
       map[key] = true;
     }
@@ -60,14 +60,14 @@ describe("token list test suite", () => {
     await defaultTokenList.tokens.map((token) =>
       fetch(token.logoURI).then((response) => {
         expect(response.status).to.equal(200);
-      })
+      }),
     );
   }, 30000);
 
   it("version matches package.json", () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
     expect(packageJson.version).to.equal(
-      `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`
+      `${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`,
     );
   });
 });
