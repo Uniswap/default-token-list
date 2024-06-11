@@ -13,7 +13,7 @@
       "id": "0x42F8F3eB434ca4BFA43d15bF5200507c56588758",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/terminal.jpg",
       "name": "Token Terminal x FirstSet",
-      "description": "Token Terminal is a full stack onchain data platform focused on standardizing financial and alternative data for the most widely used blockchains and decentralized applications. It’s TT x FirstSet unit is run by a team of crypto native node operators with a mission to support emerging chains and protocols from day one.",
+      "description": "Token Terminal is a full stack onchain data platform focused on standardizing financial and alternative data for the most widely used blockchains and decentralized applications. It's TT x FirstSet unit is run by a team of crypto native node operators with a mission to support emerging chains and protocols from day one.",
       "website": "https://www.tokenterminal.com/",
       "twitter": " https://x.com/tokenterminal"
     },
@@ -27,7 +27,7 @@
     },
     {
       "id": "0x447B00FF9F40725C91BBb159068Be136F1dbb434",
-      "logoURI": "https://www.meria.com/images/branding/logo-line-color.svg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/meria.png",
       "name": "Meria",
       "description": "Meria is an institutional-grade staking service provider running blockchain infrastructure on more than +35 networks.",
       "website": "https://meria.com",
@@ -248,10 +248,10 @@
       "description": "Forest Staking is a team of military and civilian trained cybersecurity engineers, Linux admins and blockchain enthusiasts",
       "website": "https://foreststaking.com",
       "twitter": "https://x.com/ForestStaking"
-    },    
+    },
     {
       "id": "0x2Ecd703B119C3FbFb2ec4b9FFa6d8756f7De9428",
-      "logoURI": "https://res.cloudinary.com/dah5s50tj/image/upload/v1717928066/3f032a74a49c38b9382090fb16b1f605_360_360_ceyhhe.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/manticore.jpg",
       "name": "MantiCore",
       "description": "Secure and reliable individual PoS/PoW validator. Best uptime and 24/7 support.",
       "website": "https://manticore.team",
@@ -299,7 +299,7 @@
     },
     {
       "id": "0x83288B99CE00064724D65579AB90A9415ED2C914",
-      "logoURI": "",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BCW.png",
       "name": "BCW",
       "description": "BCW Group is an enterprise technology firm & venture studio dedicated to building Web3 infrastructure & applications that connect and interact with the on-demand digital universe.",
       "website": "",
@@ -323,7 +323,7 @@
     },
     {
       "id": "0x4AfB6199d1A92D1236cAa74b8dFE99F1EA3A8fF2",
-      "logoURI": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/main/logo-no-background.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakeus.png",
       "name": "StakeUs",
       "description": "TRUST US STAKE US",
       "website": "https://stakeus.xyz",
@@ -339,7 +339,7 @@
     },
     {
       "id": "0x73B969ADE706e89469134f3b78b4E74FC16477bE",
-      "logoURI": "https://raw.githubusercontent.com/blacknodes/logos/main/logo-no-background.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blacknodes.png",
       "name": "BlackNodes",
       "description": " Blacknodes is an Enterprise-Level Validator and staking platform based out of INDIA, provides reliable nodes and diverse geolocations for a truly decentralized network. We provide high APR and no downtime.",
       "website": "https://blacknodes.net",
@@ -482,7 +482,7 @@
     },
     {
       "id": "0x8BC9CB4C51A7AC47DEB10AE309DDB14709B124B8",
-      "logoURI": "https://res.cloudinary.com/djnmpf3kk/image/upload/v1717965916/infstones_nwtmp7.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/infstones.png",
       "name": "InfStones",
       "description": "Easily launch and manage nodes, stake PoS tokens, use our API, and more.",
       "website": "https://infstones.com/",
@@ -546,7 +546,7 @@
     },
     {
       "id": "0x93F64bA2948914d65Cd227c3501E22C93EBee19f",
-      "logoURI": "https://brightlystake.com/.well-known/Brightlystake-logo.svg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Brightlystake-logo.png",
       "name": "Brightlystake",
       "description": "Stake with Confidence",
       "website": "https://www.brightlystake.com",
@@ -561,16 +561,8 @@
       "twitter": "https://x.com/coinage_x_daic"
     },
     {
-      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
-      "name": "Provalidator",
-      "description": "Supporting Blockchain Infrastructure",
-      "website": "https://provalidator.com",
-      "twitter": "https://x.com/Provalidator"
-    },
-    {
       "id": "0x462f0560e473e1545Fd4d0680C02c499aaf01711",
-      "logoURI": "https://i0.wp.com/h2o-nodes.com/wp-content/uploads/2022/05/H2O-Nodes-logo-A1-4095064980-1653758705955.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/H2O.png",
       "name": "H2O Nodes",
       "description": "On Prem Validators from Austria",
       "website": "https://www.h2o-nodes.com",
@@ -585,16 +577,8 @@
       "twitter": "https://x.com/nodeinfra"
     },
     {
-      "id": "0x93F64bA2948914d65Cd227c3501E22C93EBee19f",
-      "logoURI": "https://brightlystake.com/.well-known/Brightlystake-logo.svg",
-      "name": "Brightlystake",
-      "description": "Stake with Confidence",
-      "website": "https://www.brightlystake.com",
-      "twitter": "https://twitter.com/brightlystake"
-    },
-    {
       "id": "0x1ab189B7801140900C711E458212F9c76F8dAC79",
-      "logoURI": "https://raw.githubusercontent.com/Frixoe/lgnsmeta/main/Lugahills.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Lugahills.jpg",
       "name": "Luganodes",
       "description": "Swiss-Operated Institutional Grade Staking Provider",
       "website": "https://luganodes.com",
@@ -618,7 +602,7 @@
     },
     {
       "id": "0xF8E73371C8C79358CA0140579B553F0A8D5A19A3",
-      "logoURI": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/blrd/30e7bb5c-c2d3-414e-91d5-f44247179b58/1456028aa49b20780d85650680524b1e.gif",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/blrd.gif",
       "name": "BLRD",
       "description": "BLRD is a subsidiary of GREE, a Japanese game company.",
       "website": "https://blrd.inc",
@@ -641,20 +625,20 @@
       "twitter": "https://x.com/verse2official"
     },
     {
-    "id": "0x40495A781095932e2FC8dccA69F5e358711Fdd41",
-    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/thj.jpg",
-    "name": "The-Honey-Jar",
-    "description": "Henlo! Based community gateway to the berachain ecosystem",
-    "website": "https://www.0xhoneyjar.xyz/",
-    "twitter": "https://twitter.com/0xhoneyjar"
+      "id": "0x40495A781095932e2FC8dccA69F5e358711Fdd41",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/thj.jpg",
+      "name": "The-Honey-Jar",
+      "description": "Henlo! Based community gateway to the berachain ecosystem",
+      "website": "https://www.0xhoneyjar.xyz/",
+      "twitter": "https://twitter.com/0xhoneyjar"
     },
     {
-    "id": "0xec528cbc848e674e7787E376c3a836F0FA801e4A",
-    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/dsrv.png",
-    "name": "DSRV",
-    "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
-    "website": "https://dsrvlabs.com",
-    "twitter": "https://www.twitter.com/dsrvlabs"
+      "id": "0xec528cbc848e674e7787E376c3a836F0FA801e4A",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/dsrv.png",
+      "name": "DSRV",
+      "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
+      "website": "https://dsrvlabs.com",
+      "twitter": "https://www.twitter.com/dsrvlabs"
     },
     {
       "id": "0x4A32ed6B31527d3fbF5184cb96b0E3dBeb9328c9",
@@ -690,7 +674,7 @@
     },
     {
       "id": "0x24A6EE555CD835C43992008C35DFAAB3323BAB21",
-      "logoURI": "chorus_one.svg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/chorus_one.svg",
       "name": "Chorus One",
       "description": "Secure Berachain and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
       "website": "https://chorus.one",
@@ -711,14 +695,6 @@
       "description": "Provides secure validation services for dPoS networks",
       "website": "https://bharvest.io/",
       "twitter": "https://x.com/B__Harvest"
-    },
-    {
-      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
-      "name": "Provalidator",
-      "description": "Supporting Blockchain Infrastructure",
-      "website": "https://provalidator.com",
-      "twitter": "https://x.com/Provalidator"
     },
     {
       "id": "0x23A3f18cFEF4625E3fBe5850E7Ac33E8F0f6E20c",
