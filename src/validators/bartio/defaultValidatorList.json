@@ -734,6 +734,14 @@
       "description": "Distributed multi-chain acceleration layer. Solving the RPC requests congestion problem with infinite scalability.",
       "website": "https://blockpi.io/",
       "twitter": "https://twitter.com/RealBlockPI"
+    },
+    {
+      "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
+      "logoURI": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/brand-assets/cdao_logo_128x128.png",
+      "name": "ContributionDAO",
+      "description": "Secure Network With Institutional Grade Solution",
+      "website": "https://contributiondao.com",
+      "twitter": "https://x.com/contributedao"
     }
   ]
 }
