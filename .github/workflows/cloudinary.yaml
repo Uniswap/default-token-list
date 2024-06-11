@@ -1,6 +1,9 @@
 name: Deploy to Cloudinary
 
 on:
+  merge_group:
+    branches:
+      - main
   push:
     branches:
       - main
