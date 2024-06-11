@@ -726,6 +726,14 @@
       "name": "Staked",
       "description": "Staked is the leading provider of validation technology and services.",
       "website": "https://staked.us"
+    },
+    {
+      "id": "0x364020282B9A82f6Be32fd20Ff829b7F0AacD118",
+      "logoURI": https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BlockPI%20Network.jpg",
+      "name": "BlockPI Network",
+      "description": "Distributed multi-chain acceleration layer. Solving the RPC requests congestion problem with infinite scalability.",
+      "website": "https://blockpi.io/",
+      "twitter": "https://twitter.com/RealBlockPI"
     }
   ]
 }
