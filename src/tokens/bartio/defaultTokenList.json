@@ -30,7 +30,7 @@
     "deposit": {
       "name": "Deposit Token",
       "description": "Tokens that can be deposited in Bend"
-    }, 
+    },
     "rewardToken": {
       "name": "Reward Token",
       "description": "Tokens that are used for vault deposits to earn BGT rewards"
@@ -118,7 +118,8 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/honey.png",
       "tags": ["supply"]
-    },{
+    },
+    {
       "chainId": 80084,
       "address": "0x8Ce5C1c42CD58B7aE61512790e514a82d84375Ed",
       "symbol": "aWETH",
