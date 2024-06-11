@@ -734,6 +734,14 @@
       "description": "Distributed multi-chain acceleration layer. Solving the RPC requests congestion problem with infinite scalability.",
       "website": "https://blockpi.io/",
       "twitter": "https://twitter.com/RealBlockPI"
+    },
+    {
+      "id": "0x602b08F34919D3aa107c481DBAbF11Fb76B10BB9",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bwarelabs.png",
+      "name": "BwareLabs",
+      "description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
+      "website": "https://bwarelabs.com/",
+      "twitter": "https://x.com/bwarelabs"
     }
   ]
 }
