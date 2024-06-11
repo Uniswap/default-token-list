@@ -2149,4 +2149,12 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35893/standard/aevo.png"
   }
-]
+]{
+  "chainId": 1,
+  "address": "0x577796d0716a803d33a2aab7992606ef39e3a6dd",
+  "name": "Gospel Coin",
+  "symbol": "GOSPEL",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/yourusername/token-images/main/gospel_coin.png"
+}
+
