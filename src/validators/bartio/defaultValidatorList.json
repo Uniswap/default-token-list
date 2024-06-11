@@ -10,6 +10,14 @@
       "twitter": " https://x.com/tokenterminal"
     },
     {
+      "id": "0x7A9Ba30e544d2b6F1cD11709e9F0a5C57A779e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/1xp.png",
+      "name": "1XP",
+      "description": "We always ensure that our actions are transparent and can be verified as truthful.",
+      "website": "https://www.1xp.com",
+      "twitter": "https://x.com/1XP_Inc"
+    },
+    {
       "id": "0x447B00FF9F40725C91BBb159068Be136F1dbb434",
       "logoURI": "https://www.meria.com/images/branding/logo-line-color.svg",
       "name": "Meria",
@@ -88,6 +96,14 @@
       "description": "Hyperion Inc. staking validator with top-notch security.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0xa753f4db52c014d416589240d7606bdeca7b2f80",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/asymmetric_re.png",
+      "name": "Asymmetric Research",
+      "description": "High integrity validation and infrastructure services for web3 ecosystems",
+      "website": "https://www.asymmetric.re",
+      "twitter": "https://twitter.com/asymmetric_re"
     },
     {
       "id": "0x8a88215ae882dfA519730c40109556c1C235729f",
@@ -208,6 +224,14 @@
       "description": "Aether Labs staking validator for seamless blockchain integration.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0x2Ecd703B119C3FbFb2ec4b9FFa6d8756f7De9428",
+      "logoURI": "https://res.cloudinary.com/dah5s50tj/image/upload/v1717928066/3f032a74a49c38b9382090fb16b1f605_360_360_ceyhhe.jpg",
+      "name": "MantiCore",
+      "description": "Secure and reliable individual PoS/PoW validator. Best uptime and 24/7 support.",
+      "website": "https://manticore.team",
+      "twitter": "https://twitter.com/MantiCoreNodes"
     },
     {
       "id": "0xC09A619A872c56C8de1354A4309aBBF317938084",
@@ -538,7 +562,7 @@
     },
     {
       "id": "0x1ab189B7801140900C711E458212F9c76F8dAC79",
-      "logoURI": "https://raw.githubusercontent.com/Frixoe/lgnsmeta/main/lugahils.jpeg",
+      "logoURI": "https://raw.githubusercontent.com/Frixoe/lgnsmeta/main/Lugahills.jpg",
       "name": "Luganodes",
       "description": "Swiss-Operated Institutional Grade Staking Provider",
       "website": "https://luganodes.com",
@@ -585,6 +609,30 @@
       "twitter": "https://x.com/verse2official"
     },
     {
+      "id": "0x450f6A64c1DB2e8EF127a6F1b5a5EE2c0414D793",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/A41.png",
+      "name": "A41",
+      "description": "A41 is a blockchain infrastructure company. We provide staking service on multichain. Stake your token with us now and earn rewards!",
+      "website": "https://a41.io",
+      "twitter": "https://x.com/a41_allforone"
+    },
+    {
+      "id": "0x7276365135e103C622c991De0bc7fD600F2eB577",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/node-guardians.png",
+      "name": "Node Guardians",
+      "description": "Berachain Testnet Network is under the watchful eyes of the Node Guardians - nodeguardians.io",
+      "website": "https://infra.nodeguardians.io",
+      "twitter": "https://x.com/nodeguardians"
+    },
+    {
+      "id": "0x24A6EE555CD835C43992008C35DFAAB3323BAB21",
+      "logoURI": "chorus_one.svg",
+      "name": "Chorus One",
+      "description": "Secure Berachain and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
+      "website": "https://chorus.one",
+      "twitter": "https://twitter.com/chorusone/"
+    },
+    {
       "id": "0x6f06dd615817886e8e1c3cb837bf69f94e903472",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Everstake.png",
       "name": "Everstake",
@@ -601,12 +649,43 @@
       "twitter": "https://x.com/B__Harvest"
     },
     {
+      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+      "name": "Provalidator",
+      "description": "Supporting Blockchain Infrastructure",
+      "website": "https://provalidator.com",
+      "twitter": "https://x.com/Provalidator"
+    },
+    {
+      "id": "0x23A3f18cFEF4625E3fBe5850E7Ac33E8F0f6E20c",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/simplystaking.png",
+      "name": "Simply Staking",
+      "description": "Simply Staking runs highly reliable infrastructure in our own datacentre in Malta, built with the aim of supporting the growth of the blockchain ecosystem",
+      "website": "https://simplystaking.com",
+      "twitter": "https://x.com/SimplyStaking"
+    },
+    {
+      "id": "0xE13456C1De1E04a5F7dE5Db6757eb9239Ab9BE56",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakin-logo-square.png",
+      "name": "Stakin",
+      "description": "Institutional staking service providers with nearly $2bn in Assets under Delegation, and support for more than 40 blockchain networks",
+      "website": "https://stakin.com",
+      "twitter": "https://twitter.com/StakinOfficial"
+    },
+    {
       "id": "0x0c6571537D0275Dbc6C93E00f4cA19500fa9c835",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/KingSuper.png",
       "name": "KingSuper",
       "description": "Others Trust, We Validate ! Your Stake is Important to Us. Secure Networks while You Earn Rewards.",
       "website": "https://kingsuper.org",
       "twitter": "https://twitter.com/_KingSuper_"
+    },
+    {
+      "id": "0xBd44230DE8a458e5355Ed390F125F11848053bDc",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staked.png",
+      "name": "Staked",
+      "description": "Staked is the leading provider of validation technology and services.",
+      "website": "https://staked.us"
     }
   ]
 }
