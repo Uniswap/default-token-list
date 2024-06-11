@@ -2,6 +2,30 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x42F8F3eB434ca4BFA43d15bF5200507c56588758",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/terminal.jpg",
+      "name": "Token Terminal x FirstSet",
+      "description": "Token Terminal is a full stack onchain data platform focused on standardizing financial and alternative data for the most widely used blockchains and decentralized applications. It’s TT x FirstSet unit is run by a team of crypto native node operators with a mission to support emerging chains and protocols from day one.",
+      "website": "https://www.tokenterminal.com/",
+      "twitter": " https://x.com/tokenterminal"
+    },
+    {
+      "id": "0x7A9Ba30e544d2b6F1cD11709e9F0a5C57A779e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/1xp.png",
+      "name": "1XP",
+      "description": "We always ensure that our actions are transparent and can be verified as truthful.",
+      "website": "https://www.1xp.com",
+      "twitter": "https://x.com/1XP_Inc"
+    },
+    {
+      "id": "0x447B00FF9F40725C91BBb159068Be136F1dbb434",
+      "logoURI": "https://www.meria.com/images/branding/logo-line-color.svg",
+      "name": "Meria",
+      "description": "Meria is an institutional-grade staking service provider running blockchain infrastructure on more than +35 networks.",
+      "website": "https://meria.com",
+      "twitter": "https://x.com/Meria_Finance"
+    },
+    {
       "id": "0x2D764DFeaAc00390c69985631aAA7Cc3fcfaFAfF",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/infrared.jpg",
       "name": "Infrared",
@@ -18,12 +42,12 @@
       "twitter": "https://x.com/allnodes"
     },
     {
-    "id": "0xA7B927Cc85bFB997765aC86a86e46d36413e9B57",
-    "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nodemeister.png",
-    "name": "nodemeister",
-    "description": "freedom through decentralization",
-    "website": "",
-    "twitter": "https://x.com/nodemeister"
+      "id": "0xA7B927Cc85bFB997765aC86a86e46d36413e9B57",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/nodemeister.png",
+      "name": "nodemeister",
+      "description": "freedom through decentralization",
+      "website": "",
+      "twitter": "https://x.com/nodemeister"
     },
     {
       "id": "0x3Ab20D8fC60bDEddC1195C82eFD971024E7f90f4",
@@ -72,6 +96,14 @@
       "description": "Hyperion Inc. staking validator with top-notch security.",
       "website": "",
       "twitter": ""
+    },
+    {
+      "id": "0xa753f4db52c014d416589240d7606bdeca7b2f80",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/asymmetric_re.png",
+      "name": "Asymmetric Research",
+      "description": "High integrity validation and infrastructure services for web3 ecosystems",
+      "website": "https://www.asymmetric.re",
+      "twitter": "https://twitter.com/asymmetric_re"
     },
     {
       "id": "0x8a88215ae882dfA519730c40109556c1C235729f",
@@ -194,6 +226,22 @@
       "twitter": ""
     },
     {
+      "id": "0x36393255e8BB9042c2eD32728Acd01c0E013aE48",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Forest_Staking.png",
+      "name": "Forest_Staking",
+      "description": "Forest Staking is a team of military and civilian trained cybersecurity engineers, Linux admins and blockchain enthusiasts",
+      "website": "https://foreststaking.com",
+      "twitter": "https://x.com/ForestStaking"
+    },    
+    {
+      "id": "0x2Ecd703B119C3FbFb2ec4b9FFa6d8756f7De9428",
+      "logoURI": "https://res.cloudinary.com/dah5s50tj/image/upload/v1717928066/3f032a74a49c38b9382090fb16b1f605_360_360_ceyhhe.jpg",
+      "name": "MantiCore",
+      "description": "Secure and reliable individual PoS/PoW validator. Best uptime and 24/7 support.",
+      "website": "https://manticore.team",
+      "twitter": "https://twitter.com/MantiCoreNodes"
+    },
+    {
       "id": "0xC09A619A872c56C8de1354A4309aBBF317938084",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kudasaijp.png",
       "name": "KudasaiJP",
@@ -256,7 +304,7 @@
       "description": "Staking and relaying Hub for Cosmos ecosystem",
       "website": "https://www.stakelab.zone",
       "twitter": "https://x.com/StakeLab"
-    },   
+    },
     {
       "id": "0x4AfB6199d1A92D1236cAa74b8dFE99F1EA3A8fF2",
       "logoURI": "https://raw.githubusercontent.com/StakeUs/Stakeus_LOGO/main/logo-no-background.png",
@@ -272,7 +320,7 @@
       "description": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Berachain.",
       "website": "https://originstake.com",
       "twitter": "https://x.com/originstake"
-    },  
+    },
     {
       "id": "0x73B969ADE706e89469134f3b78b4E74FC16477bE",
       "logoURI": "https://raw.githubusercontent.com/blacknodes/logos/main/logo-no-background.png",
@@ -463,7 +511,7 @@
       "description": "Trusted infrastructure and validator service provider for over 50 networks. Dedicated to delivering reliable and secure solutions. ",
       "website": "https://stakingcabin.com",
       "twitter": "https://twitter.com/StakingCabin"
-    },    
+    },
     {
       "id": "0x1Cc335D9c67a71C777282fdb28b0a2d5eBf42AF4",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/flipside.png",
@@ -497,12 +545,12 @@
       "twitter": "https://x.com/Provalidator"
     },
     {
-        "id": "0x462f0560e473e1545Fd4d0680C02c499aaf01711",
-        "logoURI": "https://i0.wp.com/h2o-nodes.com/wp-content/uploads/2022/05/H2O-Nodes-logo-A1-4095064980-1653758705955.jpg",
-        "name": "H2O Nodes",
-        "description": "On Prem Validators from Austria",
-        "website": "https://www.h2o-nodes.com",
-        "twitter": "https://www.twitter.com/H2oNodes"
+      "id": "0x462f0560e473e1545Fd4d0680C02c499aaf01711",
+      "logoURI": "https://i0.wp.com/h2o-nodes.com/wp-content/uploads/2022/05/H2O-Nodes-logo-A1-4095064980-1653758705955.jpg",
+      "name": "H2O Nodes",
+      "description": "On Prem Validators from Austria",
+      "website": "https://www.h2o-nodes.com",
+      "twitter": "https://www.twitter.com/H2oNodes"
     },
     {
       "id": "0x201c74de018aa34214BEEFFaF717e1d5F36261a7",
@@ -521,12 +569,12 @@
       "twitter": "https://twitter.com/brightlystake"
     },
     {
-        "id": "0x1ab189B7801140900C711E458212F9c76F8dAC79",
-        "logoURI": "https://raw.githubusercontent.com/Frixoe/lgnsmeta/main/lugahils.jpeg",
-        "name": "Luganodes",
-        "description": "Swiss-Operated Institutional Grade Staking Provider",
-        "website": "https://luganodes.com",
-        "twitter": "https://x.com/luganodes"
+      "id": "0x1ab189B7801140900C711E458212F9c76F8dAC79",
+      "logoURI": "https://raw.githubusercontent.com/Frixoe/lgnsmeta/main/Lugahills.jpg",
+      "name": "Luganodes",
+      "description": "Swiss-Operated Institutional Grade Staking Provider",
+      "website": "https://luganodes.com",
+      "twitter": "https://x.com/luganodes"
     },
     {
       "id": "0x2C8D3b794c5FC05Fe6A91AD4C4F3a66620ff9aa5",
@@ -545,6 +593,22 @@
       "twitter": ""
     },
     {
+      "id": "0xF8E73371C8C79358CA0140579B553F0A8D5A19A3",
+      "logoURI": "https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/blrd/30e7bb5c-c2d3-414e-91d5-f44247179b58/1456028aa49b20780d85650680524b1e.gif",
+      "name": "BLRD",
+      "description": "BLRD is a subsidiary of GREE, a Japanese game company.",
+      "website": "https://blrd.inc",
+      "twitter": "https://x.com/helloblrd"
+    },
+    {
+      "id": "0xDcb7DE385dA16c69284351C9fAfEda1Bfeee6ceE",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kintsugi.png",
+      "name": "Kintsugi Nodes",
+      "description": "Your professional, global PoS validator. Delegate, earn, and join our journey to a golden blockchain.",
+      "website": "https://www.kintsugi.tech",
+      "twitter": "https://x.com/kintsugi_tech"
+    },
+    {
       "id": "0x20FB4a3366bC54a981F7E6173e52EA645C825679",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/verse2.png",
       "name": "verse2",
@@ -559,6 +623,101 @@
     "description": "DSRV is an integrated blockchain solutions company with the mission of enriching the crypto ecosystem via stronger connectivity. We strive to be your gateway to a suite of all-comprehensive blockchain services. Everything distributed, served complete.",
     "website": "https://dsrvlabs.com",
     "twitter": "https://www.twitter.com/dsrvlabs"
+    },
+    {
+      "id": "0x4A32ed6B31527d3fbF5184cb96b0E3dBeb9328c9",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Angelhack.jpg",
+      "name": "Angelhack",
+      "description": "World's Leader in Hackathons and Developer Relations",
+      "website": "https://angelhack.com/",
+      "twitter": "https://x.com/AngelHack"
+    },
+    {
+      "id": "0xaD76712146E358570614b795Bac79A96bc0e75D9",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/coinhall_logo.png",
+      "name": "coinhall.org 📈🔄",
+      "description": "Coinhall is a community first platform providing real time price charts & analytics, and aggregating DEXes across the Cosmos ecosystem",
+      "website": "https://coinhall.org",
+      "twitter": "https://x.com/coinhall_org"
+    },
+    {
+      "id": "0x450f6A64c1DB2e8EF127a6F1b5a5EE2c0414D793",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/A41.png",
+      "name": "A41",
+      "description": "A41 is a blockchain infrastructure company. We provide staking service on multichain. Stake your token with us now and earn rewards!",
+      "website": "https://a41.io",
+      "twitter": "https://x.com/a41_allforone"
+    },
+    {
+      "id": "0x7276365135e103C622c991De0bc7fD600F2eB577",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/node-guardians.png",
+      "name": "Node Guardians",
+      "description": "Berachain Testnet Network is under the watchful eyes of the Node Guardians - nodeguardians.io",
+      "website": "https://infra.nodeguardians.io",
+      "twitter": "https://x.com/nodeguardians"
+    },
+    {
+      "id": "0x24A6EE555CD835C43992008C35DFAAB3323BAB21",
+      "logoURI": "chorus_one.svg",
+      "name": "Chorus One",
+      "description": "Secure Berachain and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
+      "website": "https://chorus.one",
+      "twitter": "https://twitter.com/chorusone/"
+    },
+    {
+      "id": "0x6f06dd615817886e8e1c3cb837bf69f94e903472",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Everstake.png",
+      "name": "Everstake",
+      "description": "Everstake is a staking-as-a-service company. We help institutional investors and regular token holders to profit off their crypto assets. Choose the most promising projects, delegate with Everstake, and make a stable passive income.",
+      "website": "https://everstake.one",
+      "twitter": "https://twitter.com/everstake_pool"
+    },
+    {
+      "id": "0x61AF17565b671e9b84869615d6889F1Eb7eDe223",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/b-harvest.png",
+      "name": "B-Harvest",
+      "description": "Provides secure validation services for dPoS networks",
+      "website": "https://bharvest.io/",
+      "twitter": "https://x.com/B__Harvest"
+    },
+    {
+      "id": "0x377bcA11d71eBE440F797Af3cf2a08fd120b4e94",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Provalidator.jpg",
+      "name": "Provalidator",
+      "description": "Supporting Blockchain Infrastructure",
+      "website": "https://provalidator.com",
+      "twitter": "https://x.com/Provalidator"
+    },
+    {
+      "id": "0x23A3f18cFEF4625E3fBe5850E7Ac33E8F0f6E20c",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/simplystaking.png",
+      "name": "Simply Staking",
+      "description": "Simply Staking runs highly reliable infrastructure in our own datacentre in Malta, built with the aim of supporting the growth of the blockchain ecosystem",
+      "website": "https://simplystaking.com",
+      "twitter": "https://x.com/SimplyStaking"
+    },
+    {
+      "id": "0xE13456C1De1E04a5F7dE5Db6757eb9239Ab9BE56",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakin-logo-square.png",
+      "name": "Stakin",
+      "description": "Institutional staking service providers with nearly $2bn in Assets under Delegation, and support for more than 40 blockchain networks",
+      "website": "https://stakin.com",
+      "twitter": "https://twitter.com/StakinOfficial"
+    },
+    {
+      "id": "0x0c6571537D0275Dbc6C93E00f4cA19500fa9c835",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/KingSuper.png",
+      "name": "KingSuper",
+      "description": "Others Trust, We Validate ! Your Stake is Important to Us. Secure Networks while You Earn Rewards.",
+      "website": "https://kingsuper.org",
+      "twitter": "https://twitter.com/_KingSuper_"
+    },
+    {
+      "id": "0xBd44230DE8a458e5355Ed390F125F11848053bDc",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/staked.png",
+      "name": "Staked",
+      "description": "Staked is the leading provider of validation technology and services.",
+      "website": "https://staked.us"
     }
   ]
 }
