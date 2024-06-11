@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x7e8d2356240A1F0e249e628b6964C6227a11d945",
+      "logoURI": "https://raw.githubusercontent.com/winniewdd/winniewdd/main/Ebunker-logo/ebunker-logo.png",
+      "name": "Ebunker",
+      "description": "Ebunker is a leading node operator and blockchain infrastructure company.",
+      "website": "https://www.ebunker.io/",
+      "twitter": "https://twitter.com/ebunker_eth"
+    },
+    {
       "id": "0xd4516752CE743E7b0a264D2Db7F61F8e4444d9A6",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/snzpool.png",
       "name": "SNZPool",
