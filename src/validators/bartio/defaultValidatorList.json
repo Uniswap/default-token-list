@@ -2,6 +2,22 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x602b08F34919D3aa107c481DBAbF11Fb76B10BB9",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bwarelabs.png",
+      "name": "BwareLabs",
+      "description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
+      "website": "https://bwarelabs.com/",
+      "twitter": "https://x.com/bwarelabs"
+    },
+    {
+      "id": "0x7e8d2356240A1F0e249e628b6964C6227a11d945",
+      "logoURI": "https://raw.githubusercontent.com/winniewdd/winniewdd/main/Ebunker-logo/ebunker-logo.png",
+      "name": "Ebunker",
+      "description": "Ebunker is a leading node operator and blockchain infrastructure company.",
+      "website": "https://www.ebunker.io/",
+      "twitter": "https://twitter.com/ebunker_eth"
+    },
+    {
       "id": "0xd4516752CE743E7b0a264D2Db7F61F8e4444d9A6",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/snzpool.png",
       "name": "SNZPool",
@@ -578,7 +594,7 @@
     },
     {
       "id": "0x1ab189B7801140900C711E458212F9c76F8dAC79",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Lugahills.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Lugahill_square.png",
       "name": "Luganodes",
       "description": "Swiss-Operated Institutional Grade Staking Provider",
       "website": "https://luganodes.com",
@@ -728,20 +744,28 @@
       "website": "https://staked.us"
     },
     {
+      "id": "0xBE4AC4705CFc15630D88f92a58Fe004498aDD783",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakely-io-small-logo.png",
+      "name": "Stakely",
+      "description": "🔥 Professional validator highly experienced in PoS 🔥 Slashing protection & Eligible for airdrops | Learn with our staking guides, video tutorials and FAQs | Part of the commission of our nodes will go to our Multicoin Faucet funds and other tools 🌱 Carbon Neutral 🌱",
+      "website": "https://stakely.io",
+      "twitter": "https://x.com/Stakely_io"
+    },
+    {
       "id": "0x364020282B9A82f6Be32fd20Ff829b7F0AacD118",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BlockPI%20Network.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BlockPI-Network.jpg",
       "name": "BlockPI Network",
       "description": "Distributed multi-chain acceleration layer. Solving the RPC requests congestion problem with infinite scalability.",
       "website": "https://blockpi.io/",
       "twitter": "https://twitter.com/RealBlockPI"
     },
     {
-      "id": "0x602b08F34919D3aa107c481DBAbF11Fb76B10BB9",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bwarelabs.png",
-      "name": "BwareLabs",
-      "description": "Guaranteed availability and up-time backed by a professional blockchain infrastructure team.",
-      "website": "https://bwarelabs.com/",
-      "twitter": "https://x.com/bwarelabs"
+      "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
+      "logoURI": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/brand-assets/cdao_logo_128x128.png",
+      "name": "ContributionDAO",
+      "description": "Secure Network With Institutional Grade Solution",
+      "website": "https://contributiondao.com",
+      "twitter": "https://x.com/contributedao"
     }
   ]
 }
