@@ -752,20 +752,20 @@
       "twitter": "https://twitter.com/RealBlockPI"
     },
     {
-      "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
-      "logoURI": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/brand-assets/cdao_logo_128x128.png",
-      "name": "ContributionDAO",
-      "description": "Secure Network With Institutional Grade Solution",
-      "website": "https://contributiondao.com",
-      "twitter": "https://x.com/contributedao"
-    },
-    {
       "id": "0xb38eefa932aea6468aebf42320163c497104b0bd",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Moni.png",
       "name": "Moni",
       "description": "Your good neighbourhood validator by Moni. Moni is an ecosystem of analytical tools and a community of researchers, investors, and degens.",
       "website": "https://getmoni.io/",
       "twitter": "https://x.com/getmoni_io"
+    },
+    {
+      "id": "0x71c6F418E2f91539409018489413dFb88A770BCa",
+      "logoURI": "https://raw.githubusercontent.com/Huginntech/default-lists/main/src/assets/huginn.png",
+      "name": "Huginn",
+      "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
+      "website": "https://huginn.tech/",
+      "twitter": "https://x.com/HuginnStake"
     }
   ]
 }
