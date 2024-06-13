@@ -774,6 +774,14 @@
       "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
       "website": "https://huginn.tech/",
       "twitter": "https://x.com/HuginnStake"
+    },
+    {
+      "id": "0x75F7af8D2A35de0395ee126FFd74970d10484e5C",
+      "logoURI": "https://raw.githubusercontent.com/empatim/default-lists/main/src/assets/punq.png",
+      "name": "punq",
+      "description": "Lets Rock - 7/24 non-stop staking services and solutions",
+      "website": "https://www.punq.info/",
+      "twitter": "https://twitter.com/punq1t"
     }
   ]
 }
