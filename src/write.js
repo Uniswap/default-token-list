@@ -1,3 +1,12 @@
 const buildList = require("./buildList");
 
-buildList().then((data) => console.log(JSON.stringify(data, null, 2)));
+async function fetchDataAndLog() {
+  try {
+    const data = await buildList();
+    console.log(JSON.stringify(data, null, 2));
+  } catch (error) {
+    console.error("Failed to build list:", error);
+  }
+}
+
+fetchDataAndLog();
