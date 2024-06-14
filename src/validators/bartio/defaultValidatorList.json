@@ -10,6 +10,14 @@
       "twitter": "https://x.com/bwarelabs"
     },
     {
+      "id": "0xe868bE65C50b61E81A3fC5cB5A7916090B05eb2A",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/doubletop.png",
+      "name": "DOUBLETOP",
+      "description": "Your trusted security non-custodial validator. DOUBLETOP is Ukrainian crypto-oriented holding.",
+      "website": "https://doubletop.io/",
+      "twitter": "https://x.com/doubletop_io"
+    },
+    {
       "id": "0x7e8d2356240A1F0e249e628b6964C6227a11d945",
       "logoURI": "https://raw.githubusercontent.com/winniewdd/winniewdd/main/Ebunker-logo/ebunker-logo.png",
       "name": "Ebunker",
@@ -760,12 +768,36 @@
       "twitter": "https://twitter.com/RealBlockPI"
     },
     {
-      "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
-      "logoURI": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/main/brand-assets/cdao_logo_128x128.png",
-      "name": "ContributionDAO",
-      "description": "Secure Network With Institutional Grade Solution",
-      "website": "https://contributiondao.com",
-      "twitter": "https://x.com/contributedao"
+      "id": "0xb38eefa932aea6468aebf42320163c497104b0bd",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Moni.png",
+      "name": "Moni",
+      "description": "Your good neighbourhood validator by Moni. Moni is an ecosystem of analytical tools and a community of researchers, investors, and degens.",
+      "website": "https://getmoni.io/",
+      "twitter": "https://x.com/getmoni_io"
+    },
+    {
+      "id": "0x71c6F418E2f91539409018489413dFb88A770BCa",
+      "logoURI": "https://raw.githubusercontent.com/Huginntech/default-lists/main/src/assets/huginn.png",
+      "name": "Huginn",
+      "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
+      "website": "https://huginn.tech/",
+      "twitter": "https://x.com/HuginnStake"
+    },
+    {
+      "id": "0x35DaAEB5B592d963D6B3b5f2f7EB71e259C96f98",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/gumi.png",
+      "name": "gumi",
+      "description": "One of the largest Japanese game publisher.As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.Creating a new business ecosystem through decentralization and capitalization of digital data.",
+      "website": "https://gu3.co.jp/en/blockchain/",
+      "twitter": "https://x.com/gumi_oshi3_en"
+    },
+    {
+      "id": "0x75F7af8D2A35de0395ee126FFd74970d10484e5C",
+      "logoURI": "https://raw.githubusercontent.com/empatim/default-lists/main/src/assets/punq.png",
+      "name": "punq",
+      "description": "Lets Rock - 7/24 non-stop staking services and solutions",
+      "website": "https://www.punq.info/",
+      "twitter": "https://twitter.com/punq1t"
     }
   ]
 }

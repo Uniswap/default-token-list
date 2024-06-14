@@ -17,14 +17,13 @@ module.exports = function buildList() {
     // logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     logoURI: "", // TODO: Add IPFS Logo
     keywords: ["berachain", "default"],
-    tokens: [...testnet, ...devnet]
+    tokens: [...testnet, ...devnet].sort((t1, t2) => {
       // sort them by symbol for easy readability
-      .sort((t1, t2) => {
-        if (t1.chainId === t2.chainId) {
-          return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
-        }
-        return t1.chainId < t2.chainId ? -1 : 1;
-      }),
+      if (t1.chainId === t2.chainId) {
+        return t1.symbol.localeCompare(t2.symbol);
+      }
+      return t1.chainId - t2.chainId;
+    }),
   };
   return bridgeUtils.chainify(l1List);
 };
