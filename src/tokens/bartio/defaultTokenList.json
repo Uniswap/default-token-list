@@ -85,6 +85,24 @@
     },
     {
       "chainId": 80084,
+      "address": "0x05D0dD5135E3eF3aDE32a9eF9Cb06e8D37A6795D",
+      "symbol": "USDT",
+      "name": "Tether USD Coin",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/small/Tether.png?1696501661",
+      "tags": ["stablecoin", "collateral", "featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x806Ef538b228844c73E8E692ADCFa8Eb2fCF729c",
+      "symbol": "DAI",
+      "name": "Decentralized USD Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/small/Badge_Dai.png?1696509996",
+      "tags": ["stablecoin", "collateral", "featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x286F1C3f0323dB9c91D1E8f45c8DF2d065AB5fae",
       "symbol": "WBTC",
       "name": "WBTC",
