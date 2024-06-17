@@ -584,14 +584,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430",
-    "name": "PlayDapp",
-    "symbol": "PLA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14316/thumb/54023228.png?1615366911"
-  },
-  {
-    "chainId": 1,
     "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "name": "Cartesi",
     "symbol": "CTSI",
