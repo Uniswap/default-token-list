@@ -584,14 +584,6 @@
   },
   {
     "chainId": 1,
-    "address": "0x3a4f40631a4f906c2BaD353Ed06De7A5D3fCb430",
-    "name": "PlayDapp",
-    "symbol": "PLA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14316/thumb/54023228.png?1615366911"
-  },
-  {
-    "chainId": 1,
     "address": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "name": "Cartesi",
     "symbol": "CTSI",
@@ -2148,5 +2140,13 @@
     "symbol": "AEVO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35893/standard/aevo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0D3CbED3f69EE050668ADF3D9Ea57241cBa33A2B",
+    "name": "PlayDapp",
+    "symbol": "PDA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14316/standard/PDA-symbol.png?1710234068"
   }
 ]
