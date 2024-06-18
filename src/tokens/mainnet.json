@@ -2148,5 +2148,13 @@
     "symbol": "PDA",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/14316/standard/PDA-symbol.png?1710234068"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1Bbe973BeF3a977Fc51CbED703E8ffDEfE001Fed",
+    "name": "Portal",
+    "symbol": "PORTAL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/35436/standard/portal.jpeg"
   }
 ]
