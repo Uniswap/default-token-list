@@ -294,5 +294,13 @@
     "decimals": 6,
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Emicoin",
+    "address": "0xFbeCfB7b87752aa28383a5Ac1e9d9e05E0526017",
+    "symbol": "EMI",
+    "decimals": 18,
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/ocra-ware/emicoin/main/logo200.png"
   }
 ]
