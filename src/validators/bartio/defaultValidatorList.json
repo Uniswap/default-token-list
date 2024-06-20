@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x2c11C4C97ca866d64CC09Ea2dcD76f2D2EC6Ae55",
+      "logoURI": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/moniker/cosmosvaloper1lzhlnpahvznwfv4jmay2tgaha5kmz5qxerarrl.png",
+      "name": "Citadel.one",
+      "description": "Citadel.one is a multi-asset non-custodial staking platform that lets anyone become a part of decentralized infrastructure and earn passive income. Stake with our nodes or any other validator across multiple networks in a few clicks.",
+      "website": "https://citadel.one",
+      "twitter": "https://twitter.com/CitadelDAO"
+    },
+    {
       "id": "0x602b08F34919D3aa107c481DBAbF11Fb76B10BB9",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bwarelabs.png",
       "name": "BwareLabs",
