@@ -70,5 +70,13 @@
         "symbol": "AERO",
         "decimals": 18,
         "logoURI": "https://basescan.org/token/images/aerodrome_32.png"
+    },
+    {
+        "chainId": 8453,
+        "address": "0x48F092dD0CEc7694D86E98005563BBD06cf8292d",
+        "name": "Niel Armstrung",
+        "symbol": "NIEL",
+        "decimals": 18,
+        "logoURI": "https://copper-known-swordtail-898.mypinata.cloud/ipfs/QmSbUJdL9G19od95oQNkUK2gmynV8WqP45WiwN1zwUXLYX"
     }
 ]
