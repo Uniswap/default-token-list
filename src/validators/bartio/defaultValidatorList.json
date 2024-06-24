@@ -792,28 +792,12 @@
       "twitter": "https://x.com/getmoni_io"
     },
     {
-      "id": "0x71c6F418E2f91539409018489413dFb88A770BCa",
-      "logoURI": "https://raw.githubusercontent.com/Huginntech/default-lists/main/src/assets/huginn.png",
-      "name": "Huginn",
-      "description": "Professional staking service. 7/24 monitoring and best uptime. Huginn is an organization that aims to teach its community about Cosmos SDK and Blockchain.",
-      "website": "https://huginn.tech/",
-      "twitter": "https://x.com/HuginnStake"
-    },
-    {
       "id": "0x35DaAEB5B592d963D6B3b5f2f7EB71e259C96f98",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/gumi.png",
       "name": "gumi",
       "description": "One of the largest Japanese game publisher.As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.Creating a new business ecosystem through decentralization and capitalization of digital data.",
       "website": "https://gu3.co.jp/en/blockchain/",
       "twitter": "https://x.com/gumi_oshi3_en"
-    },
-    {
-      "id": "0x75F7af8D2A35de0395ee126FFd74970d10484e5C",
-      "logoURI": "https://raw.githubusercontent.com/empatim/default-lists/main/src/assets/punq.png",
-      "name": "punq",
-      "description": "Lets Rock - 7/24 non-stop staking services and solutions",
-      "website": "https://www.punq.info/",
-      "twitter": "https://twitter.com/punq1t"
     }
   ]
 }
