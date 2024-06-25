@@ -798,6 +798,46 @@
       "description": "One of the largest Japanese game publisher.As pioneers in the creation of entertainment using new technologies, gumi will continue to deliver surprises and excitement to the world.Creating a new business ecosystem through decentralization and capitalization of digital data.",
       "website": "https://gu3.co.jp/en/blockchain/",
       "twitter": "https://x.com/gumi_oshi3_en"
+    },
+    {
+      "id": "0x1e7e272fc62cD56cC3d8Fa29e6FF0831F6B91F1c",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/CoinSummer.png",
+      "name": "CoinSummerLabs",
+      "description": "Backed by crypto-native degens, CoinSummer is a trusted liquidity provider, staking validator, and AVS operator supporting the crypto and DeFi evolution.",
+      "website": "https://coinsummer.io",
+      "twitter": "https://twitter.com/CoinSummerLabs"
+    },
+    {
+      "id": "0x8b59F2F0a9Fc5A994756F5dc76f16d047434C413",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/rockawayxinfra.png",
+      "name": "RockawayX Infra",
+      "description": "RockawayX Infra is an institution-grade bare-metal staking operator",
+      "website": "https://rockawayx.com/infrastructure",
+      "twitter": "https://x.com/RockawayX_Infra"
+    },
+    {
+      "id": "0x17aa924282bf0Fa76CF3e80eC3EaA2a54C649186",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hashkey.png",
+      "name": "HashKey Cloud",
+      "description": "Cloud for WEB3 More Than Staking",
+      "website": "https://www.hashkey.cloud/",
+      "twitter": "https://x.com/HashKeyCloud"
+    },
+    {
+      "id": "0x93174B2DaD595F35582cC62FCBf96b86709863D5",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stakefish.png",
+      "name": "stakefish",
+      "description": "We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. Stake. Earn. Relax.",
+      "website": "https://stake.fish/",
+      "twitter": "https://twitter.com/stakefish"
+    },
+    {
+      "id": "0x93eDebDf3Cab2628cbB4Bf0B7C65d336348414d4",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hyperblocks.jpg",
+      "name": "Hyperblocks",
+      "description": "Secure the network and earn rewards with Hyperblocks.pro, one of the first companies in the world fully focused on Proof Of Stake protocols",
+      "website": "https://hyperblocks.pro/",
+      "twitter": "https://x.com/hyper_blocks"
     }
   ]
 }
