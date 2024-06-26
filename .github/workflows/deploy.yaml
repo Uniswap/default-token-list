@@ -1,8 +1,6 @@
 name: Deploy
-on:
-  # manual trigger
-  workflow_dispatch:
-
+on: workflow_dispatch # manual trigger
+  
 jobs:
   deploy:
     name: Deploy
@@ -35,7 +33,7 @@ jobs:
           export-env: true
         env:
           OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
-          NPM_TOKEN: op://npm-deploy/npm-token/secret 
+          NPM_TOKEN: op://npm-deploy/npm-runner-token/secret 
 
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
