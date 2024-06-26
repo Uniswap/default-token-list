@@ -2156,5 +2156,21 @@
     "symbol": "PORTAL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/35436/standard/portal.jpeg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+    "name": "Pax Dollar",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/6013/standard/Pax_Dollar.png?1696506427"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
   }
 ]
