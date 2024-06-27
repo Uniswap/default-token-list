@@ -1,50 +1,58 @@
 [
-    {
-      "chainId": 43114,
-      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-      "name": "Wrapped AVAX",
-      "symbol": "WAVAX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-      "name": "USDC Token",
-      "symbol": "USDC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-      "name": "DAI.e Token",
-      "symbol": "DAI.e",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
-      "name": "UNI.e Token",
-      "symbol": "UNI.e",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
-      "name": "GMX",
-      "symbol": "GMX",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
-      "name": "Euro Coin",
-      "symbol": "EURC",
-      "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125"
-    }
-  ]
+  {
+    "chainId": 43114,
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "name": "USDC Token",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+    "name": "DAI.e Token",
+    "symbol": "DAI.e",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+    "name": "UNI.e Token",
+    "symbol": "UNI.e",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+    "name": "GMX",
+    "symbol": "GMX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1631532468"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xC891EB4cbdEFf6e073e859e987815Ed1505c2ACD",
+    "name": "Euro Coin",
+    "symbol": "EURC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+  }
+]
