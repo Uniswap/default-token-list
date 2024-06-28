@@ -56,7 +56,7 @@
       "receiptTokenAddress": "0xD69ADb6FB5fD6D06E6ceEc5405D95A37F96E3b96",
       "vaultAddress": "0xe3b9B72ba027FD6c514C0e5BA075Ac9c77C23Afa",
       "name": "HONEY-USDC",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/usdc.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-USDC.png",
       "product": "BEX",
       "url": "https://bartio.bex.berachain.com/pool/0xD69ADb6FB5fD6D06E6ceEc5405D95A37F96E3b96"
     },
@@ -64,7 +64,7 @@
       "receiptTokenAddress": "0x50f7d4Da89F720FBFB35bE369F34c6b51e2CaDa1",
       "vaultAddress": "0x38d2A764185197484F744C0bAA06a38a2ee31876",
       "name": "HONEY-WETH",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/eth.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-WETH.png",
       "product": "BEX",
       "url": "https://bartio.bex.berachain.com/pool/0x50f7d4Da89F720FBFB35bE369F34c6b51e2CaDa1"
     },
@@ -72,7 +72,7 @@
       "receiptTokenAddress": "0x14ee0a8dcd1714781aa0d026f46fc7f77b73c01d",
       "vaultAddress": "0x59F735C465D9972b57BCcD8339de25cA209CA044",
       "name": "HONEY-WBTC",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/btc.png",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-WBTC.png",
       "product": "BEX",
       "url": "https://bartio.bex.berachain.com/pool/0x14ee0a8dcd1714781aa0d026f46fc7f77b73c01d"
     }
