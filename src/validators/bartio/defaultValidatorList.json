@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x0eCBe62654622e14ae882B8c8c65C3f3F54eCcf9",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg",
+      "name": "Kodiak Finance",
+      "description": "Native Liquidity Hub",
+      "website": "https://www.kodiak.finance",
+      "twitter": "https://twitter.com/KodiakFi"
+    },
+    {
       "id": "0x99fC13a5b46491D84494165FFaa540fFE7AB78D1",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/ContributionDAO.png",
       "name": "ContributionDAO",
