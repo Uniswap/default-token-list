@@ -846,6 +846,14 @@
       "description": "Secure the network and earn rewards with Hyperblocks.pro, one of the first companies in the world fully focused on Proof Of Stake protocols",
       "website": "https://hyperblocks.pro/",
       "twitter": "https://x.com/hyper_blocks"
+    },
+    {
+      "id": "0xB791098b00AD377B220f91d7878d19e441388eD8",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/TTT.png",
+      "name": "TTT 🇻🇳",
+      "description": " Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market. ",
+      "website": "https://tienthuattoan.com",
+      "twitter": "https://twitter.com/TTTcapital"
     }
   ]
 }
