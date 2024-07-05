@@ -2179,7 +2179,20 @@
     "name": "Kujira",
     "symbol": "KUJI",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
+        },
+        "42161": {
+          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
+        },
+        "56": {
+          "tokenAddress": "0x073690e6CE25bE816E68F32dCA3e11067c9FB5Cc"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
