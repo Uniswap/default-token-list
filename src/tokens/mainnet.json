@@ -2180,5 +2180,13 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC",
+    "name": "Pirate Nation",
+    "symbol": "PIRATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38524/standard/_Pirate_Transparent_200x200.png"
   }
 ]
