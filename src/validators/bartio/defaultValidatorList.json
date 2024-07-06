@@ -918,6 +918,14 @@
       "description": " Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market. ",
       "website": "https://tienthuattoan.com",
       "twitter": "https://twitter.com/TTTcapital"
+    },
+    {
+      "id": "0x1cD956d95bf46d71828661f8efd1AEaC9F052A71",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/P2P.png",
+      "name": "P2P.ORG - P2P Validator",
+      "description": "P2P.org Provides Non-Custodial Staking Services For Professional Investors",
+      "website": "https://p2p.org/",
+      "twitter": "https://x.com/P2Pvalidator"
     }
   ]
 }
