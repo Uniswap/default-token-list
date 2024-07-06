@@ -920,6 +920,14 @@
       "twitter": "https://twitter.com/TTTcapital"
     },
     {
+      "id": "0x7b75F753c1677502d878f8924d5a9dBC54292BF1",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/validationcloud.png",
+      "name": "Validation Cloud",
+      "description": "Validation Cloud is a Web3 platform that delivers elite, high-performance node and staking infrastructure.",
+      "website": "https://www.validationcloud.io",
+      "twitter": "https://x.com/ValidationCloud"
+    },
+    {
       "id": "0x1cD956d95bf46d71828661f8efd1AEaC9F052A71",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/P2P.png",
       "name": "P2P.ORG - P2P Validator",
