@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xb9a344c2138E555B73064Fa8349D8CE68f6E5582",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/benmo.png",
+      "name": "Benmo",
+      "description": "BenMo Block is a DeFi community in the Asia-Pacific region, with many advanced blockchain investors actively involved.",
+      "website": "https://www.benmo.io",
+      "twitter": "https://x.com/Super4DeFi"
+    },
+    {
       "id": "0x208c27aA44ee2549F0a39e61483E18cC6bC99773",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/web3wizards.jpg",
       "name": "Web3 Wizards x Symmetry",
