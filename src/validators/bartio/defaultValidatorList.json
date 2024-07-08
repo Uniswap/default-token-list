@@ -26,6 +26,14 @@
       "twitter": "https://x.com/Web3WizardsLabs"
     },
     {
+      "id": "0x0eB8D197A58724Cf8b1046dFE0a9B9E116175051",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/dextrac.png",
+      "name": "DexTrac",
+      "description": "Providing critical infrastructure and analytics for various Web3 ecosystems is our mission.",
+      "website": "https://www.dextrac.com",
+      "twitter": "https://www.twitter.com/DexTracNode"
+    },
+    {
       "id": "0x3CC1ADB0F1F0083251E91ED680EDE394703BEBDB",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Caliber.png",
       "name": "Caliber",
