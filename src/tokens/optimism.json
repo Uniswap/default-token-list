@@ -38,5 +38,13 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+  },
+  {
+    "chainId": 10,
+    "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
   }
 ]

@@ -2172,5 +2172,34 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+  },
+  {
+    "chainId": 1,
+    "address": "0x96543ef8d2C75C26387c1a319ae69c0BEE6f3fe7",
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
+        },
+        "42161": {
+          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
+        },
+        "56": {
+          "tokenAddress": "0x073690e6CE25bE816E68F32dCA3e11067c9FB5Cc"
+        }
+      }
+    }
+  },
+  {
+    "chainId": 1,
+    "address": "0x7613C48E0cd50E42dD9Bf0f6c235063145f6f8DC",
+    "name": "Pirate Nation",
+    "symbol": "PIRATE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38524/standard/_Pirate_Transparent_200x200.png"
   }
 ]
