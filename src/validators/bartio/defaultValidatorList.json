@@ -928,6 +928,14 @@
       "twitter": "https://twitter.com/TTTcapital"
     },
     {
+      "id": "0x62124214126Ff5e69fC9579eeF5ef4C0024c31CC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Blockdaemon.png",
+      "name": "Blockdaemon",
+      "description": "Blockdaemon provides maximum uptime for the Berachain network so that you can be confident your node will be there, ready and secure, for optimal reward generation. Contact us to stake on Berachain today.",
+      "website": "https://www.blockdaemon.com/",
+      "twitter": "https://twitter.com/BlockdaemonHQ"
+    },
+    {
       "id": "0x7b75F753c1677502d878f8924d5a9dBC54292BF1",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/validationcloud.png",
       "name": "Validation Cloud",
