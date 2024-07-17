@@ -2201,5 +2201,21 @@
     "symbol": "PIRATE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/38524/standard/_Pirate_Transparent_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcf0C122c6b73ff809C693DB761e7BaeBe62b6a2E",
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/16746/standard/PNG_image.png?1696516318"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3B50805453023a91a8bf641e279401a0b23FA6F9",
+    "name": "Renzo",
+    "symbol": "REZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37327/standard/renzo_200x200.png?1714025012"
   }
 ]
