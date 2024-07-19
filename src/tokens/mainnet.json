@@ -2171,7 +2171,14 @@
     "name": "LayerZero",
     "symbol": "ZRO",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+    "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0x6985884C4392D348587B19cb9eAAf157F13271cd"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
@@ -2217,5 +2224,13 @@
     "symbol": "REZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37327/standard/renzo_200x200.png?1714025012"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3E5A19c91266aD8cE2477B91585d1856B84062dF",
+    "name": "Ancient8",
+    "symbol": "A8",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39170/standard/A8_Token-04_200x200.png?1720798300"
   }
 ]
