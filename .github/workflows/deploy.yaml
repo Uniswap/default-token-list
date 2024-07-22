@@ -41,13 +41,13 @@ jobs:
           token: ${{ env.NPM_TOKEN }}
 
       - name: Load Web 3 deploy secrets
-        uses: 1password/load-secrets-action@d1a4e73495bde3551cf63f6c048588b8f734e21d
-        with:
-          # Export loaded secrets as environment variables
-          export-env: true
-        env:
-          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_WEB3_VAULT_TOKEN }}
-          CLOUDFLARE_TOKEN: op://web3-deploy-vault/web3-edit-token/token
+          uses: 1password/load-secrets-action@d1a4e73495bde3551cf63f6c048588b8f734e21d
+          with:
+            # Export loaded secrets as environment variables
+            export-env: true
+          env:
+            OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_WEB3_VAULT_TOKEN }}
+            CLOUDFLARE_TOKEN: op://web3-deploy-vault/web3-edit-token/token
 
       - name: Pin to IPFS
         id: upload
