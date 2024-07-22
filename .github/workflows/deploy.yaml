@@ -1,5 +1,9 @@
 name: Deploy
-on: workflow_dispatch # manual trigger
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch # manual trigger
   
 jobs:
   deploy:
