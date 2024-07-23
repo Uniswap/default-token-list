@@ -950,6 +950,14 @@
       "description": "P2P.org Provides Non-Custodial Staking Services For Professional Investors",
       "website": "https://p2p.org/",
       "twitter": "https://x.com/P2Pvalidator"
+    },
+    {
+      "id": "0x3AA99C396Ce33dB6E546793BeE005512f2E28e2b",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/twinstake.jpg",
+      "name": "Twinstake",
+      "description": "Twinstake is an institutional-grade, non-custodial staking provider designed and built in collaboration with leaders in the digital assets space. The platform offers industry leading performance, institutional-grade security and uncompromising Know Your Client (KYC) procedures.",
+      "website": "https://twinstake.io",
+      "twitter": "https://x.com/twinstake_io"
     }
   ]
 }
