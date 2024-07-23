@@ -2232,5 +2232,13 @@
     "symbol": "A8",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39170/standard/A8_Token-04_200x200.png?1720798300"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8ccedbae4916b79da7f3f612efb2eb93a2bfd6cf",
+    "name": "MNEE",
+    "symbol": "MNEE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/tech-mnee/default-token-list/mnee/assets/ethereum/0x8ccedbae4916b79da7f3f612efb2eb93a2bfd6cf/logo.png"
   }
 ]
