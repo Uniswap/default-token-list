@@ -84,7 +84,7 @@
     "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
     "name": "EURC",
     "symbol": "EURC",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png"
   }
 ]
