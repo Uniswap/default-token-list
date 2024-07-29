@@ -78,5 +78,13 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+    "name": "EURC",
+    "symbol": "EURC",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png"
   }
 ]

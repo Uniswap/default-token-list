@@ -2232,5 +2232,13 @@
     "symbol": "A8",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39170/standard/A8_Token-04_200x200.png?1720798300"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd0a6053f087E87a25dC60701ba6E663b1a548E85",
+    "name": "BLOCKLORDS",
+    "symbol": "LRDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34775/standard/LRDS_PNG.png"
   }
 ]
