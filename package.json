@@ -11,6 +11,10 @@
   "files": [
     "build/uniswap-default.tokenlist.json"
   ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Uniswap/default-token-list.git"
