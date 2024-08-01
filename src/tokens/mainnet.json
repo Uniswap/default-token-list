@@ -2248,5 +2248,13 @@
     "symbol": "SD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/20658/standard/SD_Token_Logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x88909D489678dD17aA6D9609F89B0419Bf78FD9a",
+    "name": "Layer3",
+    "symbol": "L3",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37768/large/Square.png"
   }
 ]
