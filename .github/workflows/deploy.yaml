@@ -12,6 +12,8 @@ jobs:
       group: npm-deploy
     environment:
       name: release
+    permissions:
+      id-token: write
     steps:
       - name: Checkout
         uses: actions/checkout@v1
