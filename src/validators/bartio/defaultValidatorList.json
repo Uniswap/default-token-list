@@ -998,6 +998,14 @@
       "description": "Twinstake is an institutional-grade, non-custodial staking provider designed and built in collaboration with leaders in the digital assets space. The platform offers industry leading performance, institutional-grade security and uncompromising Know Your Client (KYC) procedures.",
       "website": "https://twinstake.io",
       "twitter": "https://x.com/twinstake_io"
+    },
+    {
+      "id": "0x1A594e7aCb60a4fA0C9d7525695ef7524D047525",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/image/upload/v1723065834/src/assets/brown-bear.png",
+      "name": "Brownstake",
+      "description": "Brownstake provides staking services for all friends at high rates and low returns.",
+      "website": "https://www.brownbear.com/",
+      "twitter": "https://x.com/BrownBear__Bear"
     }
   ]
 }
