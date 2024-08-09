@@ -45,6 +45,7 @@ module.exports = function buildList() {
       ...sepolia,
       ...avalanche,
       ...base,
+      ...blast,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
