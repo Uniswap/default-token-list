@@ -2264,5 +2264,13 @@
     "symbol": "CXT", 
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39177/large/CXT_Ticker.png?1720829918"
+  },
+  {
+   "chainId": 1,
+   "address":  "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
+   "name": "Gravity",
+   "symbol": "G",
+   "decimals": 18,
+   "logoURI": "https://assets.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647"
   }
 ]
