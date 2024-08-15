@@ -2258,19 +2258,35 @@
     "logoURI": "https://assets.coingecko.com/coins/images/37768/large/Square.png"
   },
   {
-    "chainId": 1, 
+    "chainId": 1,
     "address": "0x7ABc8A5768E6bE61A6c693a6e4EAcb5B60602C4D",
     "name": "Covalent X Token",
-    "symbol": "CXT", 
+    "symbol": "CXT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39177/large/CXT_Ticker.png?1720829918"
   },
   {
-   "chainId": 1,
-   "address":  "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
-   "name": "Gravity",
-   "symbol": "G",
-   "decimals": 18,
-   "logoURI": "https://assets.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647"
+    "chainId": 1,
+    "address": "0x9C7BEBa8F6eF6643aBd725e45a4E8387eF260649",
+    "name": "Gravity",
+    "symbol": "G",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA35923162C49cF95e6BF26623385eb431ad920D3",
+    "name": "Turbo",
+    "symbol": "TURBO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597"
+  },
+  {
+    "chainId": 1,
+    "address": "0x66761Fa41377003622aEE3c7675Fc7b5c1C2FaC5",
+    "name": "Clearpool",
+    "symbol": "CPOOL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/19252/large/photo_2022-08-31_12.45.02.jpeg?1696518697"
   }
 ]
