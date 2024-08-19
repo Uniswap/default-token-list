@@ -1030,6 +1030,14 @@
       "description": "Brownstake provides staking services for all friends at high rates and low returns.",
       "website": "https://www.brownbear.com/",
       "twitter": "https://x.com/BrownBear__Bear"
+    },
+    {
+      "id": "0xcE8A09bAa9f732649f620E8b7dc1356d649CF5Ed",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pearl.png",
+      "name": "Pearl",
+      "description": "",
+      "website": "",
+      "twitter": ""
     }
   ]
 }
