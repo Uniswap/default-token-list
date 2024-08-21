@@ -103,7 +103,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x2577D24a26f8FA19c1058a8b0106E2c7303454a4 ",
+      "address": "0x2577D24a26f8FA19c1058a8b0106E2c7303454a4",
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
