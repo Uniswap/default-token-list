@@ -103,7 +103,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x286F1C3f0323dB9c91D1E8f45c8DF2d065AB5fae",
+      "address": "0x2577D24a26f8FA19c1058a8b0106E2c7303454a4 ",
       "symbol": "WBTC",
       "name": "WBTC",
       "decimals": 8,
@@ -148,7 +148,7 @@
     },
     {
       "chainId": 80084,
-      "address": "0x0ddb38F7D473e8040985Fa3B4116FDeEF89778bc",
+      "address": "0x1807d3462dD7DC32907d5f10f22d8AeE80367316",
       "symbol": "aWBTC",
       "name": "WBTC aToken",
       "decimals": 8,
