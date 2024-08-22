@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0x79Aac6a60C5EeDB512443F6B8D237F6CfbC6ce00",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Neuler.png",
+      "name": "Neuler",
+      "description": "Accelerating decentralization",
+      "website": "https://neuler.xyz",
+      "twitter": ""
+    },
+    {
       "id": "0x6aB7C955d64Dd7A1fbAffD9DC27E8425Ddb7441b",
       "logoURI": "https://x.com/Beranames/photo",
       "name": "Beranames",
