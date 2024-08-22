@@ -2288,5 +2288,13 @@
     "symbol": "CPOOL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/19252/large/photo_2022-08-31_12.45.02.jpeg?1696518697"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44108f0223A3C3028F5Fe7AEC7f9bb2E66beF82F",
+    "name": "Across Protocol Token",
+    "symbol": "ACX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165"
   }
 ]
