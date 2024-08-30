@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+    "chainId": 1,
+    "address": "0x63eC86fC38A0021FCF4980ADA380FF82c7859788",
+    "name": "Hardwaretor",
+    "symbol": "HAW",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfMAg7QATrPb3wdYzefkPW8Hb3PYg5PLxGwG5XKgUrYHg"
+    },
+    {
       "chainId": 1,
       "address": "0x111111111117dC0aa78b770fA6A738034120C302",
       "name": "1inch",
