@@ -1,3 +1,4 @@
+
 name: Deploy
 on:
   push:
@@ -8,8 +9,8 @@ on:
 jobs:
   deploy:
     name: Deploy
-    runs-on:
-      group: npm-deploy
+    runs-on: self-hosted
+     
     environment:
       name: release
     permissions:
