@@ -2296,5 +2296,13 @@
     "symbol": "ACX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63eC86fC38A0021FCF4980ADA380FF82c7859788",
+    "name": "Hardwaretor",
+    "symbol": "HAW",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfMAg7QATrPb3wdYzefkPW8Hb3PYg5PLxGwG5XKgUrYHg"
   }
 ]
