@@ -1,0 +1,14 @@
+name: Tests
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Unit Tests
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+      - run: yarn test
