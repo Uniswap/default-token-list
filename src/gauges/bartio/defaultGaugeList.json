@@ -61,8 +61,8 @@
       "url": "https://bartio.bex.berachain.com/pool/0xD69ADb6FB5fD6D06E6ceEc5405D95A37F96E3b96"
     },
     {
-      "receiptTokenAddress": "0x50f7d4Da89F720FBFB35bE369F34c6b51e2CaDa1",
-      "vaultAddress": "0x38d2A764185197484F744C0bAA06a38a2ee31876",
+      "receiptTokenAddress": "0xfbE71d98f9D2c658d52a2d72994c717637C3ddA1",
+      "vaultAddress": "0x8288Ab28D6196cA4E89269B8644A146E493E23B3",
       "name": "HONEY-WETH",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/HONEY-WETH.png",
       "product": "BEX",
