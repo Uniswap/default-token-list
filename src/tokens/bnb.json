@@ -22,13 +22,5 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
-    "name": "Litentry",
-    "symbol": "LIT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png"
   }
 ]
