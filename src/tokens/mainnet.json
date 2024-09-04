@@ -2296,5 +2296,29 @@
     "symbol": "ACX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+    "name": "Memecoin",
+    "symbol": "MEME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32528/large/memecoin_(2).png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+    "name": "Litentry",
+    "symbol": "LIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png"
   }
 ]
