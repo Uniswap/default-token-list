@@ -2320,13 +2320,28 @@
     "symbol": "LIT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png"
-  }, 
+  },
   {
-    "chainId": 1, 
+    "chainId": 1,
     "address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
     "name": "Polygon Ecosystem Token",
-    "symbol": "POL", 
+    "symbol": "POL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/32440/large/polygon.png?1698233684"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+    "extensions": {
+      "bridgeInfo": {
+        "8453": {
+          "tokenAddress": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf"
+        }
+      }
+    }
   }
 ]
