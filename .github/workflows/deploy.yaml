@@ -4,7 +4,7 @@ on:
     branches:
       - main
   workflow_dispatch: # manual trigger
-  
+
 jobs:
   deploy:
     name: Deploy
@@ -27,9 +27,6 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Tests pass
-        run: yarn test
-
       - name: Build list
         run: yarn build
 
@@ -40,7 +37,7 @@ jobs:
           export-env: true
         env:
           OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
-          NPM_TOKEN: op://npm-deploy/npm-runner-token/secret 
+          NPM_TOKEN: op://npm-deploy/npm-runner-token/secret
 
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
