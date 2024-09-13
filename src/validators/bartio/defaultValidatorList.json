@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xd25F258EEBf4e49dF154eF0dA56E6bBEF9514168",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Nansen.png",
+      "name": "Nansen",
+      "description": "Nansen is a leading on-chain analytics platform founded in 2020, and is now one of the most trusted names in crypto, serving traders and institutions. Disclaimer: delegating comes with slashing risks",
+      "website": "https://nansen.ai",
+      "twitter": "https://x.com/nansen_ai"
+    },
+    {
       "id": "0x79Aac6a60C5EeDB512443F6B8D237F6CfbC6ce00",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Neuler.png",
       "name": "Neuler",
