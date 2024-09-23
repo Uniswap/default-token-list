@@ -163,6 +163,15 @@
       "decimals": 18,
       "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bhoney.png",
       "tags": ["supply"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xfc5e3743E9FAC8BB60408797607352E24Db7d65E",
+      "symbol": "tHPOT",
+      "name": "Test Honeypot Finance",
+      "decimals": 18,
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/tHpot.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
