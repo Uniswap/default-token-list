@@ -80,7 +80,7 @@
       "receiptTokenAddress": "0x28feC64EaBc1e4Af7f5cD33d2bd20b01D5E8f203",
       "vaultAddress": "0x12F45203b4dF96106fb18d557EE3224A4dC65637",
       "name": "WBERA-tHPOT",
-      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/wbera-tpot.jpg",
+      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera-tpot.jpg",
       "product": "HONEYPOT FINANCE",
       "url": "https://honeypotfinance.xyz"
     }
