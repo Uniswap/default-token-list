@@ -2,6 +2,12 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
+      "name": "Kodiak",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg",
+      "url": "https://www.kodiak.finance",
+      "description": "Native Liquidity Hub"
+    },
+    {
       "name": "HONEY",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey.png",
       "url": "https://bartio.honey.berachain.com",
@@ -27,6 +33,30 @@
     }
   ],
   "gauges": [
+    {
+      "receiptTokenAddress": "0xb73deE52F38539bA854979eab6342A60dD4C8c03",
+      "vaultAddress": "0xe5519D97eA854291c35a494b28929fA7abEf12e8",
+      "name": "HONEY-USDC",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak-honey-usdc.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
+    {
+      "receiptTokenAddress": "0xE5A2ab5D2fb268E5fF43A5564e44c3309609aFF9",
+      "vaultAddress": "0x175e2429bCb92643255abCbCDF47Fff63F7990CC",
+      "name": "YEET-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak-yeet-wbera.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
+    {
+      "receiptTokenAddress": "0x7fd165B73775884a38AA8f2B384A53A3Ca7400E6",
+      "vaultAddress": "0x7b15eeC57C60f8B68dF2b143c2CA5a772E787e86",
+      "name": "iBGT-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak-ibgt-wbera.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
     {
       "receiptTokenAddress": "0x1339503343be5626B40Ee3Aee12a4DF50Aa4C0B9",
       "vaultAddress": "0x2E8410239bB4b099EE2d5683e3EF9d6f04E321CC",
