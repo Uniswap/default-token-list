@@ -170,7 +170,7 @@
       "symbol": "tHPOT",
       "name": "Test Honeypot Finance",
       "decimals": 18,
-      "logoURI": "https://artio-static-asset-public.s3.ap-southeast-1.amazonaws.com/assets/bera-tpot.jpg",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/tHpot.png",
       "tags": ["featured"]
     }
   ],
