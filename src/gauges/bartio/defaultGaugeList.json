@@ -2,6 +2,12 @@
   "name": "Berachain Bartio Default Gauge List",
   "products": [
     {
+      "name": "Beraborrow",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/beraborrow.png",
+      "url": "https://www.beraborrow.com",
+      "description": "Unlocking Instant liquidity for Berachain assets through the first PoL powered stablecoin NECT."
+    },
+    {
       "name": "Kodiak",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/kodiak.jpg",
       "url": "https://www.kodiak.finance",
@@ -33,6 +39,14 @@
     }
   ],
   "gauges": [
+    {
+      "receiptTokenAddress": "0x3a7f6f2F27f7794a7820a32313F4a68e36580864",
+      "vaultAddress": "0x72e222116fC6063f4eE5cA90A6C59916AAD8352a",
+      "name": "sNECT",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/sNECT.png",
+      "product": "Beraborrow",
+      "url": "https://www.beraborrow.com/"
+    },
     {
       "receiptTokenAddress": "0xb73deE52F38539bA854979eab6342A60dD4C8c03",
       "vaultAddress": "0xe5519D97eA854291c35a494b28929fA7abEf12e8",
