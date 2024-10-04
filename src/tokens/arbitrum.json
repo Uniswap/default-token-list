@@ -38,5 +38,21 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
+  },
+  {
+    "chainId": "1",
+    "address": "2",
+    "name": "3",
+    "symbol": "4",
+    "decimals": "5",
+    "logoURI": "6"
+  },
+  {
+    "chainId": "1",
+    "address": "1",
+    "name": "1",
+    "symbol": "1",
+    "decimals": "1",
+    "logoURI": "1"
   }
 ]
