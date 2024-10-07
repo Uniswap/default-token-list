@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xBBBBD949408332CB50B9f3cb47460b9Faa068758",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BeraHome.jpg",
+      "name": "BeraHome",
+      "description": "BeraHome is a Chinese-specific news hub and community dedicated to bringing the Berachain ecosystem updates to the greater Chinese-speaking regions. We aim to become the bridge connecting the wider Berachain eco with the Chinese market via a wide scope of research, engagements, and incubation services, ultimately increasing the influence of Berachain in APAC.",
+      "website": "https://berahome.substack.com",
+      "twitter": "https://x.com/0xBeraHome"
+    },
+    {
       "id": "0xddE659DC0dfD9E9598268C7dEe6aF780be0aAf6e",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BeraBucks.png",
       "name": "BeraBucks",
