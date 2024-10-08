@@ -40,6 +40,14 @@
   ],
   "gauges": [
     {
+      "receiptTokenAddress": "0x63b0EdC427664D4330F72eEc890A86b3F98ce225",
+      "vaultAddress": "0x5693809338Ae09481B5Da3A916d1cD1193F1B99A",
+      "name": "NECT-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/honey-nect.png",
+      "product": "Kodiak",
+      "url": "https://www.kodiak.finance"
+    },
+    {
       "receiptTokenAddress": "0x3a7f6f2F27f7794a7820a32313F4a68e36580864",
       "vaultAddress": "0x72e222116fC6063f4eE5cA90A6C59916AAD8352a",
       "name": "sNECT",
