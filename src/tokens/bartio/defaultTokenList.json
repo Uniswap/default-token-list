@@ -181,6 +181,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/tHpot.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xa0525273423537BC76825B4389F3bAeC1968f83F",
+      "symbol": "JNKY",
+      "name": "Junky Ursas LFG",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
