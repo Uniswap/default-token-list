@@ -86,5 +86,13 @@
     "symbol": "EURC",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png"
+  },
+  {
+    "chainId": 8453,
+    "name": "Coinbase Wrapped BTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp"
   }
 ]

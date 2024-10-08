@@ -2304,5 +2304,44 @@
     "symbol": "HAW",
     "decimals": 18,
     "logoURI": "ipfs://QmfMAg7QATrPb3wdYzefkPW8Hb3PYg5PLxGwG5XKgUrYHg"
+   },
+   {
+    "address": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb131f4A55907B10d1F0A50d8ab8FA09EC342cd74",
+    "name": "Memecoin",
+    "symbol": "MEME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32528/large/memecoin_(2).png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+    "name": "Litentry",
+    "symbol": "LIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+    "name": "Polygon Ecosystem Token",
+    "symbol": "POL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/32440/large/polygon.png?1698233684"
+  },
+  {
+    "chainId": 1,
+    "name": "Coinbase Wrapped BTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp"
   }
 ]
