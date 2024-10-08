@@ -40,6 +40,24 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0xB43fd1dC4f02d81f962E98203b2cc4FD9E342964",
+      "symbol": "PAW",
+      "name": "Paw",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/paw.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x32Cf940DB5d7ea3e95e799A805B1471341241264",
+      "symbol": "LBGT",
+      "name": "Liquid BGT",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/lbgt.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x1740F679325ef3686B2f574e392007A92e4BeD41",
       "symbol": "YEET",
       "name": "YEET",

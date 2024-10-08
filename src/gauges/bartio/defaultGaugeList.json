@@ -40,6 +40,14 @@
   ],
   "gauges": [
     {
+      "receiptTokenAddress": "0xa51afAF359d044F8e56fE74B9575f23142cD4B76",
+      "vaultAddress": "0x1992b26E2617928966B4F8e8eeCF41C6e7A77010",
+      "name": "PAW-HONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/pawhoney.png",
+      "product": "BEX",
+      "url": "https://bartio.bex.berachain.com/pool/0xa51afaf359d044f8e56fe74b9575f23142cd4b76"
+    },
+    {
       "receiptTokenAddress": "0x63b0EdC427664D4330F72eEc890A86b3F98ce225",
       "vaultAddress": "0x5693809338Ae09481B5Da3A916d1cD1193F1B99A",
       "name": "NECT-HONEY",
