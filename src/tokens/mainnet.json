@@ -2336,5 +2336,29 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp"
+  },
+  {
+    "chainId": 1,
+    "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
+    "name": "CoW Protocol",
+    "symbol": "COW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+    "name": "USDS Stablecoin",
+    "symbol": "USDS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39926/large/usds.webp?1726666683"
+  },
+  {
+    "chainId": 1,
+    "address": "0x56072C95FAA701256059aa122697B133aDEd9279",
+    "name": "SKY Governance Token",
+    "symbol": "SKY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/39925/large/sky.jpg?1724827980"
   }
 ]

@@ -94,5 +94,13 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA88594D404727625A9437C3f886C7643872296AE",
+    "name": "Moonwell",
+    "symbol": "WELL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/26133/large/WELL.png?1696525221"
   }
 ]
