@@ -1,0 +1,10 @@
+[
+  {
+    "chainId": 324,
+    "address": "0x5A7d6b2F92C77FAD6CCaBd7EE0624E64907Eaf3E",
+    "name": "ZKsync",
+    "symbol": "ZK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?17186145029"
+  }
+]

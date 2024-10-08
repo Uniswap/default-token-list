@@ -14,6 +14,7 @@ const sepolia = require("./tokens/sepolia.json");
 const avalanche = require("./tokens/avalanche.json");
 const base = require("./tokens/base.json");
 const blast = require("./tokens/blast.json");
+const zksync = require("./tokens/zksync.json");
 
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 
@@ -46,6 +47,7 @@ module.exports = function buildList() {
       ...avalanche,
       ...base,
       ...blast,
+      ...zksync,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
