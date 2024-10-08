@@ -2340,7 +2340,7 @@
   {
     "chainId": 1,
     "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
-    "name": "CoW Protocol Token",
+    "name": "CoW Protocol",
     "symbol": "COW",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/24384/large/CoW-token_logo.png?1719524382"
@@ -2348,7 +2348,7 @@
   {
     "chainId": 1,
     "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
-    "name": "USDS",
+    "name": "USDS Stablecoin",
     "symbol": "USDS",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/39926/large/usds.webp?1726666683"
