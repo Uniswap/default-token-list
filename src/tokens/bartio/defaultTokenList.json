@@ -40,6 +40,15 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0x1740F679325ef3686B2f574e392007A92e4BeD41",
+      "symbol": "YEET",
+      "name": "YEET",
+      "decimals": 18,
+      "logoURI": "https://https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/yeet-token-icon.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x7507c1dc16935B82698e4C63f2746A2fCf994dF8",
       "symbol": "WBERA",
       "name": "Wrapped Berachain Token",
