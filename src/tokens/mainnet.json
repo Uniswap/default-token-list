@@ -2364,7 +2364,7 @@
   {
     "chainId": 1,
     "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
-    "name": "Eigenlayer",
+    "name": "EigenLayer",
     "symbol": "EIGEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37441/large/eigen.jpg?1728023974"
