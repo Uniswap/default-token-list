@@ -36,6 +36,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/berps.png",
       "url": "https://bartio.berps.berachain.com",
       "description": "Experience the thrill of high leverage trading, tailored for both novices and seasoned traders. With an impressive 100x leverage."
+    },
+    {
+      "name": "ZERU",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru.png",
+      "url": "https://zeru.finance",
+      "description": "Full-stack DeFi marketplace that makes looping easy and efficient; powered by a 100% onchain, decentralized credit infrastructure."
     }
   ],
   "gauges": [
@@ -143,6 +149,22 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bera-thpot.jpg",
       "product": "HONEYPOT FINANCE",
       "url": "https://honeypotfinance.xyz"
+    },
+    {
+      "receiptTokenAddress": "0x12Afd7A3324B689e32eEa71902DCbA5ED72Ee67E",
+      "vaultAddress": "0x3E1FfDD1AD1e4774693CBCCdF9C737De8713D984",
+      "name": "zberaHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zberaHONEY.png",
+      "product": "ZERU",
+      "url": "https://zeru.finance"
+    },
+    {
+      "receiptTokenAddress": "0x7a560f7336D75787F5DD12ea7082fa611c3F5dDB",
+      "vaultAddress": "0x016044304A7e7Df23630D4B5796176097C6bd409",
+      "name": "HONEY-ZERU-LP",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru-honey.png",
+      "product": "ZERU",
+      "url": "https://zeru.finance"
     }
   ],
   "version": {

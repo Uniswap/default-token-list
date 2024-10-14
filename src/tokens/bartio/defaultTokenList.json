@@ -208,6 +208,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x23bc120feA570576E6D7bAe5195c9D7CD3bB6615",
+      "symbol": "ZERU",
+      "name": "ZERU",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
