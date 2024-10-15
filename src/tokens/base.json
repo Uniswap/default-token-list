@@ -102,5 +102,13 @@
     "symbol": "WELL",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/26133/large/WELL.png?1696525221"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+    "name": "Degen",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
   }
 ]

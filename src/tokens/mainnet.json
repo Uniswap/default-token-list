@@ -2368,5 +2368,13 @@
     "symbol": "EIGEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37441/large/eigen.jpg?1728023974"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d1C297d39C5c1277964D0E3f8Aa901493664530",
+    "name": "Puffer Finance",
+    "symbol": "PUFFER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50630/large/puffer.jpg?1728545297"
   }
 ]
