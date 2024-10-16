@@ -111,4 +111,12 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
   }
+    {
+    "chainId": 8453,
+    "address": "0xf83cde146AC35E99dd61b6448f7aD9a4534133cc",
+    "name": "EBERT",
+    "symbol": "EBERT",
+    "decimals": 18,
+    "logoURI": "https://basescan.org/token/images/whoisebert_32.png"
+  }
 ]
