@@ -217,6 +217,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x1Bc1A92fcDf8Df49d6E2B62f62a7ccf665c9d9A7",
+      "symbol": "BURR",
+      "name": "BurrBear Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burr.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
