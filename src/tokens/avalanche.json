@@ -54,5 +54,13 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+  },
+  {
+    "chainId": "43114",
+    "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": "18",
+    "logoURI": ""
   }
 ]
