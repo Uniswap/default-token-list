@@ -226,6 +226,24 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/burr.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xcaf7072631EA338eC37d8f68a5fDB9A8a96d572A",
+      "symbol": "HOLD",
+      "name": "Holdstation",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hold.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xb82aa9bba5b9A02B53BE9F9a048c7391eC7da600",
+      "symbol": "hsHONEY",
+      "name": "hsHONEY",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEY.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
