@@ -1078,6 +1078,14 @@
       "description": "Amber is building the future of digital assets",
       "website": "https://www.ambergroup.io/",
       "twitter": "https://x.com/ambergroup_io"
+    },
+    {
+      "id": "0xD6203addb3a895008777fb2bF8930c6323d6Dbe5",
+      "logoURI": "https://res.cloudinary.com/dvcbkhryu/image/upload/v1730431515/Pump_BTC_logo_pjqzyc.png",
+      "name": "PumpBTC",
+      "description": "PumpBTC serves as a Liquid Staking Solution for Babylon. PumpBTC aims to help BTC holders maximize yields through Babylon's staking",
+      "website": "https://pumpbtc.xyz",
+      "twitter": "https://x.com/Pumpbtcxyz"
     }
   ]
 }
