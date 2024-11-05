@@ -1072,6 +1072,14 @@
       "twitter": ""
     },
     {
+      "id": "0xD25E4b02C09AD1c6A01a59C75929A4e62647754B",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bedrock-logo.png",
+      "name": "BedRock",
+      "description": "The largest Asian-based institutional grade staking and RPC provider.",
+      "website": "https://www.bedrock.technology",
+      "twitter": "https://x.com/Bedrock_DeFi"
+    },
+    {
       "id": "0xCA8042d73B82e6aA4bCB37Ad520c36549D136819",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/amber.jpg",
       "name": "Amber Group",
