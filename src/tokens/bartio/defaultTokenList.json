@@ -244,6 +244,24 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEY.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x9c1e26c5f666eb99cce6795fd0892e50929e242d",
+      "symbol": "NOME",
+      "name": "NOME",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NOME.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x9c9ab67191faae287ca5e33af72bc2868a0f0498",
+      "symbol": "USDbr",
+      "name": "USDbr",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/USDbr.png",
+      "tags": ["featured"]
     }
   ],
   "version": {

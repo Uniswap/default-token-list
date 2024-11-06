@@ -173,6 +173,14 @@
       "url": "https://zeru.finance"
     },
     {
+      "receiptTokenAddress": "0x2405296f156f3e5a65fb967b153fe58bf2c6eccf",
+      "vaultAddress": "0xac9ca566459709931Bc869B43364b7445eaa4696",
+      "name": "NOME-STABLE-LP",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/NOME.png",
+      "product": "NOME",
+      "url": "https://nome.gg"
+    },
+    {
       "receiptTokenAddress": "0xdCeBAf53b18986bdE2aEb400a9acC3341Bb6ce3A",
       "vaultAddress": "0x6582414E830d91C8016C10ceD72157106F908145",
       "name": "juJNKY",
