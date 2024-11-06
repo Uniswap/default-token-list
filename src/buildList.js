@@ -16,7 +16,7 @@ const base = require("./tokens/base.json");
 const blast = require("./tokens/blast.json");
 const zksync = require("./tokens/zksync.json");
 const worldchain = require("./tokens/worldchain.json");
-
+const zora = require("./tokens/zora.json");
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 
 module.exports = function buildList() {
@@ -50,6 +50,7 @@ module.exports = function buildList() {
       ...blast,
       ...zksync,
       ...worldchain,
+      ...zora,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
