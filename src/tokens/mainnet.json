@@ -2382,7 +2382,7 @@
     "address": "0xe343167631d89B6Ffc58B88d6b7fB0228795491D",
     "name": "Global Dollar",
     "symbol": "USDG",
-    "decimals": 18,
+    "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png"
   }
 ]
