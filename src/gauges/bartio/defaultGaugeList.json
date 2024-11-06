@@ -42,6 +42,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru.png",
       "url": "https://zeru.finance",
       "description": "Full-stack DeFi marketplace that makes looping easy and efficient; powered by a 100% onchain, decentralized credit infrastructure."
+    },
+    {
+      "name": "Junky Ursas",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
+      "url": "https://junkyursas.com",
+      "description": "Junky Ursas is the premier GambleFi protocol on Berachain. We are building fun onchain games with ability to provide liquidity to the house!"
     }
   ],
   "gauges": [
@@ -165,6 +171,22 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru-honey.png",
       "product": "ZERU",
       "url": "https://zeru.finance"
+    },
+    {
+      "receiptTokenAddress": "0xdCeBAf53b18986bdE2aEb400a9acC3341Bb6ce3A",
+      "vaultAddress": "0x6582414E830d91C8016C10ceD72157106F908145",
+      "name": "juJNKY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
+      "product": "Junky Ursas",
+      "url": "https://junkyursas.com"
+    },
+    {
+      "receiptTokenAddress": "0xfcA4e833cb73d75a0EC64B250F05BEf71810CfD0",
+      "vaultAddress": "0x6c693bB44dF70F6AF836296e3D55DF47F7973345",
+      "name": "juBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/jubera.png",
+      "product": "Junky Ursas",
+      "url": "https://junkyursas.com"
     }
   ],
   "version": {
