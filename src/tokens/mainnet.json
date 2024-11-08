@@ -2384,5 +2384,13 @@
     "symbol": "USDG",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+    "name": "Swell Governance Token",
+    "symbol": "SWELL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715"
   }
 ]
