@@ -2384,5 +2384,13 @@
     "symbol": "USDG",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3742f3Fcc56B2d46c7B8CA77c23be60Cd43Ca80a",
+    "name": "Staked Avail",
+    "symbol": "stAVAIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51343/large/stAVAIL_200x200.png"
   }
 ]
