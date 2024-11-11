@@ -2,6 +2,14 @@
   "name": "Berachain Bartio Validator List",
   "validators": [
     {
+      "id": "0xBd2d005C336d8493C578Bb8427A0C28E0236114F",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/auros.png",
+      "name": "Auros",
+      "description": "Auros - Making Digital Markets Liquid",
+      "website": "https://auros.global",
+      "twitter": "https://x.com/auros_global"
+    },
+    {
       "id": "0xBBBBD949408332CB50B9f3cb47460b9Faa068758",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BeraHome.jpg",
       "name": "BeraHome",
