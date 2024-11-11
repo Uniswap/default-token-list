@@ -39,6 +39,24 @@
 
   "tokens": [
     {
+      "chainId": 80086,
+      "address": "0x40bc12c8B0dc1ADa90156614d6a7F7e95e6AFAE3",
+      "symbol": "stBUDS",
+      "name": "Liquid Staked Buds",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/stBuds.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80086,
+      "address": "0x9F43e40093327697Ff92d4b353D0A7B88b0DbBb6",
+      "symbol": "BUDS",
+      "name": "Buds",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/Buds.png",
+      "tags": ["featured"]
+    },
+    {
       "chainId": 80084,
       "address": "0x556b758AcCe5c4F2E1B57821E2dd797711E790F4",
       "symbol": "weHONEY",
