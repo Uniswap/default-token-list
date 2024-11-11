@@ -262,6 +262,42 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/USDbr.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x8BF591Eae535f93a242D5A954d3Cde648b48A5A8",
+      "symbol": "suUSD",
+      "name": "Sumerian USD",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/suUSD.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x1c22531AA9747d76fFF8F0A43b37954ca67d28e0",
+      "symbol": "suETH",
+      "name": "Sumerian ETH",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/suETH.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xe85411C030fB32A9D8b14Bbbc6CB19417391F711",
+      "symbol": "suBTC",
+      "name": "Sumerian BTC",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/suBTC.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x553d713e0fB958932b6C40ABAf0b5A1fFae73Da2",
+      "symbol": "SUMER",
+      "name": "Sumerian Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/sumer.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
