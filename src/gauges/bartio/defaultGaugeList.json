@@ -58,6 +58,14 @@
   ],
   "gauges": [
     {
+      "receiptTokenAddress": "0x6AcBBedEcD914dE8295428B4Ee51626a1908bB12",
+      "vaultAddress": "0x7a6b92457e7D7e7a5C1A2245488b850B7Da8E01D",
+      "name": "LBGT-WBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/lbgt-wbera-burrbear.png",
+      "product": "BurrBear",
+      "url": "https://app.burrbear.io/#/bartio/pool/0x6acbbedecd914de8295428b4ee51626a1908bb12000000000000000000000010"
+    },
+    {
       "receiptTokenAddress": "0xf74a682b45F488DF08a77Dc6aF07364e94e4ED98",
       "vaultAddress": "0x3f4fe6723AfbB97C9Cc51e08A5d266A96f631a9D",
       "name": "HONEY-STGUSDC-NECT",
