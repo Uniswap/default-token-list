@@ -54,6 +54,12 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
       "url": "https://junkyursas.com",
       "description": "Junky Ursas is the premier GambleFi protocol on Berachain. We are building fun onchain games with ability to provide liquidity to the house!"
+    },
+    {
+      "name": "HOLDSTATION",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/holdstation.png",
+      "url": "https://holdstation.exchange",
+      "description": "Account Abstraction Smart Wallet & Perpetual DEX."
     }
   ],
   "gauges": [
@@ -225,6 +231,14 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/jubera.png",
       "product": "Junky Ursas",
       "url": "https://junkyursas.com"
+    },
+    {
+      "receiptTokenAddress": "0xb82aa9bba5b9A02B53BE9F9a048c7391eC7da600",
+      "vaultAddress": "0x600bB8bA399da8fB33F636339Ce13aA056B53197",
+      "name": "HSHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/hsHONEYGauge.png",
+      "product": "Holdstation",
+      "url": "https://holdstation.exchange/"
     }
   ],
   "version": {
