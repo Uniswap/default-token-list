@@ -50,6 +50,12 @@
       "description": "Full-stack DeFi marketplace that makes looping easy and efficient; powered by a 100% onchain, decentralized credit infrastructure."
     },
     {
+      "name": "WEBERA",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/webera.png",
+      "url": "https://www.webera.finance",
+      "description": "WeBera is a permissionless yield abstraction layer designed to simplify participation in DeFi on the Berachain ecosystem."
+    },
+    {
       "name": "Junky Ursas",
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/junky.png",
       "url": "https://junkyursas.com",
@@ -207,6 +213,14 @@
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/zeru-honey.png",
       "product": "ZERU",
       "url": "https://zeru.finance"
+    },
+    {
+      "receiptTokenAddress": "0x556b758AcCe5c4F2E1B57821E2dd797711E790F4",
+      "vaultAddress": "0x86DA232f6A4d146151755Ccf3e4555eadCc24cCF",
+      "name": "weHONEY",
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/weHONEY.png",
+      "product": "WEBERA",
+      "url": "https://www.webera.finance"
     },
     {
       "receiptTokenAddress": "0x2405296f156f3e5a65fb967b153fe58bf2c6eccf",
