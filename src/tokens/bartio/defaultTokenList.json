@@ -39,6 +39,15 @@
 
   "tokens": [
     {
+      "chainId": 80084,
+      "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40",
+      "symbol": "BULLA",
+      "name": "Bulla token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/bulla.png",
+      "tags": ["featured"]
+    },
+    {
       "chainId": 80086,
       "address": "0x40bc12c8B0dc1ADa90156614d6a7F7e95e6AFAE3",
       "symbol": "stBUDS",
