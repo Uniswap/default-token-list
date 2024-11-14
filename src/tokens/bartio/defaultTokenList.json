@@ -325,6 +325,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/sumer.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0x5d6Bcd571A67357fBC787637F73d5bBCBe8E2148",
+      "symbol": "BRA",
+      "name": "WeBera Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BRA.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
