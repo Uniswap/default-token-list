@@ -2384,5 +2384,29 @@
     "symbol": "USDG",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x643C4E15d7d62Ad0aBeC4a9BD4b001aA3Ef52d66",
+    "name": "Syrup Token",
+    "symbol": "SYRUP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51232/standard/IMG_7420.png?1730831572"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbe0Ed4138121EcFC5c0E56B40517da27E6c5226B",
+    "name": "Aethir Token",
+    "symbol": "ATH",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_(1).png?1718232706"
+  },
+  {
+    "chainId": 1,
+    "address": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
   }
 ]
