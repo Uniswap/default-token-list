@@ -2408,5 +2408,13 @@
     "symbol": "APU",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69bAC051604bBF6D096DF4747c6b290D80dD8f4e",
+    "name": "Dogelon Mars",
+    "symbol": "DM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/barbaro84/coins-images-token-logo/main/DogelonMars.jpg"
   }
 ]
