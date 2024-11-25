@@ -2408,5 +2408,37 @@
     "symbol": "APU",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+  },
+  {
+    "chainId": 1,
+    "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230"
+  },
+  {
+    "chainId": 1,
+    "address": "",
+    "name": "null",
+    "symbol": "null",
+    "decimals": null,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "address": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f",
+    "name": "Quantoz EURQ",
+    "symbol": "EURQ",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51853/large/EURQ_1000px_Color.png?1732071269"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
+    "name": "Quantoz USDQ",
+    "symbol": "USDQ",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
   }
 ]
