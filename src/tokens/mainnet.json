@@ -2408,5 +2408,13 @@
     "symbol": "APU",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+  },
+  {
+    "chainId": 1,
+    "address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
   }
 ]
