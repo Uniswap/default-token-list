@@ -2408,5 +2408,13 @@
     "symbol": "APU",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
   }
 ]
