@@ -2408,5 +2408,13 @@
     "symbol": "APU",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+    "name": "Swell",
+    "symbol": "SWELL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715"
   }
 ]
