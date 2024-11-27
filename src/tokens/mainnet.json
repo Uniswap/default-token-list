@@ -2419,14 +2419,6 @@
   },
   {
     "chainId": 1,
-    "address": "",
-    "name": "null",
-    "symbol": "null",
-    "decimals": null,
-    "logoURI": ""
-  },
-  {
-    "chainId": 1,
     "address": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f",
     "name": "Quantoz EURQ",
     "symbol": "EURQ",
