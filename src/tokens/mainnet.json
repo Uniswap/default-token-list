@@ -2432,5 +2432,13 @@
     "symbol": "USDQ",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
+  },
+  {
+     "chainId": 1,
+     "address": "0x131c1d2eef8c4fd641a0ea487dadcf33371346dd",
+     "name": "DOG",
+     "symbol": "$DOG",
+     "decimals": 18,
+     "logoURI": "https://whalememe.github.io/uniswap-logos/0x131c1d2eef8c4fd641a0ea487dadcf33371346dd.png"
   }
 ]
