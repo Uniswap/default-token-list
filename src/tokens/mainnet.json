@@ -2432,5 +2432,13 @@
     "symbol": "USDQ",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
+    "name": "Movement",
+    "symbol": "MOVE",
+    "decimals": 8,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png"
   }
 ]
