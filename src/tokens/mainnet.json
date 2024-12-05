@@ -2448,5 +2448,13 @@
     "symbol": "LSK",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/385/large/Lisk_logo.png?1722338450"
+  },
+  {
+    "chainId": 1,
+    "address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+    "name": "Neiro",
+    "symbol": "Neiro",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567"
   }
 ]
