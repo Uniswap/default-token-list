@@ -2432,5 +2432,13 @@
     "symbol": "USDQ",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6033F7f88332B8db6ad452B7C6D5bB643990aE3f",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/385/large/Lisk_logo.png?1722338450"
   }
 ]
