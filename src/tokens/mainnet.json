@@ -2440,5 +2440,13 @@
     "symbol": "MOVE",
     "decimals": 8,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6033F7f88332B8db6ad452B7C6D5bB643990aE3f",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/385/large/Lisk_logo.png?1722338450"
   }
 ]
