@@ -343,6 +343,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/BRA.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xC15b9182D3272d8d6ee563C021c7b3EECA8643b9",
+      "symbol": "AZT",
+      "name": "AZEx Token",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/azt.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
