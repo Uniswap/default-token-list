@@ -111,4 +111,12 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
   }
+  {
+    "chainId": 8453,
+    "address": "0xF184fCCE25573df753E52914E152eAE5441B6E1B",
+    "name": "Candle",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18327.png"
+  }
 ]
