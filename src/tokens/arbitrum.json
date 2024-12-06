@@ -46,5 +46,13 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": ""
   }
 ]
