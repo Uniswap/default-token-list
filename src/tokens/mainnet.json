@@ -2456,5 +2456,13 @@
     "symbol": "Neiro",
     "decimals": 9,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+    "name": "Swell",
+    "symbol": "SWELL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715"
   }
 ]
