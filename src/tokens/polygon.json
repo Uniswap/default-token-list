@@ -302,5 +302,13 @@
     "symbol": "ZRO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/28206/standard/ftxG9_TJ_400x400.jpeg?1696527208"
+  },
+  {
+    "chainId": 137,
+    "address": "0xd2e57e7019a8faea8b3e4a3738ee5b269975008a",
+    "name": "THAT",
+    "symbol": "THAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/THAT-Global/brand-assets/4517783608b6b66acc87bd1bf43f56136ad42e4d/that.svg"
   }
 ]
