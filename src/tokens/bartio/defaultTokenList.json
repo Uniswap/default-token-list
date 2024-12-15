@@ -352,6 +352,15 @@
       "decimals": 18,
       "logoURI": "https://res.cloudinary.com/duv0g402y/raw/upload/src/assets/azt.png",
       "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
+      "address": "0xa8ff751d316344e1336cf7875bb881ddd16e4f5b",
+      "symbol": "HYT",
+      "name": "HONEY TOKEN",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/dnxsac1ef/image/upload/raw/upload/src/hyt.png",
+      "tags": ["featured"]
     }
   ],
   "version": {
