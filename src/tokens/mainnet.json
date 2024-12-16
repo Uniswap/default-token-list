@@ -2464,5 +2464,13 @@
     "symbol": "SWELL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
   }
 ]
