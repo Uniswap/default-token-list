@@ -40,6 +40,15 @@
   "tokens": [
     {
       "chainId": 80084,
+      "address": "0x277aaDBd9ea3dB8Fe9eA40eA6E09F6203724BdaE",
+      "symbol": "DIRAC",
+      "name": "Dirac Finance Token",
+      "decimals": 18,
+      "logoURI": "https://dirac.finance/logos/dirac-logos/black_icon.png",
+      "tags": ["featured"]
+    },
+    {
+      "chainId": 80084,
       "address": "0x2206182A4264bcE0663681448b24Fc6781Fc8E40",
       "symbol": "BULLA",
       "name": "Bulla token",
