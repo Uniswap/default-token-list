@@ -110,5 +110,13 @@
     "symbol": "DEGEN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/34515/large/android-chrome-512x512.png?1706198225"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
   }
 ]
