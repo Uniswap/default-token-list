@@ -2473,4 +2473,12 @@
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
   }
+  {
+  "chainId": 1,
+  "address": "0xb402525F46e036C727F8b54A862215c3519b7170",
+  "symbol": "MCON",
+  "name": "McConaCoin",
+  "decimals": 18,
+  "logoURI": "https://mcconacoin.com/mcconacoinlogoa.png",
+}
 ]
