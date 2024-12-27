@@ -2416,5 +2416,69 @@
     "symbol": "DM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/barbaro84/coins-images-token-logo/main/DogelonMars.jpg"
+  },
+  {
+    "chainId": 1,
+    "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+    "name": "Morpho Token",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8dF723295214Ea6f21026eeEb4382d475f146F9f",
+    "name": "Quantoz EURQ",
+    "symbol": "EURQ",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51853/large/EURQ_1000px_Color.png?1732071269"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc83e27f270cce0A3A3A29521173a83F402c1768b",
+    "name": "Quantoz USDQ",
+    "symbol": "USDQ",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51852/large/USDQ_1000px_Color.png?1732071232"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3073f7aAA4DB83f95e9FFf17424F71D4751a3073",
+    "name": "Movement",
+    "symbol": "MOVE",
+    "decimals": 8,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32452.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6033F7f88332B8db6ad452B7C6D5bB643990aE3f",
+    "name": "Lisk",
+    "symbol": "LSK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/385/large/Lisk_logo.png?1722338450"
+  },
+  {
+    "chainId": 1,
+    "address": "0x812Ba41e071C7b7fA4EBcFB62dF5F45f6fA853Ee",
+    "name": "Neiro",
+    "symbol": "Neiro",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39488/large/neiro.jpg?1731449567"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a6E7Ba5042B38349e437ec6Db6214AEC7B35676",
+    "name": "Swell",
+    "symbol": "SWELL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28777/large/swell1.png?1727899715"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
   }
 ]
