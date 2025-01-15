@@ -118,5 +118,13 @@
     "symbol": "SPX",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
   }
 ]
