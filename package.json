@@ -1,10 +1,6 @@
 {
   "name": "@uniswap/default-token-list",
-<<<<<<< HEAD
   "version": "12.34.0",
-=======
-  "version": "12.28.0",
->>>>>>> origin/add-Vanar_Chain-2024-11-27-89
   "description": "The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
