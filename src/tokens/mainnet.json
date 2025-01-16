@@ -1727,14 +1727,6 @@
   },
   {
     "chainId": 1,
-    "name": "Nest Protocol",
-    "symbol": "NEST",
-    "logoURI": "https://assets.coingecko.com/coins/images/11284/thumb/52954052.png?1589868539",
-    "address": "0x04abEdA201850aC0124161F037Efd70c74ddC74C",
-    "decimals": 18
-  },
-  {
-    "chainId": 1,
     "name": "Marlin",
     "symbol": "POND",
     "logoURI": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451",
