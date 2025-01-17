@@ -14,5 +14,14 @@
     "decimals": 18,
     "chainId": 11155111,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+ {
+    "name": "Dummy_token",
+    "address": "0xbA63E9A0b4907b6151cC85AE7697F05713B244b4",
+    "symbol": "DUM",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   }
+
 ]
