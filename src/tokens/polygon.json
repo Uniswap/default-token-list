@@ -310,5 +310,13 @@
     "symbol": "GMIX",
     "decimals": 18,
     "logoURI": "https://www.gmix.io/logogmix.png"
+  },
+  {
+    "chainId": 137,
+    "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "name": "Vanar Chain",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
   }
 ]
