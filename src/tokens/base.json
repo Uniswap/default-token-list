@@ -126,5 +126,13 @@
     "symbol": "RSR",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+    "name": "Toshi",
+    "symbol": "TOSHI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476"
   }
 ]
