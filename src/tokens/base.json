@@ -135,4 +135,12 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476"
   }
+  {
+    "chainId": 8453,
+    "address": "0xc1c37473079884CbFCf4905a97de361FEd414B2B",
+    "name": "Satori",
+    "symbol": "SATORI",
+    "decimals": 18,
+    "logoURI": "https://github.com/SatoriNetwork/BrandingKit/blob/main/Logo/PNG/satori-light-outlined-256.x256.png?raw=true"
+  }
 ]
