@@ -1999,6 +1999,9 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
     "extensions": {
       "bridgeInfo": {
+        "56": {
+          "tokenAddress": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89"
+        },
         "137": {
           "tokenAddress": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4"
         },
@@ -2007,9 +2010,6 @@
         },
         "43114": {
           "tokenAddress": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57"
-        },
-        "56": {
-          "tokenAddress": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89"
         }
       }
     }
@@ -2184,11 +2184,11 @@
         "10": {
           "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
         },
-        "42161": {
-          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
-        },
         "56": {
           "tokenAddress": "0x073690e6CE25bE816E68F32dCA3e11067c9FB5Cc"
+        },
+        "42161": {
+          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
         }
       }
     }
@@ -2480,5 +2480,21 @@
     "symbol": "VANRY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": ""
   }
 ]
