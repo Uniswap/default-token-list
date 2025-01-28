@@ -68,4 +68,12 @@ describe('buildList', () => {
     expect(packageJson.version).to.match(/^\d+\.\d+\.\d+$/);
     expect(packageJson.version).to.equal(`${defaultTokenList.version.major}.${defaultTokenList.version.minor}.${defaultTokenList.version.patch}`);
   });
+
+  it('all tokens have valid decimals', () => {
+    for (let token of defaultTokenList.tokens) {
+      expect(token.decimals).to.be.a('number');
+      expect(token.decimals).to.be.gte(0);
+      expect(token.decimals).to.be.lte(18);
+    }
+  });
 });
