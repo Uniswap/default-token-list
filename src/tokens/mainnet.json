@@ -2480,5 +2480,13 @@
     "symbol": "VANRY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
+    "name": "USUAL",
+    "symbol": "USUAL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787"
   }
 ]
