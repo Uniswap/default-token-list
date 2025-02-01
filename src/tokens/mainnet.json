@@ -2403,6 +2403,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x69bAC051604bBF6D096DF4747c6b290D80dD8f4e",
+    "name": "Dogelon Mars",
+    "symbol": "DM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/barbaro84/coins-images-token-logo/main/DogelonMars.jpg"
+  },
+  {
+    "chainId": 1,
     "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
     "name": "Morpho Token",
     "symbol": "MORPHO",
