@@ -2488,5 +2488,13 @@
     "symbol": "USUAL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+    "name": "StablR USD",
+    "symbol": "USDR",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53721/large/stablrusd-logo.png?1737126629"
   }
 ]
