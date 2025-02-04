@@ -2491,6 +2491,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x50753CfAf86c094925Bf976f218D043f8791e408",
+    "name": "StablR Euro",
+    "symbol": "EURR",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53720/large/stablreuro-logo.png?1737125898"
+  },
+  {
+    "chainId": 1,
     "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
     "name": "StablR USD",
     "symbol": "USDR",
