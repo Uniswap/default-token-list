@@ -142,5 +142,13 @@
     "symbol": "VVV",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54023/standard/Venice_Token_(1).png?1738017546"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
   }
 ]

@@ -2488,5 +2488,13 @@
     "symbol": "USUAL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
   }
 ]
