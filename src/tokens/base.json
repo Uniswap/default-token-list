@@ -1,5 +1,14 @@
 [
   {
+  "chainId": 8453,
+  "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+  "name": "MANTRA",
+  "symbol": "OM",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/12151/standard/OM_Token.png?1696511991"
+}
+
+  {
     "chainId": 8453,
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "name": "USD Base Coin",
