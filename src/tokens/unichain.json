@@ -41,7 +41,7 @@
   },
   {
     "name": "USD Coin",
-    "address": "0x949d3A70722731d3bA8E0ca4061E12387c659E75",
+    "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 130,
@@ -2384,4 +2384,3 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
   }
 ]
-
