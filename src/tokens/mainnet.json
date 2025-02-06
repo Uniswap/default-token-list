@@ -2515,6 +2515,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+    "name": "BIO",
+    "symbol": "BIO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002"
+  },
+  {
+    "chainId": 1,
     "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
     "name": "Flux",
     "symbol": "FLUX",
