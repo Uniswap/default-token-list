@@ -2512,5 +2512,13 @@
     "symbol": "BITCOIN",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+    "name": "BIO",
+    "symbol": "BIO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002"
   }
 ]
