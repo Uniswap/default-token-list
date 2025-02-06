@@ -2512,5 +2512,13 @@
     "symbol": "BITCOIN",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "chainId": 1,
+    "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
+    "name": "Flux",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
   }
 ]
