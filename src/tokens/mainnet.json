@@ -2520,6 +2520,7 @@
     "symbol": "BIO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002"
+  },
   {
     "chainId": 1,
     "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
