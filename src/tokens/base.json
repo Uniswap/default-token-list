@@ -150,5 +150,13 @@
     "symbol": "BITCOIN",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+    "name": "B3",
+    "symbol": "B3",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54287/large/B3.png?1739001374"
   }
 ]
