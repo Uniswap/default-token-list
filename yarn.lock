@@ -451,10 +451,10 @@
     tiny-invariant "^1.1.0"
     toformat "^2.0.0"
 
-"@uniswap/token-list-bridge-utils@^2.6.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/token-list-bridge-utils/-/token-list-bridge-utils-2.6.0.tgz#c672d131283c8362ed6ecc12c552fc017af49a61"
-  integrity sha512-8T+TezZkpsdLZSk3o7SZWclrGbElceDYCtHAtC7VZw0j0tSM4kuPR0MzcKI1Qx5teeHz7MX9jC161pbmPyubeA==
+"@uniswap/token-list-bridge-utils@^2.7.0":
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@uniswap/token-list-bridge-utils/-/token-list-bridge-utils-2.7.0.tgz#d8e70da6965b896af1b78660a4e120acbe8c9594"
+  integrity sha512-IPRJeBkxmKE+Xcaup8yJDCFDUJQsc6R3Gbw6zG2CEEtMyrXso+9BcNQ6bEOHQuFuVbgnVIl/2Z+s6uWw7bq2BQ==
   dependencies:
     "@arbitrum/sdk" "^3.1.6"
     "@uniswap/sdk-core" "^4.0.6"
