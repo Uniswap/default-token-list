@@ -2528,5 +2528,13 @@
     "symbol": "FLUX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdd646291d2fff52c75f27ccdadd0d4c2a24f37dd",
+    "name": "Xitcoin",
+    "symbol": "$XTC",
+    "decimals": 8,
+    "logoURI": "https://xitcoin.org/branding/300px/transparent-logo.png"
   }
 ]
