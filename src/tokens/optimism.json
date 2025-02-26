@@ -46,5 +46,13 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
+  },
+  {
+    "chainId": 10,
+    "address": "0x14778860E937f509e651192a90589dE711Fb88a9",
+    "name": "CYBER",
+    "symbol": "CYBER",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31274/large/token.png?1715826754"
   }
 ]
