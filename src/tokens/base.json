@@ -158,5 +158,13 @@
     "symbol": "B3",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54287/large/B3.png?1739001374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+    "name": "Odos Token",
+    "symbol": "ODOS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52914/large/odos.jpg?1734678948"
   }
 ]
