@@ -2528,5 +2528,13 @@
     "symbol": "FLUX",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf983da3ca66964C02628189Ea8Ca99fa9E24f66c",
+    "name": "Wrapped Analog One Token",
+    "symbol": "WANLOG",
+    "decimals": 12,
+    "logoURI": "https://assets.kraken.com/marketing/web/icons-uni-webp/s_anlog.webp?i=kds"
   }
 ]
