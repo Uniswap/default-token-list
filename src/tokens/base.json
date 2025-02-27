@@ -158,5 +158,13 @@
     "symbol": "B3",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54287/large/B3.png?1739001374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF8252C05eC4cB2fdf1e0398BaE049D454dDbA3AD",
+    "name": "Jam",
+    "symbol": "JAM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53706/standard/2_%281%29_%281%29%281%29.png?1737086677"
   }
 ]
