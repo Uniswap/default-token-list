@@ -158,5 +158,13 @@
     "symbol": "B3",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54287/large/B3.png?1739001374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x98d0baa52b2D063E780DE12F615f963Fe8537553",
+    "name": "KAITO",
+    "symbol": "KAITO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780"
   }
 ]
