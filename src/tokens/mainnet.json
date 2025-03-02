@@ -2536,5 +2536,13 @@
     "symbol": "WANLOG",
     "decimals": 12,
     "logoURI": "https://assets.kraken.com/marketing/web/icons-uni-webp/s_anlog.webp?i=kds"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2f42b7d686ca3effc69778b6ed8493a7787b4d6e",
+    "name": "Taraxa",
+    "symbol": "TARA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4372/standard/just_logo_dark_background.png?1724826855"
   }
 ]
