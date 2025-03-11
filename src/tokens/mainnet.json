@@ -2536,5 +2536,13 @@
     "symbol": "WANLOG",
     "decimals": 12,
     "logoURI": "https://assets.kraken.com/marketing/web/icons-uni-webp/s_anlog.webp?i=kds"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc43C6bfeDA065fE2c4c11765Bf838789bd0BB5dE",
+    "name": "Redstone",
+    "symbol": "RED",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919"
   }
 ]
