@@ -182,5 +182,13 @@
     "symbol": "ODOS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/52914/large/odos.jpg?1734678948"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+    "name": "Cookie",
+    "symbol": "COOKIE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38450/large/cookie_token_logo_200x200.png?1733194528"
   }
 ]
