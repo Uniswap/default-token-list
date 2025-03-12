@@ -2544,5 +2544,13 @@
     "symbol": "RED",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919"
+  },
+  {
+    "chainId": 1,
+    "address": "0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51",
+    "name": "Schuman EUR P",
+    "symbol": "EUROP",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52132/large/europ-symbol-rgb.jpg?1732634862"
   }
 ]
