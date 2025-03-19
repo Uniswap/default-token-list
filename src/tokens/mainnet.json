@@ -2544,5 +2544,13 @@
     "symbol": "RED",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+    "name": "Liquid Staked ETH",
+    "symbol": "LSETH",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824"
   }
 ]
