@@ -2545,4 +2545,12 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919"
   }
+  {
+  "chainId": 1,
+  "address": "0xb402525F46e036C727F8b54A862215c3519b7170",
+  "symbol": "MCON",
+  "name": "McConaCoin",
+  "decimals": 18,
+  "logoURI": "https://mcconacoin.com/mcconacoinlogoa.png",
+}
 ]
