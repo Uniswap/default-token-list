@@ -2291,6 +2291,13 @@
   },
   {
     "chainId": 1,
+    "address": "0x63eC86fC38A0021FCF4980ADA380FF82c7859788",
+    "name": "Hardwaretor",
+    "symbol": "HAW",
+    "decimals": 18,
+    "logoURI": "ipfs://QmfMAg7QATrPb3wdYzefkPW8Hb3PYg5PLxGwG5XKgUrYHg"
+   },
+   {
     "address": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
     "name": "Mog Coin",
     "symbol": "MOG",
