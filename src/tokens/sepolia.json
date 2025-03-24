@@ -14,5 +14,22 @@
     "decimals": 18,
     "chainId": 11155111,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x29f2D40B0605204364af54EC677bD022dA425d03",
+    "symbol": "WBTC",
+    "name": "Wrapped Bitcoin",
+    "decimals": 8,
+    "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+    "pairSymbol": "BTC"
   }
 ]
