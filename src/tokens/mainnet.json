@@ -2552,5 +2552,13 @@
     "symbol": "LSETH",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824"
+  },
+  {
+    "chainId": 1,
+    "address": "0x808507121B80c02388fAd14726482e061B8da827",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
   }
 ]
