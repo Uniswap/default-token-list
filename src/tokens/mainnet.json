@@ -2552,5 +2552,13 @@
     "symbol": "LSETH",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfE80D611c6403f70e5B1b9B722D2B3510B740B2B",
+    "name": "Equilibria Token",
+    "symbol": "EQB",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30645/large/QLLK8pmR_400x400.jpg"
   }
 ]
