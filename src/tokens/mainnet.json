@@ -2568,5 +2568,13 @@
     "symbol": "EUROP",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/52132/large/europ-symbol-rgb.jpg?1732634862"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+    "name": "TokenFi",
+    "symbol": "TOKEN",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/32507/large/MAIN_TokenFi_logo_icon.png?1698918427"
   }
 ]
