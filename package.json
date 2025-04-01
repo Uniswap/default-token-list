@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/default-token-list",
-  "version": "12.35.0",
+  "version": "13.19.0",
   "description": "The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
@@ -33,7 +33,7 @@
   "homepage": "https://github.com/Uniswap/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-list-bridge-utils": "^2.3.0",
+    "@uniswap/token-list-bridge-utils": "^2.10.0",
     "@uniswap/token-lists": "^1.0.0-beta.29",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
