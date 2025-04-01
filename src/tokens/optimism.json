@@ -62,5 +62,13 @@
     "symbol": "WLD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903"
+  },
+  {
+    "chainId": 10,
+    "address": "0x33800De7E817A70A694F31476313A7c572BBa100",
+    "name": "Derive",
+    "symbol": "DRV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
   }
 ]

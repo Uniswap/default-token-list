@@ -206,5 +206,13 @@
     "symbol": "FAI",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/52315/large/FAI.png?1733076295"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083",
+    "name": "Derive",
+    "symbol": "DRV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
   }
 ]
