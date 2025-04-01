@@ -2547,6 +2547,22 @@
   },
   {
     "chainId": 1,
+    "address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+    "name": "Liquid Staked ETH",
+    "symbol": "LSETH",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824"
+  },
+  {
+    "chainId": 1,
+    "address": "0x808507121B80c02388fAd14726482e061B8da827",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 1,
     "address": "0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51",
     "name": "Schuman EUR P",
     "symbol": "EUROP",
