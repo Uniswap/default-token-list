@@ -1727,14 +1727,6 @@
   },
   {
     "chainId": 1,
-    "name": "Nest Protocol",
-    "symbol": "NEST",
-    "logoURI": "https://assets.coingecko.com/coins/images/11284/thumb/52954052.png?1589868539",
-    "address": "0x04abEdA201850aC0124161F037Efd70c74ddC74C",
-    "decimals": 18
-  },
-  {
-    "chainId": 1,
     "name": "Marlin",
     "symbol": "POND",
     "logoURI": "https://assets.coingecko.com/coins/images/8903/thumb/POND_200x200.png?1622515451",
@@ -2472,6 +2464,118 @@
     "symbol": "SPX",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_(1).jpg?1702371083"
+  },
+  {
+    "chainId": 1,
+    "address": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
+    "name": "VANRY",
+    "symbol": "VANRY",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
+    "name": "USUAL",
+    "symbol": "USUAL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51091/large/USUAL.jpg?1730035787"
+  },
+  {
+    "chainId": 1,
+    "address": "0x50753CfAf86c094925Bf976f218D043f8791e408",
+    "name": "StablR Euro",
+    "symbol": "EURR",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53720/large/stablreuro-logo.png?1737125898"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7B43E3875440B44613DC3bC08E7763e6Da63C8f8",
+    "name": "StablR USD",
+    "symbol": "USDR",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53721/large/stablrusd-logo.png?1737126629"
+  },
+  {
+    "chainId": 1,
+    "address": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb1592591996765Ec0eFc1f92599A19767ee5ffA",
+    "name": "BIO",
+    "symbol": "BIO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002"
+  },
+  {
+    "chainId": 1,
+    "address": "0x720CD16b011b987Da3518fbf38c3071d4F0D1495",
+    "name": "Flux",
+    "symbol": "FLUX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf983da3ca66964C02628189Ea8Ca99fa9E24f66c",
+    "name": "Wrapped Analog One Token",
+    "symbol": "WANLOG",
+    "decimals": 12,
+    "logoURI": "https://assets.kraken.com/marketing/web/icons-uni-webp/s_anlog.webp?i=kds"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc43C6bfeDA065fE2c4c11765Bf838789bd0BB5dE",
+    "name": "Redstone",
+    "symbol": "RED",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53640/large/RedStone_Logo_New_White.png?1740640919"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c1BEd5b9a0928467c9B1341Da1D7BD5e10b6549",
+    "name": "Liquid Staked ETH",
+    "symbol": "LSETH",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824"
+  },
+  {
+    "chainId": 1,
+    "address": "0x808507121B80c02388fAd14726482e061B8da827",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 1,
+    "address": "0x888883b5F5D21fb10Dfeb70e8f9722B9FB0E5E51",
+    "name": "Schuman EUR P",
+    "symbol": "EUROP",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52132/large/europ-symbol-rgb.jpg?1732634862"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4507cEf57C46789eF8d1a19EA45f4216bae2B528",
+    "name": "TokenFi",
+    "symbol": "TOKEN",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/32507/large/MAIN_TokenFi_logo_icon.png?1698918427"
   },
   {
     "chainId": 1,

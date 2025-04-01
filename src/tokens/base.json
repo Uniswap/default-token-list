@@ -121,6 +121,94 @@
   },
   {
     "chainId": 8453,
+    "address": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+    "name": "Toshi",
+    "symbol": "TOSHI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31126/large/Toshi_Logo_-_Circular.png?1721677476"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54023/standard/Venice_Token_(1).png?1738017546"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2a06A17CBC6d0032Cac2c6696DA90f29D39a1a29",
+    "name": "HarryPotterObamaSonic10Inu",
+    "symbol": "BITCOIN",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30323/large/hpos10i_logo_casino_night-dexview.png?1696529224"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+    "name": "B3",
+    "symbol": "B3",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54287/large/B3.png?1739001374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x98d0baa52b2D063E780DE12F615f963Fe8537553",
+    "name": "KAITO",
+    "symbol": "KAITO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+    "name": "aixbt by Virtuals",
+    "symbol": "AIXBT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51784/large/3.png?1731981138"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca73ed1815e5915489570014e024b7EbE65dE679",
+    "name": "Odos Token",
+    "symbol": "ODOS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52914/large/odos.jpg?1734678948"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC0041EF357B183448B235a8Ea73Ce4E4eC8c265F",
+    "name": "Cookie",
+    "symbol": "COOKIE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38450/large/cookie_token_logo_200x200.png?1733194528"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB3B32F9f8827D4634fE7d973Fa1034Ec9fdDB3B3",
+    "name": "B3",
+    "symbol": "B3",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54287/large/B3.png?1739001374"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935",
+    "name": "FAI",
+    "symbol": "FAI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52315/large/FAI.png?1733076295"
+  },
+  {
+    "chainId": 8453,
     "address": "0x9d0E8f5b25384C7310CB8C6aE32C8fbeb645d083",
     "name": "Derive",
     "symbol": "DRV",

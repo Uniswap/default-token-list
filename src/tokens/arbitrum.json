@@ -49,6 +49,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0xCa5Ca9083702c56b481D1eec86F1776FDbd2e594",
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856"
+  },
+  {
+    "chainId": 42161,
     "address": "0x77b7787a09818502305C95d68A2571F090abb135",
     "name": "Derive",
     "symbol": "DRV",
