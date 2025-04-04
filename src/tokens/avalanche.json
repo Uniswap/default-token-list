@@ -62,5 +62,13 @@
     "symbol": "FLUX",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x720CD16b011b987Da3518fbf38c3071d4F0D1495/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x26deBD39D5eD069770406FCa10A0E4f8d2c743eB",
+    "name": "GUNZ",
+    "symbol": "GUN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/55027/standard/gunz.jpg?1743262298"
   }
 ]
