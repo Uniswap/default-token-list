@@ -214,5 +214,13 @@
     "symbol": "DRV",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xED6E000dEF95780fb89734c07EE2ce9F6dcAf110",
+    "name": "Definitive",
+    "symbol": "EDGE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55072/large/EDGE-120x120.png?1743598652"
   }
 ]
