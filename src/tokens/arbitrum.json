@@ -62,5 +62,13 @@
     "symbol": "DRV",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x010700AB046Dd8e92b0e3587842080Df36364ed3",
+    "name": "Kinto",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54964/standard/k200.png?1742894885"
   }
 ]
