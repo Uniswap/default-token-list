@@ -2592,5 +2592,13 @@
     "symbol": "TERM",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/38142/large/terms.png?1716630303"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44f49ff0da2498bCb1D3Dc7C0f999578F67FD8C6",
+    "name": "Corn",
+    "symbol": "CORN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54471/large/corn.jpg?1739933588"
   }
 ]
