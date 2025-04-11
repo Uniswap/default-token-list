@@ -2587,6 +2587,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
+    "name": "RLUSD",
+    "symbol": "RLUSD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_(1).png?1727376633"
+  },
+  {
+    "chainId": 1,
     "address": "0xC3d21f79C3120A4fFda7A535f8005a7c297799bF",
     "name": "Term Finance",
     "symbol": "TERM",
