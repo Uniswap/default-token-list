@@ -222,5 +222,13 @@
     "symbol": "KEYCAT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/36608/large/keyboard_cat.jpeg?1711965348"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+    "name": "doginme",
+    "symbol": "doginme",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784"
   }
 ]
