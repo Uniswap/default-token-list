@@ -238,5 +238,13 @@
     "symbol": "doginme",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/35123/large/doginme-logo1-transparent200.png?1710856784"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x30c7235866872213F68cb1F08c37Cb9eCCB93452",
+    "name": "Prompt",
+    "symbol": "PROMPT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55169/large/wayfinder.jpg?1744336900"
   }
 ]
