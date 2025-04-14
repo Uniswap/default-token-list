@@ -21,7 +21,7 @@
     "symbol": "USDC",
     "name": "USD Coin",
     "decimals": 6,
-    "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
   },
   {
     "chainId": 11155111,
@@ -29,7 +29,7 @@
     "symbol": "WBTC",
     "name": "Wrapped Bitcoin",
     "decimals": 8,
-    "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.png",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
     "pairSymbol": "BTC"
   }
 ]
