@@ -246,5 +246,13 @@
     "symbol": "PROMPT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55169/large/wayfinder.jpg?1744336900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
+    "name": "tokenbot",
+    "symbol": "CLANKER",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51440/large/CLANKER.png?1731232869"
   }
 ]
