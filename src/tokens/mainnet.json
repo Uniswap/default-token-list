@@ -2608,5 +2608,13 @@
     "symbol": "CORN",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54471/large/corn.jpg?1739933588"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3f80B1c54Ae920Be41a77f8B902259D48cf24cCf",
+    "name": "KernelDAO",
+    "symbol": "KERNEL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54326/large/Kernel_token_logo_2x.png?1739827205"
   }
 ]
