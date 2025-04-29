@@ -2608,5 +2608,13 @@
     "symbol": "CORN",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54471/large/corn.jpg?1739933588"
-  }
-]
+    },
+    {
+      "chainId": 1,
+      "address": "0x9Ee493dFe96fD431891137Ff3Aa12D0142fcA078",
+      "name": "XiPower",
+      "symbol": "XIP",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreih7wzbp7rcui2afursgokcp3am3skb3n7rugouwoo2k737wckelfe"
+    }
+  ]
