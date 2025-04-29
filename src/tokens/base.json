@@ -256,6 +256,7 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/54693/large/zora.jpg?1741094751"
   },
   {
+    "chainId": 8453,
     "address": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb",
     "name": "tokenbot",
     "symbol": "CLANKER",
