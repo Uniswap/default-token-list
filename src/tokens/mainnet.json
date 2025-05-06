@@ -2616,5 +2616,13 @@
     "symbol": "KERNEL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54326/large/Kernel_token_logo_2x.png?1739827205"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c3a81e81dc49A522A592e7622A7E711c06bf354",
+    "name": "Mantle",
+    "symbol": "MNT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30980/large/Mantle-Logo-mark.png?1739213200"
   }
 ]
