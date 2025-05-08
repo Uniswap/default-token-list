@@ -2624,5 +2624,13 @@
     "symbol": "MNT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/30980/large/Mantle-Logo-mark.png?1739213200"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE6Bfd33F52d82Ccb5b37E16D3dD81f9FFDAbB195",
+    "name": "Space and Time",
+    "symbol": "SXT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55424/large/sxt-token_circle.jpg?1745935919"
   }
 ]
