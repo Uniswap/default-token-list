@@ -2632,5 +2632,13 @@
     "symbol": "SXT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55424/large/sxt-token_circle.jpg?1745935919"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7F523bD960301Dd60c1865cd9FEC5B1Ec42beae2",
+    "name": "SUQ",
+    "symbol": "SUQ",
+    "decimals": 18,
+    "logoURI": "https://suqx.live/images/logo-256.png"
   }
 ]
