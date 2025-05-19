@@ -1,0 +1,26 @@
+{
+  "name": "SUQ Token List",
+  "logoURI": "https://suqx.live/images/logo-256.png",
+  "timestamp": "2025-05-20T12:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 1 },
+  "keywords": ["SUQ", "Halal", "Shariah", "Charity"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7F523bD960301Dd60c1865cd9FEC5B1Ec42beae2",
+      "symbol": "SUQ",
+      "name": "Souq",
+      "decimals": 18,
+      "logoURI": "https://suqx.live/images/logo-256.png",
+      "tags": ["Charity", "Halal"],
+      "extensions": {
+        "website": "https://suq.finance",
+        "description": "SUQ is a Shariah-compliant ERC-20 token with built-in charity and team vesting.",
+        "coingeckoId": "suq",
+        "twitter": "https://twitter.com/SUQ_Official",
+        "telegram": "https://t.me/+fWL21DQzrN03YzJk",
+        "discord": "https://discord.gg/p8Zedxz7c2"
+      }
+    }
+  ]
+}
