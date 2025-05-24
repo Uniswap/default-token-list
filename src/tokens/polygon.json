@@ -314,7 +314,7 @@
   {
     "chainId": 137,
     "address": "0x84eBc138F4Ab844A3050a6059763D269dC9951c6",
-    "name": "Fishcake Coin Chain",
+    "name": "Fishcake Coin",
     "symbol": "FCC",
     "decimals": 6,
     "logoURI": "https://github.com/Fishcake-Labs/image-/blob/96f727a940723045cbdfe67110b3a05dcfb4bfe7/FCC%20Icon-256x256.png"
