@@ -265,7 +265,7 @@
   },
   {
     "chainId": 8453,
-    "address": "0xcbd06e5a2b0c65597161de254aa074e489deb510",
+    "address": "0xcbD06E5A2B0C65597161de254AA074E489dEb510",
     "name": "Coinbase Wrapped DOGE",
     "symbol": "CBDOGE",
     "decimals": 18,
@@ -273,7 +273,7 @@
   },
   {
     "chainId": 8453,
-    "address": "0xcb585250f852c6c6bf90434ab21a00f02833a4af",
+    "address": "0xcb585250f852C6c6bf90434AB21A00f02833a4af",
     "name": "Coinbase Wrapped XRP",
     "symbol": "cbXRP",
     "decimals": 18,

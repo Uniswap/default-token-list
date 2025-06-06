@@ -2635,7 +2635,7 @@
   },
   {
     "name": "Lagrange",
-    "address": "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467",
+    "address": "0x0fc2a55d5BD13033f1ee0cdd11f60F7eFe66f467",
     "symbol": "LA",
     "decimals": 18,
     "chainId": 1,
@@ -2643,7 +2643,7 @@
   },
   {
     "name": "PancakeSwap",
-    "address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898",
+    "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
     "symbol": "CAKE",
     "decimals": 18,
     "chainId": 1,
