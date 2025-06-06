@@ -2632,5 +2632,21 @@
     "symbol": "SXT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55424/large/sxt-token_circle.jpg?1745935919"
+  },
+  {
+    "name": "Lagrange",
+    "address": "0x0fc2a55d5BD13033f1ee0cdd11f60F7eFe66f467",
+    "symbol": "LA",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36510.png"
+  },
+  {
+    "name": "PancakeSwap",
+    "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
+    "symbol": "CAKE",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
   }
 ]
