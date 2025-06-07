@@ -21,7 +21,7 @@
   "symbol": "LVN",
   "decimals": 18,
   "chainId": 137,
-  "logoURI": "https://github.com/LvNThL/LVN-Token/blob/5bfa26b4e5c99da51ac4bdd96e05a6b824cfbb78/assets/polygon/0x48911Dd6FA7D7E26d0aD3aC8965F3407626265B4/logo.png"
+  "logoURI": "https://raw.githubusercontent.com/LvNThL/LVN-Token/main/assets/polygon/0x48911Dd6FA7D7E26d0aD3aC8965F3407626265B4/logo.png"
   },
   {
     "name": "0x Protocol Token",
