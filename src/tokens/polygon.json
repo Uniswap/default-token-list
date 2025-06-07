@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
   {
+  "name": "LVN Token",
+  "address": "0x48911Dd6FA7D7E26d0aD3aC8965F3407626265B4",
+  "symbol": "LVN",
+  "decimals": 18,
+  "chainId": 137,
+  "logoURI": "https://github.com/LvNThL/LVN-Token/blob/5bfa26b4e5c99da51ac4bdd96e05a6b824cfbb78/assets/polygon/0x48911Dd6FA7D7E26d0aD3aC8965F3407626265B4/logo.png"
+  },
+  {
     "name": "0x Protocol Token",
     "address": "0x5559Edb74751A0edE9DeA4DC23aeE72cCA6bE3D5",
     "symbol": "ZRX",
