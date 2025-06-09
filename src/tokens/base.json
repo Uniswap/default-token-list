@@ -278,5 +278,13 @@
     "symbol": "cbXRP",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66267/large/Coinbase_Wrapped_XPR_%28cbXRP%29.png?1749023398"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb585250f852C6c6bf90434AB21A00f02833a4af",
+    "name": "Coinbase Wrapped XRP",
+    "symbol": "CBXRP",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66267/large/Coinbase_Wrapped_XPR_%28cbXRP%29.png?1749023398"
   }
 ]
