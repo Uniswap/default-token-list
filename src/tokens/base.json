@@ -278,5 +278,13 @@
     "symbol": "cbXRP",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66267/large/Coinbase_Wrapped_XPR_%28cbXRP%29.png?1749023398"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcbD06E5A2B0C65597161de254AA074E489dEb510",
+    "name": "Coinbase Wrapped DOGE",
+    "symbol": "CBDOGE",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66268/large/Coinbase_Wrapped_Doge_%28cbDOGE%29.png?1749023465"
   }
 ]
