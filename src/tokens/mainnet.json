@@ -2648,5 +2648,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
+  },
+  {
+    "chainId": 1,
+    "address": "0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898",
+    "name": "PancakeSwap Token",
+    "symbol": "Cake",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
   }
 ]
