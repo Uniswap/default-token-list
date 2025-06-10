@@ -278,5 +278,13 @@
     "symbol": "cbXRP",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66267/large/Coinbase_Wrapped_XPR_%28cbXRP%29.png?1749023398"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4BfAa776991E85e5f8b1255461cbbd216cFc714f",
+    "name": "HOME",
+    "symbol": "HOME",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743"
   }
 ]
