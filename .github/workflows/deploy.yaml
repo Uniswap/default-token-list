@@ -4,14 +4,14 @@ on:
     branches:
       - main
   workflow_dispatch: # manual trigger
-  
+
 jobs:
   deploy:
     name: Deploy
     runs-on:
       group: npm-deploy
     environment:
-      name: release
+      name: upload
     permissions:
       id-token: write
       contents: write
@@ -33,29 +33,6 @@ jobs:
       - name: Build list
         run: yarn build
 
-      - name: Load NPM secret
-        uses: 1password/load-secrets-action@581a835fb51b8e7ec56b71cf2ffddd7e68bb25e0
-        with:
-          # Export loaded secrets as environment variables
-          export-env: true
-        env:
-          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
-          NPM_TOKEN: op://npm-deploy/npm-runner-token/secret 
-
-      - name: Publish to NPM
-        uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
-        with:
-          token: ${{ env.NPM_TOKEN }}
-
-      - name: Load Web 3 deploy secrets
-        uses: 1password/load-secrets-action@d1a4e73495bde3551cf63f6c048588b8f734e21d
-        with:
-          # Export loaded secrets as environment variables
-          export-env: true
-        env:
-          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_WEB3_VAULT_TOKEN }}
-          CLOUDFLARE_TOKEN: op://web3-deploy-vault/web3-edit-token/token
-
       - name: Pin to IPFS
         id: upload
         uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
@@ -65,11 +42,11 @@ jobs:
           pinata-api-key: ${{ secrets.PINATA_API_KEY }}
           pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
 
-      - name: Update DNS with new IPFS hash
-        env:
-          CLOUDFLARE_TOKEN: ${{ env.CLOUDFLARE_TOKEN }}
-          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-          CLOUDFLARE_GATEWAY_ID: ${{ secrets.CLOUDFLARE_GATEWAY_ID }}
-        uses: Uniswap/cloudflare-update-web3-gateway@b3205288b1c6d0acb63fa3bd8fb686c72a9e3f3e
-        with:
-          cid: ${{ steps.upload.outputs.hash }}
+      # - name: Update DNS with new IPFS hash
+      #   env:
+      #     CLOUDFLARE_TOKEN: ${{ env.CLOUDFLARE_TOKEN }}
+      #     CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+      #     CLOUDFLARE_GATEWAY_ID: ${{ secrets.CLOUDFLARE_GATEWAY_ID }}
+      #   uses: Uniswap/cloudflare-update-web3-gateway@b3205288b1c6d0acb63fa3bd8fb686c72a9e3f3e
+      #   with:
+      #     cid: ${{ steps.upload.outputs.hash }}

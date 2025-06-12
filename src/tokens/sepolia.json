@@ -14,5 +14,13 @@
     "decimals": 18,
     "chainId": 11155111,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "Kittycorn Tokenize WBTC",
+    "address": "0x67332E6e2fbB793B822f3c2d7ff8BE9F07F1eAd9",
+    "symbol": "tWBTC",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
   }
 ]
