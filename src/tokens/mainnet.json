@@ -2649,4 +2649,12 @@
     "chainId": 1,
     "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
   }
+  {
+  "chainId": 1,
+  "address": "0xb402525F46e036C727F8b54A862215c3519b7170",
+  "symbol": "MCON",
+  "name": "McConaCoin",
+  "decimals": 18,
+  "logoURI": "https://mcconacoin.com/mcconacoinlogoa.png",
+}
 ]
