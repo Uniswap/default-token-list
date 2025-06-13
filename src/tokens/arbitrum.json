@@ -70,5 +70,13 @@
     "symbol": "K",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/54964/standard/k200.png?1742894885"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+    "name": "SQD",
+    "symbol": "SQD",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/37869/standard/New_Logo_SQD_Icon.png?1720048443"
   }
 ]
