@@ -1,11 +1,11 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "13.36.0",
-  "description": "The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "name": "@kittycorn/default-tokenize-list",
+  "version": "1.0.0",
+  "description": "The Kittycorn default tokenize list",
+  "main": "build/kittycorn-default.tokenizelist.json",
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/kittycorn-default.tokenizelist.json",
     "prepublishOnly": "npm test && npm run build"
   },
   "files": [

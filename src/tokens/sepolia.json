@@ -16,11 +16,115 @@
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
   },
   {
-    "name": "Kittycorn Tokenize WBTC",
-    "address": "0x67332E6e2fbB793B822f3c2d7ff8BE9F07F1eAd9",
-    "symbol": "tWBTC",
+    "name": "Tokenize USDC",
+    "address": "0x1E271DB8D8B446A0DEe8e9D774f4213e9Bc1C6ba",
+    "symbol": "tUSDC",
+    "decimals": 6,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Tokenize USDT",
+    "address": "0x137a906E06EC20808c8F156F9024196427429220",
+    "symbol": "tUSDT",
+    "decimals": 6,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Tokenize WETH",
+    "address": "0x54f4d76DaB01190A32FB0a5da441Be85e3Cef937",
+    "symbol": "tWETH",
     "decimals": 18,
     "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Tokenize WBTC",
+    "address": "0x67332E6e2fbB793B822f3c2d7ff8BE9F07F1eAd9",
+    "symbol": "tWBTC",
+    "decimals": 8,
+    "chainId": 11155111,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "Tokenize LINK",
+    "address": "0x7ddE6BD33B4E6eB1d6F0519f4CF65deEB162dd86",
+    "symbol": "tLINK",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "name": "Tokenize AAVE",
+    "address": "0x1289c2dC45a0eA5E67F6ffa2B601D23d66547d3E",
+    "symbol": "tAAVE",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+  },
+  {
+    "chainId": 11155111,
+    "address": "0xf8fb3713d459d7c1018bd0a49d19b4c44290ebe5",
+    "symbol": "LINK",
+    "decimals": 18,
+    "name": "LINK",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "chainId": 11155111,
+    "address": "0x29f2d40b0605204364af54ec677bd022da425d03",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "name": "WBTC",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "name": "AAVE",
+    "address": "0x88541670E55cC00bEEFD87eB59EDd1b7C511AC9a",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "USDCoin",
+    "address": "0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 11155111,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   }
 ]
