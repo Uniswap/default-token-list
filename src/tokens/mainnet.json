@@ -2648,5 +2648,13 @@
     "decimals": 18,
     "chainId": 1,
     "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc20059e0317DE91738d13af027DfC4a50781b066",
+    "name": "Spark",
+    "symbol": "SPK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896"
   }
 ]
