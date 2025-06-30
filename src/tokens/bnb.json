@@ -22,7 +22,7 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
-  }
+  },
   {
   "chainId": 56,
   "address": "0x91Df724610E259914C4Ee4def7069ddb72FA3Bc9",
@@ -30,7 +30,6 @@
   "symbol":  "USDT",
   "decimals":18,
   "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreifd6rpotykszsgxrue77vjhgc3uf4e2k5uralzylhcuwnjrlhou2m",
-  "tags":   ["utility"]
-}
+  },
 
 ]
