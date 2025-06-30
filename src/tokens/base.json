@@ -293,7 +293,7 @@
     "name": "Coinbase Wrapped LTC",
     "symbol": "cbLTC",
     "decimals": 8,
-    "logoURI": " https://coin-images.coingecko.com/coins/images/66646/large/Coinbase_Wrapped_Litecoin_%28cbLTC%29.png?1750129508"
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66646/large/Coinbase_Wrapped_Litecoin_%28cbLTC%29.png?1750129508"
   },
   {
     "chainId": 8453,

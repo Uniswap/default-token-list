@@ -2655,7 +2655,7 @@
     "name": "Spark",
     "symbol": "SPK",
     "decimals": 18,
-    "logoURI": " https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896"
+    "logoURI": "https://coin-images.coingecko.com/coins/images/38637/large/Spark-Logomark-RGB.png?1744878896"
   },
   {
     "chainId": 1,
