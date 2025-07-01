@@ -286,5 +286,21 @@
     "symbol": "HOME",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54873/large/defi-app.png?1742235743"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb17C9Db87B595717C857a08468793f5bAb6445F",
+    "name": "Coinbase Wrapped LTC",
+    "symbol": "cbLTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66646/large/Coinbase_Wrapped_Litecoin_%28cbLTC%29.png?1750129508"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcbADA732173e39521CDBE8bf59a6Dc85A9fc7b8c",
+    "name": "Coinbase Wrapped ADA",
+    "symbol": "cbADA",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
   }
 ]
