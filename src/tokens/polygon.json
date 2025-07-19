@@ -310,5 +310,14 @@
     "symbol": "VANRY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+    {
+    "chainId": 137,
+    "address": "0xdcffa515620def25d18f8d2c8aeca67f9ad31f58",
+    "name": "Aviator",
+    "symbol": "AVI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31024/large/avi-200x200png.png?1711119363"
   }
+
 ]
