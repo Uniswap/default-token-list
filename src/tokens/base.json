@@ -302,5 +302,14 @@
     "symbol": "cbADA",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
+  },
+    {
+    "chainId": 8453,
+    "address": "0x3203856eac03d343f9d5245ba2f39861838a7b36",
+    "name": "Aviator",
+    "symbol": "AVI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31024/large/avi-200x200png.png?1711119363"
   }
+
 ]

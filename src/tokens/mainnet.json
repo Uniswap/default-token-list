@@ -2664,5 +2664,13 @@
     "symbol": "NEWT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66819/large/newton.jpg?1750642513"
+  },
+    {
+    "chainId": 1,
+    "address": "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe",
+    "name": "Aviator",
+    "symbol": "AVI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31024/large/avi-200x200png.png?1711119363"
   }
 ]
