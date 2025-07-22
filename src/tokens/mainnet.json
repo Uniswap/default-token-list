@@ -2667,6 +2667,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xE2AD0BF751834f2fbdC62A41014f84d67cA1de2A",
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54475/large/Token_Logo.png?1749676251"
+  },
+  {
+    "chainId": 1,
     "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
     "name": "Rocket Pool Protocol",
     "symbol": "RPL",
