@@ -1,0 +1,13 @@
+{
+  "name": "USDT O Game",
+  "symbol": "USDT",
+  "totalSupply": 1000000000,
+  "decimals": 6,
+  "network": "BSC",
+  "logoURI": "https://tradevizyon.com.tr/assets/images/kl-137x137.png",
+  "metadata": {
+    "description": "TUSDT is a stablecoin pegged to USD with a total supply of 1 billion tokens.",
+    "website": "https://tradevizyon.com.tr",
+    "whitepaper": "https://tradevizyon.com.tr/page4.html"
+  }
+}
