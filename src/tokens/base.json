@@ -303,4 +303,12 @@
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
   }
+  {
+    "chainId": 8453,
+    "address": "0xF184fCCE25573df753E52914E152eAE5441B6E1B",
+    "name": "Candle",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18327.png"
+  }
 ]
