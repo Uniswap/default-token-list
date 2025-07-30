@@ -303,4 +303,12 @@
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
   }
+  {
+    "chainId": 8453,
+    "address": "0x15023B82731d4C5889d93052261a97A45B71Fcc7",
+    "name": "Lemonzi",
+    "symbol": "LOZI",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/dLhBZYt.jpeg"
+  }
 ]
