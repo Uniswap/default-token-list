@@ -302,5 +302,13 @@
     "symbol": "cbADA",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+    "name": "BankrCoin",
+    "symbol": "BNKR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52626/large/bankr-static.png?1736405365"
   }
 ]
