@@ -310,5 +310,13 @@
     "symbol": "BNKR",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/52626/large/bankr-static.png?1736405365"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFbB75A59193A3525a8825BeBe7D4b56899E2f7e1",
+    "name": "ResearchCoin",
+    "symbol": "RSC",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28146/large/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001"
   }
 ]
