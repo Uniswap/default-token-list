@@ -2680,5 +2680,13 @@
     "symbol": "RPL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
+    "name": "Treehouse Token",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67664/large/TREE_logo.png?1753601041"
   }
 ]
