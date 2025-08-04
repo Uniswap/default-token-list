@@ -327,7 +327,7 @@
   "decimals": 18,
   "logoURI": "https://raw.githubusercontent.com/endfiat25-ai/default-token-list/main/assets/endfiat/end_logo_256.png",
   "extensions": {
-    "website": "https://endfiat.org",
+    "website": "https://end-fiat.com",
     "description": "A quiet exit from terminal fiat debasement.",
     "bridgeInfo": {}
   }
