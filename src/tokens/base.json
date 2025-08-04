@@ -318,5 +318,18 @@
     "symbol": "RSC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28146/large/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001"
+  },
+{
+  "chainId": 8453,
+  "address": "0x39cFD4f75f7D77f61dc89a66690096183B2f53Ca",
+  "name": "EndFiat",
+  "symbol": "END",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/endfiat25-ai/default-token-list/main/assets/endfiat/end_logo_256.png",
+  "extensions": {
+    "website": "https://endfiat.org",
+    "description": "A quiet exit from terminal fiat debasement.",
+    "bridgeInfo": {}
   }
+}
 ]
