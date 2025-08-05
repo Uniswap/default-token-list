@@ -318,5 +318,13 @@
     "symbol": "RSC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28146/large/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229",
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/691/large/Horizen2.0-logo_icon-on-yellow_%281%29.png?1751696763"
   }
 ]
