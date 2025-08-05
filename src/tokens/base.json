@@ -318,5 +318,13 @@
     "symbol": "RSC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28146/large/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+    "name": "null",
+    "symbol": "null",
+    "decimals": null,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
   }
 ]
