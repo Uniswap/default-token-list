@@ -318,5 +318,13 @@
     "symbol": "RSC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28146/large/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00000000A22C618fd6b4D7E9A335C4B96B189a38",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55230/large/yImUvwK__400x400.png?1744857671"
   }
 ]
