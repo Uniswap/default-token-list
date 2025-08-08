@@ -4,7 +4,7 @@
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "symbol": "WETH",
     "decimals": 18,
-    "chainId": 1,
+    "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
     "extensions": {
       "bridgeInfo": {
@@ -2689,4 +2689,16 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67664/large/TREE_logo.png?1753601041"
   }
+
+{
+  "chainId": 137,
+  "address": "0x0be4822d26529b5a7080d66ac8D2F922B40647F6",
+  "name": "GURI Token",
+  "symbol": "GURI",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/albamneoguri/GURI_/main/GURI%20Token.png"
+}
+
+  
 ]
+
