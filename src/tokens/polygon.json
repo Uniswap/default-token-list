@@ -310,5 +310,13 @@
     "symbol": "VANRY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+  {
+  "chainId": 137,
+  "address": "0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
+  "name": "Bazaars",
+  "symbol": "BZR",
+  "decimals": 18,
+  "logoURI": "https://github.com/BazaarsBZR/BZR/blob/main/tokenlists/logo.png?raw=true"
   }
 ]
