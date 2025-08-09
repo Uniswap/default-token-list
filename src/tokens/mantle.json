@@ -1,0 +1,10 @@
+[
+  {
+  "chainId": 5000,
+  "address": "0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
+  "name": "Bazaars",
+  "symbol": "BZR",
+  "decimals": 18,
+  "logoURI": "https://github.com/BazaarsBZR/BZR/blob/main/tokenlists/logo.png?raw=true"
+ }
+]
