@@ -2688,5 +2688,13 @@
     "symbol": "TREE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67664/large/TREE_logo.png?1753601041"
+  },
+  {
+   "chainId": 56,
+  "address": "0x1337420dED5ADb9980CFc35f8f2B054ea86f8aB1",
+  "name": "Bazaars",
+  "symbol": "BZR",
+  "decimals": 18,
+  "logoURI": "https://github.com/BazaarsBZR/BZR/blob/main/tokenlists/logo.png?raw=true"
   }
 ]
