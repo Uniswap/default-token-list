@@ -318,5 +318,29 @@
     "symbol": "RSC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28146/large/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00000000A22C618fd6b4D7E9A335C4B96B189a38",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55230/large/yImUvwK__400x400.png?1744857671"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229",
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/691/large/Horizen2.0-logo_icon-on-yellow_%281%29.png?1751696763"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7300B37DfdfAb110d83290A29DfB31B1740219fE",
+    "name": "Mamo",
+    "symbol": "MAMO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55958/large/Mamo_Circle_200x200_TransBG.png?1748974093"
   }
 ]
