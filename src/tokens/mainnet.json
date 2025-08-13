@@ -2688,5 +2688,13 @@
     "symbol": "TREE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67664/large/TREE_logo.png?1753601041"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+    "name": "Succinct",
+    "symbol": "PROVE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
   }
 ]
