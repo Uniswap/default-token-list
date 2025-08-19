@@ -2696,5 +2696,13 @@
     "symbol": "PROVE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
-  }
+  },
+  {
+  "chainId": 1,
+  "address": "0x4e072E18387FDc4C5768b0a99d5FABc5a28F7296",
+  "name": "XCOIN",
+  "symbol": "XTH",
+  "decimals": 18,
+  "logoURI": "https://xcoineth.com/LogoXoin.svg"
+}
 ]
