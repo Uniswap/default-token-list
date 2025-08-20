@@ -70,5 +70,13 @@
     "symbol": "GUN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/55027/standard/gunz.jpg?1743262298"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "decimals": 18,
+    "logoURI": "https://github.com/BazaarsBZR/BZR/blob/main/tokenlists/logo.png?raw=true"
   }
 ]
