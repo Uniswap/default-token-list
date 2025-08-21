@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Sorella USDC-WETH Veda Vault",
+    "strategy": "WETH/USDC Market Neutral",
+    "description": "",
+    "symbol": "svUSDCWETH",
+    "inputTokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "vaultAddress": "0x5C55C2A38c3b20e7Da7417d3ca5d8443b9409B7E",
+    "logoURI": "",
+    "eip712Domain": {
+      "Name": "IntentsTeller",
+      "Version": "0.0",
+      "ChainId": 1,
+      "VerifyingContract": "0xeb365836F8C45Cba96B57a844B9146a949A7faB2"
+    }
+  }
+]
