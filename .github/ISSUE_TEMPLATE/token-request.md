@@ -1,7 +1,7 @@
 ---
 name: Token Request
 about: Request a token addition
-title: 'Add {TOKEN_SYMBOL}: {TOKEN_NAME}'
+title: 'Add HAW: HARDWARETOR'
 labels: token request
 assignees: ''
 ---
@@ -19,4 +19,5 @@ Token Symbol (from contract): HAW
 Uniswap V2 Pair Address of Token: https://app.uniswap.org/explore/tokens/ethereum/0x63ec86fc38a0021fcf4980ada380ff82c7859788
 
 Link to the official homepage of token: https://hardwaretor.com
+
 Link to CoinMarketCap or CoinGecko page of token: https://app.uniswap.org/explore/tokens/ethereum/0x63ec86fc38a0021fcf4980ada380ff82c7859788
