@@ -342,5 +342,13 @@
     "symbol": "MAMO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55958/large/Mamo_Circle_200x200_TransBG.png?1748974093"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC729777d0470F30612B1564Fd96E8Dd26f5814E3",
+    "name": "Sapien",
+    "symbol": "SAPIEN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68423/large/logo.png?1755710030"
   }
 ]
