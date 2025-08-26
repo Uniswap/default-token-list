@@ -2664,5 +2664,37 @@
     "symbol": "NEWT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66819/large/newton.jpg?1750642513"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE2AD0BF751834f2fbdC62A41014f84d67cA1de2A",
+    "name": "Caldera",
+    "symbol": "ERA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54475/large/Token_Logo.png?1749676251"
+  },
+  {
+    "chainId": 1,
+    "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+    "name": "Rocket Pool Protocol",
+    "symbol": "RPL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
+    "name": "Treehouse Token",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67664/large/TREE_logo.png?1753601041"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+    "name": "Succinct",
+    "symbol": "PROVE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
   }
 ]
