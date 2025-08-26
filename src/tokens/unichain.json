@@ -1,14 +1,6 @@
 [
     {
         "chainId": 130,
-        "address": "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
-        "name": "Solana",
-        "symbol": "SOL",
-        "decimals": 9,
-        "logoURI": "https://coin-images.coingecko.com/coins/images/54680/large/base.png?1749023388"
-    },
-    {
-        "chainId": 130,
         "address": "0xBbE97f3522101e5B6976cBf77376047097BA837F",
         "name": "BONK",
         "symbol": "BONK",
