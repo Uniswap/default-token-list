@@ -53,7 +53,7 @@ describe('buildList', () => {
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.name.toLowerCase()}`;
-      if (approvedDuplicateNames.includes(key)) {
+      if (approvedDuplicateNames.includes(token.name.toLowerCase())) {
         continue;
       } else {
       expect(typeof map[key])
