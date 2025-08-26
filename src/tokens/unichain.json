@@ -1,6 +1,22 @@
 [
     {
         "chainId": 130,
+        "address": "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
+        "name": "Solana",
+        "symbol": "SOL",
+        "decimals": 9,
+        "logoURI": "https://coin-images.coingecko.com/coins/images/54680/large/base.png?1749023388"
+    },
+    {
+        "chainId": 130,
+        "address": "0xbe51A5e8FA434F09663e8fB4CCe79d0B2381Afad",
+        "name": "Jupiter",
+        "symbol": "JUP",
+        "decimals": 6,
+        "logoURI": "https://assets.coingecko.com/coins/images/34188/standard/jup.png?1704266489"
+    },
+    {
+        "chainId": 130,
         "address": "0xBbE97f3522101e5B6976cBf77376047097BA837F",
         "name": "BONK",
         "symbol": "BONK",
