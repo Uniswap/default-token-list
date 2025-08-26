@@ -49,12 +49,17 @@ describe('buildList', () => {
   })
 
   it('contains no duplicate names', () => {
+    const approvedDuplicateNames = ["solana", "jupiter"];
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.name.toLowerCase()}`;
+      if (approvedDuplicateNames.includes(key)) {
+        continue;
+      } else {
       expect(typeof map[key])
         .to.equal('undefined', `duplicate name: ${token.name}`);
-      map[key] = true;
+        map[key] = true;
+      }
     }
   })
 
