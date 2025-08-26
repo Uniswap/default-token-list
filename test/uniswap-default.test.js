@@ -32,7 +32,7 @@ describe('buildList', () => {
 
   it('contains no duplicate symbols', () => {
     // manual override to approve certain tokens with duplicate symbols
-    const approvedDuplicateSymbols = ["ust"];
+    const approvedDuplicateSymbols = ["ust", "sol", "jup"];
 
     const map = {};
     for (let token of defaultTokenList.tokens) {
@@ -49,12 +49,17 @@ describe('buildList', () => {
   })
 
   it('contains no duplicate names', () => {
+    const approvedDuplicateNames = ["solana", "jupiter"];
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.name.toLowerCase()}`;
+      if (approvedDuplicateNames.includes(token.name.toLowerCase())) {
+        continue;
+      } else {
       expect(typeof map[key])
         .to.equal('undefined', `duplicate name: ${token.name}`);
-      map[key] = true;
+        map[key] = true;
+      }
     }
   })
 

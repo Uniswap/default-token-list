@@ -18,6 +18,7 @@ const zksync = require("./tokens/zksync.json");
 const worldchain = require("./tokens/worldchain.json");
 const zora = require("./tokens/zora.json");
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
+const unichain = require("./tokens/unichain.json");
 
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -51,6 +52,7 @@ module.exports = function buildList() {
       ...zksync,
       ...worldchain,
       ...zora,
+      ...unichain,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
