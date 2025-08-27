@@ -78,5 +78,13 @@
     "symbol": "SQD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37869/standard/New_Logo_SQD_Icon.png?1720048443"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x85Cb098bdcD3Ca929d2cD18Fc7A2669fF0362242",
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "decimals": 18,
+    "logoURI": "https://github.com/BazaarsBZR/BZR/blob/main/tokenlists/logo.png?raw=true"
   }
 ]
