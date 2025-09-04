@@ -2696,5 +2696,13 @@
     "symbol": "PROVE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915"
   }
 ]
