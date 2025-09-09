@@ -1414,5 +1414,13 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
+  },
+  {
+    "chainId": 4663,
+    "address": "0x777777783478dAdf54678d1D92DaD3fB5Bd42Eb2",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36067/standard/200px.png?1710405601"
   }
 ]
