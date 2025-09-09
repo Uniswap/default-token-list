@@ -358,5 +358,13 @@
     "symbol": "AWE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/8713/large/awe-network.jpg?1747816016"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5aB3D4c385B400F3aBB49e80DE2fAF6a88A7B691",
+    "name": "Flock",
+    "symbol": "FLOCK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53178/large/FLock_Token_Logo.png?1735561398"
   }
 ]
