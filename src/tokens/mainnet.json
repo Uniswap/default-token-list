@@ -2698,11 +2698,29 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
   },
   {
+
   "chainId": 1,
   "address": "0x4e072E18387FDc4C5768b0a99d5FABc5a28F7296",
   "name": "XCOIN",
   "symbol": "XTH",
   "decimals": 18,
   "logoURI": "https://xcoineth.com/LogoXoin.svg"
-}
+},
+ {
+    "chainId": 1,
+    "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002"
+  }
+
 ]

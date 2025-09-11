@@ -342,5 +342,29 @@
     "symbol": "MAMO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55958/large/Mamo_Circle_200x200_TransBG.png?1748974093"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC729777d0470F30612B1564Fd96E8Dd26f5814E3",
+    "name": "Sapien",
+    "symbol": "SAPIEN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68423/large/logo.png?1755710030"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1B4617734C43F6159F3a70b7E06d883647512778",
+    "name": "AWE Network",
+    "symbol": "AWE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8713/large/awe-network.jpg?1747816016"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5aB3D4c385B400F3aBB49e80DE2fAF6a88A7B691",
+    "name": "Flock",
+    "symbol": "FLOCK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53178/large/FLock_Token_Logo.png?1735561398"
   }
 ]
