@@ -1,9 +1,6 @@
 const { version } = require("../package.json");
 const mainnet = require("./tokens/mainnet.json");
-const ropsten = require("./tokens/ropsten.json");
-const rinkeby = require("./tokens/rinkeby.json");
 const goerli = require("./tokens/goerli.json");
-const kovan = require("./tokens/kovan.json");
 const polygon = require("./tokens/polygon.json");
 const mumbai = require("./tokens/mumbai.json");
 const optimism = require("./tokens/optimism.json");
@@ -35,10 +32,7 @@ module.exports = function buildList() {
     keywords: ["uniswap", "default"],
     tokens: [
       ...mainnet,
-      ...ropsten,
       ...goerli,
-      ...kovan,
-      ...rinkeby,
       ...polygon,
       ...mumbai,
       ...optimism,
