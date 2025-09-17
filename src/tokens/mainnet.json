@@ -2713,4 +2713,12 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002"
   }
+  {
+    "chainId": 1,
+    "address": "0xC70318bd0659528Dbf672298e385445a534A5B07",
+    "name": "ArmenianToken",
+    "symbol": "ARMT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SBagratyan/token-lists/main/src/tokens/armt-logo.png"
+  }
 ]
