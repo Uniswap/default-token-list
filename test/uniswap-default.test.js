@@ -2,6 +2,7 @@ const packageJson = require('../package.json');
 const schema = require('@uniswap/token-lists/src/tokenlist.schema.json');
 const { expect } = require('chai');
 const { getAddress } = require('@ethersproject/address');
+// bs58 v6 uses ES modules, so we need to access the default export
 const bs58 = require('bs58').default;
 const Ajv = require('ajv');
 const buildList = require('../src/buildList');

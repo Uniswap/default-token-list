@@ -70,9 +70,7 @@ module.exports = async function buildList() {
   // Apply bridge utils to EVM chains only
   const listWithBridgeInfo = await bridgeUtils.chainify(l1List);
   
-  // Add Solana tokens (sorted by symbol)
-  const sortedSolana = [...solana].sort((a, b) => a.symbol.toLowerCase().localeCompare(b.symbol.toLowerCase()));
-  listWithBridgeInfo.tokens.push(...sortedSolana);
+  listWithBridgeInfo.tokens.push(...solana);
   
   // Re-sort all tokens by chainId first, then symbol
   listWithBridgeInfo.tokens.sort((t1, t2) => {
