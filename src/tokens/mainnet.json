@@ -2712,5 +2712,13 @@
     "symbol": "USD1",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94",
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg?1747707741"
   }
 ]
