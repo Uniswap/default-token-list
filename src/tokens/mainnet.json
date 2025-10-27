@@ -2712,5 +2712,13 @@
     "symbol": "USD1",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+    "name": "WalletConnect Token",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464"
   }
 ]
