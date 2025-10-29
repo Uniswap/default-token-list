@@ -30,5 +30,37 @@
         "symbol": "WIF",
         "decimals": 6,
         "logoURI": "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428"
+    },
+    {
+        "chainId": 130,
+        "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+        "name": "Plasma",
+        "symbol": "XPL",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/plasma/info/logo.png"
+    },
+    {
+        "chainId": 130,
+        "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+        "name": "XRP",
+        "symbol": "XRP",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ripple/info/logo.png"
+    },
+    {
+        "chainId": 130,
+        "address": "0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+        "name": "Zcash",
+        "symbol": "ZEC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zcash/info/logo.png"
+    },
+    {
+        "chainId": 130,
+        "address": "0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/5/standard/dogecoin.png?1696501409"
     }
 ]
