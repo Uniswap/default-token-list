@@ -1,6 +1,6 @@
 {
   "name": "@uniswap/default-token-list",
-  "version": "13.47.0",
+  "version": "15.1.0",
   "description": "The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
@@ -36,6 +36,7 @@
     "@uniswap/token-list-bridge-utils": "^2.10.0",
     "@uniswap/token-lists": "^1.0.0-beta.29",
     "ajv": "^6.12.3",
+    "bs58": "^6.0.0",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
     "rimraf": "^3.0.2"

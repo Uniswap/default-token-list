@@ -1,34 +1,66 @@
 [
-    {
-        "chainId": 130,
-        "address": "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
-        "name": "Solana",
-        "symbol": "SOL",
-        "decimals": 9,
-        "logoURI": "https://coin-images.coingecko.com/coins/images/54680/large/base.png?1749023388"
-    },
-    {
-        "chainId": 130,
-        "address": "0xbe51A5e8FA434F09663e8fB4CCe79d0B2381Afad",
-        "name": "Jupiter",
-        "symbol": "JUP",
-        "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/34188/standard/jup.png?1704266489"
-    },
-    {
-        "chainId": 130,
-        "address": "0xBbE97f3522101e5B6976cBf77376047097BA837F",
-        "name": "BONK",
-        "symbol": "BONK",
-        "decimals": 5,
-        "logoURI": "https://assets.coingecko.com/coins/images/28600/standard/bonk.jpg?1696527587"
-    },
-    {
-        "chainId": 130,
-        "address": "0x97Fadb3D000b953360FD011e173F12cDDB5d70Fa",
-        "name": "dogwifhat",
-        "symbol": "WIF",
-        "decimals": 6,
-        "logoURI": "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428"
-    }
+  {
+    "chainId": 130,
+    "address": "0xbdE8A5331E8Ac4831cf8ea9e42e229219EafaB97",
+    "name": "Solana",
+    "symbol": "SOL",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54680/large/base.png?1749023388"
+  },
+  {
+    "chainId": 130,
+    "address": "0xbe51A5e8FA434F09663e8fB4CCe79d0B2381Afad",
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/34188/standard/jup.png?1704266489"
+  },
+  {
+    "chainId": 130,
+    "address": "0xBbE97f3522101e5B6976cBf77376047097BA837F",
+    "name": "BONK",
+    "symbol": "BONK",
+    "decimals": 5,
+    "logoURI": "https://assets.coingecko.com/coins/images/28600/standard/bonk.jpg?1696527587"
+  },
+  {
+    "chainId": 130,
+    "address": "0x97Fadb3D000b953360FD011e173F12cDDB5d70Fa",
+    "name": "dogwifhat",
+    "symbol": "WIF",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428"
+  },
+  {
+    "chainId": 130,
+    "address": "0x139451953Ef1865c096F89C5e522C081DC3b5f11",
+    "name": "Plasma",
+    "symbol": "XPL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/plasma/info/logo.png"
+  },
+  {
+    "chainId": 130,
+    "address": "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+    "name": "XRP",
+    "symbol": "XRP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ripple/info/logo.png"
+  },
+  {
+    "chainId": 130,
+    "address": "0x83f31af747189c2FA9E5DeB253200c505eff6ed2",
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zcash/info/logo.png"
+  },
+  {
+    "chainId": 130,
+    "address": "0x12E96C2BFEA6E835CF8Dd38a5834fa61Cf723736",
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/5/standard/dogecoin.png?1696501409"
+  }
 ]
