@@ -44,6 +44,7 @@ module.exports = async function buildList() {
     ...zksync,
     ...worldchain,
     ...zora,
+    ...unichain,
   ]
     // sort them by symbol for easy readability
     .sort((t1, t2) => {
