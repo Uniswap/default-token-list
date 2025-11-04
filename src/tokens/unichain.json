@@ -62,5 +62,13 @@
     "symbol": "DOGE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/5/standard/dogecoin.png?1696501409"
+  },
+  {
+    "chainId": 130,
+    "address": "0x15D0e0c55a3E7eE67152aD7E89acf164253Ff68d",
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300"
   }
 ]
