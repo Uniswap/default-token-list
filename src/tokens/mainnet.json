@@ -2720,5 +2720,13 @@
     "symbol": "WCT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94",
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg?1747707741"
   }
 ]
