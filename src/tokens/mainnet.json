@@ -2728,5 +2728,13 @@
     "symbol": "CFG",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg?1747707741"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
+    "name": "AUDD",
+    "symbol": "AUDD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
   }
 ]
