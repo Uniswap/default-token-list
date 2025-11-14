@@ -22,5 +22,13 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
+  },
+  {
+    "chainId": 56,
+    "address": "0xAf48B7e315a52518CfBF7d96C455D9dFAD94cB48",
+    "name": "IOSToken",
+    "symbol": "IOST",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2523/standard/IOST.png?1696503337"
   }
 ]
