@@ -374,5 +374,13 @@
     "symbol": "WCT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x449B3317a6d1efb1Bc3ba0700C9EaA4FFFf4Ae65",
+    "name": "Australian Digital Dollar",
+    "symbol": "AUDD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
   }
 ]
