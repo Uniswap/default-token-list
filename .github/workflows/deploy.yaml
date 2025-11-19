@@ -16,11 +16,13 @@ jobs:
       id-token: write
       contents: write
     steps:
+      - uses: bullfrogsec/bullfrog@dcde5841b19b7ef693224207a7fdec67fce604db # v0.8.3
+
       - name: Checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
 
       - name: Setup Node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@f1f314fca9dfce2769ece7d933488f076716723e # v1
         with:
           node-version: "16"
 
@@ -33,19 +35,10 @@ jobs:
       - name: Build list
         run: yarn build
 
-      - name: Load NPM secret
-        uses: 1password/load-secrets-action@581a835fb51b8e7ec56b71cf2ffddd7e68bb25e0
-        with:
-          # Export loaded secrets as environment variables
-          export-env: true
-        env:
-          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_SERVICE_ACCOUNT_TOKEN }}
-          NPM_TOKEN: op://npm-deploy/npm-runner-token/secret 
-
       - name: Publish to NPM
-        uses: JS-DevTools/npm-publish@18351461ae08dde235c0ccee0633ec905f0b9a52
-        with:
-          token: ${{ env.NPM_TOKEN }}
+        run: 
+          npm install -g npm@latest
+          npm publish
 
       - name: Load Web 3 deploy secrets
         uses: 1password/load-secrets-action@d1a4e73495bde3551cf63f6c048588b8f734e21d
