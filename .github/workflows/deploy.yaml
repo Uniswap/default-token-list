@@ -22,9 +22,9 @@ jobs:
         uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v5
 
       - name: Setup Node
-        uses: actions/setup-node@f1f314fca9dfce2769ece7d933488f076716723e # v1
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v5
         with:
-          node-version: "16"
+          node-version: "22"
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
