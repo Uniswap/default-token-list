@@ -36,8 +36,8 @@ jobs:
         run: yarn build
 
       - name: Publish to NPM
-        run: 
-          npm install -g npm@latest
+        run: |
+          npm install -g npm@11.6.3
           npm publish
 
       - name: Load Web 3 deploy secrets
