@@ -2737,4 +2737,12 @@
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
   }
+  {
+    "chainId": 1,
+    "address": "0xC70318bd0659528Dbf672298e385445a534A5B07",
+    "name": "ArmenianToken",
+    "symbol": "ARMT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/SBagratyan/armt-tokenlist/main/0xC70318bd0659528Dbf672298e385445a534A5B07.png"
+  }
 ]
