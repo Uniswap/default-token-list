@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0xea17Df5Cf6D172224892B5477A16ACb111182478",
+    "name": "elizaOS",
+    "symbol": "ELIZAOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38888/large/elizaos.png"
   }
 ]

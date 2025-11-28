@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea17Df5Cf6D172224892B5477A16ACb111182478",
+    "name": "elizaOS",
+    "symbol": "ELIZAOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/38888/large/elizaos.png"
   }
 ]

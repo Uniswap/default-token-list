@@ -336,6 +336,14 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/14962/large/6GxcPRo3_400x400.jpg?1696514622"
   },
   {
+    "name": "elizaOS",
+    "address": "DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA",
+    "symbol": "ELIZAOS",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/38888/large/elizaos.png"
+  },
+  {
     "name": "Eclipse",
     "address": "BqPqrrQuoQXFGGEAEMnPmDgZ6RWQCajWnY3V6Yp4DZWP",
     "symbol": "ES",
