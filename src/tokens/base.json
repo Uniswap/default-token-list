@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+    "name": "Keeta",
+    "symbol": "KTA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54723/large/2025-03-05_22.53.06.jpg?1741234207"
   }
 ]
