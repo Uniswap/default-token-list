@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "name": "Linea",
+    "symbol": "LINEA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68507/large/linea-logo.jpeg?1756025484"
   }
 ]
