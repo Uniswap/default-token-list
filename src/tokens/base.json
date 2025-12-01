@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11dC28D01984079b7efE7763b533e6ed9E3722B9",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144"
   }
 ]
