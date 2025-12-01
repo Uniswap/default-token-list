@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f16e03C1a5908818F47f6EE7bB16690b40D0671",
+    "name": "Recall",
+    "symbol": "RECALL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69994/large/recall-logo.jpeg?1760337415"
   }
 ]
