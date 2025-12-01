@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9Cb41FD9dC6891BAe8187029461bfAADF6CC0C69",
+    "name": "noice",
+    "symbol": "noice",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55981/large/tCtKSYL3_400x400.jpg?1747925133"
   }
 ]
