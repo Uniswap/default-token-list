@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5A9610919f5e81183823A2be4Bd1BeB2B4da2a20",
+    "name": "aPriori",
+    "symbol": "APR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70220/large/logo-icon-Gradient.png?1761118006"
   }
 ]
