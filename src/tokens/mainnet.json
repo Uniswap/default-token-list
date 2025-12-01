@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC9746F73cC33a36c2cD55b8aEFD732586946Cedd",
+    "name": "BOB (Build on Bitcoin)",
+    "symbol": "BOB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54720/large/BOB_symbol_colour.png?1741195397"
   }
 ]
