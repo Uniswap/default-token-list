@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCEDbEA37C8872c4171259Cdfd5255CB8923Cf8e7",
+    "name": "Anoma",
+    "symbol": "XAN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69380/large/Anoma_Logo_Roundel_RGB_Colour-01.png?1758356672"
   }
 ]
