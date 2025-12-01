@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x696F9436B67233384889472Cd7cD58A6fB5DF4f1",
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68972/large/avnt-token.png?1757134448"
   }
 ]
