@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8408D45b61f5823298F19a09B53b7339c0280489",
+    "name": "Allora",
+    "symbol": "ALLO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165"
   }
 ]
