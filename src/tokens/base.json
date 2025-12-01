@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61E030A56D33e8260FdD81f03B162A79Fe3449Cd",
+    "name": "Fluid",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14688/large/Logo_1_(brighter).png?1734430693"
   }
 ]
