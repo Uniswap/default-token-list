@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01791F726B4103694969820be083196cC7c045fF",
+    "name": "Yield Basis",
+    "symbol": "YB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png?1760514173"
   }
 ]
