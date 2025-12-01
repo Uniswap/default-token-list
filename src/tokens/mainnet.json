@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0DB65D17e30a966C2ae6A21f6BBA71cea6e9754",
+    "name": "Lombard",
+    "symbol": "BARD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68404/large/bard.png?1755657543"
   }
 ]
