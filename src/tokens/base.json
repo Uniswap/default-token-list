@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6cd905dF2Ed214b22e0d48FF17CD4200C1C6d8A3",
+    "name": "Intuition",
+    "symbol": "TRUST",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55976/large/intuition_trust.jpg?1747904133"
   }
 ]
