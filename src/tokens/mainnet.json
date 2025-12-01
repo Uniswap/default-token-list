@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654",
+    "name": "Dolomite",
+    "symbol": "DOLO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54710/large/DOLO-small.png?1745398535"
   }
 ]
