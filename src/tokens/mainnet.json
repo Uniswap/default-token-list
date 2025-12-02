@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB5F7b021a78f470d31D762C1DDA05ea549904fbd",
+    "name": "Rayls",
+    "symbol": "RLS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70091/large/cgrLS.png?1760541265"
   }
 ]
