@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x51D7Cb4104991fB7B50dC450FD0dd5096F8fC11F",
+    "name": "Kawasexy",
+    "symbol": "KSX",
+    "decimals": 18,
+    "logoURI": "https://zusd.farm/token_logo.png"
   }
 ]
