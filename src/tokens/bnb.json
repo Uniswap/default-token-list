@@ -22,5 +22,13 @@
     "symbol": "KUJI",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png"
+  },
+  {
+    "chainId": 56,
+    "address": "0x000Ae314E2A2172a039B26378814C252734f556A",
+    "name": "Aster",
+    "symbol": "ASTER",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782"
   }
 ]

@@ -1310,5 +1310,13 @@
     "decimals": 9,
     "chainId": 501000101,
     "logoURI": "https://coin-images.coingecko.com/coins/images/21629/large/solana.jpg?1696520989"
+  },
+  {
+    "name": "Meteora",
+    "address": "METvsvVRapdj9cFLzq4Tr43xK4tAjQfwX76z3n6mWQL",
+    "symbol": "MET",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69110/large/meteora.png?1757517561"
   }
 ]
