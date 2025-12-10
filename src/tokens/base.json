@@ -390,5 +390,13 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png?1745248900"
   }
 ]
