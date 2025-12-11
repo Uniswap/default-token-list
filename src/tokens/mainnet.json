@@ -2736,5 +2736,13 @@
     "symbol": "AUDD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4C1746A800D224393fE2470C70A35717eD4eA5F1",
+    "name": "Plume",
+    "symbol": "PLUME",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935"
   }
 ]
