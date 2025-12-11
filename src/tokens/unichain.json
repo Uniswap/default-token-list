@@ -70,5 +70,13 @@
     "symbol": "HYPE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300"
+  },
+  {
+    "chainId": 130,
+    "address": "0xFdCa15bd55F350a36E63C47661914d80411d2C22",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "decimals": 18,
+    "logoURI": "https://app.uniswap.org/assets/unichain-logo-B-lwXybJ.png"
   }
 ]
