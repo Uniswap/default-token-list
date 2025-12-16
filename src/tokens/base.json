@@ -390,5 +390,69 @@
     "symbol": "UNI",
     "decimals": 18,
     "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x696F9436B67233384889472Cd7cD58A6fB5DF4f1",
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68972/large/avnt-token.png?1757134448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61E030A56D33e8260FdD81f03B162A79Fe3449Cd",
+    "name": "Fluid",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14688/large/Logo_1_(brighter).png?1734430693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e31966d4f81C72D2a55310A6365A56A4393E98D",
+    "name": "World Mobile Token",
+    "symbol": "WMTX",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17333/large/Token_icon_round_1024.png?1741247846"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6cd905dF2Ed214b22e0d48FF17CD4200C1C6d8A3",
+    "name": "Intuition",
+    "symbol": "TRUST",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55976/large/intuition_trust.jpg?1747904133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+    "name": "Keeta",
+    "symbol": "KTA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54723/large/2025-03-05_22.53.06.jpg?1741234207"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f16e03C1a5908818F47f6EE7bB16690b40D0671",
+    "name": "Recall Network",
+    "symbol": "RECALL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69994/large/recall-logo.jpeg?1760337415"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9Cb41FD9dC6891BAe8187029461bfAADF6CC0C69",
+    "name": "Noice",
+    "symbol": "NOICE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55981/large/tCtKSYL3_400x400.jpg?1747925133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11dC28D01984079b7efE7763b533e6ed9E3722B9",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144"
   }
 ]

@@ -2744,5 +2744,101 @@
     "symbol": "PLUME",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654",
+    "name": "Dolomite",
+    "symbol": "DOLO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54710/large/DOLO-small.png?1745398535"
+  },
+  {
+    "chainId": 1,
+    "address": "0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64",
+    "name": "Irys",
+    "symbol": "IRYS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38978.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC9746F73cC33a36c2cD55b8aEFD732586946Cedd",
+    "name": "BOB",
+    "symbol": "BOBBOB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54720/large/BOB_symbol_colour.png?1741195397"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e6F6d696e61decd6605bD4a57836c5DB6923340",
+    "name": "Nomina",
+    "symbol": "NOM",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69687/large/nomina_400x400.jpg?1759312531"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8408D45b61f5823298F19a09B53b7339c0280489",
+    "name": "Allora",
+    "symbol": "ALLO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165"
+  },
+  {
+    "chainId": 1,
+    "address": "0x904567252D8F48555b7447c67dCA23F0372E16be",
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5A9610919f5e81183823A2be4Bd1BeB2B4da2a20",
+    "name": "aPriori",
+    "symbol": "APR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70220/large/logo-icon-Gradient.png?1761118006"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01791F726B4103694969820be083196cC7c045fF",
+    "name": "Yield Basis",
+    "symbol": "YB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png?1760514173"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "name": "Linea",
+    "symbol": "LINEA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68507/large/linea-logo.jpeg?1756025484"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCEDbEA37C8872c4171259Cdfd5255CB8923Cf8e7",
+    "name": "Anoma",
+    "symbol": "XAN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69380/large/Anoma_Logo_Roundel_RGB_Colour-01.png?1758356672"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0DB65D17e30a966C2ae6A21f6BBA71cea6e9754",
+    "name": "Lombard",
+    "symbol": "BARD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68404/large/bard.png?1755657543"
+  },
+  {
+    "chainId": 1,
+    "address": "0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
+    "name": "Boundless",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68462/large/boundless.png?1755826792"
   }
 ]
