@@ -2840,5 +2840,13 @@
     "symbol": "ZKC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/68462/large/boundless.png?1755826792"
+  },
+  {
+    "chainId": 1,
+    "address": "0xafFbe9a60F1F45E057FD9b6DC70004Bb0Ccc8b99",
+    "name": "Theoriq",
+    "symbol": "THQ",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67759/large/thq.jpg?1753757049"
   }
 ]
