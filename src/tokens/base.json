@@ -462,5 +462,13 @@
     "symbol": "HYPER",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png?1745248900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa69f80524381275A7fFdb3AE01c54150644c8792",
+    "name": "Superfluid Token",
+    "symbol": "SUP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68697/large/sup.png?1756287343"
   }
 ]
