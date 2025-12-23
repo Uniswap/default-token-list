@@ -1,0 +1,13 @@
+{
+  "name": "Energy Intelligence Coin",
+  "symbol": "EIC",
+  "chainId": 1,
+  "address": "0x867776d88DfD7061324FD97C8e03fb2DcC29a024",
+  "decimals": 18,
+  "logoURI": "ipfs://bafkreig6vy3sq6wvmzzi7trvli7nmitfqtvdqeukqh3eguyvtoxpehjkwy",
+  "tags": [
+    "defi",
+    "energy",
+    "ai"
+  ]
+}
