@@ -2848,5 +2848,13 @@
     "symbol": "THQ",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67759/large/thq.jpg?1753757049"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1Be424F442D0687129128C6c38aAce44F8c8Dbc",
+    "name": "zkPass",
+    "symbol": "ZKP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70273/large/zkpass.png?1761379373"
   }
 ]
