@@ -4,7 +4,6 @@ on:
     branches:
       - main
   workflow_dispatch: # manual trigger
-  
 jobs:
   deploy:
     name: Deploy
@@ -38,7 +37,13 @@ jobs:
       - name: Publish to NPM
         run: |
           npm install -g npm@11.6.3
-          npm publish
+          PACKAGE_NAME=$(node -p "require('./package.json').name")
+          PACKAGE_VERSION=$(node -p "require('./package.json').version")
+          if npm view "${PACKAGE_NAME}@${PACKAGE_VERSION}" version 2>/dev/null; then
+            echo "Version ${PACKAGE_VERSION} already published, skipping..."
+          else
+            npm publish
+          fi
 
       - name: Load Web 3 deploy secrets
         uses: 1password/load-secrets-action@d1a4e73495bde3551cf63f6c048588b8f734e21d
