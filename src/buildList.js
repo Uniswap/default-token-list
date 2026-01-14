@@ -20,10 +20,11 @@ const zora = require("./tokens/zora.json");
 const solana = require("./tokens/solana.json");
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 const unichain = require("./tokens/unichain.json");
+const xlayer = require("./tokens/xlayer.json");
 
 module.exports = async function buildList() {
   const parsed = version.split(".");
-  
+
   // EVM chains only for bridgeUtils.chainify (which validates Ethereum addresses)
   const evmTokens = [
     ...mainnet,
@@ -45,6 +46,7 @@ module.exports = async function buildList() {
     ...worldchain,
     ...zora,
     ...unichain,
+    ...xlayer,
   ]
     // sort them by symbol for easy readability
     .sort((t1, t2) => {
@@ -53,7 +55,7 @@ module.exports = async function buildList() {
       }
       return t1.chainId < t2.chainId ? -1 : 1;
     });
-  
+
   const l1List = {
     name: "Uniswap Labs Default",
     timestamp: new Date().toISOString(),
@@ -67,12 +69,12 @@ module.exports = async function buildList() {
     keywords: ["uniswap", "default"],
     tokens: evmTokens,
   };
-  
+
   // Apply bridge utils to EVM chains only
   const listWithBridgeInfo = await bridgeUtils.chainify(l1List);
-  
+
   listWithBridgeInfo.tokens.push(...solana);
-  
+
   // Re-sort all tokens by chainId first, then symbol
   listWithBridgeInfo.tokens.sort((t1, t2) => {
     if (t1.chainId === t2.chainId) {
@@ -80,6 +82,6 @@ module.exports = async function buildList() {
     }
     return t1.chainId < t2.chainId ? -1 : 1;
   });
-  
+
   return listWithBridgeInfo;
 };
