@@ -2856,5 +2856,13 @@
     "symbol": "LIT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+  },
+  {
+    "chainId": 1,
+    "address": "0x086F405146Ce90135750Bbec9A063a8B20A8bfFb",
+    "name": "Brevis",
+    "symbol": "BREV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71219/large/brevis.png?1766454723"
   }
 ]
