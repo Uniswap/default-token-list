@@ -470,5 +470,13 @@
     "symbol": "SUP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/68697/large/sup.png?1756287343"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x29cC30f9D113B356Ce408667aa6433589CeCBDcA",
+    "name": "Elsa",
+    "symbol": "ELSA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71623/large/Red_circle_white_logo_512x512_%281%29.png?1768570174"
   }
 ]
