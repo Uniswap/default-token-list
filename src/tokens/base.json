@@ -470,5 +470,13 @@
     "symbol": "SUP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/68697/large/sup.png?1756287343"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x16EE7ecAc70d1028E7712751E2Ee6BA808a7dd92",
+    "name": "Sport.fun",
+    "symbol": "FUN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71076/large/sport-fun-logo.png?1766298060"
   }
 ]
