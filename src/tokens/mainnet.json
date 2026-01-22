@@ -2856,5 +2856,13 @@
     "symbol": "LIT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+  },
+  {
+    "chainId": 1,
+    "address": "0x56A3BA04E95d34268A19b2a4474DC979baBDaf76",
+    "name": "Sentient",
+    "symbol": "SENT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532"
   }
 ]
