@@ -1,0 +1,24 @@
+{
+  "name": "OnePremium List",
+  "timestamp": "2026-01-16T21:30:33.813833",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "OnePremium",
+      "symbol": "OPM",
+      "decimals": 18,
+      "address": "0xe430b07f7b168e77b07b29482dbf89eafa53f484",
+      "chainId": 1,
+      "logoURI": "https://onepremium.de/assets/opm-logo",
+      "website": "https://onepremium.de",
+      "description": "OnePremium (OPM) token",
+      "verified": true,
+      "timestamp": "2026-01-16T21:30:33.805706",
+      "sha256": "8b230aea9493aaa72a8d3530487b1fb59a7ea302d504dce9a242b98b5af6c4c6"
+    }
+  ]
+}
