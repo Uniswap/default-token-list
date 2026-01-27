@@ -1326,5 +1326,21 @@
     "decimals": 6,
     "chainId": 501000101,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70397/large/720oatTU_400x400.jpg?1765007223"
+  },
+  {
+    "name": "FIGHT",
+    "address": "8f62NyJGo7He5uWeveTA2JJQf4xzf8aqxkmzxRQ3mxfU",
+    "symbol": "FIGHT",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/70650/standard/FIGHT_Token_Icon_200x200.png?1762972217"
+  },
+  {
+    "name": "Seeker",
+    "address": "SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3",
+    "symbol": "SKR",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70974/large/seeker-logo.jpg?1764922774"
   }
 ]
