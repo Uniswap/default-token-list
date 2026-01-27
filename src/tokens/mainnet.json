@@ -2859,7 +2859,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xb48c6b24f36307c7a1f2a9281e978a9ef2902ba5",
+    "address": "0xb48c6B24f36307c7A1f2a9281E978a9ef2902BA5",
     "name": "ImmuneFi",
     "symbol": "IMU",
     "decimals": 18,
@@ -2867,7 +2867,7 @@
   },
   {
     "chainId": 1,
-    "address": "0x56a3ba04e95d34268a19b2a4474dc979babdaf76",
+    "address": "0x56A3BA04E95d34268A19b2a4474DC979baBDaf76",
     "name": "Sentient",
     "symbol": "SENT",
     "decimals": 18,
