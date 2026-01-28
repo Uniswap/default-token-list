@@ -13,9 +13,9 @@
       "decimals": 18,
       "address": "0xe430b07f7b168e77b07b29482dbf89eafa53f484",
       "chainId": 1,
-      "logoURI": "https://onepremium.de/assets/opm-logo",
+      "logoURI": "https://raw.githubusercontent.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/main/opm-logo.svg",
       "website": "https://onepremium.de",
-      "description": "OnePremium (OPM) token",
+      "description": "OnePremium (OPM) is an ERC-20 token for decentralized finance and blockchain gaming ecosystems.",
       "verified": true,
       "timestamp": "2026-01-16T21:30:33.805706",
       "sha256": "8b230aea9493aaa72a8d3530487b1fb59a7ea302d504dce9a242b98b5af6c4c6"
