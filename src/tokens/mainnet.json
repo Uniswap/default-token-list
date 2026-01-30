@@ -2872,5 +2872,29 @@
     "symbol": "SENT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532"
+  },
+  {
+    "chainId": 1,
+    "address": "0x086F405146Ce90135750Bbec9A063a8B20A8bfFb",
+    "name": "Brevis",
+    "symbol": "BREV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71219/large/brevis.png?1766454723"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1be424f442d0687129128c6c38aace44f8c8dbc",
+    "name": "zkPass",
+    "symbol": "ZKP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70273/large/zkpass.png?1761379373"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB5F7b021a78f470d31D762C1DDA05ea549904fbd",
+    "name": "Rayls",
+    "symbol": "RLS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70091/large/cgrLS.png?1760541265"
   }
 ]
