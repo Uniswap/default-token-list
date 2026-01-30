@@ -2883,7 +2883,7 @@
   },
   {
     "chainId": 1,
-    "address": "0xe1be424f442d0687129128c6c38aace44f8c8dbc",
+    "address": "0xe1Be424F442D0687129128C6c38aAce44F8c8Dbc",
     "name": "zkPass",
     "symbol": "ZKP",
     "decimals": 18,
