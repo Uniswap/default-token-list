@@ -17,10 +17,45 @@ const blast = require("./tokens/blast.json");
 const zksync = require("./tokens/zksync.json");
 const worldchain = require("./tokens/worldchain.json");
 const zora = require("./tokens/zora.json");
+const solana = require("./tokens/solana.json");
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
+const unichain = require("./tokens/unichain.json");
+const xlayer = require("./tokens/xlayer.json");
 
-module.exports = function buildList() {
+module.exports = async function buildList() {
   const parsed = version.split(".");
+
+  // EVM chains only for bridgeUtils.chainify (which validates Ethereum addresses)
+  const evmTokens = [
+    ...mainnet,
+    ...ropsten,
+    ...goerli,
+    ...kovan,
+    ...rinkeby,
+    ...polygon,
+    ...mumbai,
+    ...optimism,
+    ...celo,
+    ...arbitrum,
+    ...bnb,
+    ...sepolia,
+    ...avalanche,
+    ...base,
+    ...blast,
+    ...zksync,
+    ...worldchain,
+    ...zora,
+    ...unichain,
+    ...xlayer,
+  ]
+    // sort them by symbol for easy readability
+    .sort((t1, t2) => {
+      if (t1.chainId === t2.chainId) {
+        return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
+      }
+      return t1.chainId < t2.chainId ? -1 : 1;
+    });
+
   const l1List = {
     name: "Uniswap Labs Default",
     timestamp: new Date().toISOString(),
@@ -32,33 +67,21 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
     keywords: ["uniswap", "default"],
-    tokens: [
-      ...mainnet,
-      ...ropsten,
-      ...goerli,
-      ...kovan,
-      ...rinkeby,
-      ...polygon,
-      ...mumbai,
-      ...optimism,
-      ...celo,
-      ...arbitrum,
-      ...bnb,
-      ...sepolia,
-      ...avalanche,
-      ...base,
-      ...blast,
-      ...zksync,
-      ...worldchain,
-      ...zora,
-    ]
-      // sort them by symbol for easy readability
-      .sort((t1, t2) => {
-        if (t1.chainId === t2.chainId) {
-          return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
-        }
-        return t1.chainId < t2.chainId ? -1 : 1;
-      }),
+    tokens: evmTokens,
   };
-  return bridgeUtils.chainify(l1List);
+
+  // Apply bridge utils to EVM chains only
+  const listWithBridgeInfo = await bridgeUtils.chainify(l1List);
+
+  listWithBridgeInfo.tokens.push(...solana);
+
+  // Re-sort all tokens by chainId first, then symbol
+  listWithBridgeInfo.tokens.sort((t1, t2) => {
+    if (t1.chainId === t2.chainId) {
+      return t1.symbol.toLowerCase() < t2.symbol.toLowerCase() ? -1 : 1;
+    }
+    return t1.chainId < t2.chainId ? -1 : 1;
+  });
+
+  return listWithBridgeInfo;
 };

@@ -2680,5 +2680,221 @@
     "symbol": "RPL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058"
+  },
+  {
+    "chainId": 1,
+    "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
+    "name": "Treehouse Token",
+    "symbol": "TREE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67664/large/TREE_logo.png?1753601041"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6BEF15D938d4E72056AC92Ea4bDD0D76B1C4ad29",
+    "name": "Succinct",
+    "symbol": "PROVE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d0D000Ee44948FC98c9B98A4FA4921476f08B0d",
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+    "name": "WalletConnect Token",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcccCCCcCCC33D538DBC2EE4fEab0a7A1FF4e8A94",
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg?1747707741"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4cCe605eD955295432958d8951D0B176C10720d5",
+    "name": "AUDD",
+    "symbol": "AUDD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4C1746A800D224393fE2470C70A35717eD4eA5F1",
+    "name": "Plume",
+    "symbol": "PLUME",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53623/large/plume-token.png?1736896935"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0F81001eF0A83ecCE5ccebf63EB302c70a39a654",
+    "name": "Dolomite",
+    "symbol": "DOLO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54710/large/DOLO-small.png?1745398535"
+  },
+  {
+    "chainId": 1,
+    "address": "0x50f41F589aFACa2EF41FDF590FE7b90cD26DEe64",
+    "name": "Irys",
+    "symbol": "IRYS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38978.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xC9746F73cC33a36c2cD55b8aEFD732586946Cedd",
+    "name": "BOB",
+    "symbol": "BOBBOB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54720/large/BOB_symbol_colour.png?1741195397"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6e6F6d696e61decd6605bD4a57836c5DB6923340",
+    "name": "Nomina",
+    "symbol": "NOM",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69687/large/nomina_400x400.jpg?1759312531"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8408D45b61f5823298F19a09B53b7339c0280489",
+    "name": "Allora",
+    "symbol": "ALLO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70609/large/allo-token.png?1763451165"
+  },
+  {
+    "chainId": 1,
+    "address": "0x904567252D8F48555b7447c67dCA23F0372E16be",
+    "name": "Kite",
+    "symbol": "KITE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70426/large/KITE-ICON.png?1762328605"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5A9610919f5e81183823A2be4Bd1BeB2B4da2a20",
+    "name": "aPriori",
+    "symbol": "APR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70220/large/logo-icon-Gradient.png?1761118006"
+  },
+  {
+    "chainId": 1,
+    "address": "0x01791F726B4103694969820be083196cC7c045fF",
+    "name": "Yield Basis",
+    "symbol": "YB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54871/large/yieldbasis_400x400.png?1760514173"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
+    "name": "Linea",
+    "symbol": "LINEA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68507/large/linea-logo.jpeg?1756025484"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCEDbEA37C8872c4171259Cdfd5255CB8923Cf8e7",
+    "name": "Anoma",
+    "symbol": "XAN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69380/large/Anoma_Logo_Roundel_RGB_Colour-01.png?1758356672"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf0DB65D17e30a966C2ae6A21f6BBA71cea6e9754",
+    "name": "Lombard",
+    "symbol": "BARD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68404/large/bard.png?1755657543"
+  },
+  {
+    "chainId": 1,
+    "address": "0x000006c2A22ff4A44ff1f5d0F2ed65F781F55555",
+    "name": "Boundless",
+    "symbol": "ZKC",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68462/large/boundless.png?1755826792"
+  },
+  {
+    "chainId": 1,
+    "address": "0xafFbe9a60F1F45E057FD9b6DC70004Bb0Ccc8b99",
+    "name": "Theoriq",
+    "symbol": "THQ",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67759/large/thq.jpg?1753757049"
+  },
+  {
+    "chainId": 1,
+    "address": "0x232CE3bd40fCd6f80f3d55A522d03f25Df784Ee2",
+    "name": "Lighter",
+    "symbol": "LIT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71121/large/lighter.png?1765888098"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb48c6B24f36307c7A1f2a9281E978a9ef2902BA5",
+    "name": "ImmuneFi",
+    "symbol": "IMU",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39429.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x56A3BA04E95d34268A19b2a4474DC979baBDaf76",
+    "name": "Sentient",
+    "symbol": "SENT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70508/large/SENTIENT-Icon-BlushForce-L.png?1762267532"
+  },
+  {
+    "chainId": 1,
+    "address": "0x086F405146Ce90135750Bbec9A063a8B20A8bfFb",
+    "name": "Brevis",
+    "symbol": "BREV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71219/large/brevis.png?1766454723"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe1Be424F442D0687129128C6c38aAce44F8c8Dbc",
+    "name": "zkPass",
+    "symbol": "ZKP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70273/large/zkpass.png?1761379373"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB5F7b021a78f470d31D762C1DDA05ea549904fbd",
+    "name": "Rayls",
+    "symbol": "RLS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70091/large/cgrLS.png?1760541265"
   }
 ]

@@ -302,5 +302,189 @@
     "symbol": "cbADA",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66647/large/Coinbase_Wrapped_Ada_%28cbADA%29.png?1750129533"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+    "name": "BankrCoin",
+    "symbol": "BNKR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/52626/large/bankr-static.png?1736405365"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFbB75A59193A3525a8825BeBe7D4b56899E2f7e1",
+    "name": "ResearchCoin",
+    "symbol": "RSC",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28146/large/RH_BOTTLE_CLEAN_Aug_2024_1.png?1732742001"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00000000A22C618fd6b4D7E9A335C4B96B189a38",
+    "name": "Towns",
+    "symbol": "TOWNS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55230/large/yImUvwK__400x400.png?1744857671"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf43eB8De897Fbc7F2502483B2Bef7Bb9EA179229",
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/691/large/Horizen2.0-logo_icon-on-yellow_%281%29.png?1751696763"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7300B37DfdfAb110d83290A29DfB31B1740219fE",
+    "name": "Mamo",
+    "symbol": "MAMO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55958/large/Mamo_Circle_200x200_TransBG.png?1748974093"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC729777d0470F30612B1564Fd96E8Dd26f5814E3",
+    "name": "Sapien",
+    "symbol": "SAPIEN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68423/large/logo.png?1755710030"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1B4617734C43F6159F3a70b7E06d883647512778",
+    "name": "AWE Network",
+    "symbol": "AWE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/8713/large/awe-network.jpg?1747816016"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5aB3D4c385B400F3aBB49e80DE2fAF6a88A7B691",
+    "name": "Flock",
+    "symbol": "FLOCK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53178/large/FLock_Token_Logo.png?1735561398"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeF4461891DfB3AC8572cCf7C794664A8DD927945",
+    "name": "WalletConnect Token",
+    "symbol": "WCT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x449B3317a6d1efb1Bc3ba0700C9EaA4FFFf4Ae65",
+    "name": "Australian Digital Dollar",
+    "symbol": "AUDD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33263/large/AUDD-Logo-Blue_512.png?1701319895"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x696F9436B67233384889472Cd7cD58A6fB5DF4f1",
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68972/large/avnt-token.png?1757134448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61E030A56D33e8260FdD81f03B162A79Fe3449Cd",
+    "name": "Fluid",
+    "symbol": "FLUID",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/14688/large/Logo_1_(brighter).png?1734430693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e31966d4f81C72D2a55310A6365A56A4393E98D",
+    "name": "World Mobile Token",
+    "symbol": "WMTX",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17333/large/Token_icon_round_1024.png?1741247846"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6cd905dF2Ed214b22e0d48FF17CD4200C1C6d8A3",
+    "name": "Intuition",
+    "symbol": "TRUST",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55976/large/intuition_trust.jpg?1747904133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc0634090F2Fe6c6d75e61Be2b949464aBB498973",
+    "name": "Keeta",
+    "symbol": "KTA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54723/large/2025-03-05_22.53.06.jpg?1741234207"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1f16e03C1a5908818F47f6EE7bB16690b40D0671",
+    "name": "Recall Network",
+    "symbol": "RECALL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69994/large/recall-logo.jpeg?1760337415"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9Cb41FD9dC6891BAe8187029461bfAADF6CC0C69",
+    "name": "Noice",
+    "symbol": "NOICE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55981/large/tCtKSYL3_400x400.jpg?1747925133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11dC28D01984079b7efE7763b533e6ed9E3722B9",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xC9d23ED2ADB0f551369946BD377f8644cE1ca5c4",
+    "name": "Hyperlane",
+    "symbol": "HYPER",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55298/large/Hyperlane.png?1745248900"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa69f80524381275A7fFdb3AE01c54150644c8792",
+    "name": "Superfluid Token",
+    "symbol": "SUP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68697/large/sup.png?1756287343"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x29cC30f9D113B356Ce408667aa6433589CeCBDcA",
+    "name": "Elsa",
+    "symbol": "ELSA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71623/large/Red_circle_white_logo_512x512_%281%29.png?1768570174"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x16EE7ecAc70d1028E7712751E2Ee6BA808a7dd92",
+    "name": "Sport.fun",
+    "symbol": "FUN1",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71076/large/sport-fun-logo.png?1766298060"
   }
 ]
