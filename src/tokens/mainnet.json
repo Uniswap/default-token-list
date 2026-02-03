@@ -2896,5 +2896,13 @@
     "symbol": "RLS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70091/large/cgrLS.png?1760541265"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdeF1b2D939EdC0E4d35806c59b3166F790175afe",
+    "name": "Infinex",
+    "symbol": "INX",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70868/large/infinex.png?1764322875"
   }
 ]
