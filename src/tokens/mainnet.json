@@ -2896,5 +2896,13 @@
     "symbol": "RLS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70091/large/cgrLS.png?1760541265"
+  },
+  {
+    "chainId": 1,
+    "address": "0x228bEC415adE4b61D7CaF0adf8C91EAc587BA369",
+    "name": "Tria",
+    "symbol": "TRIA",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39382.png"
   }
 ]
