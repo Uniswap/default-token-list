@@ -486,5 +486,13 @@
     "symbol": "FUN1",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71076/large/sport-fun-logo.png?1766298060"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa53887F7e7c1bf5010b8627F1C1ba94fE7a5d6E0",
+    "name": "Rainbow",
+    "symbol": "RNBW",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69445/large/RNBW-200px.png?1770053251"
   }
 ]
