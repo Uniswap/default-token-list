@@ -2905,4 +2905,15 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70681/large/aztec.png?1763091883"
   }
+  {
+    "chainId": 1,
+    "address": "0x2fA39203cb335d08E0Af7731a8B9ae23d5a59449",
+    "name": "$SCRATCH",
+    "symbol": "$SCRATCH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/52943/standard/scratch200trans.png?1734768772"
+  }
+
+
+
 ]
