@@ -2905,4 +2905,12 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70681/large/aztec.png?1763091883"
   }
+  {
+  "chainId": 1,
+  "address": "0xb402525F46e036C727F8b54A862215c3519b7170",
+  "symbol": "MCON",
+  "name": "McConaCoin",
+  "decimals": 18,
+  "logoURI": "https://mcconacoin.com/mcconacoinlogoa.png",
+}
 ]
