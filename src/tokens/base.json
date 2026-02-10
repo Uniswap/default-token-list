@@ -494,5 +494,13 @@
     "symbol": "RNBW",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69445/large/RNBW-200px.png?1770053251"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5b2193fDc451C1f847bE09CA9d13A4Bf60f8c86B",
+    "name": "Superform",
+    "symbol": "UP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70945/large/superform.png?1764747920"
   }
 ]
