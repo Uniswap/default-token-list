@@ -1342,5 +1342,21 @@
     "decimals": 6,
     "chainId": 501000101,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70974/large/seeker-logo.jpg?1764922774"
+  },
+  {
+    "name": "Moonbirds",
+    "address": "G7vQWurMkMMm2dU3iZpXYFTHT9Biio4F4gZCrwFpKNwG",
+    "symbol": "BIRB",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/69732/standard/birb-logo.jpg?1759413928"
+  },
+  {
+    "name": "Doodles",
+    "address": "DvjbEsdca43oQcw2h3HW1CT7N3x5vRcr3QrvTUHnXvgV",
+    "symbol": "DOOD",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/54399/standard/doods.png?1739506481"
   }
 ]

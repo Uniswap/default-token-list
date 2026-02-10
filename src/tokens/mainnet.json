@@ -2904,5 +2904,29 @@
     "symbol": "AZTEC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70681/large/aztec.png?1763091883"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdeF1b2D939EdC0E4d35806c59b3166F790175afe",
+    "name": "Infinex",
+    "symbol": "INX",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70868/large/infinex.png?1764322875"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA12CC123ba206d4031D1c7f6223D1C2Ec249f4f3",
+    "name": "Zama",
+    "symbol": "ZAMA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70921/large/zama.png?1764591992"
+  },
+  {
+    "chainId": 1,
+    "address": "0x228bEC415adE4b61D7CaF0adf8C91EAc587BA369",
+    "name": "Tria",
+    "symbol": "TRIA",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39382.png"
   }
 ]
