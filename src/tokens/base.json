@@ -494,5 +494,13 @@
     "symbol": "RNBW",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69445/large/RNBW-200px.png?1770053251"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1aA8fD5BCce2231C6100d55Bf8B377cff33Acfc3",
+    "name": "RaveDAO",
+    "symbol": "RAVE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70544/large/coin.jpeg?1762452940"
   }
 ]
