@@ -2928,5 +2928,13 @@
     "symbol": "TRIA",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39382.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x031De51F3E8016514Bd0963d0B2AB825A591Db9A",
+    "name": "Espresso",
+    "symbol": "ESP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg?1753324525"
   }
 ]
