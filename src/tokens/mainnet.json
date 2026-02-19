@@ -2936,5 +2936,21 @@
     "symbol": "ESP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg?1753324525"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7C135549504245B5eAe64fc0E99Fa5ebabb8e35D",
+    "name": "Fidelity Digital Dollar",
+    "symbol": "FIDD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102171776/large/FIDD-Green_%28792px%29.png?1769612802"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68749665FF8D2d112Fa859AA293F07A622782F38",
+    "name": "Tether Gold",
+    "symbol": "XAUT",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471"
   }
 ]
