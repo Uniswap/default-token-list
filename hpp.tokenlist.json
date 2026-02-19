@@ -1,0 +1,38 @@
+{
+  "name": "HPP Token List",
+  "timestamp": "2026-02-19T05:46:59.965Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://asset.hpp.io/svg/HPP_ticker_black.svg",
+  "keywords": ["hpp", "housepartyprotocol"],
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 190415,
+      "address": "0xB48334E7938367bC24Fe1F19000D6f06C622E6c7",
+      "name": "HousePartyProtocol",
+      "symbol": "HPP",
+      "decimals": 18,
+      "logoURI": "https://asset.hpp.io/svg/HPP_ticker_black.svg"
+    },
+    {
+      "chainId": 190415,
+      "address": "0x82553CDA0bEd9262a879F9F7524cd20288B357AA",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 190415,
+      "address": "0x401eCb1D350407f13ba348573E5630B83638E30D",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+  ]
+}
