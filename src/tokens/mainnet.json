@@ -2936,5 +2936,13 @@
     "symbol": "ESP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg?1753324525"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe33fbE7584EB79e2673abe576B7AC8C0De62565c",
+    "name": "HousePartyProtocol",
+    "symbol": "HPP",
+    "decimals": 18,
+    "logoURI": "https://asset.hpp.io/svg/HPP_ticker_black.svg"
   }
 ]
