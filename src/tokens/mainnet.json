@@ -2936,5 +2936,13 @@
     "symbol": "ESP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67626/large/espresso.jpg?1753324525"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7C135549504245B5eAe64fc0E99Fa5ebabb8e35D",
+    "name": "Fidelity Digital Dollar",
+    "symbol": "FIDD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102171776/large/FIDD-Green_%28792px%29.png?1769612802"
   }
 ]
