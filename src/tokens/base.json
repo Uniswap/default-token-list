@@ -511,4 +511,12 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70945/large/superform.png?1764747920"
   }
+  {
+    "chainId": 8453,
+    "address": "0xc1c37473079884CbFCf4905a97de361FEd414B2B",
+    "name": "Satori",
+    "symbol": "SATORI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/51759/large/Satori_Network.png?1731928110"
+  }
 ]
