@@ -2952,5 +2952,13 @@
     "symbol": "XAUT",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32b4d049fE4c888D2b92eEcaf729F44DF6B1F36E",
+    "name": "ROBO Token",
+    "symbol": "ROBO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172005/large/ROBO.png?1770925648"
   }
 ]
