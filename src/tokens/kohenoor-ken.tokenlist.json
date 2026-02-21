@@ -1,0 +1,24 @@
+{
+  "name": "Kohenoor Token List",
+  "timestamp": "2026-02-03T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tags": {
+    "official": {
+      "name": "Official",
+      "description": "Official Kohenoor ecosystem assets."
+    }
+  },
+  "logoURI": "https://raw.githubusercontent.com/ABK786/kohenoorken/b4000f4e02c62ae29366759630aafa8e4f48c37e/logo.png",
+  "keywords": ["kohenoor", "ken", "defi", "education", "ai"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5f602133653237f362eb69826ba8237f4f7ab0c3",
+      "name": "Kohenoor KEN",
+      "symbol": "KEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ABK786/kohenoorken/b4000f4e02c62ae29366759630aafa8e4f48c37e/logo.png",
+      "tags": ["official"]
+    }
+  ]
+}
