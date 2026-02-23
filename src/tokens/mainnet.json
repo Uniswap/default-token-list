@@ -1949,6 +1949,14 @@
     "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png"
   },
   {
+    "name": "Ethix",
+    "address": "0xFd09911130e6930Bf87F2B0554c44F400bD80D3e",
+    "symbol": "ETHIX",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1622195164"
+  {
+  },
     "chainId": 1,
     "address": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
     "name": "Pepe",
