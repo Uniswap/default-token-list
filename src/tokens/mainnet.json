@@ -2961,4 +2961,33 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172005/large/ROBO.png?1770925648"
   }
-]
+]{
+  "chainId": 1,
+  "address": "0x577796d0716a803d33a2aab7992606ef39e3a6dd",
+  "name": "Gospel Coin",
+  "symbol": "GOSPEL",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/yourusername/token-images/main/gospel_coin.png"
+}
+{
+  "name": "Gospel Coin",
+  "logoURI": "https://raw.githubusercontent.com/sye8118/token-images/main/Gospel_Coin_256x256.png",
+  "keywords": ["Gospel", "Coin", "Meme"],
+  "timestamp": "2024-06-11T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xYourTokenContractAddress",
+      "name": "Gospel Coin",
+      "symbol": "GSC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sye8118/token-images/main/Gospel_Coin_256x256.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+
