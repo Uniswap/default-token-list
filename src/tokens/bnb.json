@@ -30,5 +30,13 @@
     "symbol": "ASTER",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69040/large/_ASTER.png?1757326782"
+  },
+  {
+    "chainId": 56,
+    "address": "0x30117E4bC17d7B044194b76A38365C53b72F7D49",
+    "name": "ETHGas",
+    "symbol": "GWEI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71375/large/ethgas_token_200.png?1769055039"
   }
 ]
