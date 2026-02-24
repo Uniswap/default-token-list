@@ -2960,5 +2960,13 @@
     "symbol": "ROBO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172005/large/ROBO.png?1770925648"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2798b1cC5A993085E8A9D46e80499F1B63f42204",
+    "name": "ETHGas",
+    "symbol": "GWEI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71375/large/ethgas_token_200.png?1769055039"
   }
 ]
