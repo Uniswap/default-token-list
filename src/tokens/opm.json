@@ -1,0 +1,14 @@
+{
+  "name": "OnePremium (OPM) Token",
+  "address": "0xe430b07f7b168e77b07b29482dbf89eafa53f484",
+  "symbol": "OPM",
+  "decimals": 18,
+  "chainId": 1,
+  "logoURI": "https://onepremium.de/images/opm-logo-200.png",
+  "tags": ["governance", "defi"],
+  "website": "https://onepremium.de",
+  "explorer": "https://etherscan.io/token/0xe430b07f7b168e77b07b29482dbf89eafa53f484",
+  "uniswapV2Pair": "0xa030f95704bace944f22ec84b49e06c42772e625",
+  "uniswapV3Pool": "0xa45a0bbdff32eacddcced7fe56a717d42f0b0551",
+  "geckoterminal": "https://www.geckoterminal.com/de/eth/pools/0xa45a0bbdff32eacddcced7fe56a717d42f0b0551"
+}
