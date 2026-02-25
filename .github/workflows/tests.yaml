@@ -1,13 +1,17 @@
 name: Tests
 on: [push, pull_request]
+permissions: {}
+
 jobs:
   test:
     runs-on: ubuntu-latest
     name: Unit Tests
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2
+        with:
+          persist-credentials: false
       - name: Setup node
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@f1f314fca9dfce2769ece7d933488f076716723e # v1
         with:
           node-version: 16
       - run: yarn install --frozen-lockfile
