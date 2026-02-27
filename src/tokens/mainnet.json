@@ -1999,6 +1999,9 @@
     "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
     "extensions": {
       "bridgeInfo": {
+        "56": {
+          "tokenAddress": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89"
+        },
         "137": {
           "tokenAddress": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4"
         },
@@ -2007,9 +2010,6 @@
         },
         "43114": {
           "tokenAddress": "0xAEC8318a9a59bAEb39861d10ff6C7f7bf1F96C57"
-        },
-        "56": {
-          "tokenAddress": "0x12f31B73D812C6Bb0d735a218c086d44D5fe5f89"
         }
       }
     }
@@ -2184,11 +2184,11 @@
         "10": {
           "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
         },
-        "42161": {
-          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
-        },
         "56": {
           "tokenAddress": "0x073690e6CE25bE816E68F32dCA3e11067c9FB5Cc"
+        },
+        "42161": {
+          "tokenAddress": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca"
         }
       }
     }
@@ -2960,5 +2960,16 @@
     "symbol": "ROBO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172005/large/ROBO.png?1770925648"
+  },
+  {
+    "name": "Flash USDT",
+    "address": "0x419ecA43dB68E868E68d1aB460c8AC32523c7540",
+    "symbol": "FUSDT",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/jlainbr-prog/mschine/main/blockchains/ethereum/assets/0x419ecA43dB68E868E68d1aB460c8AC32523c7540/logo.png",
+    "tags": [
+      "stablecoin"
+    ]
   }
 ]
