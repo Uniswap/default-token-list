@@ -2698,6 +2698,15 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/67905/large/succinct-logo.png?1754228574"
   },
   {
+
+  "chainId": 1,
+  "address": "0x4e072E18387FDc4C5768b0a99d5FABc5a28F7296",
+  "name": "XCOIN",
+  "symbol": "XTH",
+  "decimals": 18,
+  "logoURI": "https://xcoineth.com/LogoXoin.svg"
+},
+ {
     "chainId": 1,
     "address": "0xdA5e1988097297dCdc1f90D4dFE7909e847CBeF6",
     "name": "World Liberty Financial",
@@ -2969,4 +2978,5 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71375/large/ethgas_token_200.png?1769055039"
   }
+
 ]
