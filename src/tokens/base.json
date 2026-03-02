@@ -510,5 +510,13 @@
     "symbol": "UP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70945/large/superform.png?1764747920"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB38266e0e9D9681b77aEB0A280E98131b953F865",
+    "name": "DOVU",
+    "symbol": "DOVU",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31930/large/Dovu_Icon_Black_%281%29.png?1696530738"
   }
 ]

@@ -1358,5 +1358,13 @@
     "decimals": 9,
     "chainId": 501000101,
     "logoURI": "https://assets.coingecko.com/coins/images/54399/standard/doods.png?1739506481"
+  },
+  {
+    "name": "WAR",
+    "address": "8opvqaWysX1oYbXuTL8PHaoaTiXD69VFYAX4smPebonk",
+    "symbol": "WAR",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71796/large/war.png?1769676733"
   }
 ]

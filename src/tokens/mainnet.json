@@ -2968,5 +2968,13 @@
     "symbol": "GWEI",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71375/large/ethgas_token_200.png?1769055039"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2aeAbde1aB736c59E9A19BeD67681869eEF39526",
+    "name": "DOVU",
+    "symbol": "DOVU",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31930/large/Dovu_Icon_Black_%281%29.png?1696530738"
   }
 ]
