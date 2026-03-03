@@ -78,5 +78,13 @@
     "symbol": "SQD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/37869/standard/New_Logo_SQD_Icon.png?1720048443"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x68731d6F14B827bBCfFbEBb62b19Daa18de1d79c",
+    "name": "idOS Token",
+    "symbol": "IDOS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39596.png"
   }
 ]
