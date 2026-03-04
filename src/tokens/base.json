@@ -518,5 +518,13 @@
     "symbol": "DOVU",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31930/large/Dovu_Icon_Black_%281%29.png?1696530738"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9EadbE35F3Ee3bF3e28180070C429298a1b02F93",
+    "name": "Limitless",
+    "symbol": "LMTS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69506/large/limitless.png?1758786338"
   }
 ]
