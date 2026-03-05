@@ -310,5 +310,13 @@
     "symbol": "VANRY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+  {
+    "chainId": 137,
+    "address": "0xD8a00Eca878A753Ee314A4F46C1272E1f4e2E794",
+    "name": "Beta Cets Token",
+    "symbol": "BETA",
+    "decimals": 18,
+    "logoURI": "https://aicertswpcdn.blob.core.windows.net/certs365-live/main_issues/1770308657767_logo.svg"
   }
 ]
