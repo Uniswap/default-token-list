@@ -2984,5 +2984,13 @@
     "symbol": "WBT",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+  },
+  {
+    "chainId": 1,
+    "address": "0xec53bF9167f50cDEB3Ae105f56099aaaB9061F83",
+    "name": "EigenLayer",
+    "symbol": "EIGEN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37441/large/eigencloud.jpg?1751003565"
   }
 ]
