@@ -2984,5 +2984,13 @@
     "symbol": "WBT",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
+    "name": "Creditcoin",
+    "symbol": "CTC",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
   }
 ]
