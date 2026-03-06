@@ -2984,5 +2984,13 @@
     "symbol": "WBT",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+  },
+  {
+    "chainId": 1,
+    "address": "0x30a25CC9c9EADe4D4d9e9349BE6e68c3411367D3",
+    "name": "Portal to Bitcoin",
+    "symbol": "PTB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68774/large/portal.png?1756547114"
   }
 ]
