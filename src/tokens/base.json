@@ -526,5 +526,13 @@
     "symbol": "LMTS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69506/large/limitless.png?1758786338"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x09bE1692ca16e06f536F0038fF11D1dA8524aDB1",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/1899/large/tel.png?1696502892"
   }
 ]
