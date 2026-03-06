@@ -2984,5 +2984,13 @@
     "symbol": "WBT",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8B1484d57abBE239bB280661377363b03c89CaEa",
+    "name": "ADI",
+    "symbol": "ADI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68846/large/ADI_Token-min.png?1765296433"
   }
 ]
