@@ -2984,5 +2984,13 @@
     "symbol": "WBT",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd8A271974E8EdAE9D7b58e3370dc1669427503F4",
+    "name": "Fluent",
+    "symbol": "BLEND",
+    "decimals": 18,
+    "logoURI": ""
   }
 ]
