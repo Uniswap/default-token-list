@@ -7,12 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     name: Unit Tests
     steps:
-      - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2
+      - uses: actions/checkout@93cb6efe18208431cddfb8368fd83d5badbf9bfd # v4
         with:
           persist-credentials: false
       - name: Setup node
-        uses: actions/setup-node@f1f314fca9dfce2769ece7d933488f076716723e # v1
+        uses: actions/setup-node@a0853c24544627f65ddf259abe73b1d18a591444 # v4
         with:
-          node-version: 16
+          node-version: "22"
       - run: yarn install --frozen-lockfile
       - run: yarn test
