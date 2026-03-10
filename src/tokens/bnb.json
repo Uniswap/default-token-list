@@ -38,5 +38,13 @@
     "symbol": "GWEI",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71375/large/ethgas_token_200.png?1769055039"
+  },
+  {
+    "chainId": 56,
+    "address": "0x7977BF3e7e0c954D12cdcA3E013ADAf57E0B06E0",
+    "name": "OPINION",
+    "symbol": "OPN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102171893/thumb/Opinon.jpg?1770269253"
   }
 ]

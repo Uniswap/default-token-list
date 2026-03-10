@@ -2984,5 +2984,44 @@
     "symbol": "WBT",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd8A271974E8EdAE9D7b58e3370dc1669427503F4",
+    "name": "Fluent",
+    "symbol": "BLEND",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x30a25CC9c9EADe4D4d9e9349BE6e68c3411367D3",
+    "name": "Portal to Bitcoin",
+    "symbol": "PTB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68774/large/portal.png?1756547114"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8B1484d57abBE239bB280661377363b03c89CaEa",
+    "name": "ADI",
+    "symbol": "ADI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68846/large/ADI_Token-min.png?1765296433"
+  },
+  {
+    "chainId": 1,
+    "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/1899/large/tel.png?1696502892"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa3EE21C306A700E682AbCdfe9BaA6A08F3820419",
+    "name": "Creditcoin",
+    "symbol": "CTC",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
   }
 ]

@@ -526,5 +526,21 @@
     "symbol": "LMTS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69506/large/limitless.png?1758786338"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x09bE1692ca16e06f536F0038fF11D1dA8524aDB1",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/1899/large/tel.png?1696502892"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFdCa15bd55F350a36E63C47661914d80411d2C22",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
   }
 ]
