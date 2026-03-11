@@ -3023,5 +3023,13 @@
     "symbol": "CTC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6C28f8caB28121eD757EdB36201511aA18Cdd187",
+    "name": "Fractal Bitcoin",
+    "symbol": "FB",
+    "decimals": 8,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/32941.png"
   }
 ]
