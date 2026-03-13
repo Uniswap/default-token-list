@@ -3023,5 +3023,13 @@
     "symbol": "CTC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb1110919016846972056AB995054D65560D5f05E",
+    "name": "Billions Network Token",
+    "symbol": "BILL",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39545.png"
   }
 ]
