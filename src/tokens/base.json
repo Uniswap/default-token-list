@@ -542,5 +542,13 @@
     "symbol": "TAO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
-  }
+  },
+  {
+  "chainId": 8453,
+  "address": "0x264d88c6Dc8eB35880d9548626510650e6DFDc85",
+  "symbol": "TEA",
+  "name": "Tea",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/abcmath30-ship-it/tea/refs/heads/main/TEA%20Logo.png"
+} 
 ]
