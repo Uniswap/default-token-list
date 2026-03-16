@@ -543,4 +543,12 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
   }
+    {
+    "chainId": 8453,
+    "address": "0xf83cde146AC35E99dd61b6448f7aD9a4534133cc",
+    "name": "EBERT",
+    "symbol": "EBERT",
+    "decimals": 18,
+    "logoURI": "https://basescan.org/token/images/whoisebert_32.png"
+  }
 ]
