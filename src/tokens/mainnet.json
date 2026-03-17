@@ -3023,5 +3023,13 @@
     "symbol": "CTC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+    "name": "mETH Protocol",
+    "symbol": "COOK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50969/large/Logomark-Gradient_Official.png?1729620221"
   }
 ]
