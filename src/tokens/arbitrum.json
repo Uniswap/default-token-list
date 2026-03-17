@@ -86,5 +86,13 @@
     "symbol": "IDOS",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39596.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x25118290e6A5f4139381D072181157035864099d",
+    "name": "Rain",
+    "symbol": "RAIN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69134/large/Rain_logo_1_.png?1762952191"
   }
 ]
