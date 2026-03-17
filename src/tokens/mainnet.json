@@ -3023,5 +3023,13 @@
     "symbol": "CTC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6055Dc6Ff1077eebe5e6D2BA1a1f53d7Ef8430dE",
+    "name": "Eclipse",
+    "symbol": "ES",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54958/large/image_%2832%29.png?1742979704"
   }
 ]
