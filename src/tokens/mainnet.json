@@ -3023,5 +3023,13 @@
     "symbol": "CTC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfb072b42907dA2Bf7A8E8cB5dCAa790D45Fd81a8",
+    "name": "Sidekick",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67966/large/kick.jpg?1754450296"
   }
 ]
