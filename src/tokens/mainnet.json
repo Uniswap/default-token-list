@@ -3023,5 +3023,13 @@
     "symbol": "CTC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB0076DE78Dc50581770BBa1D211dDc0aD4F2a241",
+    "name": "Edge",
+    "symbol": "EDGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/markets/images/11726/large/Logo_White_-_Black_BG.png?1727920571"
   }
 ]
