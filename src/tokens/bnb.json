@@ -46,5 +46,29 @@
     "symbol": "OPN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102171893/thumb/Opinon.jpg?1770269253"
+  },
+  {
+    "chainId": 56,
+    "address": "0xd55C9fB62E176a8Eb6968f32958FeFDD0962727E",
+    "name": "Mind Network",
+    "symbol": "FHE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55161/large/mind.jpg?1744276359"
+  },
+  {
+    "chainId": 56,
+    "address": "0x0A73d885CdD66adF69c6D64c0609e55C527dB2BE",
+    "name": "Sidekick",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67966/large/kick.jpg?1754450296"
+  },
+  {
+    "chainId": 56,
+    "address": "0xf486ad071f3bEE968384D2E39e2D8aF0fCf6fd46",
+    "name": "Velo",
+    "symbol": "VELO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/12538/large/Logo_200x_200.png?1696512350"
   }
 ]
