@@ -550,5 +550,13 @@
     "symbol": "KAT",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38769.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE0Cd4cAcDdcBF4f36e845407CE53E87717b6601d",
+    "name": "Impossible Cloud Network Token",
+    "symbol": "ICNT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55484/large/ICNT_token_%281%29_%281%29.png?1751614146"
   }
 ]
