@@ -550,5 +550,13 @@
     "symbol": "KAT",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38769.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD67EC255100Ef200A439D09FF865fbAA2Ad9C730",
+    "name": "Scor",
+    "symbol": "SCOR",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71138/large/Scor_logo.jpg?1765957578"
   }
 ]
