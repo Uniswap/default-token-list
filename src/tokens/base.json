@@ -542,5 +542,13 @@
     "symbol": "TAO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+    "name": "Katana",
+    "symbol": "KAT",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38769.png"
   }
 ]
