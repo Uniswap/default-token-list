@@ -3071,5 +3071,13 @@
     "symbol": "EDGEX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/markets/images/11726/large/Logo_White_-_Black_BG.png?1727920571"
+  },
+  {
+    "name": "Wrapped Qubitcoin",
+    "address": "0xB7c8783dDfb7f72b2C27AFBDFFD2B0206046Fa67",
+    "symbol": "wQBC",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://qbc.network/qbc-logo.png"
   }
 ]
