@@ -3071,5 +3071,13 @@
     "symbol": "EDGEX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/markets/images/11726/large/Logo_White_-_Black_BG.png?1727920571"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63C65e1c96ee3014FbaFef20Ec9890b95A5754c1",
+    "name": "TetherUSD",
+    "symbol": "TUSDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/hafizahmadiftikhar/assets/master/blockchains/ethereum/assets/0x63C65e1c96ee3014FbaFef20Ec9890b95A5754c1/logo.png"
   }
 ]
