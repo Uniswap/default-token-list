@@ -3071,5 +3071,13 @@
     "symbol": "EDGEX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/markets/images/11726/large/Logo_White_-_Black_BG.png?1727920571"
+  },
+  {
+    "chainId": 1,
+    "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55303/large/sign.jpg?1745303393"
   }
 ]
