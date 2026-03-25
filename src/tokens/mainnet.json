@@ -3071,5 +3071,13 @@
     "symbol": "EDGEX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/markets/images/11726/large/Logo_White_-_Black_BG.png?1727920571"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8e4cbBcc33dB6c0a18561fDE1F6bA35906d4848b",
+    "name": "MEZO",
+    "symbol": "MEZO",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39727.png"
   }
 ]
