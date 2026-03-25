@@ -550,5 +550,13 @@
     "symbol": "KAT",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38769.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x868FCEd65edBF0056c4163515dD840e9f287A4c3",
+    "name": "Sign",
+    "symbol": "SIGN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55303/large/sign.jpg?1745303393"
   }
 ]
