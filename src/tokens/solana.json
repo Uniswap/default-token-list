@@ -1374,5 +1374,13 @@
     "decimals": 8,
     "chainId": 501000101,
     "logoURI": "https://assets.coingecko.com/coins/images/102172470/standard/Symbol_-_Mango_%281%29.png?1773500485"
+  },
+  {
+    "name": "Mezo",
+    "address": "8niMFW4yuv3vLoqTtBaC6rchyasmUhgvpgSyPEeeCrw6",
+    "symbol": "MEZO",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39727.png"
   }
 ]
