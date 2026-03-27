@@ -1,0 +1,599 @@
+# Reusable workflow for processing a single Linear task with Claude Code
+#
+# This workflow is called by claude-auto-tasks.yml for each issue in the matrix.
+# It creates a branch, runs Claude Code to implement the task, creates a PR,
+# and updates the Linear issue status.
+#
+# Adapted for the default-token-list repo:
+# - Uses yarn instead of npm for dependencies
+# - Prompt template tailored for token list additions/removals
+# - QA runs yarn test + EIP-55 checksum validation
+# - Version bumps via npm version minor/major
+# - Shorter timeout (30 min) since tasks are simple
+#
+# SECRETS REQUIRED:
+# - ANTHROPIC_API_KEY: Claude API key (required unless CLAUDE_CODE_OAUTH_TOKEN is set)
+# - CLAUDE_CODE_OAUTH_TOKEN: (optional) OAuth token for Claude Code
+# - LINEAR_API_KEY: Linear API key for issue updates
+# - WORKFLOW_PAT: (optional) PAT for pushing branches
+
+name: "[claude] Task Worker"
+
+on:
+  workflow_call:
+    inputs:
+      issue_id:
+        description: "Linear issue ID (UUID)"
+        required: true
+        type: string
+
+      issue_identifier:
+        description: "Linear issue identifier (e.g., CONS-1234)"
+        required: true
+        type: string
+
+      issue_title:
+        description: "Issue title"
+        required: true
+        type: string
+
+      issue_description:
+        description: "Full issue description (markdown)"
+        required: true
+        type: string
+
+      issue_url:
+        description: "Linear issue URL"
+        required: true
+        type: string
+
+      branch_name:
+        description: "Branch name to create (e.g., claude/cons-1234-add-token)"
+        required: true
+        type: string
+
+      target_branch:
+        description: "Branch to create PR against"
+        required: false
+        type: string
+        default: "main"
+
+      model:
+        description: |
+          Claude model to use.
+          Options: claude-sonnet-4-6, claude-opus-4-6, claude-haiku-4-5
+        required: false
+        type: string
+        default: "claude-opus-4-6"
+
+      timeout_minutes:
+        description: "Maximum execution time in minutes"
+        required: false
+        type: number
+        default: 30
+
+      linear_task_utils_tag:
+        description: "npm tag for @uniswap/ai-toolkit-linear-task-utils (latest or next)"
+        required: false
+        type: string
+        default: "latest"
+
+      debug_mode:
+        description: "Enable full Claude Code output for debugging (shows Claude's reasoning)"
+        required: false
+        type: boolean
+        default: true
+
+      pr_type:
+        description: "Type of PR to create: 'draft' or 'published'"
+        required: false
+        type: string
+        default: "published"
+
+      toolkit_ref:
+        description: "Git ref of ai-toolkit to use for downloading the validate-claude-auth action."
+        required: false
+        type: string
+        default: "main"
+
+    secrets:
+      ANTHROPIC_API_KEY:
+        description: "Anthropic API key for Claude Code (required unless CLAUDE_CODE_OAUTH_TOKEN is set)"
+        required: false
+
+      CLAUDE_CODE_OAUTH_TOKEN:
+        description: "OAuth token for Claude Code (alternative to ANTHROPIC_API_KEY)"
+        required: false
+
+      LINEAR_API_KEY:
+        description: "Linear API key for issue updates"
+        required: true
+
+      WORKFLOW_PAT:
+        description: "PAT for pushing branches (optional, falls back to GITHUB_TOKEN)"
+        required: false
+
+jobs:
+  process-task:
+    runs-on: ubuntu-latest
+    timeout-minutes: ${{ inputs.timeout_minutes }}
+
+    # Permissions for Claude Code and PR creation
+    permissions:
+      id-token: write
+      contents: write
+      pull-requests: write
+      issues: write
+      actions: read
+
+    steps:
+      # Security scanning
+      - name: Security scanning
+        uses: bullfrogsec/bullfrog@1831f79cce8ad602eef14d2163873f27081ebfb3 # v0.8.4
+        with:
+          egress-policy: audit
+
+      # Checkout the target branch
+      - name: Checkout repository
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          ref: ${{ inputs.target_branch }}
+          fetch-depth: 50
+          token: ${{ secrets.WORKFLOW_PAT || github.token }}
+          persist-credentials: false
+
+      - name: Configure git credentials for push
+        env:
+          GITHUB_TOKEN: ${{ secrets.WORKFLOW_PAT || github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+
+      # Download validate-claude-auth action from ai-toolkit
+      - name: Ensure validate-claude-auth action exists
+        env:
+          TOOLKIT_REF: ${{ inputs.toolkit_ref }}
+        run: |
+          ACTION_FILE=".github/actions/validate-claude-auth/action.yml"
+
+          if [ -f "$ACTION_FILE" ]; then
+            echo "Using local validate-claude-auth action"
+          else
+            echo "Downloading validate-claude-auth action from ai-toolkit@${TOOLKIT_REF}..."
+            mkdir -p .github/actions/validate-claude-auth
+
+            if ! curl -fSs --max-time 30 --max-redirs 3 \
+                      -H "Accept: application/vnd.github.v4.raw" \
+                      -L "https://api.github.com/repos/Uniswap/ai-toolkit/contents/.github/actions/validate-claude-auth/action.yml?ref=${TOOLKIT_REF}" \
+                      -o "$ACTION_FILE" 2>&1 | tee /tmp/curl-error.log; then
+              echo "::error::Failed to download validate-claude-auth action from ai-toolkit@${TOOLKIT_REF}"
+              cat /tmp/curl-error.log
+              exit 1
+            fi
+
+            if [ ! -s "$ACTION_FILE" ]; then
+              echo "::error::Downloaded action.yml is empty"
+              exit 1
+            fi
+
+            if ! grep -q "^runs:" "$ACTION_FILE"; then
+              echo "::error::Downloaded action.yml is invalid (missing 'runs:' section)"
+              cat "$ACTION_FILE"
+              exit 1
+            fi
+
+            echo "Successfully downloaded validate-claude-auth action from ai-toolkit@${TOOLKIT_REF}"
+          fi
+
+      - name: Validate authentication
+        uses: ./.github/actions/validate-claude-auth
+        with:
+          anthropic-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+
+      # Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@2028fbc5c25fe9cf00d9f06a71cc4710d4507903 # v6.0.0
+        with:
+          node-version: "22.21.1"
+
+      # Install dependencies with yarn
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      # Create and push the feature branch
+      - name: Create feature branch
+        id: create-branch
+        env:
+          BRANCH_NAME: ${{ inputs.branch_name }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Check if branch already exists remotely
+          if git ls-remote --exit-code --heads origin "$BRANCH_NAME" > /dev/null 2>&1; then
+            echo "Branch $BRANCH_NAME already exists, checking out"
+            git fetch origin "$BRANCH_NAME"
+            git checkout "$BRANCH_NAME"
+            echo "branch_created=false" >> $GITHUB_OUTPUT
+          else
+            echo "Creating new branch $BRANCH_NAME"
+            git checkout -b "$BRANCH_NAME"
+            git push -u origin "$BRANCH_NAME"
+            echo "branch_created=true" >> $GITHUB_OUTPUT
+          fi
+
+      # Build the prompt from template
+      - name: Build prompt
+        id: build-prompt
+        env:
+          INPUT_ISSUE_IDENTIFIER: ${{ inputs.issue_identifier }}
+          INPUT_ISSUE_TITLE: ${{ inputs.issue_title }}
+          INPUT_ISSUE_URL: ${{ inputs.issue_url }}
+          INPUT_BRANCH_NAME: ${{ inputs.branch_name }}
+          INPUT_TARGET_BRANCH: ${{ inputs.target_branch }}
+          INPUT_ISSUE_DESCRIPTION: ${{ inputs.issue_description }}
+          INPUT_MODEL: ${{ inputs.model }}
+          INPUT_PR_TYPE: ${{ inputs.pr_type }}
+        run: |
+          # Build the PR type flag
+          if [ "$INPUT_PR_TYPE" = "draft" ]; then
+            PR_TYPE_FLAG="--draft"
+          else
+            PR_TYPE_FLAG=""
+          fi
+
+          export INPUT_ISSUE_IDENTIFIER INPUT_ISSUE_TITLE INPUT_ISSUE_URL INPUT_BRANCH_NAME INPUT_TARGET_BRANCH INPUT_ISSUE_DESCRIPTION INPUT_MODEL PR_TYPE_FLAG
+          PROMPT=$(envsubst << 'PROMPT_EOF'
+          # Autonomous Token List Task
+
+          You are autonomously implementing Linear issue **${INPUT_ISSUE_IDENTIFIER}**: "${INPUT_ISSUE_TITLE}"
+
+          ## Task Details
+
+          - **Issue URL:** ${INPUT_ISSUE_URL}
+          - **Branch:** `${INPUT_BRANCH_NAME}`
+          - **Target Branch:** `${INPUT_TARGET_BRANCH}`
+
+          ## Description
+
+          ${INPUT_ISSUE_DESCRIPTION}
+
+          ---
+
+          ## ⚠️ Turn Budget Management (CRITICAL)
+
+          You have a **maximum of 80 turns** for this simple token list task. Plan accordingly:
+
+          | Phase | Turns | Purpose |
+          |-------|-------|---------|
+          | Understand | 1-5 | Read CLAUDE.md, understand the ticket |
+          | Implement | 6-40 | Add/remove tokens, verify checksums |
+          | QA | 41-55 | Run tests, fix issues |
+          | **RESERVED: Commit & PR** | **56-80** | **MUST commit and create PR** |
+
+          **HARD RULES:**
+          - If you reach **turn 50** and haven't committed, **STOP and commit immediately**
+          - A partial solution with a PR is **infinitely more valuable** than no PR
+
+          ---
+
+          ## Your Workflow
+
+          ### Phase 1: Understand the Task (turns 1-5)
+
+          1. Read CLAUDE.md for repo conventions
+          2. Parse the Linear ticket to extract: token name, symbol, chain, contract address, decimals, logoURI
+          3. Determine the operation type (add, remove, block)
+
+          ### Phase 2: Implementation (turns 6-35)
+
+          For **token additions** (most common):
+
+          1. Identify the correct chain JSON file in `src/tokens/` (e.g., `mainnet.json` for Ethereum chain 1)
+          2. Verify the EIP-55 checksum of the address:
+             ```bash
+             node -e "const{getAddress}=require('@ethersproject/address');process.argv.slice(1).forEach(a=>{try{const c=getAddress(a);console.log(a===c?'OK':'MISMATCH',c)}catch(e){console.error('INVALID',a,e.message)}})" ADDRESS_HERE
+             ```
+          3. Check the token doesn't already exist (grep for the address in the chain file)
+          4. Add the token entry to the **end** of the JSON array with all required fields:
+             - `chainId`, `address` (checksummed), `name`, `symbol`, `decimals`, `logoURI`
+          5. For Solana tokens (chainId 501000101): addresses are base58, no checksum needed
+
+          For **token removals**: Find and remove the entry, use `npm version major` instead of minor.
+
+          ### Phase 3: Quality Assurance (turns 36-50)
+
+          Run these checks:
+          ```bash
+          # Run the test suite (validates checksums, duplicates, schema)
+          yarn test
+
+          # Double-check EIP-55 on any addresses you added
+          node -e "const{getAddress}=require('@ethersproject/address');process.argv.slice(1).forEach(a=>{try{const c=getAddress(a);console.log(a===c?'OK':'MISMATCH',c)}catch(e){console.error('INVALID',a,e.message)}})" ADDED_ADDRESSES_HERE
+
+          # Verify the JSON is valid
+          node -e "JSON.parse(require('fs').readFileSync('src/tokens/CHAIN.json','utf8'));console.log('Valid JSON')"
+          ```
+
+          If tests fail, fix the issue and re-run.
+
+          ### Phase 4: Commit and Push (turns 51-60)
+
+          For additions:
+          ```bash
+          git add -A
+          git commit -m "add: SYMBOL ($(date +%Y-%m-%d))"
+          npm version minor
+          git push origin ${INPUT_BRANCH_NAME}
+          ```
+
+          For removals:
+          ```bash
+          git add -A
+          git commit -m "remove: SYMBOL ($(date +%Y-%m-%d))"
+          npm version major
+          git push origin ${INPUT_BRANCH_NAME}
+          ```
+
+          ### Phase 5: Create Pull Request (REQUIRED - turns 61-80)
+
+          **THIS PHASE IS MANDATORY.** Create a PR using the GitHub CLI:
+
+          ```bash
+          gh pr create \
+            --title "add: SYMBOL (YYYY-MM-DD)" \
+            --body "## Summary
+
+          Add N token(s) to the default list.
+
+          | Symbol | Chain | Address | Decimals |
+          |--------|-------|---------|----------|
+          | SYMBOL | Chain Name | \`0x...\` | N |
+
+          ## Verification
+          - [x] EIP-55 checksums verified
+          - [x] No duplicate entries
+          - [x] \`yarn test\` passes
+
+          ## Linear tickets
+          - [${INPUT_ISSUE_IDENTIFIER}](${INPUT_ISSUE_URL})
+
+          ---
+          *Autonomous implementation using ${INPUT_MODEL}*" \
+            --base "${INPUT_TARGET_BRANCH}" \
+            --head "${INPUT_BRANCH_NAME}" ${PR_TYPE_FLAG}
+          ```
+
+          After creating the PR, verify:
+          ```bash
+          gh pr view --json url
+          ```
+
+          **CRITICAL REQUIREMENTS:**
+          - You **MUST** create this PR successfully
+          - If you cannot fully implement the task, still create a PR explaining what remains
+          - A PR with partial progress is better than no PR
+
+          ---
+
+          ## Guidelines
+
+          - Follow all CLAUDE.md instructions exactly
+          - **Always use the logoURI from the Linear ticket** — do not replace with CoinGecko
+          - Keep changes minimal — one chain JSON file per token
+          - Do NOT push to main directly
+          - **Prioritize shipping over perfection**
+          PROMPT_EOF
+          )
+
+          # Escape for GitHub Actions output
+          echo "prompt<<PROMPT_DELIM" >> $GITHUB_OUTPUT
+          echo "$PROMPT" >> $GITHUB_OUTPUT
+          echo "PROMPT_DELIM" >> $GITHUB_OUTPUT
+
+      # Run Claude Code with Linear MCP configured
+      - name: Run Claude Code
+        id: claude
+        uses: anthropics/claude-code-action@df37d2f0760a4b5683a6e617c9325bc1a36443f6 # v1.0.75
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: ${{ steps.build-prompt.outputs.prompt }}
+          show_full_output: ${{ inputs.debug_mode }}
+          claude_args: |
+            --model ${{ inputs.model }}
+            --max-turns 80
+            --dangerously-skip-permissions
+            --mcp-config '{"mcpServers":{"linear":{"command":"npx","args":["-y","linear-mcp-server"],"env":{"LINEAR_API_KEY":"${{ secrets.LINEAR_API_KEY }}"}}}}'
+          additional_permissions: |
+            actions: read
+
+      # Check if a PR was created by Claude
+      - name: Check for PR
+        id: check-pr
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          BRANCH_NAME: ${{ inputs.branch_name }}
+          TARGET_BRANCH: ${{ inputs.target_branch }}
+        run: |
+          PR_URL=$(gh pr list --head "$BRANCH_NAME" --base "$TARGET_BRANCH" --json url --jq '.[0].url' || echo "")
+
+          if [ -n "$PR_URL" ]; then
+            echo "pr_url=$PR_URL" >> $GITHUB_OUTPUT
+            echo "pr_exists=true" >> $GITHUB_OUTPUT
+            echo "Found PR: $PR_URL"
+          else
+            echo "pr_exists=false" >> $GITHUB_OUTPUT
+            echo "No PR found for branch $BRANCH_NAME"
+          fi
+
+      # Check how many commits were made
+      - name: Check commit count
+        id: check-commits
+        env:
+          TARGET_BRANCH: ${{ inputs.target_branch }}
+        run: |
+          COMMITS=$(git log origin/"$TARGET_BRANCH"..HEAD --oneline 2>/dev/null | wc -l | tr -d ' ')
+          echo "commit_count=$COMMITS" >> $GITHUB_OUTPUT
+          echo "Commits made: $COMMITS"
+
+      # Create fallback PR if Claude made commits but didn't create a PR
+      - name: Create fallback PR (if needed)
+        id: fallback-pr
+        if: steps.check-pr.outputs.pr_exists != 'true' && steps.check-commits.outputs.commit_count != '0'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          ISSUE_IDENTIFIER: ${{ inputs.issue_identifier }}
+          ISSUE_URL: ${{ inputs.issue_url }}
+          ISSUE_TITLE: ${{ inputs.issue_title }}
+          TARGET_BRANCH: ${{ inputs.target_branch }}
+          BRANCH_NAME: ${{ inputs.branch_name }}
+          COMMIT_COUNT: ${{ steps.check-commits.outputs.commit_count }}
+          MODEL: ${{ inputs.model }}
+          PR_TYPE: ${{ inputs.pr_type }}
+        run: |
+          echo "::warning::Claude made ${COMMIT_COUNT} commit(s) but did not create a PR. Creating fallback PR..."
+
+          COMMIT_LOG=$(git log origin/"$TARGET_BRANCH"..HEAD --oneline 2>/dev/null | head -20)
+
+          PR_BODY=$(cat <<BODY_EOF
+          ## Fallback PR - Incomplete Implementation
+
+          Claude exhausted the turn limit or encountered an error before creating a PR.
+          This fallback PR was automatically created to preserve the work.
+
+          **Commits made:** ${COMMIT_COUNT}
+
+          ### Commit Summary
+          \`\`\`
+          ${COMMIT_LOG}
+          \`\`\`
+
+          ### Next Steps
+          - Review the changes made by Claude
+          - Either complete the implementation manually, or
+          - Close this PR and re-run with a more focused task description
+
+          ### Linear Issue
+          ${ISSUE_URL}
+
+          ---
+          *Fallback PR created automatically. Original task used ${MODEL}.*
+          BODY_EOF
+          )
+
+          PR_ARGS=(
+            --title "[${ISSUE_IDENTIFIER}] WIP: Partial implementation (fallback PR)"
+            --body "$PR_BODY"
+            --base "$TARGET_BRANCH"
+            --head "$BRANCH_NAME"
+          )
+
+          if [ "$PR_TYPE" = "draft" ]; then
+            PR_ARGS+=(--draft)
+          fi
+
+          PR_URL=$(gh pr create "${PR_ARGS[@]}")
+
+          echo "Created fallback PR: $PR_URL"
+          echo "pr_url=$PR_URL" >> $GITHUB_OUTPUT
+          echo "pr_created=true" >> $GITHUB_OUTPUT
+
+      # Validate outcome
+      - name: Validate outcome
+        env:
+          PR_EXISTS: ${{ steps.check-pr.outputs.pr_exists }}
+          FALLBACK_PR: ${{ steps.fallback-pr.outputs.pr_created }}
+          COMMITS: ${{ steps.check-commits.outputs.commit_count }}
+        run: |
+          echo "PR exists: $PR_EXISTS"
+          echo "Fallback PR created: $FALLBACK_PR"
+          echo "Commits: $COMMITS"
+
+          if [ "$PR_EXISTS" == "true" ]; then
+            echo "Task completed successfully with $COMMITS commit(s) and PR created by Claude"
+          elif [ "$FALLBACK_PR" == "true" ]; then
+            echo "::warning::Task partially completed. Fallback PR created with $COMMITS commit(s)."
+          elif [ "${COMMITS:-0}" -eq 0 ]; then
+            echo "::error::Claude did not create any commits or PR for this task"
+            echo "::error::Check Claude's output above (debug_mode is enabled) for reasoning"
+            exit 1
+          else
+            echo "::error::Unexpected state: commits exist but no PR was created"
+            exit 1
+          fi
+
+      # Update Linear issue if PR was created
+      - name: Update Linear issue
+        if: steps.check-pr.outputs.pr_exists == 'true' || steps.fallback-pr.outputs.pr_created == 'true'
+        run: |
+          npx "@uniswap/ai-toolkit-linear-task-utils@${LINEAR_TASK_UTILS_TAG}" update-issue \
+            --issue-id "$ISSUE_ID" \
+            --status "In Progress" \
+            --pr-url "$PR_URL"
+        env:
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          LINEAR_TASK_UTILS_TAG: ${{ inputs.linear_task_utils_tag }}
+          ISSUE_ID: ${{ inputs.issue_id }}
+          PR_URL: ${{ steps.check-pr.outputs.pr_url || steps.fallback-pr.outputs.pr_url }}
+
+      # Create job summary
+      - name: Create job summary
+        if: always()
+        env:
+          PR_EXISTS: ${{ steps.check-pr.outputs.pr_exists }}
+          PR_URL: ${{ steps.check-pr.outputs.pr_url }}
+          FALLBACK_PR_CREATED: ${{ steps.fallback-pr.outputs.pr_created }}
+          FALLBACK_PR_URL: ${{ steps.fallback-pr.outputs.pr_url }}
+          COMMIT_COUNT: ${{ steps.check-commits.outputs.commit_count }}
+          ISSUE_IDENTIFIER: ${{ inputs.issue_identifier }}
+          ISSUE_TITLE: ${{ inputs.issue_title }}
+          ISSUE_URL: ${{ inputs.issue_url }}
+          BRANCH_NAME: ${{ inputs.branch_name }}
+          MODEL: ${{ inputs.model }}
+          PR_TYPE: ${{ inputs.pr_type }}
+        run: |
+          echo "## Task: $ISSUE_IDENTIFIER" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Title:** $ISSUE_TITLE" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Linear Issue:** [$ISSUE_IDENTIFIER]($ISSUE_URL)" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Branch:** \`$BRANCH_NAME\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Model:** $MODEL" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Max Turns:** 80" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**PR Type:** $PR_TYPE" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Commits Made:** ${COMMIT_COUNT:-0}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ "$PR_EXISTS" == "true" ]; then
+            echo "**PR Created:** [$PR_URL]($PR_URL)" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**Linear Status:** Updated to 'In Progress'" >> $GITHUB_STEP_SUMMARY
+          elif [ "$FALLBACK_PR_CREATED" == "true" ]; then
+            echo "**PR Created:** Fallback PR [$FALLBACK_PR_URL]($FALLBACK_PR_URL)" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "> Claude made ${COMMIT_COUNT} commit(s) but did not create a PR." >> $GITHUB_STEP_SUMMARY
+            echo "> A fallback PR was automatically created to preserve the work." >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**Linear Status:** Updated to 'In Progress'" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**Action Required:** Review fallback PR and complete implementation if needed" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "**PR Created:** No" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+
+            if [ "${COMMIT_COUNT:-0}" -eq 0 ]; then
+              echo "**Failure Reason:** Claude did not create any commits or PR" >> $GITHUB_STEP_SUMMARY
+              echo "" >> $GITHUB_STEP_SUMMARY
+              echo "> Task may be too complex, unclear, or require human judgment." >> $GITHUB_STEP_SUMMARY
+            else
+              echo "**Failure Reason:** Claude created ${COMMIT_COUNT} commit(s) but fallback PR creation failed" >> $GITHUB_STEP_SUMMARY
+            fi
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "**Action Required:** Manual review needed" >> $GITHUB_STEP_SUMMARY
+          fi

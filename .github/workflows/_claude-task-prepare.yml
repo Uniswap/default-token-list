@@ -1,0 +1,196 @@
+# Reusable workflow for preparing Linear tasks for Claude Code processing
+#
+# This workflow queries Linear for issues matching specified criteria and outputs
+# a matrix for parallel processing. It's designed to be called by orchestrating
+# workflows that need to fan out to multiple Claude task workers.
+#
+# USAGE:
+# Call this workflow from a parent workflow:
+#
+# jobs:
+#   prepare:
+#     uses: ./.github/workflows/_claude-task-prepare.yml
+#     with:
+#       linear_team: "Consumer Engagement"
+#       linear_label: "default-list-update-claude"
+#       max_issues: "5"
+#     secrets:
+#       LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+#
+#   process-task:
+#     needs: prepare
+#     if: needs.prepare.outputs.has_tasks == 'true'
+#     strategy:
+#       matrix: ${{ fromJson(needs.prepare.outputs.matrix_json) }}
+#     uses: ./.github/workflows/_claude-task-worker.yml
+#     with:
+#       issue_id: ${{ matrix.issue_id }}
+#       issue_identifier: ${{ matrix.issue_identifier }}
+#       # ... other inputs
+#
+# OUTPUTS:
+# - matrix_json: GitHub Actions matrix JSON (contains 'include' array)
+# - has_tasks: 'true' if tasks found, 'false' otherwise
+# - result: Full query result JSON for summary/debugging
+# - linear_task_utils_tag: Resolved tag for passing to worker
+#
+# SECRETS REQUIRED:
+# - LINEAR_API_KEY: Linear API key for querying issues
+
+name: "[claude] Task Prepare"
+
+on:
+  workflow_call:
+    inputs:
+      linear_team:
+        description: "Linear team name to query"
+        required: true
+        type: string
+
+      linear_label:
+        description: "Label to filter issues by"
+        required: true
+        type: string
+
+      max_issues:
+        description: "Maximum number of issues to process"
+        required: false
+        type: string
+        default: "5"
+
+      linear_task_utils_tag:
+        description: "npm tag for @uniswap/ai-toolkit-linear-task-utils (latest or next)"
+        required: false
+        type: string
+        default: "next"
+
+      target_branch:
+        description: "Branch to checkout (issues are queried from this branch's state)"
+        required: false
+        type: string
+        default: "main"
+
+    outputs:
+      matrix_json:
+        description: "Matrix JSON for GitHub Actions strategy (contains 'include' array)"
+        value: ${{ jobs.prepare.outputs.matrix_json }}
+
+      has_tasks:
+        description: "Whether any tasks were found ('true' or 'false')"
+        value: ${{ jobs.prepare.outputs.has_tasks }}
+
+      result:
+        description: "Full query result JSON for summary/debugging"
+        value: ${{ jobs.prepare.outputs.result }}
+
+      linear_task_utils_tag:
+        description: "The resolved linear_task_utils_tag (for passing to worker)"
+        value: ${{ jobs.prepare.outputs.linear_task_utils_tag }}
+
+    secrets:
+      LINEAR_API_KEY:
+        description: "Linear API key for querying issues"
+        required: true
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix_json: ${{ steps.query.outputs.matrix_json }}
+      result: ${{ steps.query.outputs.result }}
+      has_tasks: ${{ steps.query.outputs.has_tasks }}
+      linear_task_utils_tag: ${{ inputs.linear_task_utils_tag }}
+
+    steps:
+      # Security scanning
+      - name: Security scanning
+        uses: bullfrogsec/bullfrog@1831f79cce8ad602eef14d2163873f27081ebfb3 # v0.8.4
+        with:
+          egress-policy: audit
+
+      - name: Checkout repository
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
+        with:
+          persist-credentials: false
+          ref: ${{ inputs.target_branch }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@2028fbc5c25fe9cf00d9f06a71cc4710d4507903 # v6.0.0
+        with:
+          node-version: "22.21.1"
+
+      # Ensure the claude label exists
+      - name: Ensure label exists
+        run: |
+          npx "@uniswap/ai-toolkit-linear-task-utils@${LINEAR_TASK_UTILS_TAG}" ensure-label \
+            --team "$LINEAR_TEAM" \
+            --label "$LINEAR_LABEL"
+        env:
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          LINEAR_TASK_UTILS_TAG: ${{ inputs.linear_task_utils_tag }}
+          LINEAR_TEAM: ${{ inputs.linear_team }}
+          LINEAR_LABEL: ${{ inputs.linear_label }}
+
+      # Query Linear for issues
+      - name: Query Linear issues
+        id: query
+        run: |
+          RESULT=$(npx "@uniswap/ai-toolkit-linear-task-utils@${LINEAR_TASK_UTILS_TAG}" query \
+            --team "$LINEAR_TEAM" \
+            --label "$LINEAR_LABEL" \
+            --statuses "Backlog,Todo" \
+            --max "$MAX_ISSUES")
+
+          # Store full result for summary step
+          echo "result=$RESULT" >> $GITHUB_OUTPUT
+
+          # Extract only the 'include' array for the matrix strategy
+          # GitHub Actions matrix only accepts array values, not scalar properties like 'count'
+          MATRIX_JSON=$(echo "$RESULT" | jq -c '{include: .include}')
+          echo "matrix_json=$MATRIX_JSON" >> $GITHUB_OUTPUT
+
+          # Check if we have tasks
+          COUNT=$(echo "$RESULT" | jq -r '.count')
+          if [ "$COUNT" -gt 0 ]; then
+            echo "has_tasks=true" >> $GITHUB_OUTPUT
+            echo "Found $COUNT issue(s) to process"
+          else
+            echo "has_tasks=false" >> $GITHUB_OUTPUT
+            echo "No issues found matching criteria"
+          fi
+        env:
+          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          LINEAR_TASK_UTILS_TAG: ${{ inputs.linear_task_utils_tag }}
+          LINEAR_TEAM: ${{ inputs.linear_team }}
+          LINEAR_LABEL: ${{ inputs.linear_label }}
+          MAX_ISSUES: ${{ inputs.max_issues }}
+
+      # Create summary for prepare job
+      - name: Create prepare summary
+        env:
+          QUERY_RESULT: ${{ steps.query.outputs.result }}
+          INPUT_LINEAR_TEAM: ${{ inputs.linear_team }}
+          INPUT_LINEAR_LABEL: ${{ inputs.linear_label }}
+          INPUT_MAX_ISSUES: ${{ inputs.max_issues }}
+          INPUT_TARGET_BRANCH: ${{ inputs.target_branch }}
+          INPUT_LINEAR_TASK_UTILS_TAG: ${{ inputs.linear_task_utils_tag }}
+        run: |
+          echo "## Prepare Phase" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Configuration:**" >> $GITHUB_STEP_SUMMARY
+          echo "- Team: $INPUT_LINEAR_TEAM" >> $GITHUB_STEP_SUMMARY
+          echo "- Label: $INPUT_LINEAR_LABEL" >> $GITHUB_STEP_SUMMARY
+          echo "- Max Issues: $INPUT_MAX_ISSUES" >> $GITHUB_STEP_SUMMARY
+          echo "- Target Branch: $INPUT_TARGET_BRANCH" >> $GITHUB_STEP_SUMMARY
+          echo "- Linear Task Utils Tag: $INPUT_LINEAR_TASK_UTILS_TAG" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          COUNT=$(echo "$QUERY_RESULT" | jq -r '.count')
+          echo "**Issues Found:** $COUNT" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ "$COUNT" -gt 0 ]; then
+            echo "| Identifier | Title | Priority |" >> $GITHUB_STEP_SUMMARY
+            echo "|------------|-------|----------|" >> $GITHUB_STEP_SUMMARY
+            echo "$QUERY_RESULT" | jq -r '.include[] | "| \(.issue_identifier) | \(.issue_title) | \(.priority_label) |"' >> $GITHUB_STEP_SUMMARY
+          fi

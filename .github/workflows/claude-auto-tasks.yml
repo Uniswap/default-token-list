@@ -1,0 +1,193 @@
+# Autonomous Claude Code Task Processing
+#
+# This workflow runs daily at 5am EST to pick up Linear issues labeled for Claude
+# and process them autonomously. It queries Linear for issues, generates a matrix,
+# and dispatches parallel jobs to process each task.
+#
+# SETUP:
+# 1. Create a "default-list-update-claude" label in your Linear team (or configure a different label)
+# 2. Add LINEAR_API_KEY secret to your repository
+# 3. Ensure ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN secret is configured
+# 4. Add issues with the label in "Backlog" or "Todo" status
+#
+# USAGE:
+# - Automatic: Runs daily at 5am EST
+# - Manual: Use workflow_dispatch with optional inputs
+#
+# LINEAR REQUIREMENTS:
+# - Issues must have the configured label (default: "default-list-update-claude")
+# - Issues must be in "Backlog" or "Todo" status
+# - Issues are sorted by priority (Urgent > High > Normal > Low > No Priority)
+
+name: Claude Auto Tasks
+
+on:
+  # Run daily at 5am EST (10:00 UTC)
+  schedule:
+    - cron: "0 10 * * *"
+
+  # Manual trigger with inputs
+  workflow_dispatch:
+    inputs:
+      linear_team:
+        description: "Linear team name to query"
+        required: false
+        type: string
+        default: "Consumer Engagement"
+
+      linear_label:
+        description: "Label to filter issues by"
+        required: false
+        type: string
+        default: "default-list-update-claude"
+
+      max_issues:
+        description: "Maximum number of issues to process"
+        required: false
+        type: string
+        default: "5"
+
+      model:
+        description: "Claude model to use"
+        required: false
+        type: choice
+        options:
+          - "claude-sonnet-4-6"
+          - "claude-opus-4-6"
+          - "claude-haiku-4-5"
+        default: "claude-opus-4-6"
+
+      target_branch:
+        description: "Branch to create PRs against"
+        required: false
+        type: string
+        default: "main"
+
+      linear_task_utils_tag:
+        description: "npm tag for @uniswap/ai-toolkit-linear-task-utils"
+        required: false
+        type: choice
+        options:
+          - "latest"
+          - "next"
+        default: "next"
+
+      debug_mode:
+        description: "Enable full Claude Code output for debugging"
+        required: false
+        type: boolean
+        default: true
+
+# Prevent concurrent runs
+permissions: {}
+
+concurrency:
+  group: claude-auto-tasks
+  cancel-in-progress: false
+
+jobs:
+  # Job 1: Query Linear and prepare the task matrix
+  prepare:
+    permissions:
+      contents: read
+    uses: ./.github/workflows/_claude-task-prepare.yml
+    with:
+      linear_team: ${{ inputs.linear_team || 'Consumer Engagement' }}
+      linear_label: ${{ inputs.linear_label || 'default-list-update-claude' }}
+      max_issues: ${{ inputs.max_issues || '5' }}
+      linear_task_utils_tag: ${{ inputs.linear_task_utils_tag || 'next' }}
+      target_branch: ${{ inputs.target_branch || 'main' }}
+    secrets:
+      LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+
+  # Job 2: Process each task in parallel
+  process-task:
+    needs: prepare
+    if: needs.prepare.outputs.has_tasks == 'true'
+    permissions:
+      id-token: write
+      contents: write
+      pull-requests: write
+      issues: write
+      actions: read
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix: ${{ fromJson(needs.prepare.outputs.matrix_json) }}
+
+    uses: ./.github/workflows/_claude-task-worker.yml
+    with:
+      issue_id: ${{ matrix.issue_id }}
+      issue_identifier: ${{ matrix.issue_identifier }}
+      issue_title: ${{ matrix.issue_title }}
+      issue_description: ${{ matrix.issue_description }}
+      issue_url: ${{ matrix.issue_url }}
+      branch_name: ${{ matrix.branch_name }}
+      target_branch: ${{ inputs.target_branch || 'main' }}
+      model: ${{ inputs.model || 'claude-opus-4-6' }}
+      timeout_minutes: 30
+      linear_task_utils_tag: ${{ needs.prepare.outputs.linear_task_utils_tag }}
+      debug_mode: ${{ inputs.debug_mode != '' && inputs.debug_mode || true }}
+    secrets:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+
+  # Job 3: Summary (always runs)
+  summary:
+    needs: [prepare, process-task]
+    if: always()
+    runs-on: ubuntu-latest
+    permissions: {}
+
+    steps:
+      # Security scanning
+      - name: Security scanning
+        uses: bullfrogsec/bullfrog@1831f79cce8ad602eef14d2163873f27081ebfb3 # v0.8.4
+        with:
+          egress-policy: audit
+
+      - name: Generate final summary
+        env:
+          RUN_NUMBER: ${{ github.run_number }}
+          SERVER_URL: ${{ github.server_url }}
+          REPOSITORY: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          HAS_TASKS: ${{ needs.prepare.outputs.has_tasks }}
+          QUERY_RESULT: ${{ needs.prepare.outputs.result }}
+          TASK_RESULT: ${{ needs.process-task.result }}
+          INPUT_LINEAR_TEAM: ${{ inputs.linear_team }}
+          INPUT_LINEAR_LABEL: ${{ inputs.linear_label }}
+        run: |
+          echo "# Claude Auto Tasks Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Workflow Run:** [#${RUN_NUMBER}](${SERVER_URL}/${REPOSITORY}/actions/runs/${RUN_ID})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ "$HAS_TASKS" == "true" ]; then
+            TASK_COUNT=$(echo "$QUERY_RESULT" | jq -r '.count')
+            echo "**Tasks Found:** $TASK_COUNT" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+
+            case "$TASK_RESULT" in
+              "success")
+                echo "**Result:** All tasks completed successfully" >> $GITHUB_STEP_SUMMARY
+                ;;
+              "failure")
+                echo "**Result:** Some tasks failed - check individual job logs" >> $GITHUB_STEP_SUMMARY
+                ;;
+              "cancelled")
+                echo "**Result:** Workflow was cancelled" >> $GITHUB_STEP_SUMMARY
+                ;;
+              *)
+                echo "**Result:** $TASK_RESULT" >> $GITHUB_STEP_SUMMARY
+                ;;
+            esac
+          else
+            echo "**Result:** No tasks found matching criteria" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "To add tasks for Claude to process:" >> $GITHUB_STEP_SUMMARY
+            echo "1. Create issues in the **${INPUT_LINEAR_TEAM:-Consumer Engagement}** team" >> $GITHUB_STEP_SUMMARY
+            echo "2. Add the **${INPUT_LINEAR_LABEL:-default-list-update-claude}** label" >> $GITHUB_STEP_SUMMARY
+            echo "3. Set status to **Backlog** or **Todo**" >> $GITHUB_STEP_SUMMARY
+          fi
