@@ -123,7 +123,6 @@ jobs:
       id-token: write
       contents: write
       pull-requests: write
-      issues: write
       actions: read
 
     steps:
@@ -243,7 +242,9 @@ jobs:
           fi
 
           export INPUT_ISSUE_IDENTIFIER INPUT_ISSUE_TITLE INPUT_ISSUE_URL INPUT_BRANCH_NAME INPUT_TARGET_BRANCH INPUT_ISSUE_DESCRIPTION INPUT_MODEL PR_TYPE_FLAG
-          PROMPT=$(envsubst << 'PROMPT_EOF'
+          # Use targeted envsubst to only expand known variables (prevents issue descriptions
+          # containing $VAR patterns from leaking environment variables)
+          PROMPT=$(envsubst '$INPUT_ISSUE_IDENTIFIER $INPUT_ISSUE_TITLE $INPUT_ISSUE_URL $INPUT_BRANCH_NAME $INPUT_TARGET_BRANCH $INPUT_ISSUE_DESCRIPTION $INPUT_MODEL $PR_TYPE_FLAG' << 'PROMPT_EOF'
           # Autonomous Token List Task
 
           You are autonomously implementing Linear issue **${INPUT_ISSUE_IDENTIFIER}**: "${INPUT_ISSUE_TITLE}"

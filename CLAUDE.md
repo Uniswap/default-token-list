@@ -142,11 +142,29 @@ curl -s -X POST 'https://api.linear.app/graphql' \
   -d '{"query":"{ issue(id: \"CONS-1234\") { title description url } }"}'
 ```
 
-### CONS Team State IDs (for curl fallback)
+### Updating Ticket State (curl fallback)
 
-- **In Progress**: `9b144292-8c1f-4ecd-af6c-a60b37b90a43`
-- **In Review**: `8bd1b7f3-29b5-4de8-b93a-2f168d93d585`
-- **Done**: `bb9c8b31-7908-45db-9ac5-d5667a500e9e`
+To move a ticket via curl, first get the issue UUID, then look up the target state ID by name:
+
+```bash
+# Get issue UUID and current state
+curl -s -X POST 'https://api.linear.app/graphql' \
+  -H 'Content-Type: application/json' \
+  -H "Authorization: ${LINEAR_API_KEY}" \
+  -d '{"query":"{ issue(id: \"CONS-1234\") { id title state { name } } }"}'
+
+# Get state IDs for the team
+curl -s -X POST 'https://api.linear.app/graphql' \
+  -H 'Content-Type: application/json' \
+  -H "Authorization: ${LINEAR_API_KEY}" \
+  -d '{"query":"{ workflowStates(filter: { team: { name: { eq: \"Consumer Engagement\" } } }) { nodes { id name } } }"}'
+
+# Update issue state (replace STATE_UUID and ISSUE_UUID with actual values)
+curl -s -X POST 'https://api.linear.app/graphql' \
+  -H 'Content-Type: application/json' \
+  -H "Authorization: ${LINEAR_API_KEY}" \
+  -d '{"query":"mutation { issueUpdate(id: \"ISSUE_UUID\", input: { stateId: \"STATE_UUID\" }) { success } }"}'
+```
 
 ## Token Metadata Lookup
 
