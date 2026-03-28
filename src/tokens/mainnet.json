@@ -3095,5 +3095,13 @@
     "symbol": "CHECK",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69231/large/VgVwfk9E_400x400.png?1761800742"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f2b33840227DDD0e28da8d4185D6fa07ADfed87",
+    "name": "Based",
+    "symbol": "BASED",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71361/large/based-logo-200x200.png?1774599745"
   }
 ]
