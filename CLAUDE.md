@@ -107,31 +107,24 @@ Token requests come from Linear tickets in the **CX Token Requests** project und
 
 ### Preferred: Linear MCP tools
 
-If the Linear MCP server is connected (tools prefixed with `mcp__` are available), use MCP tools for all Linear operations:
+If the Linear MCP server is connected (tools prefixed with `mcp__` are available), use MCP tools for Linear operations:
 
 ```
 # Query open issues
 list_issues(project: "CX Token Requests", state: "unstarted")
 list_issues(project: "CX Token Requests", state: "started")
 
-# Move ticket to In Progress
-save_issue(id: "CONS-1234", state: "In Progress")
-
-# Move ticket to In Review
-save_issue(id: "CONS-1234", state: "In Review")
-
-# Move ticket to Done
-save_issue(id: "CONS-1234", state: "Done")
-
 # Comment PR link
 save_comment(issueId: "CONS-1234", body: "PR opened: <PR_URL>")
 ```
+
+> **Note (autonomous workflow):** When running as part of the Claude Auto Tasks workflow, Linear ticket status updates (In Progress, In Review, Done) are handled by the workflow infrastructure via `linear-task-utils`. Do NOT update ticket status yourself — focus only on reading ticket details and making code changes. You may still comment on tickets if you need to ask for clarification.
 
 ### Fallback: Linear GraphQL API via curl
 
 If Linear MCP is not available, use the GraphQL API:
 
-- **API key**: `${LINEAR_API_KEY}` environment variable
+- **Auth token**: `${LINEAR_API_KEY}` environment variable (populated by the workflow's OAuth token exchange)
 - **Endpoint**: `https://api.linear.app/graphql`
 
 ```bash
@@ -168,7 +161,7 @@ curl -s -X POST 'https://api.linear.app/graphql' \
 
 ## Token Metadata Lookup
 
-**Always prefer metadata from the Linear ticket** — especially the `logoURI`. Only fall back to CoinGecko if the ticket is missing fields:
+**Always use metadata from the Linear ticket** — especially the `logoURI` and `decimals`. If any required field is missing from the ticket, do NOT guess or look it up elsewhere. Comment on the Linear ticket asking for the missing information and skip that token.
 
 ```
 https://tokens.coingecko.com/uniswap/all.json
@@ -192,7 +185,6 @@ Filter by address (case-insensitive), then always re-checksum the address from t
 8. Push branch and create PR (see PR Templates below)
 9. Close any auto-created PRs for the same tokens
 10. **Move ticket(s) to "In Review"** and comment the PR link
-11. **Run the merge watcher** (see below)
 
 ## Standardized Workflow: Removing/Blocking Tokens
 
@@ -287,15 +279,6 @@ Add N tokens across M chain(s) to the default list.
 EOF
 )"
 ```
-
-## Merge Watcher
-
-The merge watcher checks "In Review" tickets to see if their PRs have been merged, then moves them to "Done".
-
-1. Query all "In Review" tickets in CX Token Requests
-2. For each ticket, find the PR URL from comments
-3. Check PR state: `gh pr view <URL> --json state --jq '.state'`
-4. If `MERGED`, move ticket to "Done"
 
 ## Git Workflow
 

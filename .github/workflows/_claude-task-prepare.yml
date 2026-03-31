@@ -15,7 +15,8 @@
 #       linear_label: "default-list-update-claude"
 #       max_issues: "5"
 #     secrets:
-#       LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+#       LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+#       LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
 #
 #   process-task:
 #     needs: prepare
@@ -35,7 +36,8 @@
 # - linear_task_utils_tag: Resolved tag for passing to worker
 #
 # SECRETS REQUIRED:
-# - LINEAR_API_KEY: Linear API key for querying issues
+# - LINEAR_CLIENT_ID: Linear OAuth app client ID
+# - LINEAR_CLIENT_SECRET: Linear OAuth app client secret
 
 name: "[claude] Task Prepare"
 
@@ -88,8 +90,12 @@ on:
         value: ${{ jobs.prepare.outputs.linear_task_utils_tag }}
 
     secrets:
-      LINEAR_API_KEY:
-        description: "Linear API key for querying issues"
+      LINEAR_CLIENT_ID:
+        description: "Linear OAuth app client ID (client_credentials grant)"
+        required: true
+
+      LINEAR_CLIENT_SECRET:
+        description: "Linear OAuth app client secret"
         required: true
 
 jobs:
@@ -119,14 +125,33 @@ jobs:
         with:
           node-version: "22.21.1"
 
+      # Exchange Linear OAuth client credentials for an access token
+      - name: Get Linear OAuth token
+        id: linear-auth
+        env:
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
+        run: |
+          RESPONSE=$(curl -s -X POST https://api.linear.app/oauth/token \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            -d "grant_type=client_credentials&client_id=${LINEAR_CLIENT_ID}&client_secret=${LINEAR_CLIENT_SECRET}")
+          TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
+          if [ -z "$TOKEN" ] || [ "$TOKEN" = "null" ]; then
+            echo "::error::Failed to obtain Linear OAuth token"
+            echo "$RESPONSE" | jq .
+            exit 1
+          fi
+          echo "::add-mask::$TOKEN"
+          echo "token=$TOKEN" >> "$GITHUB_OUTPUT"
+
       # Ensure the claude label exists
       - name: Ensure label exists
         run: |
-          npx "@uniswap/ai-toolkit-linear-task-utils@${LINEAR_TASK_UTILS_TAG}" ensure-label \
+          npx "@uniswap/ai-toolkit-linear-task-utils@0.0.18" ensure-label \
             --team "$LINEAR_TEAM" \
             --label "$LINEAR_LABEL"
         env:
-          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          LINEAR_API_KEY: ${{ steps.linear-auth.outputs.token }}
           LINEAR_TASK_UTILS_TAG: ${{ inputs.linear_task_utils_tag }}
           LINEAR_TEAM: ${{ inputs.linear_team }}
           LINEAR_LABEL: ${{ inputs.linear_label }}
@@ -135,7 +160,7 @@ jobs:
       - name: Query Linear issues
         id: query
         run: |
-          RESULT=$(npx "@uniswap/ai-toolkit-linear-task-utils@${LINEAR_TASK_UTILS_TAG}" query \
+          RESULT=$(npx "@uniswap/ai-toolkit-linear-task-utils@0.0.18" query \
             --team "$LINEAR_TEAM" \
             --label "$LINEAR_LABEL" \
             --statuses "Backlog,Todo" \
@@ -159,7 +184,7 @@ jobs:
             echo "No issues found matching criteria"
           fi
         env:
-          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
+          LINEAR_API_KEY: ${{ steps.linear-auth.outputs.token }}
           LINEAR_TASK_UTILS_TAG: ${{ inputs.linear_task_utils_tag }}
           LINEAR_TEAM: ${{ inputs.linear_team }}
           LINEAR_LABEL: ${{ inputs.linear_label }}

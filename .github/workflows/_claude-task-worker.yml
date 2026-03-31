@@ -13,9 +13,10 @@
 #
 # SECRETS REQUIRED:
 # - ANTHROPIC_API_KEY: Claude API key (required unless CLAUDE_CODE_OAUTH_TOKEN is set)
-# - CLAUDE_CODE_OAUTH_TOKEN: (optional) OAuth token for Claude Code
-# - LINEAR_API_KEY: Linear API key for issue updates
-# - WORKFLOW_PAT: (optional) PAT for pushing branches
+# - CLAUDE_CODE_OAUTH_TOKEN: (optional) OAuth token for Claude Code — takes precedence over API key
+# - LINEAR_CLIENT_ID: Linear OAuth app client ID (client_credentials grant)
+# - LINEAR_CLIENT_SECRET: Linear OAuth app client secret
+# - WORKFLOW_PAT: (optional) PAT or GitHub App token for pushing branches
 
 name: "[claude] Task Worker"
 
@@ -82,7 +83,7 @@ on:
         description: "Enable full Claude Code output for debugging (shows Claude's reasoning)"
         required: false
         type: boolean
-        default: true
+        default: false
 
       pr_type:
         description: "Type of PR to create: 'draft' or 'published'"
@@ -91,10 +92,10 @@ on:
         default: "published"
 
       toolkit_ref:
-        description: "Git ref of ai-toolkit to use for downloading the validate-claude-auth action."
+        description: "Git ref of ai-toolkit to use for downloading the validate-claude-auth action. Pinned to a known-good SHA."
         required: false
         type: string
-        default: "main"
+        default: "db515d00e9e2b6c6efed887473e24db9800b003c" # main as of 2026-03-09
 
     secrets:
       ANTHROPIC_API_KEY:
@@ -105,8 +106,12 @@ on:
         description: "OAuth token for Claude Code (alternative to ANTHROPIC_API_KEY)"
         required: false
 
-      LINEAR_API_KEY:
-        description: "Linear API key for issue updates"
+      LINEAR_CLIENT_ID:
+        description: "Linear OAuth app client ID (client_credentials grant)"
+        required: true
+
+      LINEAR_CLIENT_SECRET:
+        description: "Linear OAuth app client secret"
         required: true
 
       WORKFLOW_PAT:
@@ -199,6 +204,40 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
+      # Exchange Linear OAuth client credentials for an access token
+      - name: Get Linear OAuth token
+        id: linear-auth
+        env:
+          LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
+          LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
+        run: |
+          RESPONSE=$(curl -s -X POST https://api.linear.app/oauth/token \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            -d "grant_type=client_credentials&client_id=${LINEAR_CLIENT_ID}&client_secret=${LINEAR_CLIENT_SECRET}")
+          TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
+          if [ -z "$TOKEN" ] || [ "$TOKEN" = "null" ]; then
+            echo "::error::Failed to obtain Linear OAuth token"
+            echo "$RESPONSE" | jq .
+            exit 1
+          fi
+          echo "::add-mask::$TOKEN"
+          echo "token=$TOKEN" >> "$GITHUB_OUTPUT"
+
+      # Warn about potentially complex tasks
+      - name: Assess task complexity
+        env:
+          ISSUE_DESCRIPTION: ${{ inputs.issue_description }}
+        run: |
+          if echo "$ISSUE_DESCRIPTION" | grep -qiE "(audit|review|decide|discuss|meeting|manual|clarify|unclear|investigate)"; then
+            echo "::warning::This task may require human judgment or clarification"
+            KEYWORDS=$(echo "$ISSUE_DESCRIPTION" | grep -ioE "(audit|review|decide|discuss|meeting|manual|clarify|unclear|investigate)" | sort -u | tr '\n' ', ' | sed 's/,$//')
+            echo "::warning::Keywords found: $KEYWORDS"
+          fi
+          WORD_COUNT=$(echo "$ISSUE_DESCRIPTION" | wc -w | tr -d ' ')
+          if [ "$WORD_COUNT" -gt 500 ]; then
+            echo "::warning::Task description is very long ($WORD_COUNT words) — may exceed 80-turn budget"
+          fi
+
       # Create and push the feature branch
       - name: Create feature branch
         id: create-branch
@@ -283,8 +322,10 @@ jobs:
           ### Phase 1: Understand the Task (turns 1-5)
 
           1. Read CLAUDE.md for repo conventions
-          2. Parse the Linear ticket to extract: token name, symbol, chain, contract address, decimals, logoURI
-          3. Determine the operation type (add, remove, block)
+          2. Parse the Linear ticket to extract ALL tokens listed: for each, get token name, symbol, chain, contract address, decimals, logoURI
+          3. If the ticket contains multiple tokens, you will process all of them in Phase 2
+          4. Determine the operation type (add, remove, block)
+          5. If any required field (especially `decimals` or `logoURI`) is missing from the ticket, do NOT guess or look it up elsewhere. Instead, comment on the Linear ticket asking for the missing information and skip that token.
 
           ### Phase 2: Implementation (turns 6-35)
 
@@ -299,6 +340,10 @@ jobs:
           4. Add the token entry to the **end** of the JSON array with all required fields:
              - `chainId`, `address` (checksummed), `name`, `symbol`, `decimals`, `logoURI`
           5. For Solana tokens (chainId 501000101): addresses are base58, no checksum needed
+
+          6. If the chain file does not exist in `src/tokens/`, do NOT create it — comment on the Linear ticket that the chain is not yet supported and skip that token
+
+          For **multiple tokens**: Repeat steps 1-5 for each token in the ticket. They may go into different chain files.
 
           For **token removals**: Find and remove the entry, use `npm version major` instead of minor.
 
@@ -320,20 +365,28 @@ jobs:
 
           ### Phase 4: Commit and Push (turns 51-60)
 
-          For additions:
+          For additions (single token):
           ```bash
-          git add -A
+          git add src/tokens/CHAIN.json
           git commit -m "add: SYMBOL ($(date +%Y-%m-%d))"
           npm version minor
-          git push origin ${INPUT_BRANCH_NAME}
+          git push --follow-tags origin ${INPUT_BRANCH_NAME}
+          ```
+
+          For additions (multiple tokens):
+          ```bash
+          git add src/tokens/*.json
+          git commit -m "add: SYM1, SYM2 ($(date +%Y-%m-%d))"
+          npm version minor
+          git push --follow-tags origin ${INPUT_BRANCH_NAME}
           ```
 
           For removals:
           ```bash
-          git add -A
+          git add src/tokens/CHAIN.json
           git commit -m "remove: SYMBOL ($(date +%Y-%m-%d))"
           npm version major
-          git push origin ${INPUT_BRANCH_NAME}
+          git push --follow-tags origin ${INPUT_BRANCH_NAME}
           ```
 
           ### Phase 5: Create Pull Request (REQUIRED - turns 61-80)
@@ -393,6 +446,8 @@ jobs:
           echo "PROMPT_DELIM" >> $GITHUB_OUTPUT
 
       # Run Claude Code with Linear MCP configured
+      # Both auth methods are accepted: CLAUDE_CODE_OAUTH_TOKEN takes precedence over ANTHROPIC_API_KEY.
+      # This allows the workflow to work with either auth method configured.
       - name: Run Claude Code
         id: claude
         uses: anthropics/claude-code-action@df37d2f0760a4b5683a6e617c9325bc1a36443f6 # v1.0.75
@@ -404,8 +459,8 @@ jobs:
           claude_args: |
             --model ${{ inputs.model }}
             --max-turns 80
-            --dangerously-skip-permissions
-            --mcp-config '{"mcpServers":{"linear":{"command":"npx","args":["-y","linear-mcp-server"],"env":{"LINEAR_API_KEY":"${{ secrets.LINEAR_API_KEY }}"}}}}'
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(git:*),Bash(yarn:*),Bash(npm:*),Bash(node:*),Bash(gh:*),Bash(ls:*),Bash(jq:*),Bash(cat:*),Bash(echo:*),Bash(date:*),Bash(grep:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
+            --mcp-config '{"mcpServers":{"linear":{"command":"npx","args":["-y","linear-mcp-server@0.1.0"],"env":{"LINEAR_API_KEY":"${{ steps.linear-auth.outputs.token }}"}}}}'
           additional_permissions: |
             actions: read
 
@@ -528,13 +583,12 @@ jobs:
       - name: Update Linear issue
         if: steps.check-pr.outputs.pr_exists == 'true' || steps.fallback-pr.outputs.pr_created == 'true'
         run: |
-          npx "@uniswap/ai-toolkit-linear-task-utils@${LINEAR_TASK_UTILS_TAG}" update-issue \
+          npx "@uniswap/ai-toolkit-linear-task-utils@0.0.18" update-issue \
             --issue-id "$ISSUE_ID" \
             --status "In Progress" \
             --pr-url "$PR_URL"
         env:
-          LINEAR_API_KEY: ${{ secrets.LINEAR_API_KEY }}
-          LINEAR_TASK_UTILS_TAG: ${{ inputs.linear_task_utils_tag }}
+          LINEAR_API_KEY: ${{ steps.linear-auth.outputs.token }}
           ISSUE_ID: ${{ inputs.issue_id }}
           PR_URL: ${{ steps.check-pr.outputs.pr_url || steps.fallback-pr.outputs.pr_url }}
 
