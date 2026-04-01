@@ -21,6 +21,7 @@ const solana = require("./tokens/solana.json");
 const bridgeUtils = require("@uniswap/token-list-bridge-utils");
 const unichain = require("./tokens/unichain.json");
 const xlayer = require("./tokens/xlayer.json");
+const tempo = require("./tokens/tempo.json");
 
 module.exports = async function buildList() {
   const parsed = version.split(".");
@@ -47,6 +48,7 @@ module.exports = async function buildList() {
     ...zora,
     ...unichain,
     ...xlayer,
+    ...tempo,
   ]
     // sort them by symbol for easy readability
     .sort((t1, t2) => {
