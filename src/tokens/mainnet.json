@@ -3095,5 +3095,29 @@
     "symbol": "CHECK",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69231/large/VgVwfk9E_400x400.png?1761800742"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1bAB804803159aD84b8854581AA53AC72455614E",
+    "name": "Syndicate",
+    "symbol": "SYND",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69122/large/synd.png?1757576144"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6aF487BEb661CCeCD1D045E9561A0dAC9AA5c7db",
+    "name": "Dual",
+    "symbol": "DUAL",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39819.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f2b33840227DDD0e28da8d4185D6fa07ADfed87",
+    "name": "Based one",
+    "symbol": "BASED1",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71361/large/based-logo-200x200.png?1774599745"
   }
 ]
