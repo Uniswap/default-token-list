@@ -183,8 +183,7 @@ Filter by address (case-insensitive), then always re-checksum the address from t
 6. Commit: `add: SYMBOL (YYYY-MM-DD)` (or `add: SYM1, SYM2 (YYYY-MM-DD)`)
 7. `npm version minor`
 8. Push branch and create PR (see PR Templates below)
-9. Close any auto-created PRs for the same tokens
-10. **Move ticket(s) to "In Review"** and comment the PR link
+9. **Move ticket(s) to "In Review"** and comment the PR link
 
 ## Standardized Workflow: Removing/Blocking Tokens
 
@@ -217,7 +216,6 @@ When processing multiple token requests of the same operation type, **group them
 
 - Combine all tokens into one commit with comma-separated symbols
 - Link all related Linear tickets in the PR description
-- After creating the combined PR, close any auto-created PRs with "Superseded by #NNN"
 
 ## Quality Checks
 
@@ -289,7 +287,6 @@ EOF
 5. Commit with the standardized message format
 6. Run the appropriate `npm version` command (creates commit + git tag)
 7. Push and create a PR linking all relevant Linear tickets
-8. Close any auto-created PRs for the same tokens with "Superseded by #NNN"
 
 ## Error Handling
 

@@ -126,14 +126,14 @@ jobs:
       target_branch: ${{ inputs.target_branch || 'main' }}
       model: ${{ inputs.model || 'claude-opus-4-6' }}
       timeout_minutes: 30
-      linear_task_utils_tag: ${{ needs.prepare.outputs.linear_task_utils_tag }}
       debug_mode: ${{ inputs.debug_mode }}
     secrets:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
       LINEAR_CLIENT_ID: ${{ secrets.LINEAR_CLIENT_ID }}
       LINEAR_CLIENT_SECRET: ${{ secrets.LINEAR_CLIENT_SECRET }}
-      WORKFLOW_PAT: ${{ secrets.WORKFLOW_PAT }}
+      APP_ID: ${{ secrets.APP_ID }}
+      APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
 
   # Job 3: Summary (always runs)
   summary:

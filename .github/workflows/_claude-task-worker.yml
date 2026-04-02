@@ -16,7 +16,8 @@
 # - CLAUDE_CODE_OAUTH_TOKEN: (optional) OAuth token for Claude Code — takes precedence over API key
 # - LINEAR_CLIENT_ID: Linear OAuth app client ID (client_credentials grant)
 # - LINEAR_CLIENT_SECRET: Linear OAuth app client secret
-# - WORKFLOW_PAT: (optional) PAT or GitHub App token for pushing branches
+# - APP_ID: GitHub App ID for generating short-lived tokens
+# - APP_PRIVATE_KEY: GitHub App private key (PEM format)
 
 name: "[claude] Task Worker"
 
@@ -73,12 +74,6 @@ on:
         type: number
         default: 30
 
-      linear_task_utils_tag:
-        description: "npm tag for @uniswap/ai-toolkit-linear-task-utils (latest or next)"
-        required: false
-        type: string
-        default: "latest"
-
       debug_mode:
         description: "Enable full Claude Code output for debugging (shows Claude's reasoning)"
         required: false
@@ -114,9 +109,13 @@ on:
         description: "Linear OAuth app client secret"
         required: true
 
-      WORKFLOW_PAT:
-        description: "PAT for pushing branches (optional, falls back to GITHUB_TOKEN)"
-        required: false
+      APP_ID:
+        description: "GitHub App ID for generating short-lived tokens (used instead of PAT)"
+        required: true
+
+      APP_PRIVATE_KEY:
+        description: "GitHub App private key in PEM format"
+        required: true
 
 jobs:
   process-task:
@@ -137,18 +136,26 @@ jobs:
         with:
           egress-policy: audit
 
+      # Generate a short-lived token from the GitHub App (replaces long-lived PAT)
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
       # Checkout the target branch
       - name: Checkout repository
         uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
         with:
           ref: ${{ inputs.target_branch }}
           fetch-depth: 50
-          token: ${{ secrets.WORKFLOW_PAT || github.token }}
+          token: ${{ steps.app-token.outputs.token }}
           persist-credentials: false
 
       - name: Configure git credentials for push
         env:
-          GITHUB_TOKEN: ${{ secrets.WORKFLOW_PAT || github.token }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
@@ -213,7 +220,7 @@ jobs:
         run: |
           RESPONSE=$(curl -s -X POST https://api.linear.app/oauth/token \
             -H 'Content-Type: application/x-www-form-urlencoded' \
-            -d "grant_type=client_credentials&client_id=${LINEAR_CLIENT_ID}&client_secret=${LINEAR_CLIENT_SECRET}")
+            -d "grant_type=client_credentials&client_id=${LINEAR_CLIENT_ID}&client_secret=${LINEAR_CLIENT_SECRET}&scope=read,write")
           TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
           if [ -z "$TOKEN" ] || [ "$TOKEN" = "null" ]; then
             echo "::error::Failed to obtain Linear OAuth token"
@@ -373,9 +380,9 @@ jobs:
           git push --follow-tags origin ${INPUT_BRANCH_NAME}
           ```
 
-          For additions (multiple tokens):
+          For additions (multiple tokens — only stage the chain files you actually modified):
           ```bash
-          git add src/tokens/*.json
+          git add src/tokens/mainnet.json src/tokens/base.json  # list only changed files
           git commit -m "add: SYM1, SYM2 ($(date +%Y-%m-%d))"
           npm version minor
           git push --follow-tags origin ${INPUT_BRANCH_NAME}
@@ -445,6 +452,23 @@ jobs:
           echo "$PROMPT" >> $GITHUB_OUTPUT
           echo "PROMPT_DELIM" >> $GITHUB_OUTPUT
 
+      # Build MCP config with Linear token passed via env var (avoids expression injection)
+      - name: Build MCP config
+        id: mcp-config
+        env:
+          LINEAR_TOKEN: ${{ steps.linear-auth.outputs.token }}
+        run: |
+          MCP_CONFIG=$(jq -n -c --arg token "$LINEAR_TOKEN" '{
+            mcpServers: {
+              linear: {
+                command: "npx",
+                args: ["-y", "linear-mcp-server@0.1.0"],
+                env: { LINEAR_API_KEY: $token }
+              }
+            }
+          }')
+          echo "json=$MCP_CONFIG" >> "$GITHUB_OUTPUT"
+
       # Run Claude Code with Linear MCP configured
       # Both auth methods are accepted: CLAUDE_CODE_OAUTH_TOKEN takes precedence over ANTHROPIC_API_KEY.
       # This allows the workflow to work with either auth method configured.
@@ -460,7 +484,7 @@ jobs:
             --model ${{ inputs.model }}
             --max-turns 80
             --allowedTools "Read,Write,Edit,Glob,Grep,Bash(git:*),Bash(yarn:*),Bash(npm:*),Bash(node:*),Bash(gh:*),Bash(ls:*),Bash(jq:*),Bash(cat:*),Bash(echo:*),Bash(date:*),Bash(grep:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
-            --mcp-config '{"mcpServers":{"linear":{"command":"npx","args":["-y","linear-mcp-server@0.1.0"],"env":{"LINEAR_API_KEY":"${{ steps.linear-auth.outputs.token }}"}}}}'
+            --mcp-config '${{ steps.mcp-config.outputs.json }}'
           additional_permissions: |
             actions: read
 
@@ -498,7 +522,7 @@ jobs:
         id: fallback-pr
         if: steps.check-pr.outputs.pr_exists != 'true' && steps.check-commits.outputs.commit_count != '0'
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           ISSUE_IDENTIFIER: ${{ inputs.issue_identifier }}
           ISSUE_URL: ${{ inputs.issue_url }}
           ISSUE_TITLE: ${{ inputs.issue_title }}

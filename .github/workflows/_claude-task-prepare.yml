@@ -134,7 +134,7 @@ jobs:
         run: |
           RESPONSE=$(curl -s -X POST https://api.linear.app/oauth/token \
             -H 'Content-Type: application/x-www-form-urlencoded' \
-            -d "grant_type=client_credentials&client_id=${LINEAR_CLIENT_ID}&client_secret=${LINEAR_CLIENT_SECRET}")
+            -d "grant_type=client_credentials&client_id=${LINEAR_CLIENT_ID}&client_secret=${LINEAR_CLIENT_SECRET}&scope=read,write")
           TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
           if [ -z "$TOKEN" ] || [ "$TOKEN" = "null" ]; then
             echo "::error::Failed to obtain Linear OAuth token"
