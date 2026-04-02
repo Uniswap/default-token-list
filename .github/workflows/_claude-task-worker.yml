@@ -507,105 +507,22 @@ jobs:
             echo "No PR found for branch $BRANCH_NAME"
           fi
 
-      # Check how many commits were made
-      - name: Check commit count
-        id: check-commits
-        env:
-          TARGET_BRANCH: ${{ inputs.target_branch }}
-        run: |
-          COMMITS=$(git log origin/"$TARGET_BRANCH"..HEAD --oneline 2>/dev/null | wc -l | tr -d ' ')
-          echo "commit_count=$COMMITS" >> $GITHUB_OUTPUT
-          echo "Commits made: $COMMITS"
-
-      # Create fallback PR if Claude made commits but didn't create a PR
-      - name: Create fallback PR (if needed)
-        id: fallback-pr
-        if: steps.check-pr.outputs.pr_exists != 'true' && steps.check-commits.outputs.commit_count != '0'
-        env:
-          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
-          ISSUE_IDENTIFIER: ${{ inputs.issue_identifier }}
-          ISSUE_URL: ${{ inputs.issue_url }}
-          ISSUE_TITLE: ${{ inputs.issue_title }}
-          TARGET_BRANCH: ${{ inputs.target_branch }}
-          BRANCH_NAME: ${{ inputs.branch_name }}
-          COMMIT_COUNT: ${{ steps.check-commits.outputs.commit_count }}
-          MODEL: ${{ inputs.model }}
-          PR_TYPE: ${{ inputs.pr_type }}
-        run: |
-          echo "::warning::Claude made ${COMMIT_COUNT} commit(s) but did not create a PR. Creating fallback PR..."
-
-          COMMIT_LOG=$(git log origin/"$TARGET_BRANCH"..HEAD --oneline 2>/dev/null | head -20)
-
-          PR_BODY=$(cat <<BODY_EOF
-          ## Fallback PR - Incomplete Implementation
-
-          Claude exhausted the turn limit or encountered an error before creating a PR.
-          This fallback PR was automatically created to preserve the work.
-
-          **Commits made:** ${COMMIT_COUNT}
-
-          ### Commit Summary
-          \`\`\`
-          ${COMMIT_LOG}
-          \`\`\`
-
-          ### Next Steps
-          - Review the changes made by Claude
-          - Either complete the implementation manually, or
-          - Close this PR and re-run with a more focused task description
-
-          ### Linear Issue
-          ${ISSUE_URL}
-
-          ---
-          *Fallback PR created automatically. Original task used ${MODEL}.*
-          BODY_EOF
-          )
-
-          PR_ARGS=(
-            --title "[${ISSUE_IDENTIFIER}] WIP: Partial implementation (fallback PR)"
-            --body "$PR_BODY"
-            --base "$TARGET_BRANCH"
-            --head "$BRANCH_NAME"
-          )
-
-          if [ "$PR_TYPE" = "draft" ]; then
-            PR_ARGS+=(--draft)
-          fi
-
-          PR_URL=$(gh pr create "${PR_ARGS[@]}")
-
-          echo "Created fallback PR: $PR_URL"
-          echo "pr_url=$PR_URL" >> $GITHUB_OUTPUT
-          echo "pr_created=true" >> $GITHUB_OUTPUT
-
-      # Validate outcome
+      # Validate that Claude created a PR
       - name: Validate outcome
         env:
           PR_EXISTS: ${{ steps.check-pr.outputs.pr_exists }}
-          FALLBACK_PR: ${{ steps.fallback-pr.outputs.pr_created }}
-          COMMITS: ${{ steps.check-commits.outputs.commit_count }}
         run: |
-          echo "PR exists: $PR_EXISTS"
-          echo "Fallback PR created: $FALLBACK_PR"
-          echo "Commits: $COMMITS"
-
           if [ "$PR_EXISTS" == "true" ]; then
-            echo "Task completed successfully with $COMMITS commit(s) and PR created by Claude"
-          elif [ "$FALLBACK_PR" == "true" ]; then
-            echo "::warning::Task partially completed. Fallback PR created with $COMMITS commit(s)."
-          elif [ "${COMMITS:-0}" -eq 0 ]; then
-            echo "::error::Claude did not create any commits or PR for this task"
-            echo "::error::Check Claude's output above (debug_mode is enabled) for reasoning"
-            exit 1
+            echo "Task completed successfully — PR created by Claude"
           else
-            echo "::error::Unexpected state: commits exist but no PR was created"
+            echo "::error::Claude did not create a PR for this task"
+            echo "::error::Check Claude's output above for reasoning"
             exit 1
           fi
 
       # Update Linear issue if PR was created
       - name: Update Linear issue
-        if: steps.check-pr.outputs.pr_exists == 'true' || steps.fallback-pr.outputs.pr_created == 'true'
+        if: steps.check-pr.outputs.pr_exists == 'true'
         run: |
           npx "@uniswap/ai-toolkit-linear-task-utils@0.0.18" update-issue \
             --issue-id "$ISSUE_ID" \
@@ -614,7 +531,7 @@ jobs:
         env:
           LINEAR_API_KEY: ${{ steps.linear-auth.outputs.token }}
           ISSUE_ID: ${{ inputs.issue_id }}
-          PR_URL: ${{ steps.check-pr.outputs.pr_url || steps.fallback-pr.outputs.pr_url }}
+          PR_URL: ${{ steps.check-pr.outputs.pr_url }}
 
       # Create job summary
       - name: Create job summary
@@ -622,57 +539,28 @@ jobs:
         env:
           PR_EXISTS: ${{ steps.check-pr.outputs.pr_exists }}
           PR_URL: ${{ steps.check-pr.outputs.pr_url }}
-          FALLBACK_PR_CREATED: ${{ steps.fallback-pr.outputs.pr_created }}
-          FALLBACK_PR_URL: ${{ steps.fallback-pr.outputs.pr_url }}
-          COMMIT_COUNT: ${{ steps.check-commits.outputs.commit_count }}
           ISSUE_IDENTIFIER: ${{ inputs.issue_identifier }}
           ISSUE_TITLE: ${{ inputs.issue_title }}
           ISSUE_URL: ${{ inputs.issue_url }}
           BRANCH_NAME: ${{ inputs.branch_name }}
           MODEL: ${{ inputs.model }}
-          PR_TYPE: ${{ inputs.pr_type }}
         run: |
           echo "## Task: $ISSUE_IDENTIFIER" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Title:** $ISSUE_TITLE" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Linear Issue:** [$ISSUE_IDENTIFIER]($ISSUE_URL)" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Branch:** \`$BRANCH_NAME\`" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Model:** $MODEL" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Max Turns:** 80" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**PR Type:** $PR_TYPE" >> $GITHUB_STEP_SUMMARY
-          echo "" >> $GITHUB_STEP_SUMMARY
-          echo "**Commits Made:** ${COMMIT_COUNT:-0}" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
 
           if [ "$PR_EXISTS" == "true" ]; then
             echo "**PR Created:** [$PR_URL]($PR_URL)" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
             echo "**Linear Status:** Updated to 'In Progress'" >> $GITHUB_STEP_SUMMARY
-          elif [ "$FALLBACK_PR_CREATED" == "true" ]; then
-            echo "**PR Created:** Fallback PR [$FALLBACK_PR_URL]($FALLBACK_PR_URL)" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            echo "> Claude made ${COMMIT_COUNT} commit(s) but did not create a PR." >> $GITHUB_STEP_SUMMARY
-            echo "> A fallback PR was automatically created to preserve the work." >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            echo "**Linear Status:** Updated to 'In Progress'" >> $GITHUB_STEP_SUMMARY
-            echo "" >> $GITHUB_STEP_SUMMARY
-            echo "**Action Required:** Review fallback PR and complete implementation if needed" >> $GITHUB_STEP_SUMMARY
           else
             echo "**PR Created:** No" >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
-
-            if [ "${COMMIT_COUNT:-0}" -eq 0 ]; then
-              echo "**Failure Reason:** Claude did not create any commits or PR" >> $GITHUB_STEP_SUMMARY
-              echo "" >> $GITHUB_STEP_SUMMARY
-              echo "> Task may be too complex, unclear, or require human judgment." >> $GITHUB_STEP_SUMMARY
-            else
-              echo "**Failure Reason:** Claude created ${COMMIT_COUNT} commit(s) but fallback PR creation failed" >> $GITHUB_STEP_SUMMARY
-            fi
+            echo "> Task may be too complex, unclear, or require human judgment." >> $GITHUB_STEP_SUMMARY
+            echo "> Check Claude's output for reasoning." >> $GITHUB_STEP_SUMMARY
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "**Action Required:** Manual review needed" >> $GITHUB_STEP_SUMMARY
           fi
