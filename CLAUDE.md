@@ -90,7 +90,7 @@ New tokens are appended to the **end** of the appropriate chain JSON file.
 **ALWAYS** verify EVM addresses are EIP-55 checksummed before adding them. This repo has `@ethersproject/address` installed:
 
 ```bash
-node -e "const{getAddress}=require('@ethersproject/address');process.argv.slice(1).forEach(a=>{try{const c=getAddress(a);console.log(a===c?'OK':'MISMATCH',c)}catch(e){console.error('INVALID',a,e.message)}})" 0xADDRESS1 0xADDRESS2
+node scripts/checksum.js 0xADDRESS1 0xADDRESS2
 ```
 
 Solana addresses (chainId 501000101) use base58 and do NOT need checksumming.

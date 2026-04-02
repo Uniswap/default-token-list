@@ -133,7 +133,7 @@ jobs:
       # Generate a short-lived token from the GitHub App (replaces long-lived PAT)
       - name: Generate GitHub App token
         id: app-token
-        uses: actions/create-github-app-token@v1
+        uses: actions/create-github-app-token@d72941d797fd3113feb6b93fd0dec494b13a2547 # v1
         with:
           app-id: ${{ secrets.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
@@ -346,7 +346,7 @@ jobs:
           1. Identify the correct chain JSON file in `src/tokens/` (e.g., `mainnet.json` for Ethereum chain 1)
           2. Verify the EIP-55 checksum of the address:
              ```bash
-             node -e "const{getAddress}=require('@ethersproject/address');process.argv.slice(1).forEach(a=>{try{const c=getAddress(a);console.log(a===c?'OK':'MISMATCH',c)}catch(e){console.error('INVALID',a,e.message)}})" ADDRESS_HERE
+             node scripts/checksum.js ADDRESS_HERE
              ```
           3. Check the token doesn't already exist (grep for the address in the chain file)
           4. Add the token entry to the **end** of the JSON array with all required fields:
@@ -367,10 +367,10 @@ jobs:
           yarn test
 
           # Double-check EIP-55 on any addresses you added
-          node -e "const{getAddress}=require('@ethersproject/address');process.argv.slice(1).forEach(a=>{try{const c=getAddress(a);console.log(a===c?'OK':'MISMATCH',c)}catch(e){console.error('INVALID',a,e.message)}})" ADDED_ADDRESSES_HERE
+          node scripts/checksum.js ADDED_ADDRESSES_HERE
 
           # Verify the JSON is valid
-          node -e "JSON.parse(require('fs').readFileSync('src/tokens/CHAIN.json','utf8'));console.log('Valid JSON')"
+          jq empty src/tokens/CHAIN.json && echo "Valid JSON"
           ```
 
           If tests fail, fix the issue and re-run.
@@ -488,7 +488,7 @@ jobs:
           claude_args: |
             --model ${{ inputs.model }}
             --max-turns 80
-            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(git:*),Bash(yarn:*),Bash(npm:*),Bash(node:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(jq:*),Bash(date:*),Bash(grep:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(node scripts/checksum.js:*),Bash(npm version:*),Bash(yarn test:*),Bash(yarn install:*),Bash(git add:*),Bash(git commit:*),Bash(git push origin:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git ls-remote:*),Bash(git log:*),Bash(git status:*),Bash(git config user:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(jq:*),Bash(date:*),Bash(grep:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
             --mcp-config '${{ steps.mcp-config.outputs.json }}'
           additional_permissions: |
             actions: read
