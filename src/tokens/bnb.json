@@ -1,4 +1,13 @@
 [
+{
+    "chainId": 56,
+    "address": "0xccea547577cbbedfc9e08fec460ec4b5c3542493",
+    "name": "Recondz",
+    "symbol": "RECONDZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/ckho3532-star/recondz-logo/main/recondz.png"
+  }
+  
   {
     "chainId": 56,
     "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
