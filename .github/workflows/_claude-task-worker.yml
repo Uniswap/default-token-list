@@ -86,12 +86,6 @@ on:
         type: string
         default: "published"
 
-      toolkit_ref:
-        description: "Git ref of ai-toolkit to use for downloading the validate-claude-auth action. Pinned to a known-good SHA."
-        required: false
-        type: string
-        default: "db515d00e9e2b6c6efed887473e24db9800b003c" # main as of 2026-03-09
-
     secrets:
       ANTHROPIC_API_KEY:
         description: "Anthropic API key for Claude Code (required unless CLAUDE_CODE_OAUTH_TOKEN is set)"
@@ -162,7 +156,7 @@ jobs:
       # Download validate-claude-auth action from ai-toolkit
       - name: Ensure validate-claude-auth action exists
         env:
-          TOOLKIT_REF: ${{ inputs.toolkit_ref }}
+          TOOLKIT_REF: "db515d00e9e2b6c6efed887473e24db9800b003c" # ai-toolkit main as of 2026-03-09
         run: |
           ACTION_FILE=".github/actions/validate-claude-auth/action.yml"
 
