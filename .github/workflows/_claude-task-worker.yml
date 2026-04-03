@@ -147,11 +147,21 @@ jobs:
           token: ${{ steps.app-token.outputs.token }}
           persist-credentials: false
 
+      # Keep token out of .git/config — use credential helper instead of embedding in remote URL
       - name: Configure git credentials for push
         env:
           GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        run: |
+          git remote set-url origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          HELPER=$(mktemp)
+          cat > "$HELPER" << SCRIPT
+          #!/bin/sh
+          echo "username=x-access-token"
+          echo "password=${GITHUB_TOKEN}"
+          SCRIPT
+          chmod +x "$HELPER"
+          git config --global credential.helper "$HELPER"
 
       # Validate Claude auth (vendored from ai-toolkit@db515d0)
       - name: Validate authentication
