@@ -369,8 +369,7 @@ jobs:
           # Double-check EIP-55 on any addresses you added
           node scripts/checksum.js ADDED_ADDRESSES_HERE
 
-          # Verify the JSON is valid
-          jq empty src/tokens/CHAIN.json && echo "Valid JSON"
+          # yarn test validates JSON, checksums, duplicates, and schema — no separate check needed
           ```
 
           If tests fail, fix the issue and re-run.
@@ -488,10 +487,30 @@ jobs:
           claude_args: |
             --model ${{ inputs.model }}
             --max-turns 80
-            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(node scripts/checksum.js:*),Bash(npm version:*),Bash(yarn test:*),Bash(yarn install:*),Bash(git add src/:*),Bash(git commit:*),Bash(git push origin:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git ls-remote:*),Bash(git log:*),Bash(git status:*),Bash(git config user:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(jq:*),Bash(date:*),Bash(grep:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(node scripts/checksum.js:*),Bash(npm version:*),Bash(yarn test:*),Bash(yarn install:*),Bash(git add src/:*),Bash(git commit -m:*),Bash(git push --follow-tags origin:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git ls-remote:*),Bash(git log:*),Bash(git status:*),Bash(git config user:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(date:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
             --mcp-config '${{ steps.mcp-config.outputs.json }}'
           additional_permissions: |
             actions: read
+
+      # Validate that Claude only modified expected files (defense-in-depth against prompt injection)
+      - name: Validate changed files
+        env:
+          TARGET_BRANCH: ${{ inputs.target_branch }}
+        run: |
+          CHANGED=$(git diff --name-only origin/"$TARGET_BRANCH"..HEAD 2>/dev/null || echo "")
+          if [ -z "$CHANGED" ]; then
+            echo "No files changed"
+            exit 0
+          fi
+          echo "Changed files:"
+          echo "$CHANGED"
+          for f in $CHANGED; do
+            case "$f" in
+              src/tokens/*|package.json|package-lock.json) ;;
+              *) echo "::error::Unexpected file modified: $f — only src/tokens/*, package.json, and package-lock.json are allowed"; exit 1 ;;
+            esac
+          done
+          echo "All changed files are in expected paths"
 
       # Check if a PR was created by Claude
       - name: Check for PR
