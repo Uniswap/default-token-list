@@ -153,42 +153,7 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 
-      # Download validate-claude-auth action from ai-toolkit
-      - name: Ensure validate-claude-auth action exists
-        env:
-          TOOLKIT_REF: "db515d00e9e2b6c6efed887473e24db9800b003c" # ai-toolkit main as of 2026-03-09
-        run: |
-          ACTION_FILE=".github/actions/validate-claude-auth/action.yml"
-
-          if [ -f "$ACTION_FILE" ]; then
-            echo "Using local validate-claude-auth action"
-          else
-            echo "Downloading validate-claude-auth action from ai-toolkit@${TOOLKIT_REF}..."
-            mkdir -p .github/actions/validate-claude-auth
-
-            if ! curl -fSs --max-time 30 --max-redirs 3 \
-                      -H "Accept: application/vnd.github.v4.raw" \
-                      -L "https://api.github.com/repos/Uniswap/ai-toolkit/contents/.github/actions/validate-claude-auth/action.yml?ref=${TOOLKIT_REF}" \
-                      -o "$ACTION_FILE" 2>&1 | tee /tmp/curl-error.log; then
-              echo "::error::Failed to download validate-claude-auth action from ai-toolkit@${TOOLKIT_REF}"
-              cat /tmp/curl-error.log
-              exit 1
-            fi
-
-            if [ ! -s "$ACTION_FILE" ]; then
-              echo "::error::Downloaded action.yml is empty"
-              exit 1
-            fi
-
-            if ! grep -q "^runs:" "$ACTION_FILE"; then
-              echo "::error::Downloaded action.yml is invalid (missing 'runs:' section)"
-              cat "$ACTION_FILE"
-              exit 1
-            fi
-
-            echo "Successfully downloaded validate-claude-auth action from ai-toolkit@${TOOLKIT_REF}"
-          fi
-
+      # Validate Claude auth (vendored from ai-toolkit@db515d0)
       - name: Validate authentication
         uses: ./.github/actions/validate-claude-auth
         with:
