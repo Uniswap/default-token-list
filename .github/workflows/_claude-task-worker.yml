@@ -160,7 +160,7 @@ jobs:
           echo "username=x-access-token"
           echo "password=${GITHUB_TOKEN}"
           SCRIPT
-          chmod +x "$HELPER"
+          chmod 100 "$HELPER"
           git config --global credential.helper "$HELPER"
 
       # Validate Claude auth (vendored from ai-toolkit@db515d0)
