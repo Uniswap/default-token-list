@@ -488,7 +488,7 @@ jobs:
           claude_args: |
             --model ${{ inputs.model }}
             --max-turns 80
-            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(node scripts/checksum.js:*),Bash(npm version:*),Bash(yarn test:*),Bash(yarn install:*),Bash(git add:*),Bash(git commit:*),Bash(git push origin:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git ls-remote:*),Bash(git log:*),Bash(git status:*),Bash(git config user:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(jq:*),Bash(date:*),Bash(grep:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(node scripts/checksum.js:*),Bash(npm version:*),Bash(yarn test:*),Bash(yarn install:*),Bash(git add src/:*),Bash(git commit:*),Bash(git push origin:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git ls-remote:*),Bash(git log:*),Bash(git status:*),Bash(git config user:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(jq:*),Bash(date:*),Bash(grep:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
             --mcp-config '${{ steps.mcp-config.outputs.json }}'
           additional_permissions: |
             actions: read
