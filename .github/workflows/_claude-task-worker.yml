@@ -74,12 +74,6 @@ on:
         type: number
         default: 30
 
-      debug_mode:
-        description: "Enable full Claude Code output for debugging (shows Claude's reasoning)"
-        required: false
-        type: boolean
-        default: false
-
       pr_type:
         description: "Type of PR to create: 'draft' or 'published'"
         required: false
@@ -458,7 +452,7 @@ jobs:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: ${{ steps.build-prompt.outputs.prompt }}
-          show_full_output: ${{ inputs.debug_mode }}
+          show_full_output: false
           claude_args: |
             --model ${{ inputs.model }}
             --max-turns 80
@@ -563,3 +557,12 @@ jobs:
             echo "" >> $GITHUB_STEP_SUMMARY
             echo "**Action Required:** Manual review needed" >> $GITHUB_STEP_SUMMARY
           fi
+
+      # Upload Claude's execution log on failure (only downloadable by repo collaborators)
+      - name: Upload debug artifact
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: claude-debug-${{ inputs.issue_identifier }}
+          path: /home/runner/work/_temp/claude-execution-output.json
+          retention-days: 3
