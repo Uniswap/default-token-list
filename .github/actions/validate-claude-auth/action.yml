@@ -1,0 +1,51 @@
+# Composite action to validate Claude authentication
+# Ensures at least one of ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN is provided
+#
+# Vendored from: Uniswap/ai-toolkit@db515d00e9e2b6c6efed887473e24db9800b003c
+# Source: .github/actions/validate-claude-auth/action.yml
+#
+# Usage:
+#   - name: Validate Authentication
+#     uses: ./.github/actions/validate-claude-auth
+#     with:
+#       anthropic-api-key: ${{ secrets.ANTHROPIC_API_KEY }}
+#       claude-oauth-token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+
+name: 'Validate Claude Authentication'
+description: 'Validates that at least one Claude authentication method is provided'
+
+inputs:
+  anthropic-api-key:
+    description: 'The ANTHROPIC_API_KEY secret value (pass: secrets.ANTHROPIC_API_KEY)'
+    required: false
+    default: ''
+  claude-oauth-token:
+    description: 'The CLAUDE_CODE_OAUTH_TOKEN secret value (pass: secrets.CLAUDE_CODE_OAUTH_TOKEN)'
+    required: false
+    default: ''
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Validate authentication
+      shell: bash
+      env:
+        API_KEY: ${{ inputs.anthropic-api-key }}
+        OAUTH_TOKEN: ${{ inputs.claude-oauth-token }}
+      run: |
+        echo "Validating authentication configuration..."
+
+        if [ -n "$OAUTH_TOKEN" ]; then
+          echo "Using Claude Code OAuth token for authentication"
+        elif [ -n "$API_KEY" ]; then
+          echo "Using Anthropic API key for authentication"
+        else
+          echo "::error::No authentication provided. At least one of ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN must be set."
+          echo ""
+          echo "Authentication options:"
+          echo "  1. ANTHROPIC_API_KEY: Your Anthropic API key"
+          echo "  2. CLAUDE_CODE_OAUTH_TOKEN: OAuth token generated with 'claude setup-token' (Pro/Max users)"
+          echo ""
+          echo "If both are provided, CLAUDE_CODE_OAUTH_TOKEN takes precedence."
+          exit 1
+        fi
