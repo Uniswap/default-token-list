@@ -3119,5 +3119,13 @@
     "symbol": "BASED1",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71361/large/based-logo-200x200.png?1774599745"
+  },
+  {
+    "chainId": 1,
+    "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+    "name": "OKB",
+    "symbol": "OKB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/4463/large/WeChat_Image_20220118095654.png?1696505053"
   }
 ]
