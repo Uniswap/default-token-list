@@ -74,12 +74,6 @@ on:
         type: number
         default: 30
 
-      debug_mode:
-        description: "Enable full Claude Code output for debugging (shows Claude's reasoning)"
-        required: false
-        type: boolean
-        default: false
-
       pr_type:
         description: "Type of PR to create: 'draft' or 'published'"
         required: false
@@ -458,11 +452,11 @@ jobs:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: ${{ steps.build-prompt.outputs.prompt }}
-          show_full_output: ${{ inputs.debug_mode }}
+          show_full_output: false
           claude_args: |
             --model ${{ inputs.model }}
             --max-turns 80
-            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(node scripts/checksum.js:*),Bash(npm version:*),Bash(yarn test:*),Bash(yarn install:*),Bash(git add src/:*),Bash(git commit -m:*),Bash(git push --follow-tags origin:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git ls-remote:*),Bash(git log:*),Bash(git status:*),Bash(git config user:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(date:*),Bash(wc:*),mcp__linear__get_issue,mcp__linear__list_issues,mcp__linear__save_comment,mcp__linear__search_documentation"
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(node scripts/checksum.js:*),Bash(npm version:*),Bash(yarn test:*),Bash(yarn install:*),Bash(git add:*),Bash(git commit:*),Bash(git push --follow-tags origin:*),Bash(git checkout:*),Bash(git fetch:*),Bash(git ls-remote:*),Bash(git log:*),Bash(git status:*),Bash(git config user:*),Bash(gh pr create:*),Bash(gh pr view:*),Bash(ls:*),Bash(date:*),Bash(wc:*),mcp__linear__linear_get_issue,mcp__linear__linear_list_issues,mcp__linear__linear_add_comment,mcp__linear__linear_search_documentation"
             --mcp-config '${{ steps.mcp-config.outputs.json }}'
           additional_permissions: |
             actions: read
