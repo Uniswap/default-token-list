@@ -72,11 +72,6 @@ on:
           - "next"
         default: "next"
 
-      debug_mode:
-        description: "Enable full Claude Code output for debugging"
-        required: false
-        type: boolean
-        default: false
 
 # Prevent concurrent runs
 permissions: {}
@@ -126,7 +121,6 @@ jobs:
       target_branch: ${{ inputs.target_branch || 'main' }}
       model: ${{ inputs.model || 'claude-opus-4-6' }}
       timeout_minutes: 30
-      debug_mode: ${{ inputs.debug_mode }}
     secrets:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}

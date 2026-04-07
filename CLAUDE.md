@@ -120,54 +120,11 @@ save_comment(issueId: "CONS-1234", body: "PR opened: <PR_URL>")
 
 > **Note (autonomous workflow):** When running as part of the Claude Auto Tasks workflow, Linear ticket status updates (In Progress, In Review, Done) are handled by the workflow infrastructure via `linear-task-utils`. Do NOT update ticket status yourself — focus only on reading ticket details and making code changes. You may still comment on tickets if you need to ask for clarification.
 
-### Fallback: Linear GraphQL API via curl
+**Do NOT use curl to access the Linear API.** The `LINEAR_API_KEY` environment variable is not available to you. All Linear operations must go through the MCP tools listed above. If MCP tools are not available, note the issue in the PR description.
 
-If Linear MCP is not available, use the GraphQL API:
+## Token Metadata
 
-- **Auth token**: `${LINEAR_API_KEY}` environment variable (populated by the workflow's OAuth token exchange)
-- **Endpoint**: `https://api.linear.app/graphql`
-
-```bash
-# Fetch a single issue
-curl -s -X POST 'https://api.linear.app/graphql' \
-  -H 'Content-Type: application/json' \
-  -H "Authorization: ${LINEAR_API_KEY}" \
-  -d '{"query":"{ issue(id: \"CONS-1234\") { title description url } }"}'
-```
-
-### Updating Ticket State (curl fallback)
-
-To move a ticket via curl, first get the issue UUID, then look up the target state ID by name:
-
-```bash
-# Get issue UUID and current state
-curl -s -X POST 'https://api.linear.app/graphql' \
-  -H 'Content-Type: application/json' \
-  -H "Authorization: ${LINEAR_API_KEY}" \
-  -d '{"query":"{ issue(id: \"CONS-1234\") { id title state { name } } }"}'
-
-# Get state IDs for the team
-curl -s -X POST 'https://api.linear.app/graphql' \
-  -H 'Content-Type: application/json' \
-  -H "Authorization: ${LINEAR_API_KEY}" \
-  -d '{"query":"{ workflowStates(filter: { team: { name: { eq: \"Consumer Engagement\" } } }) { nodes { id name } } }"}'
-
-# Update issue state (replace STATE_UUID and ISSUE_UUID with actual values)
-curl -s -X POST 'https://api.linear.app/graphql' \
-  -H 'Content-Type: application/json' \
-  -H "Authorization: ${LINEAR_API_KEY}" \
-  -d '{"query":"mutation { issueUpdate(id: \"ISSUE_UUID\", input: { stateId: \"STATE_UUID\" }) { success } }"}'
-```
-
-## Token Metadata Lookup
-
-**Always use metadata from the Linear ticket** — especially the `logoURI` and `decimals`. If any required field is missing from the ticket, do NOT guess or look it up elsewhere. Comment on the Linear ticket asking for the missing information and skip that token.
-
-```
-https://tokens.coingecko.com/uniswap/all.json
-```
-
-Filter by address (case-insensitive), then always re-checksum the address from the result.
+**Always use metadata from the Linear ticket** — especially the `logoURI` and `decimals`. If any required field is missing from the ticket, do NOT guess or look it up elsewhere. Use `mcp__linear__linear_add_comment` to comment on the Linear ticket asking for the missing information, then skip that token.
 
 ## Standardized Workflow: Adding Tokens
 
