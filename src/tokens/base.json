@@ -590,5 +590,13 @@
     "symbol": "SCOR",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71138/large/Scor_logo.jpg?1765957578"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5c97D726bf5130AE15408cE32bc764e458320D2f",
+    "name": "Quai Network",
+    "symbol": "QUAI",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22354.png"
   }
 ]

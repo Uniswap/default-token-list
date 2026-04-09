@@ -3119,5 +3119,13 @@
     "symbol": "OKB",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/4463/large/WeChat_Image_20220118095654.png?1696505053"
+  },
+  {
+    "chainId": 1,
+    "address": "0x70b7f7044D2ca8E2F1E999B90EF16d7Cb7A0cDA1",
+    "name": "Quai Network",
+    "symbol": "QUAI",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22354.png"
   }
 ]
