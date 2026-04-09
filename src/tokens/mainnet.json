@@ -3127,5 +3127,13 @@
     "symbol": "QUAI",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22354.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xA9E8aCf069C58aEc8825542845Fd754e41a9489A",
+    "name": "PepeCoin",
+    "symbol": "PEPECOIN",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/30219/large/pepecoin-icon_200x200.png?1735790725"
   }
 ]
