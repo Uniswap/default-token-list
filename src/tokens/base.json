@@ -590,5 +590,12 @@
     "symbol": "SCOR",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71138/large/Scor_logo.jpg?1765957578"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
+    "name": "CHIP",
+    "symbol": "CHIP",
+    "decimals": 18
   }
 ]
