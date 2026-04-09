@@ -598,5 +598,12 @@
     "symbol": "QUAI",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/22354.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0C1c1C109FE34733fca54b82d7B46B75CFb71F6e",
+    "name": "CHIP",
+    "symbol": "CHIP",
+    "decimals": 18
   }
 ]
