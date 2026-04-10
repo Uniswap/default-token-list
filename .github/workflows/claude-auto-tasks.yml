@@ -22,9 +22,10 @@
 name: Claude Auto Tasks
 
 on:
-  # Run daily at 5am EST (10:00 UTC)
+  # Run twice daily: 5am EST (10:00 UTC) and 2pm EST (19:00 UTC)
   schedule:
     - cron: "0 10 * * *"
+    - cron: "0 19 * * *"
 
   # Manual trigger with inputs
   workflow_dispatch:
