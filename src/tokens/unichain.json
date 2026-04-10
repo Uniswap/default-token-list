@@ -78,5 +78,13 @@
     "symbol": "TAO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
+  },
+  {
+    "chainId": 130,
+    "address": "0x9151434b16b9763660705744891fA906F660EcC5",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
   }
 ]
