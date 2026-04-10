@@ -78,5 +78,13 @@
     "symbol": "WCT",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464"
+  },
+  {
+    "chainId": 10,
+    "address": "0x01bFF41798a0BcF287b996046Ca68b395DbC1071",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
   }
 ]
