@@ -14,5 +14,13 @@
     "symbol": "BTC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png"
+  },
+  {
+    "chainId": 42220,
+    "address": "0xaf37E8B6C9ED7f6318979f56Fc287d76c30847ff",
+    "name": "Tether Gold",
+    "symbol": "XAUt0",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
   }
 ]
