@@ -86,5 +86,13 @@
     "symbol": "SIGN",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/55303/large/sign.jpg?1745303393"
+  },
+  {
+    "chainId": 56,
+    "address": "0x21cAef8A43163Eea865baeE23b9C2E327696A3bf",
+    "name": "Tether Gold",
+    "symbol": "XAUt0",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
   }
 ]

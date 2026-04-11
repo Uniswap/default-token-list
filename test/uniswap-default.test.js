@@ -55,7 +55,7 @@ describe('buildList', () => {
   })
 
   it('contains no duplicate names', () => {
-    const approvedDuplicateNames = ["solana", "jupiter"];
+    const approvedDuplicateNames = ["solana", "jupiter", "tether gold"];
     const map = {};
     for (let token of defaultTokenList.tokens) {
       const key = `${token.chainId}-${token.name.toLowerCase()}`;
