@@ -6,5 +6,13 @@
     "symbol": "USDC.e",
     "decimals": 6,
     "logoURI": "https://esm.sh/gh/tempoxyz/tempo-apps/apps/tokenlist/data/4217/icons/0x20c000000000000000000000b9537d11c60e8b50.svg"
+  },
+  {
+    "chainId": 4217,
+    "address": "0x20C00000000000000000000014f22CA97301EB73",
+    "name": "USDT0",
+    "symbol": "USDT0",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
   }
 ]
