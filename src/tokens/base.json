@@ -605,5 +605,13 @@
     "name": "CHIP",
     "symbol": "CHIP",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFf8104251E7761163faC3211eF5583FB3F8583d6",
+    "name": "REPPO",
+    "symbol": "REPPO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70797/large/h-rOp1hB_400x400_%281%29.jpg?1763879875"
   }
 ]
