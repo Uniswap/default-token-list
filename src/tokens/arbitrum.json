@@ -33,6 +33,14 @@
   },
   {
     "chainId": 42161,
+    "address": "0x010700ab046dd8e92b0e3587842080df36364ed3",
+    "name": "Kinto",
+    "symbol": "K",
+    "decimals": 18,
+    "logoURI": "https://kinto.xyz/k.png"
+  },
+  {
+    "chainId": 42161,
     "address": "0x3A18dcC9745eDcD1Ef33ecB93b0b6eBA5671e7Ca",
     "name": "Kujira",
     "symbol": "KUJI",
