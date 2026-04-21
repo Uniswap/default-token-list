@@ -613,5 +613,13 @@
     "symbol": "REPPO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70797/large/h-rOp1hB_400x400_%281%29.jpg?1763879875"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF4d97F2da56e8c3098f3a8D538DB630A2606a024",
+    "name": "Diem",
+    "symbol": "DIEM",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68436/large/DIEM_SeaMid_-_200px.png?1755734213"
   }
 ]
