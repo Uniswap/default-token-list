@@ -621,5 +621,13 @@
     "symbol": "APXUSD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172243/large/apxUSD.png?1772448502"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFbC2051AE2265686a469421b2C5A2D5462FbF5eB",
+    "name": "Opengradient",
+    "symbol": "OPG",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172863/large/coingecko_logo.png?1776349115"
   }
 ]
