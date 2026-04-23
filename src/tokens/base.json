@@ -613,5 +613,13 @@
     "symbol": "REPPO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/70797/large/h-rOp1hB_400x400_%281%29.jpg?1763879875"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc8707166db335febfa8846995f440dfacc181ee3",
+    "name": "BANGKAR",
+    "symbol": "BANGKAR",
+    "decimals": 18,
+    "logoURI": "https://assets.geckoterminal.com/chziv6s94ohsafkgvyzcj3qib15f"
   }
 ]
