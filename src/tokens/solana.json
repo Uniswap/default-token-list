@@ -1390,5 +1390,13 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 501000101,
+    "address": "WingsAYbfs4qnEgcw8jpSvetqp8XHM3GkKvow54WLcd",
+    "name": "Wingbits",
+    "symbol": "WINGS",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172968/large/wingbits.jpg?1776904828"
   }
 ]
