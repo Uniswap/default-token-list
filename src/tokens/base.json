@@ -623,6 +623,7 @@
     "logoURI": "https://coin-images.coingecko.com/coins/images/68436/large/DIEM_SeaMid_-_200px.png?1755734213"
   },
   {
+    "chainId": 8453,
     "address": "0xD993935E13851dd7517af10687EC7e5022127228",
     "name": "apxUSD",
     "symbol": "APXUSD",
