@@ -3152,4 +3152,12 @@
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172243/large/apxUSD.png?1772448502"
   }
+  {
+  "chainId": 1,
+  "address": "0x236Eb848c95b231299b4aa9f56c73d6893462720",
+  "name": "Yellow",
+  "symbol": "YELLOW",
+  "decimals": 18,
+  "logoURI": "https://scarlet-defeated-leopon-489.mypinata.cloud/ipfs/bafkreigmqi7vpgobds7mtsjxe6z747psd3xq6ilye6rufcb2gwsb7ab3fy"
+}
 ]
