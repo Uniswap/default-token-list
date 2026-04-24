@@ -629,5 +629,13 @@
     "symbol": "OPG",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172863/large/coingecko_logo.png?1776349115"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF4d97F2da56e8c3098f3a8D538DB630A2606a024",
+    "name": "Diem",
+    "symbol": "DIEM",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68436/large/DIEM_SeaMid_-_200px.png?1755734213"
   }
 ]
