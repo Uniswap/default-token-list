@@ -3151,5 +3151,13 @@
     "symbol": "APXUSD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172243/large/apxUSD.png?1772448502"
+  },
+  {
+    "chainId": 1,
+    "address": "0x09B6a9E1DD102bD95B3DD5025bCa3540eBf77982",
+    "name": "Wrapped Ronin",
+    "symbol": "WRON",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27983.png"
   }
 ]
