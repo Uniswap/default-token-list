@@ -3151,5 +3151,13 @@
     "symbol": "APXUSD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172243/large/apxUSD.png?1772448502"
+  },
+  {
+    "chainId": 1,
+    "address": "0x44ff8620b8cA30902395A7bD3F2407e1A091BF73",
+    "name": "Virtuals Protocol",
+    "symbol": "VIRTUAL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
   }
 ]
