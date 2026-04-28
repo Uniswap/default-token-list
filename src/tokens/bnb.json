@@ -94,5 +94,13 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 56,
+    "address": "0x9B638BE56Cd6Be7eA14A866B9EA70BCf578051b6",
+    "name": "Ferenginar",
+    "symbol": "FCOM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/airborneairman/ferenginar/refs/heads/main/LogoFerenginar.png"
   }
 ]
