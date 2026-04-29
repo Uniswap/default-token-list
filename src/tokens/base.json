@@ -637,5 +637,13 @@
     "symbol": "DIEM",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/68436/large/DIEM_SeaMid_-_200px.png?1755734213"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8B7DdE054BE9D180c1Be7FaE0874697374A49832",
+    "name": "Wrapped PROS",
+    "symbol": "PROS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39682.png"
   }
 ]

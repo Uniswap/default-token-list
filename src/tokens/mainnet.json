@@ -3154,6 +3154,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x00BAC91fd8f5b4a0dc03C8021139B76F6549Ee7E",
+    "name": "KAIO",
+    "symbol": "KAIO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172908/large/69d3d03746bf3e4ddbafcf5f_KAIO_Circle_Icon.png?1776526388"
+  },
+  {
+    "chainId": 1,
     "address": "0x09B6a9E1DD102bD95B3DD5025bCa3540eBf77982",
     "name": "Wrapped Ronin",
     "symbol": "WRON",
