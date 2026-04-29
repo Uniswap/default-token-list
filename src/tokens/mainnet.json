@@ -3175,5 +3175,13 @@
     "symbol": "VIRTUAL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d7078DDd6cCFED2F85dB5B7D3Ff16828d378d48",
+    "name": "Gensyn",
+    "symbol": "AI",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39883.png"
   }
 ]
