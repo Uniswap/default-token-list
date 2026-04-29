@@ -653,5 +653,12 @@
     "symbol": "VIRTUAL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11030f79109269d796fd0FB956D6244e502757f7",
+    "name": "Citrea",
+    "symbol": "CTR",
+    "decimals": 18
   }
 ]
