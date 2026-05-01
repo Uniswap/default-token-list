@@ -334,5 +334,13 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
-  }
+  },
+  {
+  "chainId": 137,
+  "address": "0xaE9aBF1090EB04E1b6E83851013C3d8f1189D8C9",
+  "name": "PEDULI",
+  "symbol": "PEDULI",
+  "decimals": 18,
+  "logoURI": "https://peduli.app/logo.svg"
+}
 ]
