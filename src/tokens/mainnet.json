@@ -3183,5 +3183,13 @@
     "symbol": "AI",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39883.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd04175024082F1490135F5D7054aDE0538386Fed",
+    "name": "TICKR",
+    "symbol": "TICKR",
+    "decimals": 18,
+    "logoURI": "https://api.tickr.xyz/images/0xd04175024082f1490135f5d7054ade0538386fed.webp"
   }
 ]
