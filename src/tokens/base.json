@@ -621,5 +621,49 @@
     "symbol": "BANGKAR",
     "decimals": 18,
     "logoURI": "https://assets.geckoterminal.com/chziv6s94ohsafkgvyzcj3qib15f"
+    "address": "0xD993935E13851dd7517af10687EC7e5022127228",
+    "name": "apxUSD",
+    "symbol": "APXUSD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172243/large/apxUSD.png?1772448502"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xFbC2051AE2265686a469421b2C5A2D5462FbF5eB",
+    "name": "Opengradient",
+    "symbol": "OPG",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172863/large/coingecko_logo.png?1776349115"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF4d97F2da56e8c3098f3a8D538DB630A2606a024",
+    "name": "Diem",
+    "symbol": "DIEM",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68436/large/DIEM_SeaMid_-_200px.png?1755734213"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8B7DdE054BE9D180c1Be7FaE0874697374A49832",
+    "name": "Wrapped PROS",
+    "symbol": "PROS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39682.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+    "name": "Virtuals Protocol",
+    "symbol": "VIRTUAL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11030f79109269d796fd0FB956D6244e502757f7",
+    "name": "Citrea",
+    "symbol": "CTR",
+    "decimals": 18
   }
 ]

@@ -1390,5 +1390,21 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 501000101,
+    "address": "WingsAYbfs4qnEgcw8jpSvetqp8XHM3GkKvow54WLcd",
+    "name": "Wingbits",
+    "symbol": "WINGS",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172968/large/wingbits.jpg?1776904828"
+  },
+  {
+    "chainId": 501000101,
+    "address": "2MU93nLHhDsHzgEYBKbVbwLDd2pi71ubGp8SkEv9dZwQ",
+    "name": "Space",
+    "symbol": "SPC",
+    "decimals": 6,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fu2s5el43phn1rq5qc2376uqkp04j&w=64&q=75"
   }
 ]
