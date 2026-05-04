@@ -660,5 +660,13 @@
     "name": "Citrea",
     "symbol": "CTR",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0EbCc78E657b714c1821a1Be0Ad1067100f309f7",
+    "name": "EventTrader 10 Index",
+    "symbol": "ET10",
+    "decimals": 18,
+    "logoURI": "https://cymetica.com/static/images/et10-logo.png"
   }
 ]
