@@ -660,5 +660,13 @@
     "name": "Citrea",
     "symbol": "CTR",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb111E6A2a3bde90856D299d61341ac302167D23",
+    "name": "Coinbase Wrapped MEGA",
+    "symbol": "CBMEGA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102173020/large/megaeth.png?1777256235"
   }
 ]

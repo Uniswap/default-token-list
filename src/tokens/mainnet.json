@@ -3186,6 +3186,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x99E980265Bf36516C442be982df1772a6cCb3233",
+    "name": "REAL",
+    "symbol": "ASSET",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172706/large/download.png?1774982021"
+  },
+  {
+    "chainId": 1,
     "address": "0xE7E7E741C23a4767831A56A8C99F522c5aC1E7E7",
     "name": "Everything",
     "symbol": "EV",
