@@ -3183,5 +3183,13 @@
     "symbol": "AI",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39883.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x99E980265Bf36516C442be982df1772a6cCb3233",
+    "name": "REAL",
+    "symbol": "ASSET",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172706/large/download.png?1774982021"
   }
 ]
