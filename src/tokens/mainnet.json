@@ -3199,5 +3199,12 @@
     "symbol": "EV",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71690/large/EV_token_v2_White.png?1773933783"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf57D49646621F563b0B905aFc8336923AC569Ec5",
+    "name": "Nexus",
+    "symbol": "NEX",
+    "decimals": 18
   }
 ]
