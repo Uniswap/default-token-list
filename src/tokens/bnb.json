@@ -94,5 +94,20 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 56,
+    "address": "0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc",
+    "name": "Zaro Coin",
+    "symbol": "ZARO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68493/large/ZARO_logo_2D.png?1755934268",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7"
+        }
+      }
+    }
   }
 ]

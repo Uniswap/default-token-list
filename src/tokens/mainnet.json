@@ -3199,5 +3199,20 @@
     "symbol": "EV",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71690/large/EV_token_v2_White.png?1773933783"
+  },
+  {
+    "name": "Zaro Coin",
+    "address": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7",
+    "symbol": "ZARO",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68493/large/ZARO_logo_2D.png?1755934268",
+    "extensions": {
+      "bridgeInfo": {
+        "56": {
+          "tokenAddress": "0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc"
+        }
+      }
+    }
   }
 ]
