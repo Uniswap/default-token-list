@@ -14,5 +14,13 @@
     "symbol": "USDT0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+  },
+  {
+    "chainId": 4217,
+    "address": "0x20C000000000000000000000c412Ec89D0c08be5",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
   }
 ]
