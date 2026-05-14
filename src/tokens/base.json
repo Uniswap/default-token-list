@@ -668,5 +668,13 @@
     "symbol": "CBMEGA",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102173020/large/megaeth.png?1777256235"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF970c93D00De94786F6fdABBc63180da1D981bc7",
+    "name": "KORPO",
+    "symbol": "KORPO",
+    "decimals": 18,
+    "logoURI": "https://korpo.pro/assets/korpo-logo-256.png"
   }
 ]
