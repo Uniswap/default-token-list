@@ -668,5 +668,13 @@
     "symbol": "CBMEGA",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102173020/large/megaeth.png?1777256235"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x499D35eBE6cEe9B2Ac35Fd003fcBbeeB9CFc7B32",
+    "name": "Arena Two",
+    "symbol": "ATWO",
+    "decimals": 18,
+    "logoURI": "https://arenatwo.com/token/atwo/logo-200.png"
   }
 ]
