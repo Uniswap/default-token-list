@@ -38,7 +38,7 @@ describe('buildList', () => {
 
   it('contains no duplicate symbols', () => {
     // manual override to approve certain tokens with duplicate symbols
-    const approvedDuplicateSymbols = ["ust", "sol", "jup", 'wbtc', 'lit'];
+    const approvedDuplicateSymbols = ["ust", "sol", "jup", 'wbtc', 'lit', 'ava'];
 
     const map = {};
     for (let token of defaultTokenList.tokens) {
