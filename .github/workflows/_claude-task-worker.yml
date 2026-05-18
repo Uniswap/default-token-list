@@ -420,10 +420,14 @@ jobs:
           PROMPT_EOF
           )
 
-          # Escape for GitHub Actions output
-          echo "prompt<<PROMPT_DELIM" >> $GITHUB_OUTPUT
-          echo "$PROMPT" >> $GITHUB_OUTPUT
-          echo "PROMPT_DELIM" >> $GITHUB_OUTPUT
+          # Escape for GitHub Actions output. Use a per-call unguessable
+          # delimiter so an attacker-controlled INPUT_ISSUE_DESCRIPTION cannot
+          # terminate the heredoc and inject a replacement `prompt<<...` entry
+          # (last-write-wins on duplicate keys per the $GITHUB_OUTPUT spec).
+          PROMPT_DELIM="PROMPT_DELIMITER_$(date +%s%N)_$(openssl rand -hex 16)"
+          echo "prompt<<${PROMPT_DELIM}" >> "$GITHUB_OUTPUT"
+          echo "$PROMPT" >> "$GITHUB_OUTPUT"
+          echo "${PROMPT_DELIM}" >> "$GITHUB_OUTPUT"
 
       # Build MCP config with Linear token passed via env var (avoids expression injection)
       - name: Build MCP config
