@@ -668,5 +668,14 @@
     "symbol": "CBMEGA",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102173020/large/megaeth.png?1777256235"
+  },
+  {
+  "chainId": 8453,
+  "name": "x402 Agentic",
+  "symbol": "X402",
+  "decimals": 18,
+  "address": "0xcab815d8a171091a8647f126e0fb7c009946b162",
+  "logoURI": "https://basescan.org/token/images/x402agentic_x402_64.png",
+  "tags": ["base"]
   }
 ]
