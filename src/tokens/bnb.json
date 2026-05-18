@@ -94,5 +94,13 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 56,
+    "address": "0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6",
+    "name": "Genius",
+    "symbol": "GENIUS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png?1768804210"
   }
 ]
