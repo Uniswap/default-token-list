@@ -3206,5 +3206,21 @@
     "name": "Nexus",
     "symbol": "NEX",
     "decimals": 18
+  },
+  {
+    "name": "K9",
+    "address": "0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930",
+    "symbol": "K9",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbc920c7Fa25D3Cd5606394aa4C6751d71DCb7930/logo.png"
+  },
+  {
+    "name": "World Pup Coin",
+    "address": "0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef",
+    "symbol": "PUPCUP",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x884649f1fE3Bf3Ae0Bd720Eaf660cB561dcE39ef/logo.png"
   }
 ]
