@@ -119,24 +119,36 @@ jobs:
 
     steps:
       # Security scanning — block mode prevents secret exfiltration if RCE is achieved.
-      # Allowlist matches Uniswap/ai-toolkit's other workflow_call workers that
-      # already run in block mode. api.linear.app is included because this worker
-      # talks to Linear via mcp__linear__ tools.
+      #
+      # Allowlist is tuned per-workflow based on empirical egress observed in
+      # 4 dtl Task Worker audit-mode runs (process-task jobs, 2026-04-29 through
+      # 2026-05-13). bullfrog audit-mode logs DNS *replies* only (per source:
+      # agent/queue_audit.nft) so this list captures setup-phase egress
+      # comprehensively but runtime egress only at first DNS resolution.
+      # Required runtime hosts (api.anthropic.com) are added explicitly since
+      # they're invisible to audit after the first resolution-cache hit.
+      #
+      # Empirically observed setup-phase first-resolutions:
+      #   - registry.yarnpkg.com  (yarn install + bun install — dtl uses yarn registry, NOT npmjs)
+      #   - release-assets.githubusercontent.com  (covered by *.githubusercontent.com — setup-node)
+      #   - api.linear.app  (one-time OAuth client_credentials exchange + Linear MCP runtime)
+      #
+      # Required by code but not observable in audit logs (DNS caching):
+      #   - api.anthropic.com  (claude-code-action HTTP keep-alive across 150 turns)
+      #
+      # Intentionally NOT included (no empirical evidence, and unused vs sister workflows):
+      #   - registry.npmjs.org, *.npmjs.org  (dtl uses yarnpkg, never npmjs — 0 audit lines)
+      #   - bun.sh  (setup-bun pulls from github releases via *.githubusercontent.com — 0 audit lines)
+      #   - claude.ai, *.claude.ai  (only used by CLAUDE_CODE_OAUTH_TOKEN path; dtl uses API key)
       - name: Security scanning
         uses: bullfrogsec/bullfrog@1831f79cce8ad602eef14d2163873f27081ebfb3 # v0.8.4
         with:
           egress-policy: block
           allowed-domains: |
-            github.com
-            *.github.com
-            *.githubusercontent.com
+            release-assets.githubusercontent.com
             api.anthropic.com
-            claude.ai
-            *.claude.ai
             api.linear.app
-            bun.sh
-            registry.npmjs.org
-            *.npmjs.org
+            registry.yarnpkg.com
           enable-sudo: false
 
       # Generate a short-lived token from the GitHub App (replaces long-lived PAT)
