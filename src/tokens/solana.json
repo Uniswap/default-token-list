@@ -1409,6 +1409,14 @@
   },
   {
     "chainId": 501000101,
+    "address": "G8LfyGVsjsLzetJ5RWZVAhMo4H9cb58ET1Z6gEZJQdPM",
+    "name": "AVA",
+    "symbol": "AVA",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3014/large/AVA_Logo_160x160px_Black.png?1696503750"
+  },
+  {
+    "chainId": 501000101,
     "address": "METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
     "name": "MetaDAO",
     "symbol": "META",
