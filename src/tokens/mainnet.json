@@ -3206,5 +3206,13 @@
     "name": "Nexus",
     "symbol": "NEX",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xa6C0c097741D55ECd9a3A7DeF3A8253fD022ceB9",
+    "name": "AVA",
+    "symbol": "AVA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3014/large/AVA_Logo_160x160px_Black.png?1696503750"
   }
 ]
