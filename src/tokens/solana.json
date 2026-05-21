@@ -1406,5 +1406,13 @@
     "symbol": "SPC",
     "decimals": 6,
     "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fu2s5el43phn1rq5qc2376uqkp04j&w=64&q=75"
+  },
+  {
+    "chainId": 501000101,
+    "address": "METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
+    "name": "MetaDAO",
+    "symbol": "META",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68320/large/META.png?1755335883"
   }
 ]
