@@ -102,5 +102,13 @@
     "symbol": "AVA",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/3014/large/AVA_Logo_160x160px_Black.png?1696503750"
+  },
+  {
+    "chainId": 56,
+    "address": "0x1F12B85aAC097E43Aa1555b2881E98a51090e9A6",
+    "name": "Genius",
+    "symbol": "GENIUS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png?1768804210"
   }
 ]
