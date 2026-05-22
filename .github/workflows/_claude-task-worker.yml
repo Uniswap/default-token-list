@@ -118,11 +118,38 @@ jobs:
       actions: read
 
     steps:
-      # Security scanning
+      # Security scanning — block mode prevents secret exfiltration if RCE is achieved.
+      #
+      # Allowlist is tuned per-workflow based on empirical egress observed in
+      # 4 dtl Task Worker audit-mode runs (process-task jobs, 2026-04-29 through
+      # 2026-05-13). bullfrog audit-mode logs DNS *replies* only (per source:
+      # agent/queue_audit.nft) so this list captures setup-phase egress
+      # comprehensively but runtime egress only at first DNS resolution.
+      # Required runtime hosts (api.anthropic.com) are added explicitly since
+      # they're invisible to audit after the first resolution-cache hit.
+      #
+      # Empirically observed setup-phase first-resolutions:
+      #   - registry.yarnpkg.com  (yarn install + bun install — dtl uses yarn registry, NOT npmjs)
+      #   - release-assets.githubusercontent.com  (covered by *.githubusercontent.com — setup-node)
+      #   - api.linear.app  (one-time OAuth client_credentials exchange + Linear MCP runtime)
+      #
+      # Required by code but not observable in audit logs (DNS caching):
+      #   - api.anthropic.com  (claude-code-action HTTP keep-alive across 150 turns)
+      #
+      # Intentionally NOT included (no empirical evidence, and unused vs sister workflows):
+      #   - registry.npmjs.org, *.npmjs.org  (dtl uses yarnpkg, never npmjs — 0 audit lines)
+      #   - bun.sh  (setup-bun pulls from github releases via *.githubusercontent.com — 0 audit lines)
+      #   - claude.ai, *.claude.ai  (only used by CLAUDE_CODE_OAUTH_TOKEN path; dtl uses API key)
       - name: Security scanning
         uses: bullfrogsec/bullfrog@1831f79cce8ad602eef14d2163873f27081ebfb3 # v0.8.4
         with:
-          egress-policy: audit
+          egress-policy: block
+          allowed-domains: |
+            release-assets.githubusercontent.com
+            api.anthropic.com
+            api.linear.app
+            registry.yarnpkg.com
+          enable-sudo: false
 
       # Generate a short-lived token from the GitHub App (replaces long-lived PAT)
       - name: Generate GitHub App token
@@ -491,6 +518,41 @@ jobs:
             esac
           done
           echo "All changed files are in expected paths"
+
+          # Path allowlist is necessary but not sufficient: package.json is on
+          # the allowlist (so `npm version` can bump it during release), but a
+          # prompt-injected Claude session could also use that allowance to
+          # inject a malicious dependency. Verify that no dependency-bearing
+          # field changed; only the `version` field is permitted to differ.
+          if echo "$CHANGED" | grep -qE '^package\.json$'; then
+            TARGET_DEPS=$(git show "origin/$TARGET_BRANCH:package.json" 2>/dev/null | jq -S '{dependencies, devDependencies, peerDependencies, optionalDependencies, scripts, bin, main, module, types, exports}')
+            HEAD_DEPS=$(git show "HEAD:package.json" | jq -S '{dependencies, devDependencies, peerDependencies, optionalDependencies, scripts, bin, main, module, types, exports}')
+            if [ "$TARGET_DEPS" != "$HEAD_DEPS" ]; then
+              echo "::error::package.json changed beyond the version field. Autonomous worker may only bump version; dependency/scripts/entrypoint changes require a human PR."
+              echo "--- Diff (sensitive keys) ---"
+              diff <(echo "$TARGET_DEPS") <(echo "$HEAD_DEPS") || true
+              exit 1
+            fi
+            echo "✅ package.json: only version-class fields changed"
+          fi
+          # package-lock.json should regenerate identically when only version
+          # bumps. Verify by reinstalling from package.json and comparing the
+          # resulting lockfile to what Claude produced. This catches an attacker
+          # who tries to land arbitrary content in the lockfile (which npm
+          # would otherwise honor on subsequent `npm ci`).
+          if echo "$CHANGED" | grep -qE '^package-lock\.json$'; then
+            cp package-lock.json /tmp/claude-lockfile.json
+            npm install --package-lock-only --ignore-scripts >/dev/null 2>&1 || {
+              echo "::error::npm install --package-lock-only failed; cannot validate package-lock.json integrity"
+              exit 1
+            }
+            if ! diff -q /tmp/claude-lockfile.json package-lock.json >/dev/null; then
+              echo "::error::package-lock.json contents do not match what npm regenerates from package.json. Autonomous worker may not author lockfile content directly."
+              diff /tmp/claude-lockfile.json package-lock.json | head -40 || true
+              exit 1
+            fi
+            echo "✅ package-lock.json: matches deterministic regeneration from package.json"
+          fi
 
       # Check if a PR was created by Claude
       - name: Check for PR
