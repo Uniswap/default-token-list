@@ -420,10 +420,21 @@ jobs:
           PROMPT_EOF
           )
 
-          # Escape for GitHub Actions output
-          echo "prompt<<PROMPT_DELIM" >> $GITHUB_OUTPUT
-          echo "$PROMPT" >> $GITHUB_OUTPUT
-          echo "PROMPT_DELIM" >> $GITHUB_OUTPUT
+          # Escape for GitHub Actions output. Use a per-call unguessable
+          # delimiter so an attacker-controlled INPUT_ISSUE_DESCRIPTION cannot
+          # terminate the heredoc and inject a replacement `prompt<<...` entry
+          # (last-write-wins on duplicate keys per the $GITHUB_OUTPUT spec).
+          # Fail fast if openssl returns empty (would otherwise silently
+          # degrade the delimiter to a predictable prefix+timestamp), and
+          # refuse to write a body that exceeds the $GITHUB_OUTPUT 1MB
+          # per-value cap (truncation would leave an unclosed heredoc).
+          PROMPT_DELIM_RAND=$(openssl rand -hex 16)
+          [ -n "$PROMPT_DELIM_RAND" ] || { echo "::error::openssl rand returned empty; refusing to write predictable delimiter" >&2; exit 1; }
+          [ "$(printf '%s' "$PROMPT" | wc -c)" -lt 900000 ] || { echo "::error::prompt body exceeds 900KB; would risk \$GITHUB_OUTPUT truncation" >&2; exit 1; }
+          PROMPT_DELIM="PROMPT_DELIMITER_$(date +%s%N)_${PROMPT_DELIM_RAND}"
+          echo "prompt<<${PROMPT_DELIM}" >> "$GITHUB_OUTPUT"
+          echo "$PROMPT" >> "$GITHUB_OUTPUT"
+          echo "${PROMPT_DELIM}" >> "$GITHUB_OUTPUT"
 
       # Build MCP config with Linear token passed via env var (avoids expression injection)
       - name: Build MCP config
