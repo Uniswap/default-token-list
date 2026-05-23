@@ -3211,6 +3211,9 @@
       "bridgeInfo": {
         "56": {
           "tokenAddress": "0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc"
+        },
+        "8453": {
+          "tokenAddress": "0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0"
         }
       }
     }

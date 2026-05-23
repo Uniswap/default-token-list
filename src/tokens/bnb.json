@@ -106,8 +106,12 @@
       "bridgeInfo": {
         "1": {
           "tokenAddress": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7"
+        },
+        "8453": {
+          "tokenAddress": "0x1d4CeA73e212829d06B9a774d2e06be9DEe5AAB0"
         }
       }
     }
   }
 ]
+
