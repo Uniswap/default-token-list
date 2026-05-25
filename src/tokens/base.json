@@ -668,5 +668,13 @@
     "symbol": "CBMEGA",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102173020/large/megaeth.png?1777256235"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE378841a3970FD43ac8aD4D1D77b068C87287e5f",
+    "name": "Anisian",
+    "symbol": "ANI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/anisiananifree/anisian_contracts/main/ipfs/ani-logo-256.png"
   }
 ]
