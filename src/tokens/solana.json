@@ -1422,5 +1422,13 @@
     "symbol": "META",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/68320/large/META.png?1755335883"
+  },
+  {
+    "chainId": 501000101,
+    "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
   }
 ]

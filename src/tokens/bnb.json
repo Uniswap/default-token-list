@@ -110,5 +110,13 @@
     "symbol": "GENIUS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/71660/large/genius.png?1768804210"
+  },
+  {
+    "chainId": 56,
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
   }
 ]
