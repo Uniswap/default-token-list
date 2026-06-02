@@ -110,5 +110,13 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
   }
 ]
