@@ -1430,5 +1430,13 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 501000101,
+    "address": "SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq",
+    "name": "Solstice",
+    "symbol": "SLX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71128/standard/slx.png?1779455873"
   }
 ]

@@ -676,5 +676,12 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x182FA643E5f29d5EcA75e7b9CF9336A3fe4620b2",
+    "name": "o1.exchange",
+    "symbol": "O",
+    "decimals": 18
   }
 ]
