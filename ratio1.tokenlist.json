@@ -1,0 +1,20 @@
+{
+  "name": "Ratio1 Token List",
+  "timestamp": "2025-10-06T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x6444c6c2d527d85ea97032da9a7504d6d1448ecf",
+      "symbol": "R1",
+      "name": "Ratio1",
+      "decimals": 18,
+      "logoURI": "https://res.cloudinary.com/djcbjwqlc/image/upload/v1738940106/TokenR1.png"
+    }
+  ]
+}
+
