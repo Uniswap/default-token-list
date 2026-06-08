@@ -1,0 +1,10 @@
+{
+  "token": {
+    "chainId": 1,
+    "address": "0xe430b07f7b168e77b07b294820dbf89eafa53f484",
+    "name": "One Premium",
+    "symbol": "OPM",
+    "decimals": 18,
+    "logoURI": "https://ipfs.io/ipfs/QmYqusCQtuqlfgtCFS7Fa9AURexTrtRhdZ5hqMtvP4K8Jv/logo.png"
+  }
+}
