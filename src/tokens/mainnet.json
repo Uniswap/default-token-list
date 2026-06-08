@@ -3223,4 +3223,12 @@
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
   }
+  {
+  "chainId": 1,
+  "address": "0xb402525F46e036C727F8b54A862215c3519b7170",
+  "symbol": "MCON",
+  "name": "McConaCoin",
+  "decimals": 18,
+  "logoURI": "https://mcconacoin.com/mcconacoinlogoa.png",
+}
 ]
