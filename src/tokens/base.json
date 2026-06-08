@@ -1,5 +1,13 @@
 [
   {
+  "chainId": 8453,
+  "address": "0xf7412714d2b4ab8e16b977886d0257d1c9ec4368",
+  "name": "TMBOY Vibes",
+  "symbol": "TMBOY",
+  "decimals": 18,
+  "logoURI": "https://cdn.jsdelivr.net/gh/botsradar/tmboy@main/logo_tr250.png"
+},
+  {
     "chainId": 8453,
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
     "name": "USD Base Coin",
