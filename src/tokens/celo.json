@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png"
   },
   {
+    "name": "Ethix",
+    "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+    "symbol": "ETHIX",
+    "decimals": 18,
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_ETHIX.png"
+  },
+  {
     "chainId": 42220,
     "address": "0xD629eb00dEced2a080B7EC630eF6aC117e614f1b",
     "name": "Wrapped Bitcoin",
