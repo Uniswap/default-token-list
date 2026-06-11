@@ -3222,5 +3222,13 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 1,
+    "address": "0x526526528F35AC738177003b8773B402B8Df8143",
+    "name": "RE",
+    "symbol": "RE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173708/standard/RE-Token.png?1781031591"
   }
 ]

@@ -1438,5 +1438,13 @@
     "symbol": "SLX",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/71128/standard/slx.png?1779455873"
+  },
+  {
+    "chainId": 501000101,
+    "address": "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+    "name": "Arcium",
+    "symbol": "ARX",
+    "decimals": 9,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39970.png"
   }
 ]
