@@ -683,5 +683,13 @@
     "name": "o1.exchange",
     "symbol": "O",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x97bE14Dd8f994A5364573BC035D85309E7CB34de",
+    "name": "Jito Staked SOL",
+    "symbol": "JITOSOL",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL_Token_Logo_Green.png?1779807693"
   }
 ]
