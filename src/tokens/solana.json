@@ -1446,5 +1446,13 @@
     "symbol": "ARX",
     "decimals": 9,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39970.png"
+  },
+  {
+    "chainId": 501000101,
+    "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+    "name": "GEODNET",
+    "symbol": "GEOD",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31608/large/Circular_White.png?1696530424"
   }
 ]

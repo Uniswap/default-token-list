@@ -94,5 +94,13 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xb6314518b61b4864162c7aE7fdc36261e0A14C4b",
+    "name": "YOM",
+    "symbol": "YOM",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172602/large/YOM_TOKEN_LOGO_200x200.png?1774193038"
   }
 ]
