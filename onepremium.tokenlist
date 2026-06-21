@@ -1,0 +1,16 @@
+{
+  "name": "One Premium Token List",
+  "logoURI": "https://cloudflare-ipfs.com/ipfs/QmYqusCQtuq1fgtCFS7FaAURexTrtRhdZ5hqMtVP4K8Jv/logo.png",
+  "keywords": ["onepremium", "opm", "token"],
+  "version": {"major":1,"minor":0,"patch":0},
+  "tokens":[
+    {
+      "chainId": 1,
+      "address": "0xe430b07f7b168e77b07b29482dbf89eafa53f484",
+      "name": "One Premium",
+      "symbol": "OPM",
+      "decimals": 18,
+      "logoURI": "https://coral-tremendous-fowl-127.mypinata.cloud/ipfs/bafybeidpwyp3ryeez3z5oizyh6bq64u35gbfkmcccsbfj5igq47yc3r4piQmYqusCQtuq1fgtCFS7FaAURexTrtRhdZ5hqMtVP4K8Jv/logo.png"
+    }
+  ]
+}
