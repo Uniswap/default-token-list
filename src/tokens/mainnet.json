@@ -1,4 +1,12 @@
 [
+    {
+    "name": "AllianceBlock Token",
+    "address": "0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0",
+    "symbol": "ALBT",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x00a8b738E453fFd858a7edf03bcCfe20412f0Eb0/logo.png"
+  },
   {
     "name": "Wrapped Ether",
     "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
