@@ -1,0 +1,18 @@
+[
+  {
+    "chainId": 14,
+    "address": "0x1D80c49BbBCd1C0911346656B529DF9E5c2F783d",
+    "name": "Wrapped Flare",
+    "symbol": "WFLR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/28624/large/FLR-icon200x200.png"
+  },
+  {
+    "chainId": 14,
+    "address": "0xAd552A648C74D49E10027AB8a618A3ad4901c5bE",
+    "name": "FXRP",
+    "symbol": "FXRP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69731/large/fxrp.png"
+  }
+]
