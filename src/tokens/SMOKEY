@@ -1,0 +1,11 @@
+{
+  "tokens": [ 
+    {
+       "chainId": 1,
+       "address": "0x6042d2f9E30b8d26c07Fdca9b7C8EEe54E83DeCB",  
+       "name": "SMOKEY THE BEAR",
+       "symbol" : "SMOKEY",
+       "decimals": 18
+    }
+  ]
+}
