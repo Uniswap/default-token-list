@@ -1,0 +1,10 @@
+{
+  "name": "Nita Coin",
+  "symbol": "NITA",
+  "address": "0x543c24e41005c52DD77E2052579a8D652B6c14d8",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg",
+  "tags": ["utility-token"],
+  "extensions": {}
+}
