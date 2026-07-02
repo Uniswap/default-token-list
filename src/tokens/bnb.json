@@ -118,5 +118,13 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 56,
+    "address": "0x3131f6B80C26936aB03F7d9D29Eb4Ddf36AC3FB5",
+    "name": "Nesa",
+    "symbol": "NES",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30140.png"
   }
 ]

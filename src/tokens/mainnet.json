@@ -3230,5 +3230,28 @@
     "symbol": "RE",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102173708/standard/RE-Token.png?1781031591"
+  },
+  {
+    "chainId": 1,
+    "address": "0x99991c6AAbba5a096f24f250b73580F5179b9999",
+    "name": "Cap",
+    "symbol": "CAP",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/40531.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB30FE1Cf884B48a22a50D22a9282004F2c5E9406",
+    "name": "Grove",
+    "symbol": "GROVE",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x230f1E241C621d5af670Dad83ebCdd18971E2995",
+    "name": "Nesa",
+    "symbol": "NES",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30140.png"
   }
 ]
