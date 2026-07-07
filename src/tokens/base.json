@@ -691,5 +691,309 @@
     "symbol": "JITOSOL",
     "decimals": 9,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL_Token_Logo_Green.png?1779807693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xca4FEB7B88C6A9f3bF10fF0176B05178FCa58E61",
+    "name": "Bankcoin UAE Dirham",
+    "symbol": "kAED",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kAED.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4f2039Ae7973c5e5236DB3E0A1E892288894c998",
+    "name": "Bankcoin Argentine Peso",
+    "symbol": "kARS",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kARS.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeaF04dF1b08A6a72369553f886f2CcfA0205eF4B",
+    "name": "Bankcoin Australian Dollar",
+    "symbol": "kAUD",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kAUD.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x18B258185Fed7571732bF31AE0FD887820969D2e",
+    "name": "Bankcoin Bangladeshi Taka",
+    "symbol": "kBDT",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kBDT.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD3F212dbca70cD493F1D3A20407aABAe34bE3117",
+    "name": "Bankcoin Brazilian Real",
+    "symbol": "kBRL",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kBRL.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB54B1edc7622f6f7E2a3549E019eCdf5B1941DB4",
+    "name": "Bankcoin Canadian Dollar",
+    "symbol": "kCAD",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kCAD.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB64249DA945C3e81f0708069c31B0C0F36D4D806",
+    "name": "Bankcoin Swiss Franc",
+    "symbol": "kCHF",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kCHF.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x68A40D02d1c7F477d1c3D4E60C6A35a737775c0A",
+    "name": "Bankcoin Offshore Yuan",
+    "symbol": "kCNH",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kCNH.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5f7cDa7328E114690a1836Cc39B659604C955D0d",
+    "name": "Bankcoin Egyptian Pound",
+    "symbol": "kEGP",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kEGP.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf9dC39A53F58c6F3e2bcfD44eBbb1585Ced0175e",
+    "name": "Bankcoin Euro",
+    "symbol": "kEUR",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kEUR.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x372117419A8c0F59A79d7fFd8F4A5C6a2b347EDa",
+    "name": "Bankcoin British Pound",
+    "symbol": "kGBP",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kGBP.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x81E7847566E9EfB7e557a4f672B75b1789007b5b",
+    "name": "Bankcoin Ghanaian Cedi",
+    "symbol": "kGHS",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kGHS.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0E8cC7bb79518D355264688D8Cce2895127BeB06",
+    "name": "Bankcoin Hong Kong Dollar",
+    "symbol": "kHKD",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kHKD.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3A61A43c0ef285d05396c91c4BeAc26F960d2f9E",
+    "name": "Bankcoin Indonesian Rupiah",
+    "symbol": "kIDR",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kIDR.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD297e86f33fc01620d07e27BA5B7006e649cb649",
+    "name": "Bankcoin Israeli Shekel",
+    "symbol": "kILS",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kILS.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xac99f373934E44a027b54c1D75222fdc5075448d",
+    "name": "Bankcoin Indian Rupee",
+    "symbol": "kINR",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kINR.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA65CC044383BE92522C9Ce0287838ADd3c999cDb",
+    "name": "Bankcoin Japanese Yen",
+    "symbol": "kJPY",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kJPY.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xee2aA52C8485564CFcdba83CA0EaA9757021d781",
+    "name": "Bankcoin Kenyan Shilling",
+    "symbol": "kKES",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kKES.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0D8afa452EEA89d944D7cf39F111207A02ABb2Aa",
+    "name": "Bankcoin Korean Won",
+    "symbol": "kKRW",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kKRW.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0102D2c860aBdC8e2D1DF04CdC42b593D5a198e3",
+    "name": "Bankcoin Mexican Peso",
+    "symbol": "kMXN",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kMXN.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5ff3473989Dfc004AF09d96f2F473769d60d170a",
+    "name": "Bankcoin Malaysian Ringgit",
+    "symbol": "kMYR",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kMYR.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xd0a0042139d1Febe85b2FfC4f7049E059a6d949F",
+    "name": "Bankcoin Nigerian Naira",
+    "symbol": "kNGN",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kNGN.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x17067A34972699C38cef0ab6Fad6a40299A01FB5",
+    "name": "Bankcoin Norwegian Krone",
+    "symbol": "kNOK",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kNOK.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8E25F1EF537AEF95745468F9174587B764452e9C",
+    "name": "Bankcoin New Zealand Dollar",
+    "symbol": "kNZD",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kNZD.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x94428676620c4444947b4f3E6A4E0D475396F75B",
+    "name": "Bankcoin Philippine Peso",
+    "symbol": "kPHP",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kPHP.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7B8d769C00331a899802B3fa416f8c8F29f2F04F",
+    "name": "Bankcoin Pakistani Rupee",
+    "symbol": "kPKR",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kPKR.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7acA07601659d85bA9f712779A2e82B8708B1Fc5",
+    "name": "Bankcoin Polish Zloty",
+    "symbol": "kPLN",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kPLN.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4653092872bE819CdFf244db8a474BBaeAA2B024",
+    "name": "Bankcoin Saudi Riyal",
+    "symbol": "kSAR",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kSAR.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x436Cca680EFC191E2cb524743B2258b935A326f8",
+    "name": "Bankcoin Swedish Krona",
+    "symbol": "kSEK",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kSEK.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x713E7aF0c03a6C75267E3C52c8a8bFE496C80daC",
+    "name": "Bankcoin Singapore Dollar",
+    "symbol": "kSGD",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kSGD.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x560cf127Fe663442fD327cC37C8005bC48a057f3",
+    "name": "Bankcoin Thai Baht",
+    "symbol": "kTHB",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kTHB.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x31F4e0F58435A7e713886264b0030B5d0fD79cEb",
+    "name": "Bankcoin Turkish Lira",
+    "symbol": "kTRY",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kTRY.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7F423E8c9a3e4F2F82e6461BC9f6c3fae9C8f2eA",
+    "name": "Bankcoin Taiwan Dollar",
+    "symbol": "kTWD",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kTWD.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6FB09847417e33A1CE75d3B324015D4C0AeF4D61",
+    "name": "Bankcoin US Dollar",
+    "symbol": "kUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kUSD.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x451f8C9FD15e2f81CC0e514cC6a5724Dd3537dAc",
+    "name": "Bankcoin Vietnamese Dong",
+    "symbol": "kVND",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kVND.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x02500b0c823C5f66A3A26005E04808f46e0eefdb",
+    "name": "Bankcoin Central African CFA Franc",
+    "symbol": "kXAF",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kXAF.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5916742182196dD698cC3678b723eFf46a81dFFd",
+    "name": "Bankcoin West African CFA Franc",
+    "symbol": "kXOF",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kXOF.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x88c94e53B8b2CeCEA508892b2df24060ed08F0db",
+    "name": "Bankcoin South African Rand",
+    "symbol": "kZAR",
+    "decimals": 6,
+    "logoURI": "https://assets.bankcoin.capital/icons/kstables/kZAR.png"
   }
 ]
