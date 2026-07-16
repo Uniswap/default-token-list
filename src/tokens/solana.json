@@ -1454,5 +1454,13 @@
     "symbol": "GEOD",
     "decimals": 9,
     "logoURI": "https://coin-images.coingecko.com/coins/images/31608/large/Circular_White.png?1696530424"
+  },
+  {
+    "chainId": 501000101,
+    "address": "HVWf8JmLoHs99Lw8Psf3fyqAtA4crWxCPkrmSdNjhNH3",
+    "name": "USDPT",
+    "symbol": "USDPT",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38850.png"
   }
 ]

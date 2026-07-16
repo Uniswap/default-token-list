@@ -3253,5 +3253,21 @@
     "symbol": "NES",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/30140.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x59c323346F4f62aE18289F346501389392cf5939",
+    "name": "NatGold",
+    "symbol": "NATG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173495/standard/NATG-NatGold-Coin.png?1779808623"
+  },
+  {
+    "chainId": 1,
+    "address": "0xAD29F2723fcdBcF665F210F25E06f97477e417cF",
+    "name": "Grvt",
+    "symbol": "GRVT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172513/standard/grvt_400x400.jpg?1773653767"
   }
 ]
