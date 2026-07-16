@@ -3260,7 +3260,7 @@
     "name": "NatGold",
     "symbol": "NATG",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102173495/standard/NATG-NatGold-Coin.png?1779808623"
+    "logoURI": "https://assets.coingecko.com/coins/images/102173495/large/NATG-NatGold-Coin.png?1779808623"
   },
   {
     "chainId": 1,
@@ -3268,6 +3268,6 @@
     "name": "Grvt",
     "symbol": "GRVT",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/102172513/standard/grvt_400x400.jpg?1773653767"
+    "logoURI": "https://assets.coingecko.com/coins/images/102172513/large/grvt_400x400.jpg?1773653767"
   }
 ]
