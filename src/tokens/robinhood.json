@@ -698,5 +698,13 @@
     "name": "Nokia",
     "symbol": "NOK",
     "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0xe934e36A439C94017B64a3FecE66AF12099aBF50",
+    "name": "StonkBroker",
+    "symbol": "STONKBROKER",
+    "decimals": 18,
+    "logoURI": "https://www.stonkbrokers.cash/token-logo.png"
   }
 ]
