@@ -1398,5 +1398,69 @@
     "symbol": "WINGS",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172968/large/wingbits.jpg?1776904828"
+  },
+  {
+    "chainId": 501000101,
+    "address": "2MU93nLHhDsHzgEYBKbVbwLDd2pi71ubGp8SkEv9dZwQ",
+    "name": "Space",
+    "symbol": "SPC",
+    "decimals": 6,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fu2s5el43phn1rq5qc2376uqkp04j&w=64&q=75"
+  },
+  {
+    "chainId": 501000101,
+    "address": "G8LfyGVsjsLzetJ5RWZVAhMo4H9cb58ET1Z6gEZJQdPM",
+    "name": "AVA",
+    "symbol": "AVA",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3014/large/AVA_Logo_160x160px_Black.png?1696503750"
+  },
+  {
+    "chainId": 501000101,
+    "address": "METAwkXcqyXKy1AtsSgJ8JiUHwGCafnZL38n3vYmeta",
+    "name": "MetaDAO",
+    "symbol": "META",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68320/large/META.png?1755335883"
+  },
+  {
+    "chainId": 501000101,
+    "address": "AUSD1jCcCyPLybk1YnvPWsHQSrZ46dxwoMniN4N2UEB9",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 501000101,
+    "address": "SLXdx4BUt2v9uJQNzWqSfzTJ9UKLUDsvxHFMEEdrfgq",
+    "name": "Solstice",
+    "symbol": "SLX",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71128/standard/slx.png?1779455873"
+  },
+  {
+    "chainId": 501000101,
+    "address": "ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+    "name": "Arcium",
+    "symbol": "ARX",
+    "decimals": 9,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39970.png"
+  },
+  {
+    "chainId": 501000101,
+    "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+    "name": "GEODNET",
+    "symbol": "GEOD",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/31608/large/Circular_White.png?1696530424"
+  },
+  {
+    "chainId": 501000101,
+    "address": "HVWf8JmLoHs99Lw8Psf3fyqAtA4crWxCPkrmSdNjhNH3",
+    "name": "USDPT",
+    "symbol": "USDPT",
+    "decimals": 6,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38850.png"
   }
 ]

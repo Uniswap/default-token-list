@@ -24,6 +24,7 @@ const xlayer = require("./tokens/xlayer.json");
 const tempo = require("./tokens/tempo.json");
 const monad = require("./tokens/monad.json");
 const flare = require("./tokens/flare.json");
+const robinhood = require("./tokens/robinhood.json");
 
 module.exports = async function buildList() {
   const parsed = version.split(".");
@@ -53,6 +54,7 @@ module.exports = async function buildList() {
     ...tempo,
     ...monad,
     ...flare,
+    ...robinhood,
   ]
     // sort them by symbol for easy readability
     .sort((t1, t2) => {

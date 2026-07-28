@@ -637,5 +637,59 @@
     "symbol": "DIEM",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/68436/large/DIEM_SeaMid_-_200px.png?1755734213"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x8B7DdE054BE9D180c1Be7FaE0874697374A49832",
+    "name": "Wrapped PROS",
+    "symbol": "PROS",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/39682.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x0b3e328455c4059EEb9e3f84b5543F74E24e7E1b",
+    "name": "Virtuals Protocol",
+    "symbol": "VIRTUAL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11030f79109269d796fd0FB956D6244e502757f7",
+    "name": "Citrea",
+    "symbol": "CTR",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xcb111E6A2a3bde90856D299d61341ac302167D23",
+    "name": "Coinbase Wrapped MEGA",
+    "symbol": "CBMEGA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102173020/large/megaeth.png?1777256235"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x182FA643E5f29d5EcA75e7b9CF9336A3fe4620b2",
+    "name": "o1.exchange",
+    "symbol": "O",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x97bE14Dd8f994A5364573BC035D85309E7CB34de",
+    "name": "Jito Staked SOL",
+    "symbol": "JITOSOL",
+    "decimals": 9,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL_Token_Logo_Green.png?1779807693"
   }
 ]
