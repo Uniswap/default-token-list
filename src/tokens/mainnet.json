@@ -3269,5 +3269,13 @@
     "symbol": "GRVT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172513/large/grvt_400x400.jpg?1773653767"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCE6170EA245dC8D1f275A710a062b70f125F0110",
+    "name": "FXRP",
+    "symbol": "FXRP",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/69731/large/fxrp.png"
   }
 ]
