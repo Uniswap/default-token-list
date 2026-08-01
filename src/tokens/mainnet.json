@@ -3269,5 +3269,13 @@
     "symbol": "GRVT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102172513/large/grvt_400x400.jpg?1773653767"
+  },
+  {
+    "address": "0x3678F4CCD64EBC4D3c816fE251aaEc0aCC21Bcf9",
+    "chainId": 1,
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3678F4CCD64EBC4D3c816fE251aaEc0aCC21Bcf9/logo.png"
   }
 ]
