@@ -691,5 +691,13 @@
     "symbol": "JITOSOL",
     "decimals": 9,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL_Token_Logo_Green.png?1779807693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1a44233FAe8D50F1AeB3a5d58dd426ff4814Cb53",
+    "name": "Squid",
+    "symbol": "QUID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174404/standard/squid.jpg?1783587866"
   }
 ]
