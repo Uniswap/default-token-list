@@ -1,0 +1,32 @@
+{
+    "name": "McConaCoin Token List",
+    "logoURI": "https://mcconacoin.com/mcconacoinlogoa.png",
+    "keywords": [
+        "meme",
+        "community",
+        "finance"
+        "vibes"
+    ],
+    "timestamp": "2024-12-08T00:00:00+00:00",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xb402525F46e036C727F8b54A862215c3519b7170",
+            "symbol": "MCON",
+            "name": "McConaCoin",
+            "decimals": 18,
+            "logoURI": "https://mcconacoin.com/mcconacoinlogoa.png",
+            "tags": [
+                "meme",
+                "community"
+                "vibes"
+                "finance"
+            ]
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
