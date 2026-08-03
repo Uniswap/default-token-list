@@ -305,6 +305,14 @@
   },
   {
     "chainId": 137,
+    "address": "0x5a3999445d4cb78b8560b9083eee7db56f9f046e",
+    "name": "GMIX",
+    "symbol": "GMIX",
+    "decimals": 18,
+    "logoURI": "https://www.gmix.io/logogmix.png"
+  },
+  {
+    "chainId": 137,
     "address": "0x8DE5B80a0C1B02Fe4976851D030B36122dbb8624",
     "name": "Vanar Chain",
     "symbol": "VANRY",
