@@ -691,5 +691,13 @@
     "symbol": "JITOSOL",
     "decimals": 9,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL_Token_Logo_Green.png?1779807693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x26C358F7c5fEdB20a6ddEf108cD91Efb6B8Da0Cb",
+    "name": "Stable Mint USD",
+    "symbol": "USDSM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173681/standard/USDSM-logo-2.png?1780931561"
   }
 ]
