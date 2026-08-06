@@ -1398,5 +1398,13 @@
     "name": "iShares 1-3 Year Treasury Bond ETF",
     "symbol": "SHY",
     "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0x020bfC650A365f8BB26819deAAbF3E21291018b4",
+    "name": "Cash Cat",
+    "symbol": "CASHCAT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174280/standard/cashcat-logo.jpg?1782922765"
   }
 ]
