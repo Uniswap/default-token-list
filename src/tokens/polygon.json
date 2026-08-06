@@ -342,5 +342,13 @@
     "symbol": "AUSD",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 137,
+    "address": "0x2921d67ac78ebda0020f952e51e931ed125e00c1",
+    "name": "Vikasa Network",
+    "symbol": "VIK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/vikasanetwork/vikasa-network-docs/main/assets/vik-logo-256.png"
   }
 ]
