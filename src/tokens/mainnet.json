@@ -3277,5 +3277,13 @@
     "symbol": "USDSM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102173681/standard/USDSM-logo-2.png?1780931561"
-  }
+  },
+  {
+  "name": "Digital Iraqi Dinar",
+  "symbol": "IQD",
+  "address": "0xd71ed2432adf3f7e35a20a4145fbcfba58ce3118",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://i.ibb.co/V0kR3kCW/iqd-logo.png"
+}
 ]
