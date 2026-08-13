@@ -3277,5 +3277,21 @@
     "symbol": "USDSM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102173681/standard/USDSM-logo-2.png?1780931561"
+  },
+  {
+    "chainId": 1,
+    "address": "0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886",
+    "name": "KiiChain",
+    "symbol": "KII",
+    "decimals": 18,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
+  },
+  {
+    "chainId": 1,
+    "address": "0x951f086A127e280724fD93CcC543f65065afEb5E",
+    "name": "DAPPOS",
+    "symbol": "DOS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175433/large/DOS.png?1786300290"
   }
 ]

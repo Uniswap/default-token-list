@@ -126,5 +126,29 @@
     "symbol": "NES",
     "decimals": 18,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/30140.png"
+  },
+  {
+    "chainId": 56,
+    "address": "0xEEC6574eAbBa52bac3f0277F2cD5Ac7e67197886",
+    "name": "KiiChain",
+    "symbol": "KII",
+    "decimals": 18,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
+  },
+  {
+    "chainId": 56,
+    "address": "0xB0f09ea9ae0515C3551080D4a745C8115aA30e37",
+    "name": "DAPPOS",
+    "symbol": "DOS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175433/large/DOS.png?1786300290"
+  },
+  {
+    "chainId": 56,
+    "address": "0x19Ed254efa5E061D28d84650891a3db2A9940C16",
+    "name": "Superp",
+    "symbol": "$SUP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67428/large/sup.jpg?1752741211"
   }
 ]
