@@ -3293,5 +3293,13 @@
     "symbol": "DOS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102175433/large/DOS.png?1786300290"
+  },
+  {
+    "chainId": 1,
+    "address": "0xCf6A0A7826fa124B7705d6f3c675eAD76f1e540D",
+    "name": "AUGUR",
+    "symbol": "REPv2_Yes_1",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175316/standard/REPv2_Icon_-_Full_Color_over_Black.png?1786089410"
   }
 ]
