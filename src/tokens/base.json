@@ -707,5 +707,13 @@
     "symbol": "USDSM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102173681/standard/USDSM-logo-2.png?1780931561"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3EBA6644819546C44Eb3e7c3A92f034f921dcA80",
+    "name": "Kiichain",
+    "symbol": "KII",
+    "decimals": 18,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
   }
 ]
