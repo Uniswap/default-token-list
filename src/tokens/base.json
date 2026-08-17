@@ -715,5 +715,13 @@
     "symbol": "KII",
     "decimals": 18,
     "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x53f39e5C53EE40bbc3Da97C3B47BD2968d110a8D",
+    "name": "Aligned",
+    "symbol": "ALGIN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/53011/standard/signal-2024-12-23-194306_002.png?1735012833"
   }
 ]
