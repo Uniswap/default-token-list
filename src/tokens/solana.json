@@ -1462,5 +1462,13 @@
     "symbol": "USDPT",
     "decimals": 6,
     "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38850.png"
+  },
+  {
+    "chainId": 501000101,
+    "address": "72puLt71H93Z9CzHuBRTwFpL4TG3WZUhnoCC7p8gxigu",
+    "name": "USDGO",
+    "symbol": "USDGO",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172077/standard/USDGO_%287%29.png?1771437018"
   }
 ]
