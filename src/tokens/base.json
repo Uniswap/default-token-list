@@ -718,6 +718,13 @@
   },
   {
     "chainId": 8453,
+    "address": "0x001AAd84c21A5CD4d696C56d44866e9703c43F77",
+    "name": "Cluster Protocol",
+    "symbol": "CP",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
     "address": "0x53f39e5C53EE40bbc3Da97C3B47BD2968d110a8D",
     "name": "Aligned",
     "symbol": "ALIGN",
