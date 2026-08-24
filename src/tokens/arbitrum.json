@@ -126,5 +126,13 @@
     "symbol": "USDSM",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102173681/standard/USDSM-logo-2.png?1780931561"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x12C2dE43878FB1A06C1Ead481f11E0C693a719c7",
+    "name": "DGrid AI",
+    "symbol": "DGAI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175792/large/dgrid.png?1787573447"
   }
 ]

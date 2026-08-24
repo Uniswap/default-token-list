@@ -3301,5 +3301,13 @@
     "symbol": "REPv2_Yes_1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175316/large/REPv2_Icon_-_Full_Color_over_Black.png?1786089410"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c2F61f2E27C865981D2e7aAf6b2CDf823030039",
+    "name": "TermMax",
+    "symbol": "TMX",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172700/large/TMX_Token_Icon_%281%29.png?1774963017"
   }
 ]
