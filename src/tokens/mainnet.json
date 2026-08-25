@@ -3301,5 +3301,13 @@
     "symbol": "REPv2_Yes_1",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102175316/large/REPv2_Icon_-_Full_Color_over_Black.png?1786089410"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904",
+    "name": "Interfold",
+    "symbol": "FOLD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174402/large/fold.jpg?1783586823"
   }
 ]
