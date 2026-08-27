@@ -3309,5 +3309,13 @@
     "symbol": "TMX",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172700/large/TMX_Token_Icon_%281%29.png?1774963017"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904",
+    "name": "Interfold",
+    "symbol": "FOLD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174402/large/fold.jpg?1783586823"
   }
 ]
