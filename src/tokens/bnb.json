@@ -150,5 +150,29 @@
     "symbol": "$SUP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67428/large/sup.jpg?1752741211"
+  },
+  {
+    "chainId": 56,
+    "address": "0x3c2F61f2E27C865981D2e7aAf6b2CDf823030039",
+    "name": "TermMax",
+    "symbol": "TMX",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172700/large/TMX_Token_Icon_%281%29.png?1774963017"
+  },
+  {
+    "chainId": 56,
+    "address": "0x458CB0959b8FdC71ebBD92911777F8c9E814C29c",
+    "name": "Permacast",
+    "symbol": "PWT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175793/large/permacast.jpg?1787581166"
+  },
+  {
+    "chainId": 56,
+    "address": "0x10D4183389e99233db3cc981c43443Ebd28Ebd5e",
+    "name": "DGrid AI",
+    "symbol": "DGAI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175792/large/dgrid.png?1787573447"
   }
 ]

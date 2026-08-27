@@ -3304,6 +3304,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x3c2F61f2E27C865981D2e7aAf6b2CDf823030039",
+    "name": "TermMax",
+    "symbol": "TMX",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172700/large/TMX_Token_Icon_%281%29.png?1774963017"
+  },
+  {
+    "chainId": 1,
     "address": "0x50614CC8e44F7814549c223aA31db9296e58057c",
     "name": "Aligned",
     "symbol": "ALIGN",
