@@ -722,5 +722,29 @@
     "name": "Cluster Protocol",
     "symbol": "CP",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeD664536023d8E4b1640C394777D34aBAFF1dF8F",
+    "name": "Dolphin",
+    "symbol": "POD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70187/large/1_to_1_Dolphin_imresizer.jpg?1760947185"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ec2156D4c0A9CBdAB4a016633b7BcF6a8d68Ea2",
+    "name": "DebtReliefBot",
+    "symbol": "DRB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54784/large/1000143570.jpg?1759054009"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB2000000000000000000004c27f6523082f41D01",
+    "name": "Basecat",
+    "symbol": "BASECAT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175780/large/zi54rndmdx59nblfgry3d1pyckch.?1787558766"
   }
 ]
