@@ -3317,5 +3317,13 @@
     "symbol": "ALIGN",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/53011/standard/signal-2024-12-23-194306_002.png?1735012833"
+  },
+  {
+    "chainId": 1,
+    "address": "0xE172e9B6cfBeeB5593bDcE3f077356FDb33af904",
+    "name": "Interfold",
+    "symbol": "FOLD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174402/large/fold.jpg?1783586823"
   }
 ]
