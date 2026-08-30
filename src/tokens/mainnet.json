@@ -24,6 +24,14 @@
     }
   },
   {
+    "name": "0xBitcoin Token",
+    "address": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31",
+    "symbol": "0xBTC",
+    "decimals": 8,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
+  },
+  {
     "name": "Dai Stablecoin",
     "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "symbol": "DAI",
