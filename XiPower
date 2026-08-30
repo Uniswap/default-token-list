@@ -1,0 +1,20 @@
+{
+  "name": "XiPower Token List",
+  "timestamp": "2025-05-05T15:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xeA6ca78406074A70139227D9F006f9f6C9cA934C",
+      "name": "XiPower",
+      "symbol": "XIP",
+      "decimals": 18,
+      "logoURI": "ipfs://bafkreih7wzbp7rcui2afursgokcp3am3skb3n7rugouwoo2k737wckelfe"
+    }
+  ],
+  "keywords": ["meme", "experimental"]
+}
