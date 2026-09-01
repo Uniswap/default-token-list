@@ -174,5 +174,13 @@
     "symbol": "DGAI",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102175792/large/dgrid.png?1787573447"
+  },
+  {
+    "chainId": 56,
+    "address": "0x9BeEE89723cEeC27d7c2834bec6834208FFdc202",
+    "name": "Avalon",
+    "symbol": "AVL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54119/large/AV.png?1738314011"
   }
 ]

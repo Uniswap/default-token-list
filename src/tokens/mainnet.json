@@ -3317,5 +3317,13 @@
     "symbol": "FOLD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102174402/large/fold.jpg?1783586823"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c8D0C48810FD37A0A824D074ee290E64f7A8Fa2",
+    "name": "Avalon",
+    "symbol": "AVL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54119/large/AV.png?1738314011"
   }
 ]
