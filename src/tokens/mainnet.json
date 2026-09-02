@@ -3317,5 +3317,13 @@
     "symbol": "FOLD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102174402/large/fold.jpg?1783586823"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcE24439F2D9C6a2289F741120FE202248B666666",
+    "name": "United Stables",
+    "symbol": "U",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71157/large/united-stables-logo.jpg?1766061640"
   }
 ]
