@@ -749,6 +749,22 @@
   },
   {
     "chainId": 8453,
+    "address": "0xB200000000000000000000451d033a5000cb479e",
+    "name": "Coinbase Wrapped Hyperliquid",
+    "symbol": "cbHYPE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176592/large/Coinbase_Wrapped_Staked_Hype_%28cbHYPE%29.png?1788278142"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB2000000000000000000008501b13360000cb2EC",
+    "name": "Coinbase Wrapped ZEC",
+    "symbol": "cbZEC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176591/large/Coinbase_Wrapped_ZEC_%28cbZEC%29.png?1788278133"
+  },
+  {
+    "chainId": 8453,
     "address": "0x53f39e5C53EE40bbc3Da97C3B47BD2968d110a8D",
     "name": "Aligned",
     "symbol": "ALIGN",

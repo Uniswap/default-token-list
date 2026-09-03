@@ -1406,5 +1406,13 @@
     "symbol": "CASHCAT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/102174280/standard/cashcat-logo.jpg?1782922765"
+  },
+  {
+    "chainId": 4663,
+    "address": "0xCEC185eB182c47d1bA1EFc84e6959e18cd620Be4",
+    "name": "Coinbase Wrapped BTC",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
   }
 ]
