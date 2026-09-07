@@ -762,5 +762,13 @@
     "symbol": "cbZEC",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102176591/large/Coinbase_Wrapped_ZEC_%28cbZEC%29.png?1788278133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
   }
 ]
