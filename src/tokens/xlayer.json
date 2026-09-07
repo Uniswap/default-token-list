@@ -14,6 +14,14 @@
       "symbol": "USDT0",
       "decimals": 6,
       "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+    },
+    {
+      "chainId": 196,
+      "address": "0x5E49E1f85813F2B65858860A3FA231b4186f2e0E",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
     }
   ]
   

@@ -6,5 +6,13 @@
       "decimals": 6,
       "chainId": 143,
       "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+    },
+    {
+      "chainId": 143,
+      "address": "0x5E49E1f85813F2B65858860A3FA231b4186f2e0E",
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
     }
 ]
