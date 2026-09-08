@@ -691,5 +691,76 @@
     "symbol": "JITOSOL",
     "decimals": 9,
     "logoURI": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL_Token_Logo_Green.png?1779807693"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1a44233FAe8D50F1AeB3a5d58dd426ff4814Cb53",
+    "name": "Squid",
+    "symbol": "QUID",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174404/standard/squid.jpg?1783587866"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x26C358F7c5fEdB20a6ddEf108cD91Efb6B8Da0Cb",
+    "name": "Stable Mint USD",
+    "symbol": "USDSM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173681/standard/USDSM-logo-2.png?1780931561"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3EBA6644819546C44Eb3e7c3A92f034f921dcA80",
+    "name": "Kiichain",
+    "symbol": "KII",
+    "decimals": 18,
+    "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x001AAd84c21A5CD4d696C56d44866e9703c43F77",
+    "name": "Cluster Protocol",
+    "symbol": "CP",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeD664536023d8E4b1640C394777D34aBAFF1dF8F",
+    "name": "Dolphin",
+    "symbol": "POD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70187/large/1_to_1_Dolphin_imresizer.jpg?1760947185"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3ec2156D4c0A9CBdAB4a016633b7BcF6a8d68Ea2",
+    "name": "DebtReliefBot",
+    "symbol": "DRB",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54784/large/1000143570.jpg?1759054009"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB2000000000000000000004c27f6523082f41D01",
+    "name": "Basecat",
+    "symbol": "BASECAT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175780/large/zi54rndmdx59nblfgry3d1pyckch.?1787558766"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB200000000000000000000451d033a5000cb479e",
+    "name": "Coinbase Wrapped Hyperliquid",
+    "symbol": "cbHYPE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176592/large/Coinbase_Wrapped_Staked_Hype_%28cbHYPE%29.png?1788278142"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB2000000000000000000008501b13360000cb2EC",
+    "name": "Coinbase Wrapped ZEC",
+    "symbol": "cbZEC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176591/large/Coinbase_Wrapped_ZEC_%28cbZEC%29.png?1788278133"
   }
 ]
