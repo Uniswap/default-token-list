@@ -3333,5 +3333,12 @@
     "symbol": "AVL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54119/large/AV.png?1738314011"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0A092E544DA31150b439a1aAA1A3a2214a867F46",
+    "name": "Concrete",
+    "symbol": "CT",
+    "decimals": 18
   }
 ]
