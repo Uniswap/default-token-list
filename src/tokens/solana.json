@@ -1470,5 +1470,13 @@
     "symbol": "USDGO",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102172077/large/USDGO_%287%29.png?1771437018"
+  },
+  {
+    "chainId": 501000101,
+    "address": "APhcqtzE73es3KAGiVksZFMLGwJDiAey5qZKUrQHEHfS",
+    "name": "SoFiUSD",
+    "symbol": "SOFID",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71688/standard/CRY25-3266080_StableCoinLogo.png?1768922282"
   }
 ]
