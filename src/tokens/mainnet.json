@@ -3341,5 +3341,12 @@
     "symbol": "SOFID",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/71688/standard/CRY25-3266080_StableCoinLogo.png?1768922282"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0A092E544DA31150b439a1aAA1A3a2214a867F46",
+    "name": "Concrete",
+    "symbol": "CT",
+    "decimals": 18
   }
 ]
