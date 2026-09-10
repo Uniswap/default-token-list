@@ -3341,5 +3341,13 @@
     "symbol": "AVL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54119/large/AV.png?1738314011"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0CB6d03B0aC88A463F67B7Ad99f9f3ec4678092E",
+    "name": "SoFiUSD",
+    "symbol": "SOFID",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71688/standard/CRY25-3266080_StableCoinLogo.png?1768922282"
   }
 ]
