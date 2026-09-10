@@ -1478,5 +1478,13 @@
     "symbol": "SOFID",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/71688/standard/CRY25-3266080_StableCoinLogo.png?1768922282"
+  },
+  {
+    "chainId": 501000101,
+    "address": "CAW777xcHVTQZ4CRwVQGB8CV1BVKPm5bNVxFJHWFKiH8",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 2,
+    "logoURI": "https://assets.coingecko.com/coins/images/36067/standard/200px.png?1710405601"
   }
 ]

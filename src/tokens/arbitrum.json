@@ -134,5 +134,13 @@
     "symbol": "DGAI",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102175792/large/dgrid.png?1787573447"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x16f1967565aaD72DD77588a332CE445e7cEF752b",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 0,
+    "logoURI": "https://assets.coingecko.com/coins/images/36067/standard/200px.png?1710405601"
   }
 ]
