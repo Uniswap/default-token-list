@@ -389,7 +389,14 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png"
+    "logoURI": "https://ethereum-optimism.github.io/data/UNI/logo.png",
+    "extensions": {
+      "bridgeInfo": {
+        "1": {
+          "tokenAddress": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984"
+        }
+      }
+    }
   },
   {
     "chainId": 8453,

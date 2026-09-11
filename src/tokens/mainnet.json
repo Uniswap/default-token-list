@@ -53,7 +53,14 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+    "extensions": {
+      "bridgeInfo": {
+        "8453": {
+          "tokenAddress": "0xc3De830EA07524a0761646a6a4e4be0e114a3C83"
+        }
+      }
+    }
   },
   {
     "name": "Tether USD",
