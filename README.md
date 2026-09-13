@@ -3,16 +3,32 @@
 [![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/Uniswap/default-token-list/actions?query=workflow%3ATests)
 [![npm](https://img.shields.io/npm/v/@uniswap/default-token-list)](https://unpkg.com/@uniswap/default-token-list@latest/)
 
-This NPM module and GitHub repo contains the default token list used in the Uniswap interface.
+This repository contains the **default token list** used by the Uniswap interface.  
+It provides a standard way to share and update token metadata across different applications.
 
-## Adding a token
+---
 
-To request that we add a token to the list, 
-[file an issue](https://github.com/Uniswap/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+## What is a Token List?
 
-### Disclaimer
+A token list is a JSON file that contains information about tokens such as:
+- Token addresses
+- Names
+- Symbols
+- Logos
+- Decimals
 
-Note filing an issue does not guarantee addition to this default token list.
-We do not review token addition requests in any particular order, and we do not
-guarantee that we will review your request to add the token to the default list.
+This list is used by the Uniswap app to show tokens to users and help them interact safely.
 
+---
+
+## Getting Started
+
+If you want to work on this project locally (e.g., to contribute or customize it), follow these steps:
+
+### 1. Clone the Repository
+
+First, clone the project to your local machine:
+
+```bash
+git clone https://github.com/Uniswap/default-token-list.git
+cd default-token-list
