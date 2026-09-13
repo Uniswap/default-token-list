@@ -1,11 +1,11 @@
 [
-  {
+    {
     "name": "Wrapped Ether",
-    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "symbol": "WETH",
+    "address": "0x63eC86fC38A0021FCF4980ADA380FF82c7859788",
+    "symbol": "HAW",
     "decimals": 18,
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+    "logoURI": "https://hardwaretor.com/public/logo.png",
     "extensions": {
       "bridgeInfo": {
         "10": {
@@ -22,6 +22,14 @@
         }
       }
     }
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
   },
   {
     "name": "Dai Stablecoin",
