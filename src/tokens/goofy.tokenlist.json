@@ -1,0 +1,19 @@
+{
+  "name": "My Token List",
+  "timestamp": "2025-01-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x6f6d7E63B7C036f053B103215758068b6Ff1c329",
+      "name": "Goofy",
+      "symbol": "GOGO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/GOOFY-GOGO/GOOFY-GOGO-Distribution-Schedule/refs/heads/main/200x200-GOOFY_GOGO__1_-removebg-preview.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  }
+}
