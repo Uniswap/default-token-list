@@ -763,4 +763,12 @@
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102176591/large/Coinbase_Wrapped_ZEC_%28cbZEC%29.png?1788278133"
   }
+  {
+    "chainId": 8453,
+    "address": "0xF184fCCE25573df753E52914E152eAE5441B6E1B",
+    "name": "Candle",
+    "symbol": "CNDL",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18327.png"
+  }
 ]
