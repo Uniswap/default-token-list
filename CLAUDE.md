@@ -33,6 +33,7 @@ default-token-list/
 │       ├── zksync.json        # zkSync (chainId: 324)
 │       ├── zora.json          # Zora (chainId: 7777777)
 │       ├── xlayer.json        # X Layer (chainId: 196)
+│       ├── ink.json               # Ink (chainId: 57073)
 │       ├── sepolia.json       # Sepolia testnet
 │       ├── goerli.json        # Goerli testnet (deprecated)
 │       ├── kovan.json         # Kovan testnet (deprecated)
@@ -62,6 +63,7 @@ default-token-list/
 | Celo | 42220 | `celo.json` |
 | Avalanche | 43114 | `avalanche.json` |
 | Blast | 81457 | `blast.json` |
+| Ink | 57073 | `ink.json` |
 | Zora | 7777777 | `zora.json` |
 | Solana | 501000101 | `solana.json` |
 
