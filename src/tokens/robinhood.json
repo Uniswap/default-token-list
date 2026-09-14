@@ -1414,5 +1414,13 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
+  },
+  {
+    "chainId": 4663,
+    "address": "0xb22A893a4afDCE12871e61229130490F9422B5B6",
+    "name": "Spiral Stake",
+    "symbol": "SPRL",
+    "decimals": 18,
+    "logoURI": "https://spiralstake.xyz/tokens/sprl.jpg"
   }
 ]
