@@ -762,5 +762,13 @@
     "symbol": "cbZEC",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102176591/large/Coinbase_Wrapped_ZEC_%28cbZEC%29.png?1788278133"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB200000000000000000000cFbdF64a8706a94a01",
+    "name": "BLUE CHIP",
+    "symbol": "BLUECHIP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176736/large/bluechip.jpg?1788619359"
   }
 ]
