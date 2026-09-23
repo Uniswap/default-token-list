@@ -3356,5 +3356,13 @@
     "symbol": "KBTC",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/50879/large/kBTC.png?1730321084"
+  },
+  {
+    "chainId": 1,
+    "address": "0x31EEA0EDeb85B0cB65c1400bd2F4e487fD61B537",
+    "name": "TREAD",
+    "symbol": "TREAD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174405/large/TREAD_token_mark_500x500_black.png?1788233589"
   }
 ]
