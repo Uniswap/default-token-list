@@ -1,0 +1,177 @@
+name: OnePremium (OPM) Auto-Update + SLSA + Uniswap PR
+
+on:
+  workflow_dispatch:
+  release:
+    types: [created]
+
+jobs:
+  update_and_build:
+    runs-on: ubuntu-latest
+    outputs:
+      digests: ${{ steps.hash.outputs.digests }}
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # ========================================================
+      # Step 1: Auto-update OPM token info
+      # ========================================================
+      - name: Update OPM Token Info
+        run: |
+          python3 - << 'EOF'
+          import json, requests, os
+
+          repo_path = os.getcwd()
+          tokenlist_file = os.path.join(repo_path, "tokenlist.json")
+          tokenomics_file = os.path.join(repo_path, "tokenomics.json")
+          social_file = os.path.join(repo_path, "social-links.json")
+          sources_file = os.path.join(repo_path, "sources.json")
+
+          OPM_ADDRESS = "0xE430b07F7B168E77B07b29482DbF89EafA53f484"
+          OPM_TOKEN = {
+              "chainId": 1,
+              "address": OPM_ADDRESS,
+              "name": "OnePremium",
+              "symbol": "OPM",
+              "decimals": 18,
+              "logoURI": f"https://raw.githubusercontent.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/main/opm-logo.svg",
+              "website": "https://onepremium.de",
+              "description": "Verified Ethereum ERC-20 token with high liquidity and DeFi integration.",
+              "socials": {
+                  "telegram": "https://t.me/onepremiumcoin",
+                  "medium": "https://medium.com/@kontakt_32032"
+              }
+          }
+
+          # Fetch live price and market cap
+          url = f"https://api.coingecko.com/api/v3/simple/token_price/ethereum?contract_addresses={OPM_ADDRESS}&vs_currencies=usd,usdt&include_market_cap=true"
+          resp = requests.get(url).json().get(OPM_ADDRESS.lower(), {})
+          OPM_TOKEN["price_usd"] = resp.get("usd", 0)
+          OPM_TOKEN["price_usdt"] = resp.get("usdt", 0)
+          OPM_TOKEN["market_cap"] = resp.get("usd_market_cap", 0)
+
+          # Update tokenlist.json
+          tokens = []
+          if os.path.exists(tokenlist_file):
+              with open(tokenlist_file,"r") as f: tokens = json.load(f)
+          tokens = [t for t in tokens if t.get("address","").lower() != OPM_ADDRESS.lower()]
+          tokens.append(OPM_TOKEN)
+          with open(tokenlist_file,"w") as f: json.dump(tokens,f,indent=2)
+
+          # Update tokenomics.json
+          tokenomics = {
+              "symbol": "OPM",
+              "price_usd": OPM_TOKEN["price_usd"],
+              "price_usdt": OPM_TOKEN["price_usdt"],
+              "market_cap": OPM_TOKEN["market_cap"]
+          }
+          with open(tokenomics_file,"w") as f: json.dump(tokenomics,f,indent=2)
+
+          # Update social-links.json
+          with open(social_file,"w") as f: json.dump(OPM_TOKEN["socials"], f, indent=2)
+
+          # Update sources.json with all links
+          sources = [
+              "https://www.geckoterminal.com/eth/pools/0x1ddb29e16c6b0cc23fea7fd42cf3f6bd368b30c0",
+              "https://dex.coinmarketcap.com/token/ethereum/0xe430b07f7b168e77b07b29482dbf89eafa53f484/",
+              "https://etherscan.io/token/0xE430b07F7B168E77B07b29482DbF89EafA53f484"
+          ]
+          with open(sources_file,"w") as f: json.dump(sources, f, indent=2)
+          EOF
+
+      # ========================================================
+      # Step 2: Prepare artifacts for SLSA
+      # ========================================================
+      - name: Prepare Artifacts
+        run: |
+          mkdir -p artifacts
+          cp opm-logo.svg artifacts/
+          cp tokenlist.json artifacts/
+          cp tokenomics.json artifacts/
+          cp social-links.json artifacts/
+          cp sources.json artifacts/
+          cp README.md artifacts/
+
+      # ========================================================
+      # Step 3: Generate SHA256 digests
+      # ========================================================
+      - name: Generate Provenance Subjects
+        id: hash
+        run: |
+          cd artifacts
+          files=$(ls *)
+          echo "digests=$(sha256sum $files | base64 -w0)" >> "${GITHUB_OUTPUT}"
+
+  slsa:
+    needs: update_and_build
+    permissions:
+      actions: read
+      id-token: write
+      contents: write
+    uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v1.4.0
+    with:
+      base64-subjects: "${{ needs.update_and_build.outputs.digests }}"
+      upload-assets: true
+
+  uniswap_pr:
+    needs: update_and_build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Fork
+        uses: actions/checkout@v4
+        with:
+          repository: ONEPREMIUM-Fundation/default-token-list
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: uniswap
+
+      - name: Create Branch
+        run: |
+          cd uniswap
+          git checkout -b add-opm-token
+
+      - name: Add OPM to mainnet.json
+        run: |
+          cd uniswap/src/tokens
+          python3 - << 'EOF'
+          import json
+          filename = "mainnet.json"
+          OPM_TOKEN = {
+              "chainId": 1,
+              "address": "0xE430b07F7B168E77B07b29482DbF89EafA53f484",
+              "name": "OnePremium",
+              "symbol": "OPM",
+              "decimals": 18,
+              "logoURI": "https://raw.githubusercontent.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/main/opm-logo.svg",
+              "website": "https://onepremium.de",
+              "description": "Verified Ethereum ERC-20 token with high liquidity and DeFi integration.",
+              "socials": {
+                  "telegram": "https://t.me/onepremiumcoin",
+                  "medium": "https://medium.com/@kontakt_32032"
+              }
+          }
+          with open(filename,"r") as f:
+              tokens = json.load(f)
+          tokens = [t for t in tokens if t.get("address","").lower() != OPM_TOKEN["address"].lower()]
+          tokens.append(OPM_TOKEN)
+          with open(filename,"w") as f:
+              json.dump(tokens,f, indent=2)
+          EOF
+
+      - name: Commit and Push
+        run: |
+          cd uniswap
+          git add .
+          git commit -m "Add OnePremium (OPM) token"
+          git push origin add-opm-token
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Add OnePremium (OPM) token"
+          branch: add-opm-token
+          title: "Add OnePremium (OPM) token"
+          body: "Automated PR adding OnePremium (OPM) token to Uniswap default token list."
+          base: main
