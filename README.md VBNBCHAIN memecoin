@@ -1,0 +1,347 @@
+# @uniswap/default-token-list
+
+[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/Uniswap/default-token-list/actions?query=workflow%3ATests)
+[![npm](https://img.shields.io/npm/v/@uniswap/default-token-list)](https://unpkg.com/@uniswap/default-token-list@latest/)
+
+This NPM module and GitHub repo contains the default token list used in the Uniswap interface.
+
+## Adding a token
+
+To request that we add a token to the list, 
+[file an issue](https://github.com/Uniswap/default-token-list/issues/new?assignees=&labels=token+request&template=token-request.md&title=Add+%7BTOKEN_SYMBOL%7D%3A+%7BTOKEN_NAME%7D).
+
+### Disclaimer
+
+Note filing an issue does not guarantee addition to this default token list.
+We do not review token addition requests in any particular order, and we do not
+guarantee that we will review your request to add the token to the default list.
+
+https://i.ibb.co/yssMtBT/image-1-2-1.png
+
+)
+
+{
+
+    "name": "VBNB",
+
+    "type": "BEP20",
+
+    "symbol": "VBNB",
+
+    "decimals": 4,
+
+    "website": "https://tokenworkcom.wordpress.com/#jp-carousel-50",
+
+    "description": "VBNB es un token descentralizado echo en bcscan es un meme Coín ",
+
+    "explorer": "https://bscscan.com/token/0x7E20f650Cd25B72813280933f2754d651601AE6B",
+
+    "status": "active",
+
+    "id": "0x7E20f650Cd25B72813280933f2754d651601AE6B",
+
+    "links": [
+
+        {
+
+            "name": "twitter",
+
+            "url": "https://twitter.com/RaulAra78303627"
+
+        },
+
+        {
+
+            "name": "github",
+
+            "url": "https://github.com/raul836/assets"
+
+        },
+
+        {
+
+            "name": "telegrama",
+
+            "url": "@ReporVBNB"
+
+        },
+
+        {
+
+            "name": "papel blanco",
+
+            "url": "https://tokenworkcom.wordpress.com/#jp-carousel-50"
+
+        },
+
+        {
+
+            "name": "Reddit",
+
+            "url": "https://www.reddit.com/user/Ral633/"
+
+        },
+
+        {
+
+            "name": "coinmarketcap",
+
+            "url": "https://coinmarketcap.com/dexscan/bsc/0x40968913544195fc0609f21a514cf26c30fbc7f7/"
+
+        },
+
+        {
+
+            "name": "medio",
+
+            "url": "https://medium.com/@rauldeleon_32774"
+
+        },
+
+        {
+
+            "name": "Facebook",
+
+            "url": "https://www.facebook.com/profile.php?id=100083171714836&mibextid=ZbWKwL"
+
+        },
+
+        {
+
+            "name": "YouTube",
+
+            "url": "https://youtube.com/@VBNBCHAIN"
+
+        },
+
+        {
+
+            "name": "Blog",
+
+            "url": "https://www.geckoterminal.com/es/bsc/pools/0x40968913544195fc0609f21a514cf26c30fbc7f7"
+
+        },
+
+        {
+
+            "name": "documentos",
+
+            "url": "https://tokenworkcom.wordpress.com/#jp-carousel-50"
+
+        },
+
+        {
+
+            "name": "telegram",
+
+            "url": "https://t.me/"
+
+        },
+
+        {
+
+            "name": "gorjeo",
+
+            "url": "https://twitter.com/RaulAra78303627"
+
+        },
+
+        {
+
+            "name": "telegram_news",
+
+            "url": "https://t.me/@ReporVBNB"
+
+        },
+
+        {
+
+            "name": "blog",
+
+            "url": "https://coinmarketcap.com/dexscan/bsc/0x40968913544195fc0
+
+{
+
+    "name": "VBNB",
+
+    "type": "BEP20",
+
+    "symbol": "VBNB",
+
+    "decimals": 4,
+
+    "website": "https://tokenworkcom.wordpress.com/#jp-carousel-50",
+
+    "description": "VBNB es un token descentralizado echo en bcscan es un meme Coín ",
+
+    "explorer": "https://bscscan.com/token/0x7E20f650Cd25B72813280933f2754d651601AE6B",
+
+    "status": "active",
+
+    "id": "0x7E20f650Cd25B72813280933f2754d651601AE6B",
+
+    "links": [
+
+        {
+
+            "name": "twitter",
+
+            "url": "https://twitter.com/RaulAra78303627"
+
+        },
+
+        {
+
+            "name": "github",
+
+            "url": "https://github.com/raul836/assets"
+
+        },
+
+        {
+
+            "name": "telegrama",
+
+            "url": "@ReporVBNB"
+
+        },
+
+        {
+
+            "name": "papel blanco",
+
+            "url": "https://tokenworkcom.wordpress.com/#jp-carousel-50"
+
+        },
+
+        {
+
+            "name": "Reddit",
+
+            "url": "https://www.reddit.com/user/Ral633/"
+
+        },
+
+        {
+
+            "name": "coinmarketcap",
+
+            "url": "https://coinmarketcap.com/dexscan/bsc/0x40968913544195fc0609f21a514cf26c30fbc7f7/"
+
+        },
+
+        {
+
+            "name": "medio",
+
+            "url": "https://medium.com/@rauldeleon_32774"
+
+        },
+
+        {
+
+            "name": "Facebook",
+
+            "url": "https://www.facebook.com/profile.php?id=100083171714836&mibextid=ZbWKwL"
+
+        },
+
+        {
+
+            "name": "YouTube",
+
+            "url": "https://youtube.com/@VBNBCHAIN"
+
+        },
+
+        {
+
+            "name": "Blog",
+
+            "url": "https://www.geckoterminal.com/es/bsc/pools/0x40968913544195fc0609f21a514cf26c30fbc7f7"
+
+        },
+
+        {
+
+            "name": "documentos",
+
+            "url": "https://tokenworkcom.wordpress.com/#jp-carousel-50"
+
+        },
+
+        {
+
+            "name": "telegram",
+
+            "url": "https://t.me/"
+
+        },
+
+        {
+
+            "name": "gorjeo",
+
+            "url": "https://twitter.com/RaulAra78303627"
+
+        },
+
+        {
+
+            "name": "telegram_news",
+
+            "url": "https://t.me/@ReporVBNB"
+
+        },
+
+        {
+
+            "name": "blog",
+
+            "url": "https://coinmarketcap.com/dexscan/bsc/0x40968913544195fc0609f21a514cf26c30fbc7f7/"
+
+        },
+
+        {
+
+            "name": "foro",
+
+            "url": "0x40968913544195fc0609f21a514cf26c30fbc7f7"
+
+        }
+
+    ],
+
+    "tags": [
+
+        "26",
+
+        "memes"
+
+    ]
+
+} 
+
+< centro >< img src = ' [url=https://ibb.co/yssMtBT][img]https://i.ibb.co/yssMtBT/image-1-2-1.png][/url] ' altura = "200" ></ centro609f21a514cf26c30fbc7f7/"
+
+        },
+
+        {
+
+            "name": "foro",
+
+            "url": "0x40968913544195fc0609f21a514cf26c30fbc7f7"
+
+        }
+
+    ],
+
+    "tags": [
+
+        "26",
+
+        "memes"
+
+    ]
+
+}
