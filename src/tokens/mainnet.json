@@ -3364,5 +3364,13 @@
     "symbol": "TREAD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102174405/large/TREAD_token_mark_500x500_black.png?1788233589"
+  },
+  {
+    "chainId": 1,
+    "address": "0xDFA208BB0B811cFBB5Fa3Ea98Ec37Aa86180e668",
+    "name": "Unicorn Meat",
+    "symbol": "w🍖",
+    "decimals": 3,
+    "logoURI": "https://assets.coingecko.com/coins/images/67761/standard/unicornmeat-logo-200x200.png?1753784314"
   }
 ]
