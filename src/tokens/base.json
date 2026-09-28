@@ -770,5 +770,13 @@
     "symbol": "BLUECHIP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102176736/large/bluechip.jpg?1788619359"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x07b3D902783c3C12b077508c3B5c00113d1291D0",
+    "name": "Doppler",
+    "symbol": "XDP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175227/large/03_Doppler_Symbol_Gradient_onDark_withBG.png?1785842913"
   }
 ]

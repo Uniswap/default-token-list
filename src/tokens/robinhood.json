@@ -1414,5 +1414,12 @@
     "symbol": "cbBTC",
     "decimals": 8,
     "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
+  },
+  {
+    "chainId": 4663,
+    "address": "0x39dBED3a2bd333467115dE45665cC57F813C4571",
+    "name": "Pons",
+    "symbol": "PONS",
+    "decimals": 18
   }
 ]
