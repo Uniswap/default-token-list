@@ -22,5 +22,20 @@
     "symbol": "cbBTC",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
+  },
+  {
+    "chainId": 4217,
+    "address": "0x20c0000000000000000000006a37DA5C996874BE",
+    "name": "OpenUSD",
+    "symbol": "OUSD",
+    "decimals": 6
+  },
+  {
+    "chainId": 4217,
+    "address": "0x20C0000000000000000000000000000000000000",
+    "name": "pathUSD",
+    "symbol": "pathUSD",
+    "decimals": 6,
+    "logoURI": "https://esm.sh/gh/tempoxyz/tempo-apps/apps/tokenlist/data/4217/icons/0x20c0000000000000000000000000000000000000.svg"
   }
 ]
