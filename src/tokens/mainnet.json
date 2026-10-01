@@ -3367,6 +3367,14 @@
   },
   {
     "chainId": 1,
+    "address": "0x9f6F3991D525015a6F8CaF062C83b62fD3AC4436",
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
+  },
+  {
+    "chainId": 1,
     "address": "0x02d54E48eA4dD76a408A7175D466Bb8F578C0e93",
     "name": "Pheasant Network",
     "symbol": "PNT",
