@@ -30,5 +30,13 @@
     "decimals": 18,
     "chainId": 4,
     "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+  },
+  {
+    "name": "TEX token",
+    "address": "0x0e136615f8b4Cdb44a6e6e20722E0A14fF0ca557",
+    "symbol": "TEX",
+    "decimals": 18,
+    "chainId": 4,
+    "logoURI": "ipfs://QmZQyLDfPVioXLnu63jZgADpzHFHHox6Bn1TieUJALZ3eR"
   }
 ]
