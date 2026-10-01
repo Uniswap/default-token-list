@@ -778,5 +778,13 @@
     "symbol": "XDP",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102175227/large/03_Doppler_Symbol_Gradient_onDark_withBG.png?1785842913"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB2000000000000000000002fEb517dFeC7415344",
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
   }
 ]

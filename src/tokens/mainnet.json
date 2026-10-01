@@ -3364,5 +3364,13 @@
     "symbol": "TREAD",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102174405/large/TREAD_token_mark_500x500_black.png?1788233589"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f6F3991D525015a6F8CaF062C83b62fD3AC4436",
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
   }
 ]
