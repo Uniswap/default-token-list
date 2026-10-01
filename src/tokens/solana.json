@@ -1478,5 +1478,13 @@
     "symbol": "SOFID",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/71688/standard/CRY25-3266080_StableCoinLogo.png?1768922282"
+  },
+  {
+    "name": "Open USD",
+    "address": "ousd2mJsPEckLHcSCDxyKD7NDGARZcfLbDZkKiatYHB",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
   }
 ]
