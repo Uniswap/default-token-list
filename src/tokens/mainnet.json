@@ -3372,5 +3372,13 @@
     "symbol": "OUSD",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
   }
 ]
