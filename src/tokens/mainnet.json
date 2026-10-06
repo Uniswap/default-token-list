@@ -3379,6 +3379,25 @@
     "name": "Frankencoin",
     "symbol": "ZCHF",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "137": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "8453": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "42161": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "43114": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        }
+      }
+    }
   }
 ]
