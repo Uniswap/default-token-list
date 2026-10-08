@@ -3375,6 +3375,22 @@
   },
   {
     "chainId": 1,
+    "address": "0x02d54E48eA4dD76a408A7175D466Bb8F578C0e93",
+    "name": "Pheasant Network",
+    "symbol": "PNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174407/standard/PNT.jpg?1783591348"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8De39B057CC6522230AB19C0205080a8663331Ef",
+    "name": "wojak",
+    "symbol": "wojak",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172016/large/usz-J1DohLTr0BHrWVa5zpZ-JocyeixXhmlZT3ytjdOM9cn0aYq6PT8CeUjnGEKAkZSuNa8BW2KkSsCQvYFQe8A-bvqs_AibzILyjP8sIBtqPZu3gTFjLLCvB6WjlzXIrRrnd_Hlg-fKWlf9byXwsQBZqvJ_lC8OHuz351DVfntD30avGrTc3msIIsZzobmywtrwuesT.jpg?1770967858"
+  },
+  {
+    "chainId": 1,
     "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
     "name": "Frankencoin",
     "symbol": "ZCHF",
