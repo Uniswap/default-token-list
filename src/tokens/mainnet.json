@@ -3388,5 +3388,32 @@
     "symbol": "wojak",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172016/large/usz-J1DohLTr0BHrWVa5zpZ-JocyeixXhmlZT3ytjdOM9cn0aYq6PT8CeUjnGEKAkZSuNa8BW2KkSsCQvYFQe8A-bvqs_AibzILyjP8sIBtqPZu3gTFjLLCvB6WjlzXIrRrnd_Hlg-fKWlf9byXwsQBZqvJ_lC8OHuz351DVfntD30avGrTc3msIIsZzobmywtrwuesT.jpg?1770967858"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "137": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "8453": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "42161": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "43114": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        }
+      }
+    }
   }
 ]
