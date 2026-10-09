@@ -1,0 +1,10 @@
+[
+    {
+        "chainId": 7887,
+        "address": "0x010700808D59d2bb92257fCafACfe8e5bFF7aB87",
+        "name": "Kinto",
+        "symbol": "K",
+        "decimals": 18,
+        "logoURI": "https://kinto.xyz/k.png"
+    }
+]
