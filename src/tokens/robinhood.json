@@ -1422,5 +1422,12 @@
     "symbol": "PONS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932"
+  },
+  {
+    "chainId": 4663,
+    "address": "0x974e13C26A2143D6161A08FB00Ac842063A99bA3",
+    "name": "the musebook times",
+    "symbol": "TMT",
+    "decimals": 18
   }
 ]
