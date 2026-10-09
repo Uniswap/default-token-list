@@ -48,6 +48,22 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
   },
   {
+  "chainId": 1,
+  "address": "0x8A0cAC8E7F6305cE6EeB585005919290F78808f9",
+  "name": "Roton",
+  "symbol": "RR",
+  "decimals": 18,
+  "logoURI": "https://githubusercontent.com"
+},
+{
+  "chainId": 1,
+  "address": "0xf3414e85dEa5cf3Fab62F5A967F98Fd032d5BE2A",
+  "name": "Roton",
+  "symbol": "Wrrr",
+  "decimals": 18,
+  "logoURI": "https://githubusercontent.com"
+},
+{
     "name": "Uniswap",
     "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
     "symbol": "UNI",
