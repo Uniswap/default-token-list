@@ -1,4 +1,11 @@
-[
+{
+    "chainId": 8453,
+    "address": "0x7187ae349429f53ebc463ea737e501bfa6a7ec25",
+    "name": "Saven",
+    "symbol": "SAV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/vasyasai/saven_logo/refs/heads/main/saven_logo1.svg"
+  },
   {
     "chainId": 8453,
     "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
