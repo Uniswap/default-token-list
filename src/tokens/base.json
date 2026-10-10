@@ -765,6 +765,14 @@
   },
   {
     "chainId": 8453,
+    "address": "0xA99F6e6785Da0F5d6fB42495Fe424BCE029Eeb3E",
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 8453,
     "address": "0xB200000000000000000000cFbdF64a8706a94a01",
     "name": "BLUE CHIP",
     "symbol": "BLUECHIP",
