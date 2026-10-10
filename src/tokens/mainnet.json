@@ -3333,5 +3333,87 @@
     "symbol": "AVL",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/54119/large/AV.png?1738314011"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0CB6d03B0aC88A463F67B7Ad99f9f3ec4678092E",
+    "name": "SoFiUSD",
+    "symbol": "SOFID",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/71688/standard/CRY25-3266080_StableCoinLogo.png?1768922282"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0A092E544DA31150b439a1aAA1A3a2214a867F46",
+    "name": "Concrete",
+    "symbol": "CT",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
+    "name": "Kraken Wrapped BTC",
+    "symbol": "KBTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50879/large/kBTC.png?1730321084"
+  },
+  {
+    "chainId": 1,
+    "address": "0x31EEA0EDeb85B0cB65c1400bd2F4e487fD61B537",
+    "name": "TREAD",
+    "symbol": "TREAD",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102174405/large/TREAD_token_mark_500x500_black.png?1788233589"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f6F3991D525015a6F8CaF062C83b62fD3AC4436",
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
+  },
+  {
+    "chainId": 1,
+    "address": "0x02d54E48eA4dD76a408A7175D466Bb8F578C0e93",
+    "name": "Pheasant Network",
+    "symbol": "PNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174407/standard/PNT.jpg?1783591348"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8De39B057CC6522230AB19C0205080a8663331Ef",
+    "name": "wojak",
+    "symbol": "wojak",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102172016/large/usz-J1DohLTr0BHrWVa5zpZ-JocyeixXhmlZT3ytjdOM9cn0aYq6PT8CeUjnGEKAkZSuNa8BW2KkSsCQvYFQe8A-bvqs_AibzILyjP8sIBtqPZu3gTFjLLCvB6WjlzXIrRrnd_Hlg-fKWlf9byXwsQBZqvJ_lC8OHuz351DVfntD30avGrTc3msIIsZzobmywtrwuesT.jpg?1770967858"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB58E61C3098d85632Df34EecfB899A1Ed80921cB",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791",
+    "extensions": {
+      "bridgeInfo": {
+        "10": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "137": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "8453": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "42161": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        },
+        "43114": {
+          "tokenAddress": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553"
+        }
+      }
+    }
   }
 ]

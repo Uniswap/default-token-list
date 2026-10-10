@@ -350,5 +350,13 @@
     "symbol": "KII",
     "decimals": 18,
     "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fvz4uzyti7ibz7t9c23rb6jp6lbep&w=128&q=75"
+  },
+  {
+    "chainId": 137,
+    "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
   }
 ]

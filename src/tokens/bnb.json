@@ -198,5 +198,13 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 56,
+    "address": "0x6bf62ca91e397B5A7d1D6bCe97D9092065d7A510",
+    "name": "ONEchain",
+    "symbol": "ONE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67058/large/ONE_logo_200x200.png?1787648216"
   }
 ]

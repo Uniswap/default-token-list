@@ -770,5 +770,37 @@
     "symbol": "PENDLE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB200000000000000000000cFbdF64a8706a94a01",
+    "name": "BLUE CHIP",
+    "symbol": "BLUECHIP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176736/large/bluechip.jpg?1788619359"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x07b3D902783c3C12b077508c3B5c00113d1291D0",
+    "name": "Doppler",
+    "symbol": "XDP",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175227/large/03_Doppler_Symbol_Gradient_onDark_withBG.png?1785842913"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB2000000000000000000002fEb517dFeC7415344",
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
   }
 ]

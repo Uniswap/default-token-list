@@ -86,5 +86,13 @@
     "symbol": "USDT0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+  },
+  {
+    "chainId": 130,
+    "address": "0x73E0C0d45E048D25Fc26Fa3159b0aA04BfA4Db98",
+    "name": "Kraken Wrapped BTC",
+    "symbol": "KBTC",
+    "decimals": 8,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/50879/large/kBTC.png?1730321084"
   }
 ]

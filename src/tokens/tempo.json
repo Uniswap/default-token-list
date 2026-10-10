@@ -22,5 +22,13 @@
     "symbol": "cbBTC",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
+  },
+  {
+    "chainId": 4217,
+    "address": "0x20c0000000000000000000006a37DA5C996874BE",
+    "name": "Open USD",
+    "symbol": "OUSD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
   }
 ]
