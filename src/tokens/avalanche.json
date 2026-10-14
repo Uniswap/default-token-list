@@ -102,5 +102,13 @@
     "symbol": "YOM",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172602/large/YOM_TOKEN_LOGO_200x200.png?1774193038"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
   }
 ]
