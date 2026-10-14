@@ -142,5 +142,13 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x004B506865409877C9fA29bfb1ebA929984B9bbC",
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
   }
 ]

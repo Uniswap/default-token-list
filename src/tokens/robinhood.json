@@ -1422,5 +1422,13 @@
     "symbol": "PONS",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102174571/large/jhitvkisdq8fhxvimdkpcw7y3dx5.?1784093932"
+  },
+  {
+    "chainId": 4663,
+    "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
   }
 ]
