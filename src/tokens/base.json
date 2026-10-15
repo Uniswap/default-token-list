@@ -1050,5 +1050,13 @@
     "symbol": "VFY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69223/large/download.png?1758953448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1A6B3A62391ECcaaa992ade44cd4AFe6bEC8CfF1",
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39229/large/uxlink.jpg?1721201390"
   }
 ]

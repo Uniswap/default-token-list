@@ -422,5 +422,21 @@
     "symbol": "TGBP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70647/standard/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 137,
+    "address": "0x9CD42aed7d44EE801C827A8E5DCF41DF534E9e82",
+    "name": "ECOMI",
+    "symbol": "OMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4428/standard/ECOMI.png?1696505023"
+  },
+  {
+    "chainId": 137,
+    "address": "0x482deB2F7B9608a80eA91E71F06380E9891501C6",
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39229/large/uxlink.jpg?1721201390"
   }
 ]

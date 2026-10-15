@@ -734,5 +734,29 @@
     "symbol": "ZIG",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/14796/large/ZIG_COIN_%281%29.png?1779272472"
+  },
+  {
+    "chainId": 56,
+    "address": "0xFfeB8287dE7DC756067e171e9919c730f0636680",
+    "name": "Lava Network",
+    "symbol": "LAVA",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37354/large/lava_logo.png?1714098423"
+  },
+  {
+    "chainId": 56,
+    "address": "0x22b1458e780F8fA71E2F84502cEe8B5A3cc731Fa",
+    "name": "MemeCore",
+    "symbol": "M",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53247/large/square-bg-transparent.png?1752637478"
+  },
+  {
+    "chainId": 56,
+    "address": "0xF39e4b21c84e737Df08e2C3b32541d856f508E48",
+    "name": "Yooldo Games",
+    "symbol": "ESPORTS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67430/standard/symbol-esports.png?1770141653"
   }
 ]

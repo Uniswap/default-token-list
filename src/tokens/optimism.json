@@ -110,5 +110,13 @@
     "symbol": "FRNT",
     "decimals": 6,
     "logoURI": "https://assets.coingecko.com/coins/images/68284/standard/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 10,
+    "address": "0x482deB2F7B9608a80eA91E71F06380E9891501C6",
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39229/large/uxlink.jpg?1721201390"
   }
 ]
