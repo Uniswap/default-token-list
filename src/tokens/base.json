@@ -794,5 +794,13 @@
     "symbol": "ZCHF",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeeee77bC7e82c0d4166d52F58239D4c5Bf41eeee",
+    "name": "Whuffie",
+    "symbol": "WHUF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102176882/large/db-ow-framed-mark-sm_0.25x.png?1788960908"
   }
 ]

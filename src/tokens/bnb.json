@@ -198,5 +198,21 @@
     "symbol": "ONE",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/67058/large/ONE_logo_200x200.png?1787648216"
+  },
+  {
+    "chainId": 56,
+    "address": "0x66661c7229901F568F16BD1551b3bA826F83cE49",
+    "name": "Teller",
+    "symbol": "DEBIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102175821/large/teller.png?1787703208"
+  },
+  {
+    "chainId": 56,
+    "address": "0x4B948d64dE1F71fCd12fB586f4c776421a35b3eE",
+    "name": "0G",
+    "symbol": "0G",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574"
   }
 ]
