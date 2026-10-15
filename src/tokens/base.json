@@ -802,5 +802,261 @@
     "symbol": "WHUF",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102176882/large/db-ow-framed-mark-sm_0.25x.png?1788960908"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc5fEd7c8cCC75D8A72b601a66DffD7A489073F0b",
+    "name": "Acurast",
+    "symbol": "ACU",
+    "decimals": 12,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/34367/large/Acurast-symbol-dark-bg.png?1728418440"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xD687759f35bb747A29246a4b9495C8f52C49E00C",
+    "name": "Aussie Dollar Token",
+    "symbol": "AUDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71222/large/AUDX_Logo.png?1766480331"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xf578c9E57b40A00aEf168774F3e47B04c03BF59a",
+    "name": "Backstage",
+    "symbol": "BKS",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70461/large/backstage_%281%29.png?1762085126"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6ad12E761b438beA3EA09F6C6266556Bb24C2181",
+    "name": "Beldex",
+    "symbol": "BDX",
+    "decimals": 9,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3987.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xc08Cd26474722cE93F4D0c34D16201461c10AA8C",
+    "name": "Carv",
+    "symbol": "CARV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37689/large/CARV_%281%29.png?1728418485"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3792DBDD07e87413247DF995e692806aa13D3299",
+    "name": "ECOMI",
+    "symbol": "OMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4428/large/ECOMI.png?1696505023"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xea17Df5Cf6D172224892B5477A16ACb111182478",
+    "name": "ElizaOS",
+    "symbol": "ELIZAOS",
+    "decimals": 9,
+    "logoURI": "https://assets.coingecko.com/coins/images/70556/large/elizaOS_token_logo_high_quality.png?1763494093"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/large/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x6FbF03Efa4363cA0aFe0C9C3906F7D610890B683",
+    "name": "Gaia Token",
+    "symbol": "GAIA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67756/large/gaia.jpg?1753715363"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4dA9A0f397dB1397902070f93a4D6ddBC0E0E6e8",
+    "name": "Large Cap DTF",
+    "symbol": "LCAP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69331/large/LCAP_1024.png?1758220127"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF",
+    "name": "Lava Network",
+    "symbol": "LAVA",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37354/large/lava_logo.png?1714098423"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xE997017e0Cb0CEB503565F181e9ea922CD979c35",
+    "name": "LimeWire Token",
+    "symbol": "LMWR",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30356/large/LimeWire_Logo_Icon_200x200_%281%29.png?1696529256"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7AaFD31a321d3627b30A8e2171264B56852187fe",
+    "name": "Mira",
+    "symbol": "MIRA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/69491/large/mira_logo_200x200.png?1758751854"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2B11834Ed1FeAEd4b4b3a86A6F571315E25A884D",
+    "name": "Moca Network",
+    "symbol": "MOCA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37812/large/moca.jpg?1720693068"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x59264f02D301281f3393e1385c0aEFd446Eb0F00",
+    "name": "Particle Network",
+    "symbol": "PARTI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54955/large/parti-token-200.png?1742822558"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xB6fd6Ae1cd535e7B5253a30780B9F5B01F4D56F2",
+    "name": "Planck",
+    "symbol": "PLANCK",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/38251.png"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x853a7c99227499DbA9dB8C3A02aA691aFDeBf841",
+    "name": "PlaysOut",
+    "symbol": "PLAY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/67765/large/plays.jpg?1753786347"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA15705E6fC8b3E08e7253f3758dE1a754baA0761",
+    "name": "Qcad",
+    "symbol": "QCAD",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/102172031/large/QCAD-Teal---Transparent_200x200.png?1771119370"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xdA7AD9dea9397cffdDAE2F8a052B82f1484252B3",
+    "name": "River",
+    "symbol": "RIVER",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69318/large/river-token.png?1758523089"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x9818B6c09f5ECc843060927E8587c427C7C93583",
+    "name": "Rizenet",
+    "symbol": "RIZE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/55521/large/RIZE_Logo_200x200.png?1746488284"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xAb6363dA0C80cEF3Ae105Bd6241E30872355d021",
+    "name": "RollX",
+    "symbol": "ROLL",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71618/large/token_image_roll.png?1768563479"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3e248ab4554cFdec8fc4f18F569FE6F46dE61DB1",
+    "name": "SatLayer",
+    "symbol": "SLAY",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54811/large/SLAY-200x200.png?1754713489"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x47636b3188774a3E7273D85A537b9bA4Ee7b2535",
+    "name": "Somnia",
+    "symbol": "SOMI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69031/large/somi.png?1757319530"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x391359ab0CCef572DcaC78F74E47D7C06Db0b982",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/large/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xA6C6ea2e0140849bE02A3a34780CF61b766916c5",
+    "name": "Unite",
+    "symbol": "UNITE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67755/large/unite_token_sym_blk_grn_200x200.png?1753715000"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x1A6B3A62391ECcaaa992ade44cd4AFe6bEC8CfF1",
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39229/large/uxlink.jpg?1721201390"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xbF927b841994731C573BDF09ceB0c6B0Aa887cDd",
+    "name": "Velvet",
+    "symbol": "VELVET",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67194/large/velvet.jpg?1752054592"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe4c3461a20f50daD7B9E88ca0222A255C4126fC0",
+    "name": "Verona",
+    "symbol": "VERONA",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39034/large/verona_logo_monogram_green_white_BG.jpg?1781706707"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xF970706063b7853877F39515C96932D49d5AC9Cd",
+    "name": "YALA",
+    "symbol": "YALA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67498/large/yala.jpg?1752994443"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfAB99fCF605fD8f4593EDb70A43bA56542777777",
+    "name": "ZEROBASE",
+    "symbol": "ZBT",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69446/large/zbt.png?1758621515"
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa749dE6c28262B7ffbc5De27dC845DD7eCD2b358",
+    "name": "zkVerify",
+    "symbol": "VFY",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69223/large/download.png?1758953448"
   }
 ]
