@@ -3454,7 +3454,14 @@
     "name": "Almanak",
     "symbol": "ALMANAK",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/68466/large/almanak.png?1755828664"
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68466/large/almanak.png?1755828664",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0xDeFA1D21c5F1cbeac00eeB54B44C7D86467cc3a3"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
@@ -3686,7 +3693,14 @@
     "name": "MXNB",
     "symbol": "MXNB",
     "decimals": 6,
-    "logoURI": "https://assets.coingecko.com/coins/images/39136/standard/MNXB_Logo.png?1746088156"
+    "logoURI": "https://assets.coingecko.com/coins/images/39136/standard/MNXB_Logo.png?1746088156",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
@@ -3694,7 +3708,14 @@
     "name": "NodeOps",
     "symbol": "NODE",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/66913/large/NODE_%281%29.png?1751026714"
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66913/large/NODE_%281%29.png?1751026714",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
@@ -3710,7 +3731,14 @@
     "name": "Open Campus",
     "symbol": "EDU",
     "decimals": 18,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/29948/large/EDU_Logo.png?1696528874"
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29948/large/EDU_Logo.png?1696528874",
+    "extensions": {
+      "bridgeInfo": {
+        "42161": {
+          "tokenAddress": "0xf8173a39c56a554837C4C7f104153A005D284D11"
+        }
+      }
+    }
   },
   {
     "chainId": 1,
