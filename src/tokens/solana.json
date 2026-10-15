@@ -1486,5 +1486,125 @@
     "decimals": 6,
     "chainId": 501000101,
     "logoURI": "https://assets.coingecko.com/coins/images/102174264/standard/open_standard.png?1782864430"
+  },
+  {
+    "name": "375ai",
+    "address": "375aiUqZERLrB9sHtsArKr4nuWCgBrtqibUDBMGeLvZC",
+    "symbol": "EAT",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69869/large/375_Mark_1_-_Resized.png?1761789333"
+  },
+  {
+    "name": "Aussie Dollar Token",
+    "address": "AUDXrwm6dhhAw4aaXPemvS5ZJR7am2KUZ2axLL9TVff4",
+    "symbol": "AUDX",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/71222/standard/AUDX_Logo.png?1766480331"
+  },
+  {
+    "name": "Beamable Network",
+    "address": "BMBtwz6LFDJVJd2aZvL5F64fdvWP3RPn4NP5q9Xe15UD",
+    "symbol": "BMB",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70580/large/SBMB_Token_v2_transparent.png?1762642309"
+  },
+  {
+    "name": "Beldex",
+    "address": "CP4w2B3og2TaFUpye1kr8pdeJwwahtESKppZnffN9n9d",
+    "symbol": "BDX",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3987.png"
+  },
+  {
+    "name": "CASH",
+    "address": "CASHx9KJUStyftLFWGvEVf59SGeG9sh5FfcnZMVPCASH",
+    "symbol": "CASH",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69679/large/cash.jpg?1759283906"
+  },
+  {
+    "name": "ElizaOS",
+    "address": "DuMbhu7mvQvqQHGcnikDgb4XegXJRyhUBfdU22uELiZA",
+    "symbol": "ELIZAOS",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/70556/standard/elizaOS_token_logo_high_quality.png?1763494093"
+  },
+  {
+    "name": "Frontier Stable Token",
+    "address": "FRNTPi9V3Sw9b9U8d5Q3WY7tNANT6Q394d7dYtv7Jdog",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/standard/FRNT_200.png?1755242496"
+  },
+  {
+    "name": "Holoworld",
+    "address": "69RX85eQoEsnZvXGmLNjYcWgVkp9r2JjahVm99KbJETU",
+    "symbol": "HOLO",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68845/large/holo.png?1756787241"
+  },
+  {
+    "name": "Loaded Lions",
+    "address": "7kN5FQMD8ja4bzysEgc5FXmryKd6gCgjiWnhksjHCFb3",
+    "symbol": "LION",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54686/large/_LION_Token_Artwork.png?1741015702"
+  },
+  {
+    "name": "Oobit",
+    "address": "oobQ3oX6ubRYMNMahG7VSCe8Z73uaQbAWFn6f22XTgo",
+    "symbol": "OOB",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70632/large/oob.jpg?1762869409"
+  },
+  {
+    "name": "RHEA",
+    "address": "8SMMso8Muv8d6i4WmMDthKt6TN1ysN6937sx3DKLXZqB",
+    "symbol": "RHEA",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/67682/large/RHEA_Logo.png?1753517263"
+  },
+  {
+    "name": "Stronghold",
+    "address": "EFchnNkBvh4gSY5zqDgqRfuPR7mStBLvKBxPq5JUJcmP",
+    "symbol": "SHX",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/7427/large/Blue_Mark_-_White_BG.png?1696507700"
+  },
+  {
+    "name": "Tokenised GBP",
+    "address": "2zMqyX4AYCk6mgy5UZ2S7zUaLxwERhK5WjqDzkPPbSpW",
+    "symbol": "TGBP",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/standard/tgbp-square.png?1762953800"
+  },
+  {
+    "name": "UNITAS",
+    "address": "7Zhxshgt7Ft6pHFYMrHE1epWdWre7sJ1Af1GhEUnitas",
+    "symbol": "UNITAS",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/71531/large/Logo_Mark_200.png?1772722048"
+  },
+  {
+    "name": "Zebec Network",
+    "address": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+    "symbol": "ZBCN",
+    "decimals": 6,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37052/large/zbcn.jpeg?1713168241"
   }
 ]
