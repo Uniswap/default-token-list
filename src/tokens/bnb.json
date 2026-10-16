@@ -214,5 +214,13 @@
     "symbol": "0G",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574"
+  },
+  {
+    "chainId": 56,
+    "address": "0xA991F61940095AEA0724ef54077223B048c5CF7b",
+    "name": "DE NEO AGENT",
+    "symbol": "DNA",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102179566/large/dna.png?1792145606"
   }
 ]
