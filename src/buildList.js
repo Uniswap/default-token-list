@@ -25,6 +25,7 @@ const tempo = require("./tokens/tempo.json");
 const monad = require("./tokens/monad.json");
 const robinhood = require("./tokens/robinhood.json");
 const ink = require("./tokens/ink.json");
+const soneium = require("./tokens/soneium.json");
 
 module.exports = async function buildList() {
   const parsed = version.split(".");
@@ -55,6 +56,7 @@ module.exports = async function buildList() {
     ...monad,
     ...robinhood,
     ...ink,
+    ...soneium,
   ]
     // sort them by symbol for easy readability
     .sort((t1, t2) => {
