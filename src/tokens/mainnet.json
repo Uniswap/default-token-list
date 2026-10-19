@@ -3979,5 +3979,21 @@
     "symbol": "ZRC",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/35960/large/zircuit_token_icon_2.png?1732502352"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8CD41041505885EF0aD3858181D66f17BE8aae7E",
+    "name": "Liechtenstein Cryptoassets Exchange",
+    "symbol": "LCX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/9985/large/256_lcxlogo.png?1770805695"
+  },
+  {
+    "chainId": 1,
+    "address": "0xba5eD44733953d79717F6269357C77718C8Ba5ed",
+    "name": "Union",
+    "symbol": "U",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68859/large/union.png?1756807051"
   }
 ]

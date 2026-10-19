@@ -758,5 +758,13 @@
     "symbol": "ZIG",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/14796/large/ZIG_COIN_%281%29.png?1779272472"
+  },
+  {
+    "chainId": 56,
+    "address": "0xba5eD44733953d79717F6269357C77718C8Ba5ed",
+    "name": "Union",
+    "symbol": "U",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/68859/large/union.png?1756807051"
   }
 ]
