@@ -652,14 +652,7 @@
     "name": "SuperFarm",
     "symbol": "SUPER",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899",
-    "extensions": {
-      "bridgeInfo": {
-        "1868": {
-          "tokenAddress": "0xF765356C901a064A74Fa4560622f21C91048c3D7"
-        }
-      }
-    }
+    "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/6YPdWn6.png?1613975899"
   },
   {
     "chainId": 1,
