@@ -3431,5 +3431,13 @@
     "symbol": "0G",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574"
+  },
+  {
+    "chainId": 1,
+    "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png?1730414360"
   }
 ]
