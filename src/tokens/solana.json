@@ -1606,5 +1606,13 @@
     "symbol": "ZBCN",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/37052/large/zbcn.jpeg?1713168241"
+  },
+  {
+    "name": "Wrapped 0G",
+    "address": "gNyJyS9pQt33o4y4L3gdWZAF2XHgPrCBRQuaiCZStMe",
+    "symbol": "W0G",
+    "decimals": 9,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69681/large/0g.png?1759289984"
   }
 ]

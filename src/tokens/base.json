@@ -1058,5 +1058,13 @@
     "symbol": "VFY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69223/large/download.png?1758953448"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x23cd099eB438CcA50349EE2BC809196b1ae00861",
+    "name": "Wrapped 0G",
+    "symbol": "W0G",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69681/large/0g.png?1759289984"
   }
 ]
