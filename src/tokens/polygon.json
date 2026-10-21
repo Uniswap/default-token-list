@@ -438,5 +438,13 @@
     "symbol": "UXLINK",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/39229/large/uxlink.jpg?1721201390"
+  },
+  {
+    "chainId": 137,
+    "address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png?1730414360"
   }
 ]
