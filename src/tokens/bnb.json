@@ -214,5 +214,13 @@
     "symbol": "0G",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574"
+  },
+  {
+    "chainId": 56,
+    "address": "0x255aA25F9c1104B11d39dCDFE048BaeC6442A876",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/aiyouco/assets/bnb-255aa-logo/blockchains/smartchain/assets/0x255aA25F9c1104B11d39dCDFE048BaeC6442A876/logo.png"
   }
 ]
