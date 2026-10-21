@@ -3998,6 +3998,14 @@
   },
   {
     "chainId": 1,
+    "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png?1730414360"
+  },
+  {
+    "chainId": 1,
     "address": "0x4C1Dab3Be86347977F3DfC4b9688224ef2272939",
     "name": "Wrapped 0G",
     "symbol": "W0G",
