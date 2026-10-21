@@ -3431,5 +3431,13 @@
     "symbol": "0G",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69096/large/0G_1024x1024_Circular_Outlined.png?1758637574"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4C1Dab3Be86347977F3DfC4b9688224ef2272939",
+    "name": "Wrapped 0G",
+    "symbol": "W0G",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/69681/large/0g.png?1759289984"
   }
 ]
