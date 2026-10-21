@@ -34,6 +34,7 @@ default-token-list/
 │       ├── zora.json          # Zora (chainId: 7777777)
 │       ├── xlayer.json        # X Layer (chainId: 196)
 │       ├── ink.json               # Ink (chainId: 57073)
+│       ├── soneium.json       # Soneium (chainId: 1868)
 │       ├── sepolia.json       # Sepolia testnet
 │       ├── goerli.json        # Goerli testnet (deprecated)
 │       ├── kovan.json         # Kovan testnet (deprecated)
@@ -64,6 +65,7 @@ default-token-list/
 | Avalanche | 43114 | `avalanche.json` |
 | Blast | 81457 | `blast.json` |
 | Ink | 57073 | `ink.json` |
+| Soneium | 1868 | `soneium.json` |
 | Zora | 7777777 | `zora.json` |
 | Solana | 501000101 | `solana.json` |
 
