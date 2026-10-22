@@ -102,5 +102,101 @@
     "symbol": "YOM",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102172602/large/YOM_TOKEN_LOGO_200x200.png?1774193038"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+    "name": "Benqi",
+    "symbol": "QI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/16362/large/GergDDN3_400x400.jpg?1696515961"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x420FcA0121DC28039145009570975747295f2329",
+    "name": "Coq Inu",
+    "symbol": "COQ",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33511/large/Coin_CoqInu_1200px.png?1702041053"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
+    "name": "Folks",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70268/large/1000331462.png?1761335326"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/large/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xFFFF003a6BAD9b743d658048742935fFFE2b6ED7",
+    "name": "Ket",
+    "symbol": "KET",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53789/large/edfw.jpg?1737381234"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x99F2BDf00ACd067c65A79a0b6A3914C555196EA4",
+    "name": "KULA",
+    "symbol": "KULA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/54208/large/Kula_Coin_Logo_200_px_x_200_px.png?1744725486"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "name": "LFJ",
+    "symbol": "JOE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17569/large/LFJ_JOE_Logo.png?1727200941"
+  },
+  {
+    "chainId": 43114,
+    "address": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39136/large/MNXB_Logo.png?1746088156"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x09Fa58228bB791ea355c90DA1e4783452b9Bd8C3",
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/large/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x482deB2F7B9608a80eA91E71F06380E9891501C6",
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39229/large/uxlink.jpg?1721201390"
   }
 ]
