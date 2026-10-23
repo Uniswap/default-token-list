@@ -4019,5 +4019,23 @@
     "symbol": "W0G",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69681/large/0g.png?1759289984"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+    "name": "Spice",
+    "symbol": "SFI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904",
+    "extensions": {
+      "bridgeInfo": {
+        "137": {
+          "tokenAddress": "0x35b937583F04A24963eb685F728a542240f28Dd8"
+        },
+        "42161": {
+          "tokenAddress": "0xFF0490bF1a58a4151D4D6EC6cb3d2959a561874c"
+        }
+      }
+    }
   }
 ]

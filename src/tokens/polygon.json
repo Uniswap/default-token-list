@@ -446,5 +446,13 @@
     "symbol": "NEXO",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png?1730414360"
+  },
+  {
+    "chainId": 137,
+    "address": "0x35b937583F04A24963eb685F728a542240f28Dd8",
+    "name": "Spice",
+    "symbol": "SFI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904"
   }
 ]
