@@ -262,5 +262,13 @@
     "symbol": "TGBP",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/70647/large/tgbp-square.png?1762953800"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xFF0490bF1a58a4151D4D6EC6cb3d2959a561874c",
+    "name": "Spice",
+    "symbol": "SFI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904"
   }
 ]
