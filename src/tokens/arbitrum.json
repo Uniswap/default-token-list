@@ -110,5 +110,157 @@
     "symbol": "XAUt0",
     "decimals": 6,
     "logoURI": "https://coin-images.coingecko.com/coins/images/66560/large/XAUt0_Token_Icon_Gold.png?1749747942"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/39284/large/AUSD_1024px.png?1764684132"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x26C358F7c5fEdB20a6ddEf108cD91Efb6B8Da0Cb",
+    "name": "Stable Mint USD",
+    "symbol": "USDSM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/102173681/standard/USDSM-logo-2.png?1780931561"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x12C2dE43878FB1A06C1Ead481f11E0C693a719c7",
+    "name": "DGrid AI",
+    "symbol": "DGAI",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/102175792/large/dgrid.png?1787573447"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xD4dD9e2F021BB459D5A5f6c24C12fE09c5D45553",
+    "name": "Frankencoin",
+    "symbol": "ZCHF",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37150/large/Coin_Logo_Frankencoin_1024px.png?1728679791"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x004B506865409877C9fA29bfb1ebA929984B9bbC",
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xDeFA1D21c5F1cbeac00eeB54B44C7D86467cc3a3",
+    "name": "Almanak",
+    "symbol": "ALMANAK",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/68466/large/almanak.png?1755828664"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x37a645648dF29205C6261289983FB04ECD70b4B3",
+    "name": "AnimeCoin",
+    "symbol": "ANIME",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/53575/large/anime.jpg?1736748703"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xD687759f35bb747A29246a4b9495C8f52C49E00C",
+    "name": "Aussie Dollar Token",
+    "symbol": "AUDX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/71222/large/AUDX_Logo.png?1766480331"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xc08Cd26474722cE93F4D0c34D16201461c10AA8C",
+    "name": "Carv",
+    "symbol": "CARV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37689/large/CARV_%281%29.png?1728418485"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x989E8D292eDD5B01d2ae518ebD9a8537fEdD49e8",
+    "name": "ECOMI",
+    "symbol": "OMI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/4428/large/ECOMI.png?1696505023"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xFF7F8F301F7A706E3CfD3D2275f5dc0b9EE8009B",
+    "name": "Folks",
+    "symbol": "FOLKS",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/70268/large/1000331462.png?1761335326"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x5E817F2AbCCB9095585D26c2a3ce234a440574Fc",
+    "name": "Frontier Stable Token",
+    "symbol": "FRNT",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/68284/large/FRNT_200.png?1755242496"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x11e969e9B3f89cB16D686a03Cd8508C9fC0361AF",
+    "name": "Lava Network",
+    "symbol": "LAVA",
+    "decimals": 6,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/37354/large/lava_logo.png?1714098423"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "name": "LFJ",
+    "symbol": "JOE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/17569/large/LFJ_JOE_Logo.png?1727200941"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x527e8D368298deA5a53be257e5300F4DBafb7a97",
+    "name": "Loaded Lions",
+    "symbol": "LION",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/54686/large/_LION_Token_Artwork.png?1741015702"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xF197FFC28c23E0309B5559e7a166f2c6164C80aA",
+    "name": "MXNB",
+    "symbol": "MXNB",
+    "decimals": 6,
+    "logoURI": "https://assets.coingecko.com/coins/images/39136/large/MNXB_Logo.png?1746088156"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb",
+    "name": "NodeOps",
+    "symbol": "NODE",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/66913/large/NODE_%281%29.png?1751026714"
+  },
+  {
+    "chainId": 42161,
+    "address": "0xf8173a39c56a554837C4C7f104153A005D284D11",
+    "name": "Open Campus",
+    "symbol": "EDU",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/29948/large/EDU_Logo.png?1696528874"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x27f6c8289550fCE67f6B50BeD1F519966aFE5287",
+    "name": "Tokenised GBP",
+    "symbol": "TGBP",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/70647/large/tgbp-square.png?1762953800"
   }
 ]
