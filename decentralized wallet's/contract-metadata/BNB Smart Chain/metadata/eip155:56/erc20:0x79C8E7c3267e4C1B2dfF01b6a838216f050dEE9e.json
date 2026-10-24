@@ -1,0 +1,285 @@
+{
+  "$schema": "https://raw.githubusercontent.com/your-repo/token-metadata-schema.json",
+  "metadataVersion": "1.0.0",
+  "metadataStandard": "TokenMetadata-JSON-v1",
+  "lastUpdated": "2026-06-06",
+  "language": "en",
+  "region": "global",
+  "aiReadable": true,
+  "machineReadable": true,
+
+  "name": "Yellow Black USDC",
+  "symbol": "USDC",
+  "decimals": 18,
+  "type": "BEP-20",
+  "standard": "BEP-20",
+  "chainId": 56,
+  "network": "BNB Smart Chain",
+  "blockchain": "BSC",
+  "contractAddress": "0x79C8E7c3267e4C1B2dfF01b6a838216f050dEE9e",
+  "address": "0x79C8E7c3267e4C1B2dfF01b6a838216f050dEE9e",
+  "ownerAddress": "0xbb85C20530dAeaF3e30F96D37b78F65Bf4f00218",
+
+  "description": "Yellow Black USDC (USDC) is a BEP-20 stablecoin deployed on BNB Smart Chain, pegged 1:1 to the US Dollar. Inspired by the cosmic duality of black and yellow — the void of a black hole and the fire of a dying star — the token symbolizes the eternal cycle of creation and collapse in the universe. Black represents the infinite silence between stars; yellow represents the quantum energy released when a sun explodes and collapses into a black hole. That energy is the liquidity. That light is the peg. That void is the contract. Built for stability and safety, Yellow Black USDC integrates anti-dump protection, anti-whale limits, price protection, and whitelist mechanisms. The contract is verified, open-source, and fully transparent on BscScan. Every transaction is visible on-chain. Every rule is enforced by code. Welcome to the Black & Yellow Protocol — the cosmic economy on-chain.",
+
+  "shortDescription": "Cosmic stablecoin pegged to $1.00 USD on BNB Smart Chain. Inspired by black holes and dying stars.",
+  "tagline": "Born from a dying star. Pegged to $1. Forever on-chain.",
+
+  "website": "https://yellowblackusdc.netlify.app/",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreide5pv6m4eejsq43r22kkzmwj54cyptxngsai7oifvneekbdlt7ti",
+  "logoIPFS": "ipfs://bafkreide5pv6m4eejsq43r22kkzmwj54cyptxngsai7oifvneekbdlt7ti",
+  "bannerURI": "https://photos.pinksale.finance/file/pinksale-logo-upload/1791106404868-4ad3ca342efe2bd10e2f38f7296df4e0.png",
+
+  "pegTarget": "1.00",
+  "pegCurrency": "USD",
+  "pegPriceUSD": 1.00,
+  "totalSupply": "50000000000000000000000000000",
+  "totalSupplyFormatted": "50000000000",
+  "maxSupply": "100000000000000000000000000000",
+  "maxSupplyFormatted": "100000000000",
+  "initialSupply": "50000000000",
+  "circulatingSupply": "50000000000",
+
+  "mintable": true,
+  "burnable": true,
+  "pausable": true,
+  "tradingEnabled": false,
+  "verified": true,
+  "audit": "Pending — Planned Q2 2026",
+  "license": "MIT",
+  "author": "SHAHIN MALEKI RAD",
+  "version": "1.0.0",
+
+  "tags": [
+    "Stablecoin",
+    "BEP-20",
+    "BNBChain",
+    "DeFi",
+    "Pegged",
+    "BlackYellow",
+    "Cosmic",
+    "AntiDump",
+    "Verified",
+    "$1Peg"
+  ],
+
+  "keywords": [
+    "Yellow Black USDC",
+    "USDC",
+    "BEP-20",
+    "BSC",
+    "BNB Smart Chain",
+    "stablecoin",
+    "pegged",
+    "$1 peg",
+    "cosmic",
+    "black hole",
+    "dying star",
+    "quantum energy",
+    "anti-dump",
+    "anti-whale",
+    "price protection",
+    "defi",
+    "crypto",
+    "blockchain"
+  ],
+
+  "links": {
+    "website": "https://yellowblackusdc.netlify.app/",
+    "telegram": "https://t.me/auri888didi",
+    "twitter": "https://x.com/SMalekiradX2",
+    "x": "https://x.com/SMalekiradX2",
+    "email": "xlogan1987@gmail.com",
+    "logoIPFS": "https://gateway.pinata.cloud/ipfs/bafkreide5pv6m4eejsq43r22kkzmwj54cyptxngsai7oifvneekbdlt7ti",
+    "banner": "https://photos.pinksale.finance/file/pinksale-logo-upload/1791106404868-4ad3ca342efe2bd10e2f38f7296df4e0.png",
+    "blockspotAnnouncement": "https://x.com/Blockspot_io/status/2107439014550577358"
+  },
+
+  "social": {
+    "telegram": "https://t.me/auri888didi",
+    "twitter": "https://x.com/SMalekiradX2",
+    "email": "mailto:xlogan1987@gmail.com",
+    "website": "https://yellowblackusdc.netlify.app/"
+  },
+
+  "listings": {
+    "bscscan": "https://bscscan.com/address/0x79C8E7c3267e4C1B2dfF01b6a838216f050dEE9e",
+    "bsctrace": "https://bsctrace.com/token/0x79c8e7c3267e4c1b2dff01b6a838216f050dee9e",
+    "blockspot": "https://blockspot.io/coin/yellow-black-usdc/",
+    "coinranking": "https://coinranking.com/coin/3tiplW_AO+yellowblackusdc-usdc",
+    "icoholder": "https://icoholder.com/en/yellow-black-usdc-1104565",
+    "coinmarketcapDEX": "https://dex.coinmarketcap.com/token/bsc/0x79c8e7c3267e4c1b2dff01b6a838216f050dee9e/",
+    "poocoin": "https://poocoin.app/tokens/0x79c8e7c3267e4c1b2dff01b6a838216f050dee9e",
+    "dextools": "https://www.dextools.io/app/bnb/pair-explorer/0x7773c492854a906097121b9ac7d403de6f02bdbf",
+    "geckoterminal": "https://www.geckoterminal.com/bsc/pools/0x139dd17e1a9507a6a3d9d6045a198f2b5437b912",
+    "dexscreener": "https://dexscreener.com/bsc/0xfb7da073f2399fcaac9378dfb580df78b6665470",
+    "pumpfun": "https://pump.fun/coin/0x79C8E7c3267e4C1B2dfF01b6a838216f050dEE9e",
+    "coinbrain": "https://coinbrain.com/coins/bnb-0x79c8e7c3267e4c1b2dff01b6a838216f050dee9e",
+    "kyberswap": "https://kyberswap.com/swap/bnb/-to-0x79c8e7c3267e4c1b2dff01b6a838216f050dee9e?r=geckoterminal",
+    "okxWeb3": "https://web3.okx.com/token/bsc/0x79c8e7c3267e4c1b2dff01b6a838216f050dee9e?ref=COINGECKOREF",
+    "pancakeswap": "https://pancakeswap.finance/swap?outputCurrency=0x79C8E7c3267e4C1B2dfF01b6a838216f050dEE9e",
+    "cryptotips4all": "https://cryptotips4all.com/coin/detail/7641",
+    "freshcoins": "https://www.freshcoins.io/coins/yellow-black-usdc",
+    "coinradar": "https://coinradar.fun/TokenPage?slug=yellow-black-usdc-mutrl4fe",
+    "coinmooner": "https://coinmooner.com/coins/yellow-black-usdc-usdc",
+    "cryptach": "https://cryptach.org/en/token/yellow-black-usdc.4841",
+    "coinmun": "https://coinmun.com/coins/yellow-black-usdc",
+    "coindizzy": "https://coindizzy.com/binance/0x79C8E7c3267e4C1B2dfF01b6a838216f050dEE9e",
+    "coinscope": "https://www.coinscope.co/coin/8-usdc",
+    "coinscopeCyberScan": "https://www.coinscope.co/coin/8-usdc/cyberscan",
+    "coincatapult": "https://www.coincatapult.com/coin/yellow-black-usdc-79c8e7",
+    "coinboom": "https://coinboom.net/binance/0x79C8E7c3267e4C1B2dfF01b6a838216f050dEE9e"
+  },
+
+  "pairAddresses": {
+    "pancakeSwapV2": "0x139dd17e1a9507a6a3d9d6045a198f2b5437b912",
+    "dextoolsPair": "0x7773c492854a906097121b9ac7d403de6f02bdbf",
+    "dexscreenerPair": "0xfb7da073f2399fcaac9378dfb580df78b6665470"
+  },
+
+  "mechanisms": {
+    "antiDump": {
+      "enabled": true,
+      "threshold": "500000000000000000000000000",
+      "thresholdFormatted": "500000000",
+      "cooldownSeconds": 60,
+      "sellWindowSeconds": 300,
+      "maxSellVolumePerWindow": "5000000000000000000000000000",
+      "maxSellVolumePerWindowFormatted": "5000000000"
+    },
+    "antiWhale": {
+      "enabled": true,
+      "maxTransaction": "1000000000000000000000000000",
+      "maxTransactionFormatted": "1000000000",
+      "maxWallet": "2000000000000000000000000000",
+      "maxWalletFormatted": "2000000000"
+    },
+    "priceProtection": {
+      "enabled": true,
+      "targetPrice": "1000000000000000000",
+      "targetPriceUSD": 1.00,
+      "tolerancePercent": 10
+    },
+    "whitelist": {
+      "transfers": true,
+      "buying": true,
+      "selling": true
+    }
+  },
+
+  "liquidity": {
+    "initialLiquidityProvided": true,
+    "totalLiquidityUSD": "1500000",
+    "reserveUSDT": "5000000",
+    "pair": "USDC/BNB",
+    "dex": "PancakeSwap V2",
+    "pairAddress": "0x139dd17e1a9507a6a3d9d6045a198f2b5437b912"
+  },
+
+  "tokenomics": {
+    "liquidityPool": "40%",
+    "communityEcosystem": "25%",
+    "developmentTeam": "15%",
+    "marketingListings": "10%",
+    "reserveFund": "10%"
+  },
+
+  "cosmicConcept": {
+    "theme": "Black & Yellow Protocol",
+    "blackMeaning": "The void, the black hole, the event horizon, the silence between stars, the infinite canvas of creation.",
+    "yellowMeaning": "The core of a dying star, the nuclear fire of a sun, the quantum energy released during collapse.",
+    "liquidityMeaning": "The quantum energy released when matter collapses into light — the bridge between death and rebirth.",
+    "philosophy": "Black and yellow are the two fundamental colors of the universe. We did not invent them. They were already there — in the universe, in the void, in the sun, in the black hole. They belong to no one. They are the inheritance of all existence. We simply placed them on-chain."
+  },
+
+  "roadmap": [
+    {
+      "phase": 1,
+      "title": "The Birth of a Star",
+      "quarter": "Q1 2026",
+      "status": "completed",
+      "items": [
+        "Smart contract development",
+        "Deploy on BNB Smart Chain",
+        "Verify on BscScan",
+        "Initial mint of 50B USDC",
+        "Logo IPFS upload",
+        "Whitepaper release"
+      ]
+    },
+    {
+      "phase": 2,
+      "title": "The First Light",
+      "quarter": "Q2 2026",
+      "status": "current",
+      "items": [
+        "PancakeSwap listing",
+        "Liquidity pool creation (USDC/BNB)",
+        "Community building (Telegram, X, Discord)",
+        "First audit (CertiK or Hacken)",
+        "CoinGecko & CoinMarketCap listing"
+      ]
+    },
+    {
+      "phase": 3,
+      "title": "The Quantum Energy",
+      "quarter": "Q3 2026",
+      "status": "upcoming",
+      "items": [
+        "Cross-chain bridge (Ethereum, Polygon, Arbitrum)",
+        "DEX listings (Uniswap, PancakeSwap V3)",
+        "CEX listings (Gate.io, MEXC, BitMart)",
+        "Staking & yield farming",
+        "Mobile app release"
+      ]
+    },
+    {
+      "phase": 4,
+      "title": "The Black Hole Expansion",
+      "quarter": "Q4 2026",
+      "status": "future",
+      "items": [
+        "Global marketing campaign",
+        "Partnerships with major DeFi protocols",
+        "NFT collection (Black & Yellow cosmic art)",
+        "DAO governance launch",
+        "Tier-1 CEX listing (Binance, OKX, Bybit)"
+      ]
+    },
+    {
+      "phase": 5,
+      "title": "The Infinite Horizon",
+      "quarter": "2027+",
+      "status": "future",
+      "items": [
+        "Full decentralization",
+        "Yellow Black Chain (Layer-2)",
+        "Cosmic Metaverse integration",
+        "Universal adoption"
+      ]
+    }
+  ],
+
+  "compliance": {
+    "isSecurity": false,
+    "isStablecoin": true,
+    "hasKYC": false,
+    "hasAudit": false,
+    "auditPlanned": "Q2 2026",
+    "jurisdiction": "Decentralized",
+    "license": "MIT"
+  },
+
+  "team": {
+    "owner": "Shahin Maleki Rad",
+    "role": "Owner, Founder, and Lead Developer",
+    "members": [
+      "Mohammad Maleki Rad — Team Member",
+      "Mani Maleki Rad — Team Member",
+      "Samaneh Noor Mohammadi — Team Member"
+    ],
+    "dobPolicy": "Provided upon request as part of the KYC/verification process"
+  },
+
+  "disclaimer": "Yellow Black USDC is a decentralized digital asset deployed on BNB Smart Chain. It is not a security, share, or financial instrument. All information is provided for educational and informational purposes only. Investors are urged to conduct their own due diligence (DYOR) and consult with legal and financial advisors before purchasing or holding any token."
+}
