@@ -1614,5 +1614,13 @@
     "decimals": 9,
     "chainId": 501000101,
     "logoURI": "https://coin-images.coingecko.com/coins/images/69681/large/0g.png?1759289984"
+  },
+  {
+    "name": "EUR CoinVertible",
+    "address": "DghpMkatCiUsofbTmid3M3kAbDTPqDwKiYHnudXeGG52",
+    "symbol": "EURCV",
+    "decimals": 2,
+    "chainId": 501000101,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33415/large/eurcv_%281%29.png?1701752017"
   }
 ]
