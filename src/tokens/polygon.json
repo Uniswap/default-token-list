@@ -454,5 +454,13 @@
     "symbol": "SFI",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/13117/large/sfi_red_250px.png?1696512904"
+  },
+  {
+    "chainId": 137,
+    "address": "0xbbBBbBbBB7949dcC7d1539c91b81A5BF09E37bDB",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36067/standard/200px.png?1710405601"
   }
 ]

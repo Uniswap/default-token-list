@@ -774,5 +774,13 @@
     "symbol": "DNA",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102179566/large/dna.png?1792145606"
+  },
+  {
+    "chainId": 56,
+    "address": "0xdfBEA88C4842d30c26669602888d746D30F9D60d",
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/36067/standard/200px.png?1710405601"
   }
 ]
