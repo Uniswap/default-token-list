@@ -4037,5 +4037,13 @@
         }
       }
     }
+  },
+  {
+    "chainId": 1,
+    "address": "0x5F7827FDeb7c20b443265Fc2F40845B715385Ff2",
+    "name": "EUR CoinVertible",
+    "symbol": "EURCV",
+    "decimals": 18,
+    "logoURI": "https://coin-images.coingecko.com/coins/images/33415/large/eurcv_%281%29.png?1701752017"
   }
 ]
