@@ -126,7 +126,7 @@ save_comment(issueId: "CONS-1234", body: "PR opened: <PR_URL>")
 
 ## Token Metadata
 
-**Always use metadata from the Linear ticket** — especially the `logoURI` and `decimals`. If any required field is missing from the ticket, do NOT guess or look it up elsewhere. Use `mcp__linear__linear_add_comment` to comment on the Linear ticket asking for the missing information, then skip that token.
+**Always use metadata from the Linear ticket** — especially the `logoURI` and `decimals`. If any required field is missing from the ticket, do NOT guess or look it up elsewhere. Use the Linear MCP `save_comment` tool to comment on the Linear ticket asking for the missing information, then skip that token.
 
 ## Standardized Workflow: Adding Tokens
 
