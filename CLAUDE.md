@@ -122,7 +122,7 @@ list_issues(project: "CX Token Requests", state: "started")
 save_comment(issueId: "CONS-1234", body: "PR opened: <PR_URL>")
 ```
 
-**Do NOT use curl to access the Linear API.** The `LINEAR_API_KEY` environment variable is not available to you. All Linear operations must go through the MCP tools listed above. If MCP tools are not available, note the issue in the PR description.
+**Do NOT use curl to access the Linear API.** All Linear operations must go through the MCP tools listed above. If MCP tools are not available, note the issue in the PR description.
 
 ## Token Metadata
 
