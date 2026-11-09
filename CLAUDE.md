@@ -122,8 +122,6 @@ list_issues(project: "CX Token Requests", state: "started")
 save_comment(issueId: "CONS-1234", body: "PR opened: <PR_URL>")
 ```
 
-> **Note (autonomous workflow):** When running as part of the Claude Auto Tasks workflow, Linear ticket status updates (In Progress, In Review, Done) are handled by the workflow infrastructure via `linear-task-utils`. Do NOT update ticket status yourself — focus only on reading ticket details and making code changes. You may still comment on tickets if you need to ask for clarification.
-
 **Do NOT use curl to access the Linear API.** The `LINEAR_API_KEY` environment variable is not available to you. All Linear operations must go through the MCP tools listed above. If MCP tools are not available, note the issue in the PR description.
 
 ## Token Metadata
