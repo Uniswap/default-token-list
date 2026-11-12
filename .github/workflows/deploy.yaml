@@ -74,3 +74,30 @@ jobs:
         uses: Uniswap/cloudflare-update-web3-gateway@b3205288b1c6d0acb63fa3bd8fb686c72a9e3f3e
         with:
           cid: ${{ steps.upload.outputs.hash }}
+
+      # Hands the release CID to Uniswap/backend, which validates the list and
+      # publishes it to tokens.uniswap.org's CloudFront front door and its
+      # _dnslink record. This job's only AWS access: an OIDC role (no stored
+      # secret) that can write this one SSM parameter, trusted only for this
+      # workflow on main in the `release` environment. Runs after the
+      # Cloudflare step above so it never blocks it; that step goes away when
+      # tokens.uniswap.org moves off Cloudflare.
+      - name: AWS login (release CID hand-off)
+        uses: aws-actions/configure-aws-credentials@b47578312673ae6fa5b5096b330d9fbac3d116df # v4.2.1
+        with:
+          role-to-assume: arn:aws:iam::654200013602:role/tokenlist-publisher-tokens-uniswap-org-prod
+          role-session-name: default-token-list-release
+          aws-region: us-east-2
+
+      - name: Hand the release CID to the backend
+        env:
+          CID: ${{ steps.upload.outputs.hash }}
+        run: |
+          set -euo pipefail
+          if ! [[ "$CID" =~ ^(Qm[1-9A-HJ-NP-Za-km-z]{44}|b[a-z2-7]{58,})$ ]]; then
+            echo "::error::Pinata returned something that is not a CID: $CID"
+            exit 1
+          fi
+          aws ssm put-parameter --name "/tokenlists/cid/tokens.uniswap.org" \
+            --type String --value "$CID" --overwrite > /dev/null
+          echo "::notice::Handed tokens.uniswap.org release $CID to the backend"
