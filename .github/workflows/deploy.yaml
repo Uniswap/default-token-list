@@ -48,29 +48,20 @@ jobs:
             npm publish
           fi
 
-      - name: Load Web 3 deploy secrets
-        uses: 1password/load-secrets-action@d1a4e73495bde3551cf63f6c048588b8f734e21d
+      # tokens.uniswap.org serves this object from Uniswap/backend's tokenlists
+      # stack (CloudFront in front of a private S3 bucket). The role can write
+      # this one key and nothing else, and trusts only this workflow on main in
+      # the `release` environment. No stored AWS secret.
+      - name: AWS login
+        uses: aws-actions/configure-aws-credentials@b47578312673ae6fa5b5096b330d9fbac3d116df # v4.2.1
         with:
-          # Export loaded secrets as environment variables
-          export-env: true
-        env:
-          OP_SERVICE_ACCOUNT_TOKEN: ${{ secrets.OP_WEB3_VAULT_TOKEN }}
-          CLOUDFLARE_TOKEN: op://web3-deploy-vault/web3-edit-token/token
+          role-to-assume: arn:aws:iam::654200013602:role/tokenlist-publisher-tokens-uniswap-org-prod
+          role-session-name: default-token-list-release
+          aws-region: us-east-2
 
-      - name: Pin to IPFS
-        id: upload
-        uses: anantaramdas/ipfs-pinata-deploy-action@a551f37c17ec3961df7c3ad52e1cd266dfd3d7e7
-        with:
-          pin-name: Uniswap Default Token List
-          path: "build/uniswap-default.tokenlist.json"
-          pinata-api-key: ${{ secrets.PINATA_API_KEY }}
-          pinata-secret-api-key: ${{ secrets.PINATA_API_SECRET_KEY }}
-
-      - name: Update DNS with new IPFS hash
-        env:
-          CLOUDFLARE_TOKEN: ${{ env.CLOUDFLARE_TOKEN }}
-          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-          CLOUDFLARE_GATEWAY_ID: ${{ secrets.CLOUDFLARE_GATEWAY_ID }}
-        uses: Uniswap/cloudflare-update-web3-gateway@b3205288b1c6d0acb63fa3bd8fb686c72a9e3f3e
-        with:
-          cid: ${{ steps.upload.outputs.hash }}
+      - name: Publish to tokens.uniswap.org
+        run: |
+          aws s3 cp build/uniswap-default.tokenlist.json \
+            s3://uniswap-tokenlists-prod/tokens.uniswap.org/tokenlist.json \
+            --content-type application/json \
+            --cache-control "public, max-age=300"
