@@ -23,6 +23,7 @@ const unichain = require("./tokens/unichain.json");
 const xlayer = require("./tokens/xlayer.json");
 const tempo = require("./tokens/tempo.json");
 const monad = require("./tokens/monad.json");
+const flare = require("./tokens/flare.json");
 const robinhood = require("./tokens/robinhood.json");
 const ink = require("./tokens/ink.json");
 const soneium = require("./tokens/soneium.json");
@@ -54,6 +55,7 @@ module.exports = async function buildList() {
     ...xlayer,
     ...tempo,
     ...monad,
+    ...flare,
     ...robinhood,
     ...ink,
     ...soneium,
