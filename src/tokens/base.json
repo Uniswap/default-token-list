@@ -1082,5 +1082,13 @@
     "symbol": "KOR",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/102179879/large/Frame_29.jpg?1793329019"
+  },
+  {
+    "chainId": 8453,
+    "address": "0x2C54F202B565086B6d8D2226Edb67AC3E14C39d1",
+    "name": "AgentQubit",
+    "symbol": "AQB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/yss787976-ai/agent-coin/main/registry/logo.png"
   }
 ]
